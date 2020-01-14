@@ -299,6 +299,7 @@ msgid "Usernames can only have letters, numbers and underscores."
 msgstr ""
 
 #: ./Idno/Pages/Account/Register.php:143
+#: ./Idno/Pages/Admin/Users.php:168
 msgid "Usernames can't contain a slash %s character."
 msgstr ""
 
@@ -632,10 +633,6 @@ msgstr ""
 
 #: ./Idno/Pages/Admin/Users.php:141
 msgid "Please make sure your passwords match and aren't empty."
-msgstr ""
-
-#: ./Idno/Pages/Admin/Users.php:168
-msgid "Usernames can't contain a slash %s character."
 msgstr ""
 
 #: ./Idno/Pages/Admin/Users.php:182
@@ -1159,7 +1156,7 @@ msgstr ""
 
 #: ./templates/default/account/settings/tools.tpl.php:42
 msgid "Don't see a bookmarks bar?"
-msgstr Ne pas voir une barre de signets?"
+msgstr "Ne pas voir une barre de signets?"
 
 #: ./templates/default/account/settings/tools.tpl.php:45
 msgid ""
@@ -1375,7 +1372,7 @@ msgstr "Hôte SMTP"
 
 #: ./templates/default/admin/email.tpl.php:55
 msgid "This is the address of the server that will send email for you."
-msgstr ""C’est l’adresse du serveur qui vous enverra des e-mails."
+msgstr "C’est l’adresse du serveur qui vous enverra des e-mails."
 
 #: ./templates/default/admin/email.tpl.php:62
 #: ./templates/default/admin/email.tpl.php:65
