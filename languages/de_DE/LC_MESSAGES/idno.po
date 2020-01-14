@@ -1938,7 +1938,7 @@ msgstr "Auch auf"
 
 #: ./templates/default/content/notification/like.tpl.php:5
 msgid "liked"
-msgstr ""
+msgstr "mochte"
 
 #: ./templates/default/content/notification/mention.tpl.php:5
 msgid "mentioned"
@@ -1958,7 +1958,7 @@ msgstr ""
 
 #: ./templates/default/content/notification/share.tpl.php:5
 msgid "shared"
-msgstr ""
+msgstr "hat Folgendes geteilt"
 
 #: ./templates/default/content/unfurl.tpl.php:11
 msgid "Refresh preview"
@@ -1978,11 +1978,7 @@ msgstr ""
 
 #: ./templates/default/entity/annotations/likes.tpl.php:24
 msgid "liked this post"
-msgstr "liked this post"
 msgstr "gefiel dieser Beitrag"
-
-msgid "liked"
-msgstr "mochte"
 
 #: ./templates/default/entity/annotations/mentions.tpl.php:18
 msgid "Mentioned in"
@@ -2007,9 +2003,6 @@ msgstr ""
 #: ./templates/default/entity/annotations/shares.tpl.php:21
 msgid "reshared this post"
 msgstr "hat diesen Beitrag wiedergeteilt"
-
-msgid "shared"
-msgstr "hat Folgendes geteilt"
 
 #: ./templates/default/entity/search.tpl.php:18
 msgid "Nothing found."
@@ -2210,7 +2203,7 @@ msgstr ""
 
 #: ./templates/default/onboarding/begin.tpl.php:8
 msgid "Known is your space for sharing content and discussing ideas."
-msgstr ""
+msgstr "Known ist Ihr Raum, um Inhalte zu teilen und Ideen zu diskutieren."
 
 #: ./templates/default/onboarding/begin.tpl.php:13
 msgid "Take a picture"
@@ -2512,7 +2505,6 @@ msgstr "Jetzt anmelden"
 msgid ""
 "If you have any questions at all, please don't hesitate to contact us by"
 "sending an email to %s"
-msgstr ""
 msgstr "Wenn Sie irgendwelche Fragen haben, zögern Sie bitte nicht, uns zu kontaktieren, indem Sie eine E-Mail an %s senden"
 
 #: ./templates/email/shell.tpl.php:72
