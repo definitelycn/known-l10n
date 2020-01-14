@@ -2219,11 +2219,11 @@ msgstr ""
 
 #: ./templates/default/onboarding/begin.tpl.php:34
 msgid "Get started"
-msgstr ""
+msgstr "Beginnen"
 
 #: ./templates/default/onboarding/begin.tpl.php:42
 msgid "Already have an account? Sign in."
-msgstr ""
+msgstr "Sie haben bereits ein Konto? Anmelden."
 
 #: ./templates/default/onboarding/connect.tpl.php:3
 msgid "Share to social"
