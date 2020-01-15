@@ -1624,15 +1624,15 @@ msgstr ""
 
 #: ./templates/default/admin/home.tpl.php:226
 msgid "PubSubHubbub hub address"
-msgstr ""
+msgstr "Dirección del concentrador PubSubHubbub"
 
 #: ./templates/default/admin/home.tpl.php:230
 msgid "You can probably leave this as is."
-msgstr ""
+msgstr "Probablemente puedas dejar esto tal como está."
 
 #: ./templates/default/admin/home.tpl.php:231
 msgid "Learn more about PuSH"
-msgstr ""
+msgstr "Obtenga más información sobre PuSH"
 
 #: ./templates/default/admin/home.tpl.php:241
 msgid "Avatar as icon"
