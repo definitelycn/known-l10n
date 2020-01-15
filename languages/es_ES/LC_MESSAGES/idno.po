@@ -1501,14 +1501,16 @@ msgstr ""
 #: ./templates/default/admin/homepage.tpl.php:16
 msgid "Turn off content types to hide them from the homepage of your site."
 msgstr ""
+"Desactive los tipos de contenido para ocultarlos de la página principal de "
+"su sitio."
 
 #: ./templates/default/admin/homepage.tpl.php:45
 msgid "On"
-msgstr ""
+msgstr "Activado"
 
 #: ./templates/default/admin/homepage.tpl.php:46
 msgid "Off"
-msgstr ""
+msgstr "Desactivado"
 
 #: ./templates/default/admin/homepage.tpl.php:109
 msgid "Save"
