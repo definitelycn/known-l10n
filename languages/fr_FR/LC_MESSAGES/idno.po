@@ -2495,7 +2495,7 @@ msgstr ""
 
 #: ./templates/default/robot/wizard.tpl.php:47
 msgid ""
-"Beepity boop! That was a great picture. Did you see that you can also <a"
+"Beepity boop! That was a great picture. Did you see that you can also <a "
 "href=\"{{userurl}}/edit\">update your profile</a>?"
 msgstr ""
 "Beepity boop! C'était une belle image. Avez-vous vu que vous pouvez également "
@@ -2503,7 +2503,7 @@ msgstr ""
 
 #: ./templates/default/robot/wizard.tpl.php:52
 msgid ""
-"Boopity beep! Did you see that you can also <a"
+"Boopity beep! Did you see that you can also <a "
 "href=\"{{userurl}}/edit\">update your profile</a>?"
 msgstr ""
 "Boopity beep! Avez-vous vu que vous pouvez également "

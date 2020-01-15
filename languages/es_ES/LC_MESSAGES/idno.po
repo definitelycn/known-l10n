@@ -2461,18 +2461,18 @@ msgstr "¡Beep boop!"
 
 #: ./templates/default/robot/wizard.tpl.php:47
 msgid ""
-"Beepity boop! That was a great picture. Did you see that you can also <a"
+"Beepity boop! That was a great picture. Did you see that you can also <a "
 "href=\"{{userurl}}/edit\">update your profile</a>?"
 msgstr ""
-"Beepity boop! Esa fue una gran foto. ¿Viste que también puedes <a"
+"Beepity boop! Esa fue una gran foto. ¿Viste que también puedes <a "
 "href=\"{{userurl}}/edit\">actualizar tu perfil</a>?"
 
 #: ./templates/default/robot/wizard.tpl.php:52
 msgid ""
-"Boopity beep! Did you see that you can also <a"
+"Boopity beep! Did you see that you can also <a "
 "href=\"{{userurl}}/edit\">update your profile</a>?"
 msgstr ""
-"Boopity beep! ¿Viste que también puedes <a"
+"Boopity beep! ¿Viste que también puedes <a "
 "href=\"{{userurl}}/edit\">actualizar tu perfil</a>?"
 
 #: ./templates/default/robot/wizard.tpl.php:65
