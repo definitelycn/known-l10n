@@ -491,7 +491,7 @@ msgstr ""
 #: ./Idno/Pages/Admin/Diagnostics.php:170
 #: ./Idno/Pages/Admin/Diagnostics.php:175
 msgid "The upload path %s either doesn't exist or isn't a directory."
-msgstr ""
+msgstr "La ruta de acceso de carga %s no existe o no es un directorio."
 
 #: ./Idno/Pages/Admin/Email.php:17
 #: ./templates/default/account/settings/following/mf2user.tpl.php:73
