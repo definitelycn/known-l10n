@@ -477,6 +477,8 @@ msgstr ""
 #: ./Idno/Pages/Admin/Diagnostics.php:160
 msgid "We can't read data from %s - please check permissions and try again."
 msgstr ""
+"No podemos leer datos de %s - compruebe que es grabable por el usuario del "
+"servidor web."
 
 #: ./Idno/Pages/Admin/Diagnostics.php:165
 msgid ""
