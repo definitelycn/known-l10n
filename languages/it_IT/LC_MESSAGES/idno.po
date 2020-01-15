@@ -25,6 +25,7 @@ msgid "Invalid token."
 msgstr ""
 
 #: ./Idno/Common/Page.php:414
+#: ./templates/default/pages/500.tpl.php:6
 msgid "Something went wrong."
 msgstr ""
 
@@ -33,6 +34,7 @@ msgid "Attempted to redirect page to a non local URL."
 msgstr ""
 
 #: ./Idno/Common/Page.php:569
+#: ./Idno/Common/Page.php:655
 msgid "The page you were on timed out."
 msgstr ""
 
@@ -2176,11 +2178,11 @@ msgstr "Valutazione"
 
 #: ./templates/default/robot/post.tpl.php:19
 msgid "Power down robots. I can take it from here."
-msgstr ""
+msgstr "Spegnete i robot. Ce l'ho da qui."
 
 #: ./templates/default/robot/wizard.tpl.php:7
 msgid "Check out my new @withknown site!"
-msgstr ""
+msgstr "Dai un’occhiata al mio nuovo sito @withknown!"
 
 #: ./templates/default/robot/wizard.tpl.php:9
 msgid " That was a great update. Why not <%s>share your new website on Facebook</a> and <a href=\"%s\">Twitter</a> so your friends know about it?\n\nI bet you've got some great photos. <%s>Try posting one</a>!"
