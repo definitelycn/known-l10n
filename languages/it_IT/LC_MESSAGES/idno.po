@@ -1045,7 +1045,7 @@ msgstr "Fuso orario"
 
 #: ./templates/default/account/settings.tpl.php:78
 msgid "Specify your timezone."
-msgstr ""
+msgstr "Specificare il fuso orario."
 
 #: ./templates/default/admin/home.tpl.php:281
 msgid "Save updates"
