@@ -737,7 +737,7 @@ msgstr "Notifiche e-mail"
 
 #: ./templates/default/account/notifications.tpl.php:6
 msgid "The notifications screen shows you who has interacted with your content."
-msgstr ""
+msgstr "La schermata delle notifiche mostra chi ha interagito con i tuoi contenuti."
 
 #: ./templates/default/account/notifications.tpl.php:25
 msgid "You don't have any notifications yet. But we love you anyway!"
