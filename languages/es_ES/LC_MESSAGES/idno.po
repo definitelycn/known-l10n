@@ -1559,6 +1559,7 @@ msgstr "Artículos por página"
 #: ./templates/default/admin/home.tpl.php:71
 msgid "This is the number of content posts displayed on each page."
 msgstr ""
+"Este es el número de mensajes de contenido que se muestran en cada página."
 
 #: ./templates/default/admin/home.tpl.php:79
 msgid "Single user"
