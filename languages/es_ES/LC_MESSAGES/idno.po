@@ -1582,6 +1582,7 @@ msgstr "<strong>(predeterminado)</strong>"
 #: ./templates/default/admin/home.tpl.php:118
 msgid "How permalinks for individual posts are constructed."
 msgstr ""
+"Cómo se construyen los enlaces permanentes para los puestos individuales."
 
 #: ./templates/default/admin/home.tpl.php:130
 msgid "Registration and privacy"
