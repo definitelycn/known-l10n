@@ -2434,14 +2434,18 @@ msgid ""
 "and <a href=\"%s\">Twitter</a> so your friends know about it?\n\nI bet"
 "you've got some great photos. <%s>Try posting one</a>!"
 msgstr ""
-" Esa fue una gran actualización. ¿Por qué no <%s>compartir su nuevo sitio web en Facebook</a> y <a href \"%s\">Twitter</a> para que tus amigos lo sepan? ¡Intenta publicar uno</a>!"
+" Esa fue una gran actualización. ¿Por qué no <%s>compartir su nuevo sitio web "
+"en Facebook</a> y <a href \"%s\">Twitter</a> para que tus amigos lo sepan? "
+"¡Intenta publicar uno</a>!"
 
 #: ./templates/default/robot/wizard.tpl.php:20
 msgid ""
 "Welcome to your new Known site! I'm Aleph, your very own welcome robot."
 "Let's get started by <%s>adding your first status update</a>!"
 msgstr ""
-"¡Bienvenido a tu nuevo sitio conocido! Soy Aleph, tu propio robot de bienvenida. Vamos a empezar por <%s>agregar su primera actualización de estado</a>!"
+"¡Bienvenido a tu nuevo sitio conocido! Soy Aleph, tu propio robot de "
+"bienvenida. Vamos a empezar por <%s>agregar su primera actualización de "
+"estado</a>!"
 
 #: ./templates/default/robot/wizard.tpl.php:28
 msgid "Beep!"
