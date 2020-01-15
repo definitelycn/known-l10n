@@ -115,15 +115,15 @@ msgstr ""
 msgid "hour"
 msgstr "Ora"
 
-#: Idno/Core/Time.php:91
+#: ./Idno/Core/Time.php:91
 msgid "hours"
 msgstr "Ore"
 
-#: Idno/Core/Time.php:97
+#: ./Idno/Core/Time.php:97
 msgid "minute"
 msgstr "minuto"
 
-#: Idno/Core/Time.php:99
+#: ./Idno/Core/Time.php:99
 msgid "minutes"
 msgstr "Minuti"
 
@@ -188,14 +188,17 @@ msgid "A PHP extension stopped the file upload."
 msgstr ""
 
 #: ./Idno/Files/LocalFileSystem.php:86
+#: ./Idno/Files/LocalFileSystem.php:137
 msgid "There was a problem storing the file data."
 msgstr ""
 
 #: ./Idno/Files/LocalFileSystem.php:89
+#: ./Idno/Files/LocalFileSystem.php:141
 msgid "There was a problem saving the file's metadata"
 msgstr ""
 
 #: ./Idno/Files/LocalFileSystem.php:98
+#: ./Idno/Files/LocalFileSystem.php:150
 msgid "Something went wrong saving your file."
 msgstr ""
 
