@@ -298,7 +298,8 @@ msgid "Usernames can only have letters, numbers and underscores."
 msgstr ""
 
 #: ./Idno/Pages/Account/Register.php:143
-msgid "Usernames can't contain a slash ('/"
+#: ./Idno/Pages/Admin/Users.php:168
+msgid "Usernames can't contain a slash %s character."
 msgstr ""
 
 #: ./Idno/Pages/Account/Register.php:146
@@ -625,10 +626,6 @@ msgstr ""
 
 #: ./Idno/Pages/Admin/Users.php:141
 msgid "Please make sure your passwords match and aren't empty."
-msgstr ""
-
-#: ./Idno/Pages/Admin/Users.php:168
-msgid "Usernames can't contain a slash %s character."
 msgstr ""
 
 #: ./Idno/Pages/Admin/Users.php:182
@@ -2557,4 +2554,3 @@ msgid ""
 "%s). If you're having problems, you may want to try updating to the latest"
 "version.\nUpdate now: https://github.com/idno/Known\n"
 msgstr ""
-
