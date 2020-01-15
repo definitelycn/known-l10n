@@ -2484,6 +2484,12 @@ msgid ""
 "href=\"{{baseurl}}account/settings/feedback/\">send a message to my human "
 "creators</a>."
 msgstr ""
+"01011001 01101111 00100000 01111001 01101111 00100000 01111001 01101111 "
+"\n\nAsí es como dices hola de donde vengo. Quería recordarle que también "
+"puede <a href=\"{{baseurl}}admin/themes/\">cambiar el tema de su sitio</a>."
+"Si alguna vez tienes comentarios, puedes <a "
+"href=\"{{baseurl}}account/settings/feedback/\">enviar un mensaje a mis "
+"creadores humanos</a>."
 
 #: ./templates/default/settings-shell/nav.tpl.php:6
 #: ./templates/default/shell/toolbar/main.tpl.php:7
