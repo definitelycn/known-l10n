@@ -2172,6 +2172,14 @@ msgstr ""
 msgid "Feedback"
 msgstr "Valutazione"
 
+#: ./templates/default/robot/post.tpl.php:19
+msgid "Power down robots. I can take it from here."
+msgstr ""
+
+#: ./templates/default/robot/wizard.tpl.php:7
+msgid "Check out my new @withknown site!"
+msgstr ""
+
 #: ./templates/default/robot/wizard.tpl.php:9
 msgid " That was a great update. Why not <%s>share your new website on Facebook</a> and <a href=\"%s\">Twitter</a> so your friends know about it?\n\nI bet you've got some great photos. <%s>Try posting one</a>!"
 msgstr ""
@@ -2192,8 +2200,24 @@ msgstr ""
 msgid "Beep boop!"
 msgstr ""
 
-#: ./templates/default/robot/post.tpl.php:19
-msgid "Power down robots. I can take it from here."
+#: templates/default/robot/wizard.tpl.php:47
+msgid ""
+"Beepity boop! That was a great picture. Did you see that you can also <a href=\"{{userurl}}/edit\">update "
+"your profile</a>?"
+msgstr ""
+
+#: templates/default/robot/wizard.tpl.php:52
+msgid "Boopity beep! Did you see that you can also <a href=\"{{userurl}}/edit\">update your profile</a>?"
+msgstr ""
+
+#: ./templates/default/robot/wizard.tpl.php:65
+msgid ""
+"01011001 01101111 00100000 01111001 01101111 00100000 01111001 01101111 "
+"\n\nThat's how you say hello where I come from. I wanted to remind you that "
+"you can also <a href=\"{{baseurl}}admin/themes/\">change the theme of your "
+"site</a>. If you ever have feedback, you can <a "
+"href=\"{{baseurl}}account/settings/feedback/\">send a message to my human "
+"creators</a>."
 msgstr ""
 
 #: ./templates/email-text/content/notification/like.tpl.php:8
@@ -2243,4 +2267,3 @@ msgstr ""
 #: ./known.php:118
 msgid "WARNING: Your build of Known is behind the latest version from Github (%s - %s). If you're having problems, you may want to try updating to the latest version.\nUpdate now: https://github.com/idno/Known\n"
 msgstr ""
-

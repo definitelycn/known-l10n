@@ -2404,7 +2404,7 @@ msgstr ""
 
 #: ./templates/default/robot/wizard.tpl.php:20
 msgid ""
-"Welcome to your new Known site! I'm Aleph, your very own welcome robot."
+"Welcome to your new Known site! I'm Aleph, your very own welcome robot. "
 "Let's get started by <%s>adding your first status update</a>!"
 msgstr ""
 

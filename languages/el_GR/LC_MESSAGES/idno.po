@@ -2277,7 +2277,7 @@ msgstr ""
 
 #: ./templates/default/robot/wizard.tpl.php:20
 msgid ""
-"Welcome to your new Known site! I'm Aleph, your very own welcome robot."
+"Welcome to your new Known site! I'm Aleph, your very own welcome robot. "
 "Let's get started by <%s>adding your first status update</a>!"
 msgstr ""
 
@@ -2307,7 +2307,7 @@ msgstr ""
 
 #: ./templates/default/robot/wizard.tpl.php:65
 msgid ""
-"01011001 01101111 00100000 01111001 01101111 00100000 01111001 01101111"
+"01011001 01101111 00100000 01111001 01101111 00100000 01111001 01101111 "
 "\n\nThat's how you say hello where I come from. I wanted to remind you that"
 "you can also <a href=\"{{baseurl}}admin/themes/\">change the theme of your"
 "site</a>. If you ever have feedback, you can <a"
