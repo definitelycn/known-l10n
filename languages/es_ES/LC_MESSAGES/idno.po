@@ -698,7 +698,7 @@ msgstr ""
 
 #: ./Idno/Pages/Onboarding/Begin.php:23
 msgid "Welcome to Known"
-msgstr ""
+msgstr "Bienvenido a Known"
 
 #: ./Idno/Pages/Onboarding/Connect.php:25
 msgid "Connect some networks"
@@ -2279,27 +2279,27 @@ msgstr ""
 
 #: ./templates/default/onboarding/begin.tpl.php:8
 msgid "Known is your space for sharing content and discussing ideas."
-msgstr ""
+msgstr "Known es tu espacio para compartir contenido y discutir ideas."
 
 #: ./templates/default/onboarding/begin.tpl.php:13
 msgid "Take a picture"
-msgstr ""
+msgstr "Tome una foto"
 
 #: ./templates/default/onboarding/begin.tpl.php:17
 msgid "Share a message"
-msgstr ""
+msgstr "Compartir un mensaje"
 
 #: ./templates/default/onboarding/begin.tpl.php:21
 msgid "Save your location"
-msgstr ""
+msgstr "Guarda tu ubicación"
 
 #: ./templates/default/onboarding/begin.tpl.php:34
 msgid "Get started"
-msgstr ""
+msgstr "Empezar"
 
 #: ./templates/default/onboarding/begin.tpl.php:42
 msgid "Already have an account? Sign in."
-msgstr ""
+msgstr "¿Ya tienes una cuenta? Inicia sesión."
 
 #: ./templates/default/onboarding/connect.tpl.php:3
 msgid "Share to social"
