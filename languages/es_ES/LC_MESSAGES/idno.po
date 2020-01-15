@@ -1570,6 +1570,8 @@ msgid ""
 "Is this a single-user site? If so, your profile information will be shown at "
 "the top of the homepage."
 msgstr ""
+"¿Es un sitio de un solo usuario? Si es así, la información de su perfil se "
+"mostrará en la parte superior de la página de inicio."
 
 #: ./templates/default/admin/home.tpl.php:101
 msgid "Permalink Structure"
