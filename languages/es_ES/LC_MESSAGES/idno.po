@@ -483,6 +483,8 @@ msgid ""
 "We can't write data to %s - please check it is writable by your web server "
 "user."
 msgstr ""
+"No podemos escribir datos en %s - compruebe que es grabable por el usuario "
+"del servidor web."
 
 #: ./Idno/Pages/Admin/Diagnostics.php:170
 #: ./Idno/Pages/Admin/Diagnostics.php:175
