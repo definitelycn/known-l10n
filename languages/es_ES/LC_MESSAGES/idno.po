@@ -1636,11 +1636,12 @@ msgstr "Obtenga más información sobre PuSH"
 
 #: ./templates/default/admin/home.tpl.php:241
 msgid "Avatar as icon"
-msgstr ""
+msgstr "Avatar como icono"
 
 #: ./templates/default/admin/home.tpl.php:252
 msgid "This uses members' avatar images as the site favicon."
 msgstr ""
+"Esto utiliza las imágenes de avatar de los miembros como el favicon del sitio."
 
 #: ./templates/default/admin/home.tpl.php:260
 msgid "Include permalinks"
