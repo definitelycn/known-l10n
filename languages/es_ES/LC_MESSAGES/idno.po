@@ -1548,6 +1548,8 @@ msgid ""
 "What should the browser display as the title on your homepage?<br>By default "
 "this is just your site title."
 msgstr ""
+"¿Qué debe mostrar el navegador como título en su página de inicio? "
+"De forma predeterminada, este es solo el título del sitio."
 
 #: ./templates/default/admin/home.tpl.php:65
 msgid "Items per page"
