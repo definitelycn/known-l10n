@@ -1647,6 +1647,7 @@ msgstr ""
 msgid ""
 "Always add a link back to your site when you syndicate to external networks."
 msgstr ""
+"Siempre agregue un vínculo a su sitio cuando sindica a redes externas."
 
 #: ./templates/default/admin/import.tpl.php:9
 msgid "Import content"
