@@ -1841,6 +1841,11 @@ msgid ""
 "change the way Known behaves. To enable or disable a plugin, just click its "
 "enable or disable button."
 msgstr ""
+"Los complementos le permiten agregar características a su sitio. "
+"Estos incluyen nuevos tipos de contenido, opciones para sindicar contenido "
+"a diferentes sitios y características para cambiar la forma en que se "
+"comporta Known. Para activar o desactivar un plugin, simplemente haga clic "
+"en su botón de activar o desactivar."
 
 #: ./templates/default/admin/statistics.tpl.php:9
 msgid ""
