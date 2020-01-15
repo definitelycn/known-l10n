@@ -702,13 +702,14 @@ msgstr ""
 
 #: ./templates/default/account/login.tpl.php:4
 msgid "Welcome back!"
-msgstr ""
+msgstr "Bentornato!"
 
 #: ./templates/default/account/login.tpl.php:14
 msgid "Your email address or username"
 msgstr "Il tuo indirizzo email o nome utente"
 
 #: ./templates/default/account/login.tpl.php:17
+#: ./templates/default/account/settings.tpl.php:55
 msgid "Password"
 msgstr ""
 
@@ -718,7 +719,7 @@ msgstr ""
 
 #: ./templates/default/account/login.tpl.php:40
 msgid "Forgot your password?"
-msgstr ""
+msgstr "Hai dimenticato la password?"
 
 #: ./templates/default/account/menu.tpl.php:3
 msgid "Settings"
