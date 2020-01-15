@@ -878,6 +878,7 @@ msgstr ""
 #: ./templates/default/account/notifications.tpl.php:25
 msgid "You don't have any notifications yet. But we love you anyway!"
 msgstr ""
+"Todavía no tienes ninguna notificación. ¡Pero te queremos de todos modos!"
 
 #: ./templates/default/account/password/reset.tpl.php:5
 #: ./templates/default/account/password.tpl.php:6
