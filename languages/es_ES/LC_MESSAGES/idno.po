@@ -462,6 +462,10 @@ msgid ""
 "version!<br /> <a href=\"https://github.com/idno/Known\" "
 "target=\"_blank\">Update now.</a>"
 msgstr ""
+"Su compilación de Known está detrás de la última versión de Github (%s - %s). "
+"Si tienes problemas, ¡puedes intentar actualizar a la última versión!"
+"<br /> <a href=\"https://github.com/idno/Known\" "
+"target=\"_blank\">Actualiza ahora.</a>"
 
 #: ./Idno/Pages/Admin/Diagnostics.php:97
 msgid ""
