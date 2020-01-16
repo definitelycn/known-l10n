@@ -1507,7 +1507,7 @@ msgstr ""
 
 #: ./templates/default/admin/homepage.tpl.php:109
 msgid "Save"
-msgstr ""
+msgstr "保存"
 
 #: ./templates/default/admin/home.tpl.php:15
 msgid "Site Details"
@@ -2086,45 +2086,50 @@ msgstr ""
 
 #: ./templates/default/entity/User/edit.tpl.php:3
 msgid "Edit your profile"
-msgstr ""
+msgstr "プロフィールを編集する"
 
 #: ./templates/default/entity/User/edit.tpl.php:6
 msgid ""
 "Your profile is how other users see you across the site. It's up to you how "
 "much or how little information you choose to provide."
 msgstr ""
+"プロファイルとは、他のユーザーがサイト全体であなたを見る方法です。"
+"提供する情報の量や量は、ユーザーが指定する必要があります。"
+# A profile is a way for other users to see you throughout your site.
+# You must specify the amount and amount of information that you provide.
 
 #: ./templates/default/entity/User/edit.tpl.php:23
 msgid "Select a user picture"
-msgstr "ユーザーの画像を選択する"
-# "画像を選択する"
+msgstr "画像を選択する"
 # select a picture
 # ユーザーの画像を選択する
 # select a user's picture
 
 #: ./templates/default/entity/User/edit.tpl.php:49
 msgid "About you"
-msgstr ""
+msgstr "あなたについて"
 
 #: ./templates/default/entity/User/edit.tpl.php:59
 msgid "Your websites"
-msgstr ""
+msgstr "ウェブサイト"
+# Website
 
 #: ./templates/default/entity/User/edit.tpl.php:60
 msgid "Other places on the web where people can find you."
-msgstr ""
+msgstr "人々があなたを見つけることができるウェブ上の他の場所。"
 
 #: ./templates/default/entity/User/edit.tpl.php:105
 msgid "Add more"
-msgstr ""
+msgstr "追加する"
+# ?
 
 #: ./templates/default/entity/User/edit.tpl.php:112
 msgid "Cancel"
-msgstr ""
+msgstr "キャンセル"
 
 #: ./templates/default/entity/User/edit.tpl.php:113
 msgid "Save Changes"
-msgstr ""
+msgstr "変更の保存"
 
 #: ./templates/default/entity/User.tpl.php:35
 msgid "Edit profile"
