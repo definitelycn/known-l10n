@@ -1199,7 +1199,7 @@ msgstr ""
 #: ./templates/default/settings-shell/toolbar/logged-in.tpl.php:13
 #: ./templates/default/shell/toolbar/logged-in.tpl.php:19
 msgid "Account Settings"
-msgstr ""
+msgstr "アカウント設定"
 
 #: ./templates/default/account/settings.tpl.php:14
 msgid ""
