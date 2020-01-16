@@ -1086,39 +1086,44 @@ msgstr ""
 msgid ""
 "Set how you'd like to be notified when someone stars or comments on your "
 "content."
-msgstr ""
+msgstr "コンテンツに星やコメントが表示されたときに通知を受け取る方法を設定します。"
+# Set how you want to be notified when stars or comments appear in your content.
 
 #: ./templates/default/account/settings/notifications.tpl.php:26
 msgid "Send email notifications"
-msgstr ""
+msgstr "電子メール通知の送信"
 
 #: ./templates/default/account/settings/notifications.tpl.php:34
 msgid "Whenever someone interacts with my content"
-msgstr ""
+msgstr "誰かが私のコンテンツを操作するたびに"
 
 #: ./templates/default/account/settings/notifications.tpl.php:44
 msgid "Only when someone comments on my content"
-msgstr ""
+msgstr "誰かが私のコンテンツにコメントした場合のみ"
+# Only if someone commented on my content
 
 #: ./templates/default/account/settings/notifications.tpl.php:54
 #: ./templates/default/forms/components/usersearch/user.tpl.php:45
 msgid "Never"
-msgstr ""
+msgstr "ぜんぜん"
+# Not at all
 
 #: ./templates/default/account/settings/notifications.tpl.php:63
 msgid "Ignored Domains"
-msgstr ""
+msgstr "無視されたドメイン"
 
 #: ./templates/default/account/settings/notifications.tpl.php:64
 msgid ""
 "Do not send notifications for interactions originating from these domains "
 "(one domain per line)"
 msgstr ""
+"これらのドメインから発信されたインタラクションの通知を送信しない "
+"(1 行に 1 つのドメイン)"
 
 #: ./templates/default/account/settings/notifications.tpl.php:75
 #: ./templates/default/admin/email.tpl.php:142
 msgid "Save settings"
-msgstr ""
+msgstr "設定の保存"
 
 #: ./templates/default/account/settings/tools.tpl.php:13
 msgid "Bookmarklet"
