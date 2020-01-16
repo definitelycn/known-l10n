@@ -52,6 +52,11 @@ msgstr "このコンテンツはここにはありません。"
 msgid "This page can't be found."
 msgstr ""
 
+#: ./Idno/Common/Page.php:799
+msgid "Forbidden"
+msgstr "禁止"
+# Ban
+
 #: ./Idno/Common/Plugin.php:87
 msgid "Plugin %s doesn't have a version"
 msgstr ""
@@ -2348,7 +2353,8 @@ msgstr ""
 
 #: ./templates/default/pages/403.tpl.php:18
 msgid "Hold on. You don't have access to this content."
-msgstr ""
+msgstr "待つ。このコンテンツにアクセスできません。"
+# Wait. This content cannot be accessed.
 
 #: ./templates/default/pages/403.tpl.php:20
 msgid ""
