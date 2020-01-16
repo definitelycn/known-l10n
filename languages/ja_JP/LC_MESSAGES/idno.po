@@ -578,7 +578,7 @@ msgstr ""
 #: ./templates/default/admin/menu.tpl.php:4
 #: ./templates/default/admin/themes.tpl.php:4
 msgid "Themes"
-msgstr ""
+msgstr "テーマ"
 
 #: ./Idno/Pages/Admin/Themes.php:52
 msgid "The theme was enabled."
@@ -1802,11 +1802,11 @@ msgstr ""
 
 #: ./templates/default/admin/plugins/plugin.tpl.php:35
 msgid "Enabled"
-msgstr ""
+msgstr "有効"
 
 #: ./templates/default/admin/plugins/plugin.tpl.php:37
 msgid "Disabled"
-msgstr ""
+msgstr "無効"
 
 #: ./templates/default/admin/plugins/plugin.tpl.php:56
 msgid "Known Version"
@@ -1860,6 +1860,8 @@ msgid ""
 "Themes allow you to change the way your site looks. The following themes are "
 "installed."
 msgstr ""
+"テーマを使用すると、サイトの外観を変更できます。"
+"次のテーマがインストールされています。"
 
 #: ./templates/default/admin/users.tpl.php:9
 msgid "View the users registered for your site, and invite new users to join."
