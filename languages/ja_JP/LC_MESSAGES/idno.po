@@ -224,7 +224,7 @@ msgstr ""
 #: ./Idno/Pages/Account/Export.php:20
 #: ./templates/default/account/menu.tpl.php:11
 msgid "Export Data"
-msgstr ""
+msgstr "データのエクスポート"
 
 #: ./Idno/Pages/Account/Notifications.php:36
 #: ./templates/default/account/notifications.tpl.php:4
@@ -432,7 +432,7 @@ msgstr ""
 #: ./templates/default/account/menu.tpl.php:8
 #: ./templates/default/account/settings/tools.tpl.php:9
 msgid "Tools and Apps"
-msgstr ""
+msgstr "ツールとアプリ"
 
 #: ./Idno/Pages/Admin/About.php:20
 #: ./templates/default/admin/about.tpl.php:5
@@ -504,7 +504,7 @@ msgstr ""
 
 #: ./Idno/Pages/Admin/Export.php:17
 msgid "Export data"
-msgstr ""
+msgstr "データのエクスポート"
 
 #: ./Idno/Pages/Admin/Homepage.php:25
 #: ./templates/default/admin/menu.tpl.php:6
@@ -861,12 +861,12 @@ msgstr "パスワードをお忘れですか?"
 
 #: ./templates/default/account/menu.tpl.php:3
 msgid "Settings"
-msgstr ""
+msgstr "設定"
 
 #: ./templates/default/account/menu.tpl.php:6
 #: ./templates/default/account/settings/notifications.tpl.php:12
 msgid "Email notifications"
-msgstr ""
+msgstr "電子メール通知"
 
 #: ./templates/default/account/notifications.tpl.php:6
 msgid ""
