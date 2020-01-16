@@ -1474,7 +1474,7 @@ msgstr ""
 #: ./templates/default/admin/home/description.tpl.php:2
 #: ./templates/default/admin/menu.tpl.php:2
 msgid "Site configuration"
-msgstr ""
+msgstr "サイト構成"
 
 #: ./templates/default/admin/home/description.tpl.php:6
 msgid ""
@@ -2502,7 +2502,7 @@ msgstr ""
 #: ./templates/default/settings-shell/toolbar/logged-in.tpl.php:18
 #: ./templates/default/shell/toolbar/logged-in.tpl.php:21
 msgid "Site Configuration"
-msgstr ""
+msgstr "サイト構成"
 
 #: ./templates/default/shell/pagination.tpl.php:28
 msgid "Newer"
