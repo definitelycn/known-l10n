@@ -494,7 +494,7 @@ msgstr ""
 #: ./templates/default/account/settings/following/mf2user.tpl.php:73
 #: ./templates/default/admin/menu.tpl.php:7
 msgid "Email"
-msgstr ""
+msgstr "電子メール"
 
 #: ./Idno/Pages/Admin/EmailTest.php:21
 msgid "Test email from %s!"
@@ -584,7 +584,8 @@ msgstr "テーマ"
 
 #: ./Idno/Pages/Admin/Themes.php:52
 msgid "The theme was enabled."
-msgstr ""
+msgstr "テーマが有効になっている"
+# テーマが有効されました
 
 #: ./Idno/Pages/Admin/Users.php:32
 msgid "User Management"
@@ -1961,7 +1962,7 @@ msgstr ""
 
 #: ./templates/default/admin/users.tpl.php:218
 msgid "Remove block"
-msgstr ""
+msgstr "ブロックを削除する"
 
 #: ./templates/default/admin/users.tpl.php:218
 #: ./templates/default/forms/components/usersearch/user.tpl.php:86
@@ -2057,7 +2058,7 @@ msgstr ""
 
 #: ./templates/default/content/unfurl.tpl.php:12
 msgid "Remove preview"
-msgstr ""
+msgstr "プレビューの削除"
 
 #: ./templates/default/entity/annotations/comment/main.tpl.php:16
 msgid "Add a comment ..."
@@ -2220,7 +2221,7 @@ msgstr ""
 
 #: ./templates/default/forms/components/usersearch/user.tpl.php:65
 msgid "Remove rights"
-msgstr ""
+msgstr "アクセス許可の削除"
 
 #: ./templates/default/forms/components/usersearch/user.tpl.php:71
 msgid "Standard member"
@@ -2232,11 +2233,11 @@ msgstr ""
 
 #: ./templates/default/forms/components/usersearch/user.tpl.php:86
 msgid "Clear"
-msgstr ""
+msgstr "クリア"
 
 #: ./templates/default/forms/components/usersearch/user.tpl.php:88
 msgid "Block"
-msgstr ""
+msgstr "ブロック"
 
 #: ./templates/default/forms/components/usersearch/user.tpl.php:88
 msgid ""
