@@ -45,7 +45,8 @@ msgstr ""
 
 #: ./Idno/Common/Page.php:741
 msgid "This content isn't here."
-msgstr ""
+msgstr "このコンテンツはここにはありません。"
+# This content is not available here.
 
 #: ./Idno/Common/Page.php:757
 msgid "This page can't be found."
