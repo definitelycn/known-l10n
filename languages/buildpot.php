@@ -58,7 +58,7 @@ foreach ($handled as $normalised_string => $v) {
     if (strlen($normalised_string) > 70) {
         echo "msgid \"\"\n";
         echo "\"";
-        echo wordwrap($normalised_string, 76, "\"\n\"");
+        echo wordwrap($normalised_string, 76, " \"\n\"");
         echo "\"\n";
     } else {
         echo "msgid \"$normalised_string\"\n";
