@@ -1918,7 +1918,8 @@ msgstr ""
 #: ./templates/default/entity/User/edit.tpl.php:97
 #: ./templates/default/entity/User/edit.tpl.php:130
 msgid "Remove"
-msgstr ""
+msgstr "削除"
+# Delete
 
 #: ./templates/default/admin/users.tpl.php:145
 msgid "Are you sure? The user won't be able to register."
@@ -1965,11 +1966,11 @@ msgstr ""
 #: ./templates/default/content/edit.tpl.php:9
 #: ./templates/default/forms/components/usersearch/user.tpl.php:90
 msgid "Delete"
-msgstr ""
+msgstr "削除"
 
 #: ./templates/default/content/edit.tpl.php:8
 msgid "Edit"
-msgstr ""
+msgstr "編集"
 
 #: ./templates/default/content/edit.tpl.php:9
 msgid "Are you sure you want to permanently delete this entry?"
