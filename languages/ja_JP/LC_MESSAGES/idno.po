@@ -1979,7 +1979,7 @@ msgstr ""
 #: ./templates/default/content/end.tpl.php:26
 #: ./templates/default/content/feed/end.tpl.php:13
 msgid "published this"
-msgstr ""
+msgstr "はこれを公開しました"
 
 #: ./templates/default/content/end.tpl.php:55
 msgid "Star this!"
@@ -1988,22 +1988,22 @@ msgstr ""
 #: ./templates/default/content/end.tpl.php:61
 #: ./templates/default/content/feed/end.tpl.php:28
 msgid "star"
-msgstr ""
+msgstr "つ星"
 
 #: ./templates/default/content/end.tpl.php:64
 #: ./templates/default/content/feed/end.tpl.php:30
 msgid "stars"
-msgstr ""
+msgstr "つ星"
 
 #: ./templates/default/content/end.tpl.php:95
 #: ./templates/default/content/feed/end.tpl.php:48
 msgid "comment"
-msgstr ""
+msgstr "コメント"
 
 #: ./templates/default/content/end.tpl.php:97
 #: ./templates/default/content/feed/end.tpl.php:50
 msgid "comments"
-msgstr ""
+msgstr "コメント"
 
 #: ./templates/default/content/feed/end.tpl.php:106
 msgid "Also on"
