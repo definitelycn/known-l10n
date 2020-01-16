@@ -893,7 +893,8 @@ msgstr ""
 #: ./templates/default/account/settings.tpl.php:42
 #: ./templates/default/onboarding/register.tpl.php:19
 msgid "Your email address"
-msgstr ""
+msgstr "メールアドレス"
+# E-mail address
 
 #: ./templates/default/account/password/reset.tpl.php:17
 msgid "The address associated with your %s account."
