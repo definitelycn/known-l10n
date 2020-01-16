@@ -839,16 +839,17 @@ msgstr ""
 
 #: ./templates/default/account/login.tpl.php:4
 msgid "Welcome back!"
-msgstr ""
+msgstr "再びようこそ！"
 
 #: ./templates/default/account/login.tpl.php:14
 msgid "Your email address or username"
-msgstr ""
+msgstr "メールアドレスまたはユーザー名"
+# E-mail address or username
 
 #: ./templates/default/account/login.tpl.php:17
 #: ./templates/default/account/settings.tpl.php:55
 msgid "Password"
-msgstr ""
+msgstr "パスワード"
 
 #: ./templates/default/account/login.tpl.php:36
 msgid "New here? Register for an account."
@@ -856,7 +857,7 @@ msgstr ""
 
 #: ./templates/default/account/login.tpl.php:40
 msgid "Forgot your password?"
-msgstr ""
+msgstr "パスワードをお忘れですか?"
 
 #: ./templates/default/account/menu.tpl.php:3
 msgid "Settings"
@@ -1856,12 +1857,12 @@ msgid "user"
 msgstr "ユーザー"
 
 #: ./templates/default/admin/users.tpl.php
-msgid "Your site has 1 user"
-msgstr "サイトに 1 人のユーザーが"
+msgid "Your site has <strong>1</strong> user"
+msgstr "サイトに <strong>1</strong> 人のユーザーが"
 # If a site has one user
 
 #: ./templates/default/admin/users.tpl.php
-msgid "Your site has %s users"
+msgid "Your site has <strong>%s</strong> users"
 msgstr "サイトに %s 人のユーザーがいます"
 # There are %s users on the site
 
