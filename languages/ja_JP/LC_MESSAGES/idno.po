@@ -515,7 +515,7 @@ msgstr "データのエクスポート"
 #: ./Idno/Pages/Admin/Homepage.php:25
 #: ./templates/default/admin/menu.tpl.php:6
 msgid "Homepage"
-msgstr ""
+msgstr "ホームページ"
 
 #: ./Idno/Pages/Admin/Homepage.php:42
 msgid "The default homepage content types were saved."
@@ -1484,7 +1484,7 @@ msgstr ""
 
 #: ./templates/default/admin/homepage.tpl.php:6
 msgid "Homepage content"
-msgstr ""
+msgstr "ホームページコンテンツ"
 
 #: ./templates/default/admin/homepage.tpl.php:11
 msgid ""
@@ -1492,18 +1492,25 @@ msgid ""
 "default, all published content appears on the main page. If you want to hide "
 "some content types from the main page, you can turn them off below."
 msgstr ""
+"ここでは、訪問者がサイトのホームページに表示するコンテンツを選択できます。"
+"既定では、発行されたすべてのコンテンツがメイン ページに表示されます。"
+"一部のコンテンツ タイプをメイン ページから非表示にする場合は、以下で無効にすることができます。"
 
 #: ./templates/default/admin/homepage.tpl.php:16
 msgid "Turn off content types to hide them from the homepage of your site."
 msgstr ""
+"コンテンツ タイプを無効にし、サイトのホーム ページからコンテンツ タイプを非表示にします。"
+# Disables the content type and hides the content type from the
+# home page of the site.
 
 #: ./templates/default/admin/homepage.tpl.php:45
 msgid "On"
-msgstr ""
+msgstr "アクティブ"
+# Active
 
 #: ./templates/default/admin/homepage.tpl.php:46
 msgid "Off"
-msgstr ""
+msgstr "オフ"
 
 #: ./templates/default/admin/homepage.tpl.php:109
 msgid "Save"
