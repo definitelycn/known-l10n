@@ -410,7 +410,7 @@ msgstr ""
 
 #: ./Idno/Pages/Account/Settings.php:20
 msgid "Account settings"
-msgstr ""
+msgstr "アカウント設定"
 
 #: ./Idno/Pages/Account/Settings.php:50
 msgid "Someone is already using %s as their email address."
