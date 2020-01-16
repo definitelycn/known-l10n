@@ -2471,27 +2471,27 @@ msgstr ""
 
 #: ./templates/default/shell/toolbar/content/all.tpl.php:4
 msgid "All content"
-msgstr ""
+msgstr "すべてのコンテンツ"
 
 #: ./templates/default/shell/toolbar/content/default.tpl.php:4
 msgid "Default content"
-msgstr ""
+msgstr "既定のコンテンツ"
 
 #: ./templates/default/shell/toolbar/content.tpl.php:26
 msgid "Filter content"
-msgstr ""
+msgstr "コンテンツのフィルター処理"
 
 #: ./templates/default/shell/toolbar/logged-in.tpl.php:16
 msgid "Profile"
-msgstr ""
+msgstr "プロファイル"
 
 #: ./templates/default/shell/toolbar/logged-in.tpl.php:49
 msgid "Leave feedback"
-msgstr ""
+msgstr "フィードバックを残す"
 
 #: ./templates/default/shell/toolbar/logged-in.tpl.php:49
 msgid "Feedback"
-msgstr ""
+msgstr "フィードバック"
 
 #: ./templates/default/shell/toolbar/logout.tpl.php:1
 msgid "Sign out"
@@ -2499,15 +2499,15 @@ msgstr "抜いて"
 
 #: ./templates/default/shell/toolbar/main.tpl.php:1
 msgid "Skip to main content"
-msgstr ""
+msgstr "メイン コンテンツにスキップ"
 
 #: ./templates/default/shell/toolbar/register.tpl.php:1
 msgid "Register"
-msgstr ""
+msgstr "登録"
 
 #: ./templates/default/shell/toolbar/search.tpl.php:17
 msgid "Search"
-msgstr ""
+msgstr "検索"
 
 #: ./templates/email/account/invite.tpl.php:2
 #: ./templates/email-text/account/invite.tpl.php:1
