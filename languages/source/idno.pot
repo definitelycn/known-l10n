@@ -1855,11 +1855,11 @@ msgid "user"
 msgstr ""
 
 #: ./templates/default/admin/users.tpl.php
-msgid "Your site has 1 user"
+msgid "Your site has <strong>1</strong> user"
 msgstr ""
 
 #: ./templates/default/admin/users.tpl.php
-msgid "Your site has %s users"
+msgid "Your site has <strong>%s</strong> users"
 msgstr ""
 
 #: ./templates/default/admin/users.tpl.php:45
