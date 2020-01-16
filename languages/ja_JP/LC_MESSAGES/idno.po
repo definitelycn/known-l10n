@@ -551,17 +551,19 @@ msgstr ""
 #: ./templates/default/admin/plugins/plugin.tpl.php:106
 #: ./templates/default/admin/plugins.tpl.php:5
 msgid "Plugins"
-msgstr ""
+msgstr "プラグイン"
+# Plugin
 
 #: ./Idno/Pages/Admin/Plugins.php:44
 #: ./Idno/Pages/Admin/Plugins.php:49
 msgid "The plugin was enabled."
-msgstr ""
+msgstr "プラグインが有効にされました。"
 
 #: ./Idno/Pages/Admin/Plugins.php:58
 #: ./Idno/Pages/Admin/Plugins.php:63
 msgid "The plugin was disabled."
-msgstr ""
+msgstr "プラグインは無効になりました。"
+# The plug-in is no longer valid.
 
 #: ./Idno/Pages/Admin/Statistics.php:16
 msgid ""
@@ -1826,12 +1828,14 @@ msgstr ""
 
 #: ./templates/default/admin/plugins/plugin.tpl.php:134
 msgid "Disable"
-msgstr ""
+msgstr "非 アクティブ 化"
+# Deactivate
 
 #: ./templates/default/admin/plugins/plugin.tpl.php:147
 #: ./templates/default/admin/themes/theme.tpl.php:43
 msgid "Enable"
-msgstr ""
+msgstr "アクティブ 化"
+# Activate
 
 #: ./templates/default/admin/plugins.tpl.php:9
 msgid ""
@@ -1840,6 +1844,11 @@ msgid ""
 "change the way Known behaves. To enable or disable a plugin, just click its "
 "enable or disable button."
 msgstr ""
+"プラグインを使用すると、サイトに機能を追加できます。"
+"これには、新しいコンテンツ タイプ、異なるサイトへのコンテンツのシンジケーシ"
+"ョンのオプション、および既知の動作を変更する機能が含まれます。"
+"プラグインを有効または無効にするには、[プラグインを有効または無効にする]"
+" ボタンをクリックします。"
 
 #: ./templates/default/admin/statistics.tpl.php:9
 msgid ""
