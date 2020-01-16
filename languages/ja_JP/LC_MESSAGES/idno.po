@@ -1327,7 +1327,7 @@ msgstr ""
 
 #: ./templates/default/admin/email.tpl.php:5
 msgid "Email settings"
-msgstr ""
+msgstr "電子メールの設定"
 
 #: ./templates/default/admin/email.tpl.php:9
 msgid ""
