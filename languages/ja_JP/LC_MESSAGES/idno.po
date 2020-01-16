@@ -402,11 +402,11 @@ msgstr ""
 
 #: ./Idno/Pages/Account/Settings/Notifications.php:20
 msgid "Notification settings"
-msgstr ""
+msgstr "通知設定"
 
 #: ./Idno/Pages/Account/Settings/Notifications.php:39
 msgid "Your notification preferences were saved."
-msgstr ""
+msgstr "通知の設定が保存されました。"
 
 #: ./Idno/Pages/Account/Settings.php:20
 msgid "Account settings"
