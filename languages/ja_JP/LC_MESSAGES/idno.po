@@ -2124,17 +2124,22 @@ msgstr ""
 
 #: ./templates/default/entity/User.tpl.php:35
 msgid "Edit profile"
-msgstr ""
+msgstr "プロファイルの編集"
 
 #: ./templates/default/entity/User.tpl.php:61
 msgid ""
 "A profile helps you describe yourself to other people on the site and on the "
 "web. You haven't described yourself yet."
 msgstr ""
+"プロファイルは、サイトや Web 上の他のユーザーに自分自身を記述するのに役立ちます。"
+"あなたはまだ自分のことを説明していない。"
+# Profiles help you write yourself to other people on your site or the Web.
+# You haven't explained yourself yet.
 
 #: ./templates/default/entity/User.tpl.php:62
 msgid "Click here to fill in your profile information."
-msgstr ""
+msgstr "プロフィール情報を入力するには、ここをクリックしてください。"
+# Click here to enter your profile information.
 
 #: ./templates/default/file/picker/image.tpl.php:19
 msgid "Select an image"
