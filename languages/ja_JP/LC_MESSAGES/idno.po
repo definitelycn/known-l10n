@@ -10,7 +10,7 @@ msgstr ""
 "X-Generator: $EDITOR\n"
 "Last-Translator: \n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"Language: ja\n"
+"Language: ja_JP\n"
 
 #: ./Idno/Caching/FilesystemCache.php:19
 msgid "No domain specified for cache"
