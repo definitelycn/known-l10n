@@ -1755,7 +1755,7 @@ msgstr ""
 #: ./templates/default/admin/menu.tpl.php:8
 #: ./templates/default/admin/users.tpl.php:4
 msgid "Users"
-msgstr ""
+msgstr "ユーザー"
 
 #: ./templates/default/admin/menu.tpl.php:9
 msgid "Export"
@@ -1848,11 +1848,11 @@ msgstr ""
 
 #: ./templates/default/admin/users.tpl.php:21
 msgid "users"
-msgstr ""
+msgstr "ユーザー"
 
 #: ./templates/default/admin/users.tpl.php:23
 msgid "user"
-msgstr ""
+msgstr "ユーザー"
 
 #: ./templates/default/admin/users.tpl.php:45
 msgid "Invite new users"
@@ -2483,7 +2483,7 @@ msgstr ""
 
 #: ./templates/default/shell/toolbar/logout.tpl.php:1
 msgid "Sign out"
-msgstr ""
+msgstr "抜いて"
 
 #: ./templates/default/shell/toolbar/main.tpl.php:1
 msgid "Skip to main content"
