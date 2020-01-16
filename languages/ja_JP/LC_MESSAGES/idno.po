@@ -2365,7 +2365,7 @@ msgstr ""
 
 #: ./templates/default/pages/403.tpl.php:7
 msgid "Click here to log in."
-msgstr ""
+msgstr "ここをクリックしてログインしてください。"
 
 #: ./templates/default/pages/403.tpl.php:18
 msgid "Hold on. You don't have access to this content."
