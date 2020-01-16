@@ -963,7 +963,7 @@ msgstr ""
 #: ./templates/default/entity/User/edit.tpl.php:37
 #: ./templates/default/onboarding/profile.tpl.php:22
 msgid "Your name"
-msgstr ""
+msgstr "お名前 *"
 
 #: ./templates/default/account/register.tpl.php:20
 msgid "Choose a handle"
