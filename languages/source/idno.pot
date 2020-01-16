@@ -1854,6 +1854,14 @@ msgstr ""
 msgid "user"
 msgstr ""
 
+#: ./templates/default/admin/users.tpl.php
+msgid "Your site has 1 user"
+msgstr ""
+
+#: ./templates/default/admin/users.tpl.php
+msgid "Your site has %s users"
+msgstr ""
+
 #: ./templates/default/admin/users.tpl.php:45
 msgid "Invite new users"
 msgstr ""

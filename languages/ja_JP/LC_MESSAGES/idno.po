@@ -1845,7 +1845,7 @@ msgstr ""
 
 #: ./templates/default/admin/users.tpl.php:20
 msgid "Your site has"
-msgstr ""
+msgstr "サイトには、"
 
 #: ./templates/default/admin/users.tpl.php:21
 msgid "users"
@@ -1854,6 +1854,16 @@ msgstr "ユーザー"
 #: ./templates/default/admin/users.tpl.php:23
 msgid "user"
 msgstr "ユーザー"
+
+#: ./templates/default/admin/users.tpl.php
+msgid "Your site has 1 user"
+msgstr "サイトに 1 人のユーザーが"
+# If a site has one user
+
+#: ./templates/default/admin/users.tpl.php
+msgid "Your site has %s users"
+msgstr "サイトに %s 人のユーザーがいます"
+# There are %s users on the site
 
 #: ./templates/default/admin/users.tpl.php:45
 msgid "Invite new users"
