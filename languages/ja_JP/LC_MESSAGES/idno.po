@@ -1206,35 +1206,41 @@ msgid ""
 "Change your user account settings here. You may also want to <a "
 "href=\"%s\">edit your profile</a>."
 msgstr ""
+"ここでユーザー アカウントの設定を変更します。"
+"<a href=\"%s\">プロフィールを編集する</a>こともできます。"
 
 #: ./templates/default/account/settings.tpl.php:45
 msgid "Site notifications will be sent here."
-msgstr ""
+msgstr "サイト通知はこちらから送信されます。"
+# A site notification will be sent here.
 
 #: ./templates/default/account/settings.tpl.php:51
 msgid "Your password"
-msgstr ""
+msgstr "パスワード"
+# Password
 
 #: ./templates/default/account/settings.tpl.php:58
 msgid "Leave this blank if you don't want to change it."
-msgstr ""
+msgstr "変更しない場合は、空白のままにします。"
+# If you don't want to change it, leave it blank.
 
 #: ./templates/default/account/settings.tpl.php:64
 msgid "Your timezone"
-msgstr ""
+msgstr "タイムゾーン"
 
 #: ./templates/default/account/settings.tpl.php:73
 msgid "Timezone"
-msgstr ""
+msgstr "タイムゾーン"
 
 #: ./templates/default/account/settings.tpl.php:78
 msgid "Specify your timezone."
-msgstr ""
+msgstr "タイムゾーンを指定します。"
+# Specifies the time zone.
 
 #: ./templates/default/account/settings.tpl.php:83
 #: ./templates/default/admin/home.tpl.php:281
 msgid "Save updates"
-msgstr ""
+msgstr "更新の保存"
 
 #: ./templates/default/admin/about.tpl.php:15
 #: ./templates/default/admin/import.tpl.php:24
