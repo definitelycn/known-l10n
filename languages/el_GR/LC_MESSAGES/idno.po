@@ -2333,11 +2333,11 @@ msgstr ""
 
 #: ./templates/default/shell/toolbar/content/all.tpl.php:4
 msgid "All content"
-msgstr ""
+msgstr "Όλο το περιεχόμενο"
 
 #: ./templates/default/shell/toolbar/content/default.tpl.php:4
 msgid "Default content"
-msgstr ""
+msgstr "Προεπιλεγμένο περιεχόμενο"
 
 #: ./templates/default/shell/toolbar/content.tpl.php:26
 msgid "Filter content"
