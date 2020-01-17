@@ -2262,11 +2262,11 @@ msgstr ""
 
 #: ./templates/default/robot/post.tpl.php:19
 msgid "Power down robots. I can take it from here."
-msgstr ""
+msgstr "Δύναμη κάτω ρομπότ. Μπορώ να το αναλάβω εγώ."
 
 #: ./templates/default/robot/wizard.tpl.php:7
 msgid "Check out my new @withknown site!"
-msgstr ""
+msgstr "Δείτε το νέο μου @withknown site!"
 
 #: ./templates/default/robot/wizard.tpl.php:9
 msgid ""
@@ -2280,6 +2280,9 @@ msgid ""
 "Welcome to your new Known site! I'm Aleph, your very own welcome robot. "
 "Let's get started by <%s>adding your first status update</a>!"
 msgstr ""
+"Καλώς ήλθατε στο νέο γνωστό site σας! Είμαι ο Αλεφ, το δικό σου ρομπότ "
+"καλωσορίσματος. "
+"Ας ξεκινήσουμε προσθέτοντας <%s>την πρώτη σας ενημέρωση κατάστασης</a>!"
 
 #: ./templates/default/robot/wizard.tpl.php:28
 msgid "Beep!"
