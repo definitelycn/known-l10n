@@ -2325,11 +2325,14 @@ msgstr "Ρύθμιση παραμέτρων τοποθεσίας"
 
 #: ./templates/default/shell/pagination.tpl.php:28
 msgid "Newer"
-msgstr ""
+msgstr "Νεότερα"
 
 #: ./templates/default/shell/pagination.tpl.php:29
 msgid "Older"
-msgstr ""
+msgstr "Αρχαία"
+# Ancient
+# Less Recent
+# Λιγότερο πρόσφατο
 
 #: ./templates/default/shell/toolbar/content/all.tpl.php:4
 msgid "All content"
