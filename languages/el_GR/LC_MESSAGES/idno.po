@@ -2290,37 +2290,47 @@ msgstr ""
 
 #: ./templates/default/robot/wizard.tpl.php:28
 msgid "Beep!"
-msgstr ""
+msgstr "Μπιπ!"
 
 #: ./templates/default/robot/wizard.tpl.php:34
 msgid "Zeep!"
-msgstr ""
+msgstr "Ζιπ!"
 
 #: ./templates/default/robot/wizard.tpl.php:40
 msgid "Beep boop!"
-msgstr ""
+msgstr "Μπιπ μπιπ!"
 
 #: ./templates/default/robot/wizard.tpl.php:47
 msgid ""
 "Beepity boop! That was a great picture. Did you see that you can also <a "
-"href=\"{{userurl}}/edit\">update your profile</a>?"
+"href=\"{{userurl}}/edit\">ενημερώσετε το προφίλ σας</a>?"
 msgstr ""
+"! Ήταν υπέροχη φωτογραφία. Είδατε ότι μπορείτε επίσης να <a "
+"href=\"{{userurl}}/edit\">ενημερώσετε το προφίλ σας</a>;"
 
 #: ./templates/default/robot/wizard.tpl.php:52
 msgid ""
 "Boopity beep! Did you see that you can also <a "
 "href=\"{{userurl}}/edit\">update your profile</a>?"
 msgstr ""
+"! Είδατε ότι μπορείτε επίσης να <a "
+"href=\"{{userurl}}/edit\">update your profile</a>;"
 
 #: ./templates/default/robot/wizard.tpl.php:65
 msgid ""
 "01011001 01101111 00100000 01111001 01101111 00100000 01111001 01101111 "
-"\n\nThat's how you say hello where I come from. I wanted to remind you that"
-"you can also <a href=\"{{baseurl}}admin/themes/\">change the theme of your"
-"site</a>. If you ever have feedback, you can <a"
-"href=\"{{baseurl}}account/settings/feedback/\">send a message to my human"
+"\n\nThat's how you say hello where I come from. I wanted to remind you that "
+"you can also <a href=\"{{baseurl}}admin/themes/\">change the theme of your "
+"site</a>. If you ever have feedback, you can <a "
+"href=\"{{baseurl}}account/settings/feedback/\">send a message to my human "
 "creators</a>."
 msgstr ""
+"01011001 01101111 00100000 01111001 01101111 00100000 01111001 01101111 "
+"\n\nΈτσι χαιρετάς από εκεί που έρχομαι. Ήθελα να σας υπενθυμίσω ότι μπορείτε "
+"επίσης να <a href=\"{{baseurl}}admin/themes/\">αλλάξετε το θέμα του ιστότοπού "
+"σας</a>. Αν έχετε ποτέ σχόλια, μπορείτε να <a "
+"href=\"{{baseurl}}account/settings/feedback/\">στείλετε ένα μήνυμα στους "
+"δημιουργούς μου</a>."
 
 #: ./templates/default/settings-shell/nav.tpl.php:6
 msgid "Toggle navigation"
