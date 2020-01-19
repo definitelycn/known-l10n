@@ -2274,6 +2274,10 @@ msgid ""
 "and <a href=\"%s\">Twitter</a> so your friends know about it?\n\nI bet"
 "you've got some great photos. <%s>Try posting one</a>!"
 msgstr ""
+" Ήταν μεγάλη ενημέρωση. Γιατί να μην <%s>μοιραστείτε τη νέα σας ιστοσελίδα "
+"στο Facebook</a> και το <a href=\"%s\">Twitter</a>, έτσι ώστε οι φίλοι "
+"σας γνωρίζουν γι ' αυτό;\n\nΣτοιχηματίζω ότι έχεις καλές φωτογραφίες. "
+"<%s>Προσπαθήστε να δημοσιεύσετε ένα</a>!"
 
 #: ./templates/default/robot/wizard.tpl.php:20
 msgid ""
