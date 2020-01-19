@@ -2270,8 +2270,8 @@ msgstr "Δείτε το νέο μου @withknown site!"
 
 #: ./templates/default/robot/wizard.tpl.php:9
 msgid ""
-" That was a great update. Why not <%s>share your new website on Facebook</a>"
-"and <a href=\"%s\">Twitter</a> so your friends know about it?\n\nI bet"
+" That was a great update. Why not <%s>share your new website on Facebook</a> "
+"and <a href=\"%s\">Twitter</a> so your friends know about it?\n\nI bet "
 "you've got some great photos. <%s>Try posting one</a>!"
 msgstr ""
 " Ήταν μεγάλη ενημέρωση. Γιατί να μην <%s>μοιραστείτε τη νέα σας ιστοσελίδα "
