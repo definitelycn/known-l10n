@@ -2334,7 +2334,7 @@ msgstr ""
 
 #: ./templates/default/settings-shell/nav.tpl.php:6
 msgid "Toggle navigation"
-msgstr ""
+msgstr "Εναλλαγή πλοήγησης"
 
 #: ./templates/default/settings-shell/toolbar/logged-in.tpl.php:18
 msgid "Site Configuration"
@@ -2365,19 +2365,22 @@ msgstr "Φιλτράρισμα περιεχομένου"
 
 #: ./templates/default/shell/toolbar/logged-in.tpl.php:16
 msgid "Profile"
-msgstr ""
+msgstr "Προφίλ"
+# Prophil
 
 #: ./templates/default/shell/toolbar/logged-in.tpl.php:49
 msgid "Leave feedback"
-msgstr ""
+msgstr "Αφήστε τα σχόλια"
+# Leave comments
 
 #: ./templates/default/shell/toolbar/logged-in.tpl.php:49
 msgid "Feedback"
-msgstr ""
+msgstr "Ανατροφοδότηση"
 
 #: ./templates/default/shell/toolbar/logout.tpl.php:1
 msgid "Sign out"
-msgstr ""
+msgstr "Αποσυνδεθείτε"
+# Log off
 
 #: ./templates/default/shell/toolbar/main.tpl.php:1
 msgid "Skip to main content"
@@ -2393,7 +2396,8 @@ msgstr "Αναζήτηση"
 
 #: ./templates/email/account/invite.tpl.php:2
 msgid "Join us!"
-msgstr ""
+msgstr "Ελάτε μαζί μας!"
+# Come with us!
 
 #: ./templates/email/account/invite.tpl.php:6
 msgid "Hi there! Your friend <strong>%s</strong> has invited you to join <%s>"
