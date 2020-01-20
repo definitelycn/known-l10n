@@ -966,6 +966,10 @@ msgstr ""
 msgid "Your name"
 msgstr ""
 
+#: ./templates/default/account/register.tpl.php:16
+msgid "Henri Matisse"
+msgstr ""
+
 #: ./templates/default/account/register.tpl.php:20
 msgid "Choose a handle"
 msgstr ""
