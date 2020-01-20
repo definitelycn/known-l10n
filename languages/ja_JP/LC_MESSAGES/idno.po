@@ -340,6 +340,8 @@ msgid ""
 "You've registered! You're ready to get started. Why not add a post to say "
 "hello?"
 msgstr ""
+"登録しました!開始する準備ができました。なぜ挨拶する投稿を追加しないのですか?"
+# You're ready to start! Why not add a post to say hello?
 
 #: ./Idno/Pages/Account/Register.php:164
 msgid "We couldn't register you."
