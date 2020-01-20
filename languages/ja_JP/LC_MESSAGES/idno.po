@@ -2400,7 +2400,8 @@ msgstr ""
 
 #: ./templates/default/onboarding/register.tpl.php:13
 msgid "Choose a username"
-msgstr ""
+msgstr "ユーザー名の選択"
+# Select a username
 
 #: ./templates/default/onboarding/register.tpl.php:26
 msgid "(at least 7 characters please)"
@@ -2475,6 +2476,7 @@ msgstr ""
 #: ./templates/default/pages/500.tpl.php:32
 msgid "Oh no! Something went wrong."
 msgstr "大野！ 何かがおかしかった。"
+# Ohno! Something was wrong.
 
 #: ./templates/default/pages/home/nocontent.tpl.php:10
 msgid "We couldn't find anything that matches your search."
