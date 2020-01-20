@@ -2491,8 +2491,12 @@ msgid ""
 "and <a href=\"%s\">Twitter</a> so your friends know about it?\n\nI bet "
 "you've got some great photos. <%s>Try posting one</a>!"
 msgstr ""
-"それは素晴らしい更新でした。"
-# It was a great update.
+"それは素晴らしい更新でした。友達に知らせるために、<%s>Facebook</a>や"
+"<a href=\"%s\">Twitterでこのウェブサイトを共有してみませんか</a>?"
+"\n\nきっと素晴らしい写真を撮ったよ。<%s>投稿してみてください</a>!"
+# It was a great update. Want to share this website on Facebook
+# and Twitter to let your friends know?
+# I'm sure you took some great photos. Try to post!
 
 #: ./templates/default/robot/wizard.tpl.php:20
 msgid ""
