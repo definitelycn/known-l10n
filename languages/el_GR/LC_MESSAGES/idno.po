@@ -2204,7 +2204,7 @@ msgstr ""
 
 #: ./templates/default/pages/403.tpl.php:18
 msgid "Hold on. You don't have access to this content."
-msgstr ""
+msgstr "Περιμένω. Δεν έχετε πρόσβαση σε αυτό το περιεχόμενο."
 
 #: ./templates/default/pages/403.tpl.php:20
 msgid ""
