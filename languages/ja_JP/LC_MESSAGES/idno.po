@@ -2549,6 +2549,10 @@ msgid ""
 "href=\"{{baseurl}}account/settings/feedback/\">send a message to my human "
 "creators</a>."
 msgstr ""
+"01011001 01101111 00100000 01111001 01101111 00100000 01111001 01101111 "
+"\n\nそうやって私の出身地に挨拶するのです。"
+
+# That's how I greet my hometown
 
 #: ./templates/default/settings-shell/nav.tpl.php:6
 #: ./templates/default/shell/toolbar/main.tpl.php:7
@@ -2613,7 +2617,7 @@ msgstr "検索"
 #: ./templates/email/account/invite.tpl.php:2
 #: ./templates/email-text/account/invite.tpl.php:1
 msgid "Join us!"
-msgstr ""
+msgstr "私たちに参加!"
 
 #: ./templates/email/account/invite.tpl.php:6
 msgid "Hi there! Your friend <strong>%s</strong> has invited you to join <%s>"
@@ -2660,7 +2664,7 @@ msgstr ""
 
 #: ./known.php:110
 msgid "Returns the current Known version as defined in version.known"
-msgstr ""
+msgstr "ファイルで定義されている現在の既知のバージョンを返します version.known"
 
 #: ./known.php:118
 msgid ""
