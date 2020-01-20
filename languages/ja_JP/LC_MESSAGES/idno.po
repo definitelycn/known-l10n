@@ -2478,7 +2478,8 @@ msgstr ""
 
 #: ./templates/default/robot/post.tpl.php:19
 msgid "Power down robots. I can take it from here."
-msgstr ""
+msgstr "ロボットの電源を切ります。私はここからそれを取ることができます。"
+# Turn off the robot.
 
 #: ./templates/default/robot/wizard.tpl.php:7
 msgid "Check out my new @withknown site!"
@@ -2499,15 +2500,16 @@ msgstr ""
 
 #: ./templates/default/robot/wizard.tpl.php:28
 msgid "Beep!"
-msgstr ""
+msgstr "ビープ 音！"
 
 #: ./templates/default/robot/wizard.tpl.php:34
 msgid "Zeep!"
-msgstr ""
+msgstr "ゼープ!"
 
 #: ./templates/default/robot/wizard.tpl.php:40
 msgid "Beep boop!"
-msgstr ""
+msgstr "ビープブープ!"
+# Beep-boo!
 
 #: ./templates/default/robot/wizard.tpl.php:47
 msgid ""
@@ -2543,11 +2545,13 @@ msgstr "サイト構成"
 
 #: ./templates/default/shell/pagination.tpl.php:28
 msgid "Newer"
-msgstr ""
+msgstr "新しい"
+# New
 
 #: ./templates/default/shell/pagination.tpl.php:29
 msgid "Older"
-msgstr ""
+msgstr "古い"
+# Old
 
 #: ./templates/default/shell/toolbar/content/all.tpl.php:4
 msgid "All content"
