@@ -2026,7 +2026,8 @@ msgstr "コメント"
 
 #: ./templates/default/content/feed/end.tpl.php:106
 msgid "Also on"
-msgstr ""
+msgstr "また、オン"
+# In addition, on
 
 #: ./templates/default/content/notification/like.tpl.php:5
 msgid "liked"
