@@ -996,21 +996,24 @@ msgstr ""
 
 #: ./templates/default/account/register.tpl.php:34
 msgid "At least 7 characters please."
-msgstr ""
+msgstr "7文字以上お願いします。"
+# I'd like to have at least 7 characters.
 
 #: ./templates/default/account/register.tpl.php:37
 #: ./templates/default/account/register.tpl.php:44
 msgid "secret-password"
-msgstr ""
+msgstr "秘密パスワード"
 
 #: ./templates/default/account/register.tpl.php:42
 #: ./templates/default/onboarding/register.tpl.php:33
 msgid "Your password again"
-msgstr ""
+msgstr "パスワードをもう一度"
+# Password again
 
 #: ./templates/default/account/register.tpl.php:49
 msgid "Create Account"
-msgstr ""
+msgstr "アカウントの作成"
+# Create an account
 
 #: ./templates/default/account/settings/feedback/confirm.tpl.php:5
 msgid "Message received!"
@@ -2394,7 +2397,8 @@ msgstr ""
 
 #: ./templates/default/onboarding/register.tpl.php:26
 msgid "(at least 7 characters please)"
-msgstr ""
+msgstr "(7文字以上お願いします)"
+# (7 characters or more, please)
 
 #: ./templates/default/pages/403.tpl.php:7
 msgid "Click here to log in."
