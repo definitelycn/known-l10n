@@ -818,7 +818,7 @@ msgstr ""
 
 #: ./templates/default/account/password/reset.tpl.php:16
 msgid "Your email address"
-msgstr ""
+msgstr "Η διεύθυνση ηλεκτρονικού ταχυδρομείου σας"
 
 #: ./templates/default/account/password/reset.tpl.php:17
 msgid "The address associated with your %s account."
