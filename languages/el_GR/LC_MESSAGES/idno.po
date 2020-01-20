@@ -261,7 +261,7 @@ msgstr ""
 
 #: ./Idno/Pages/Account/Register.php:39
 msgid "Create a new account"
-msgstr ""
+msgstr "Δημιουργία νέου λογαριασμού"
 
 #: ./Idno/Pages/Account/Register.php:80
 msgid "Please enter a username and email address."
