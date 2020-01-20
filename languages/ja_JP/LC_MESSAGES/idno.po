@@ -2063,11 +2063,14 @@ msgstr "プレビューの削除"
 
 #: ./templates/default/entity/annotations/comment/main.tpl.php:16
 msgid "Add a comment ..."
-msgstr ""
+msgstr "コメントを追加する"
+# コメントを追加...
+# Add comment ...
 
 #: ./templates/default/entity/annotations/comment/main.tpl.php:21
 msgid "Leave Comment"
-msgstr ""
+msgstr "コメントを残す"
+# Leave a comment
 
 #: ./templates/default/entity/annotations/likes.tpl.php:24
 msgid "liked this post"
