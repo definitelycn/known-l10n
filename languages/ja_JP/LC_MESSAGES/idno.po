@@ -302,7 +302,8 @@ msgstr ""
 
 #: ./Idno/Pages/Account/Register.php:140
 msgid "Usernames can only have letters, numbers and underscores."
-msgstr ""
+msgstr "ユーザー名には、文字、数字、アンダースコアのみを含めることができます。"
+# A user name can contain only letters, numbers, and underscores.
 
 #: ./Idno/Pages/Account/Register.php:143
 #: ./Idno/Pages/Admin/Users.php:168
@@ -995,7 +996,7 @@ msgstr ""
 #: ./templates/default/account/register.tpl.php:33
 #: ./templates/default/onboarding/register.tpl.php:25
 msgid "Create a password"
-msgstr ""
+msgstr "パスワードを作成する"
 
 #: ./templates/default/account/register.tpl.php:34
 msgid "At least 7 characters please."
