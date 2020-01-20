@@ -2483,7 +2483,7 @@ msgstr "ロボットの電源を切ります。私はここからそれを取る
 
 #: ./templates/default/robot/wizard.tpl.php:7
 msgid "Check out my new @withknown site!"
-msgstr ""
+msgstr "私の新しい@withknownサイトをチェックしてください!"
 
 #: ./templates/default/robot/wizard.tpl.php:9
 msgid ""
@@ -2491,12 +2491,16 @@ msgid ""
 "and <a href=\"%s\">Twitter</a> so your friends know about it?\n\nI bet "
 "you've got some great photos. <%s>Try posting one</a>!"
 msgstr ""
+"それは素晴らしい更新でした。"
+# It was a great update.
 
 #: ./templates/default/robot/wizard.tpl.php:20
 msgid ""
 "Welcome to your new Known site! I'm Aleph, your very own welcome robot. "
 "Let's get started by <%s>adding your first status update</a>!"
 msgstr ""
+"あなたの新しい既知のサイトへようこそ! 私はアレフ、非常に独自の歓迎ロボットです。"
+"<%s>最初のステータス更新を追加し</a>て始めましょう!"
 
 #: ./templates/default/robot/wizard.tpl.php:28
 msgid "Beep!"
