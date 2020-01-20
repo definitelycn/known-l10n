@@ -961,12 +961,14 @@ msgstr ""
 #: ./templates/default/account/register.tpl.php:5
 #: ./templates/default/onboarding/register.tpl.php:3
 msgid "Hello there!"
-msgstr ""
+msgstr "こんにちは！"
+# Hello!
 
 #: ./templates/default/account/register.tpl.php:7
 #: ./templates/default/onboarding/register.tpl.php:5
 msgid "Create a new account to get started."
-msgstr ""
+msgstr "開始する新しいアカウントを作成します。"
+# Create a new account to start
 
 #: ./templates/default/account/register.tpl.php:14
 #: ./templates/default/account/settings.tpl.php:27
