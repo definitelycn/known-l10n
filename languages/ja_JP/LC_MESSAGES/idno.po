@@ -277,7 +277,8 @@ msgstr ""
 #: ./Idno/Pages/Account/Register.php:31
 #: ./Idno/Pages/Account/Register.php:69
 msgid "Your invitation doesn't seem to be valid, or has expired."
-msgstr ""
+msgstr "招待が有効でないか、有効期限が切れています。"
+# The invitation is not valid or has expired.
 
 #: ./Idno/Pages/Account/Register.php:39
 #: ./Idno/Pages/Account/Register.php:47
