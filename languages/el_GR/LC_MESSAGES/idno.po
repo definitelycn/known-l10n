@@ -822,7 +822,7 @@ msgstr ""
 
 #: ./templates/default/account/password/reset.tpl.php:23
 msgid "New password (7 characters or more)"
-msgstr ""
+msgstr "Νέος κωδικός πρόσβασης (7 χαρακτήρες ή περισσότεροι)"
 
 #: ./templates/default/account/password/reset.tpl.php:29
 msgid "Retype password"
@@ -869,19 +869,21 @@ msgstr ""
 
 #: ./templates/default/account/register.tpl.php:5
 msgid "Hello there!"
-msgstr ""
+msgstr "Γεια σου!"
+# Hi!
 
 #: ./templates/default/account/register.tpl.php:7
 msgid "Create a new account to get started."
-msgstr ""
+msgstr "Δημιουργήστε έναν νέο λογαριασμό για να ξεκινήσετε."
 
 #: ./templates/default/account/register.tpl.php:14
 msgid "Your name"
-msgstr ""
+msgstr "Το όνομά σου"
 
 #: ./templates/default/account/register.tpl.php:20
 msgid "Choose a handle"
-msgstr ""
+msgstr "Επιλογή λαβής"
+# Pick a handle
 
 #: ./templates/default/account/register.tpl.php:21
 msgid ""
@@ -891,27 +893,28 @@ msgstr ""
 
 #: ./templates/default/account/register.tpl.php:23
 msgid "username"
-msgstr ""
+msgstr "Όνομα χρήστη"
 
 #: ./templates/default/account/register.tpl.php:33
 msgid "Create a password"
-msgstr ""
+msgstr "Δημιουργία κωδικού πρόσβασης"
 
 #: ./templates/default/account/register.tpl.php:34
 msgid "At least 7 characters please."
-msgstr ""
+msgstr "Τουλάχιστον 7 χαρακτήρες παρακαλώ."
 
 #: ./templates/default/account/register.tpl.php:37
 msgid "secret-password"
-msgstr ""
+msgstr "μυστικός κωδικός πρόσβασης"
 
 #: ./templates/default/account/register.tpl.php:42
 msgid "Your password again"
-msgstr ""
+msgstr "Ο κωδικός πρόσβασής σας ξανά"
 
 #: ./templates/default/account/register.tpl.php:49
 msgid "Create Account"
-msgstr ""
+msgstr "Δημιουργία λογαριασμού"
+# Create an Account
 
 #: ./templates/default/account/settings/feedback/confirm.tpl.php:5
 msgid "Message received!"
@@ -2192,15 +2195,17 @@ msgstr ""
 
 #: ./templates/default/onboarding/register.tpl.php:13
 msgid "Choose a username"
-msgstr ""
+msgstr "Επιλέξτε ένα όνομα χρήστη"
+# Select a username
 
 #: ./templates/default/onboarding/register.tpl.php:26
 msgid "(at least 7 characters please)"
-msgstr ""
+msgstr "(Τουλάχιστον 7 χαρακτήρες παρακαλώ)"
 
 #: ./templates/default/pages/403.tpl.php:7
 msgid "Click here to log in."
-msgstr ""
+msgstr "Κάντε κλικ εδώ για να συνδεθείτε."
+# Click here to connect
 
 #: ./templates/default/pages/403.tpl.php:18
 msgid "Hold on. You don't have access to this content."
