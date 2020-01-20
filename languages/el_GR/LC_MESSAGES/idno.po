@@ -265,22 +265,25 @@ msgstr "Δημιουργία νέου λογαριασμού"
 
 #: ./Idno/Pages/Account/Register.php:80
 msgid "Please enter a username and email address."
-msgstr ""
+msgstr "Παρακαλώ εισάγετε ένα όνομα χρήστη και μια διεύθυνση ηλεκτρονικού ταχυδρομείου."
 
 #: ./Idno/Pages/Account/Register.php:134
 msgid "Please create a username."
-msgstr ""
+msgstr "Δημιουργήστε ένα όνομα χρήστη."
+# Create a username
 
 #: ./Idno/Pages/Account/Register.php:137
 msgid "Your username is too long."
-msgstr ""
+msgstr "Το όνομα χρήστη σας είναι πολύ μεγάλο."
 
 #: ./Idno/Pages/Account/Register.php:140
 msgid "Usernames can only have letters, numbers and underscores."
 msgstr ""
+"Τα ονόματα χρήστη μπορούν να έχουν μόνο γράμματα, αριθμούς και "
+"χαρακτήρες υπογράμμισης."
 
 #: ./Idno/Pages/Account/Register.php:143
-msgid "Usernames can't contain a slash ('/"
+msgid "Usernames can't contain a slash %s character."
 msgstr ""
 
 #: ./Idno/Pages/Account/Register.php:146
@@ -309,6 +312,10 @@ msgstr ""
 msgid ""
 "You've registered! You're ready to get started. Why not add a post to say "
 "hello?"
+msgstr ""
+
+#: ./Idno/Pages/Account/Register.php:164
+msgid "We couldn't register you."
 msgstr ""
 
 #: ./Idno/Pages/Account/Settings/FeedbackConfirm.php:17
@@ -2398,7 +2405,7 @@ msgstr ""
 
 #: ./templates/default/shell/toolbar/register.tpl.php:1
 msgid "Register"
-msgstr ""
+msgstr "Εγγράψου"
 
 #: ./templates/default/shell/toolbar/search.tpl.php:17
 msgid "Search"
