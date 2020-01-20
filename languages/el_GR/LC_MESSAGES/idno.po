@@ -316,7 +316,7 @@ msgstr ""
 
 #: ./Idno/Pages/Account/Register.php:164
 msgid "We couldn't register you."
-msgstr ""
+msgstr "Δεν μπορέσαμε να σε καταχωρήσουν."
 
 #: ./Idno/Pages/Account/Settings/FeedbackConfirm.php:17
 msgid "Thank you for your feedback!"

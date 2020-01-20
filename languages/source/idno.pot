@@ -333,6 +333,10 @@ msgid ""
 "hello?"
 msgstr ""
 
+#: ./Idno/Pages/Account/Register.php:164
+msgid "We couldn't register you."
+msgstr ""
+
 #: ./Idno/Pages/Account/Settings/FeedbackConfirm.php:17
 msgid "Thank you for your feedback!"
 msgstr ""
