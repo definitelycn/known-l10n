@@ -346,7 +346,7 @@ msgstr ""
 #: ./Idno/Pages/Account/Settings/Feedback.php:19
 #: ./templates/default/account/settings/feedback.tpl.php:37
 msgid "Send feedback"
-msgstr ""
+msgstr "フィードバックの送信"
 
 #: ./Idno/Pages/Account/Settings/Feedback.php:42
 msgid "Thanks! We received your feedback."
@@ -443,7 +443,7 @@ msgstr "ツールとアプリ"
 #: ./Idno/Pages/Admin/About.php:20
 #: ./templates/default/admin/about.tpl.php:5
 msgid "About Known"
-msgstr ""
+msgstr "既知について"
 
 #: ./Idno/Pages/Admin/Dependencies.php:20
 #: ./templates/default/admin/dependencies.tpl.php:4
@@ -523,7 +523,8 @@ msgstr ""
 
 #: ./Idno/Pages/Admin/Home.php:21
 msgid "Administration"
-msgstr ""
+msgstr "管理"
+# Management
 
 #: ./Idno/Pages/Admin/Import.php:18
 msgid "Import data"
@@ -821,7 +822,7 @@ msgstr ""
 #: ./templates/default/admin/home.tpl.php:264
 #: ./templates/default/forms/components/usersearch/user.tpl.php:67
 msgid "Yes"
-msgstr ""
+msgstr "はい"
 
 #: ./templates/default/account/export.tpl.php:29
 #: ./templates/default/admin/email.tpl.php:120
@@ -833,7 +834,7 @@ msgstr ""
 #: ./templates/default/admin/home.tpl.php:247
 #: ./templates/default/admin/home.tpl.php:265
 msgid "No"
-msgstr ""
+msgstr "いいえ"
 
 #: ./templates/default/account/export.tpl.php:34
 msgid ""
@@ -995,39 +996,46 @@ msgstr ""
 
 #: ./templates/default/account/register.tpl.php:34
 msgid "At least 7 characters please."
-msgstr ""
+msgstr "7文字以上お願いします。"
+# I'd like to have at least 7 characters.
 
 #: ./templates/default/account/register.tpl.php:37
 #: ./templates/default/account/register.tpl.php:44
 msgid "secret-password"
-msgstr ""
+msgstr "秘密パスワード"
 
 #: ./templates/default/account/register.tpl.php:42
 #: ./templates/default/onboarding/register.tpl.php:33
 msgid "Your password again"
-msgstr ""
+msgstr "パスワードをもう一度"
+# Password again
 
 #: ./templates/default/account/register.tpl.php:49
 msgid "Create Account"
-msgstr ""
+msgstr "アカウントの作成"
+# Create an account
 
 #: ./templates/default/account/settings/feedback/confirm.tpl.php:5
 msgid "Message received!"
-msgstr ""
+msgstr "メッセージを受信しました!"
+# A message has been received
 
 #: ./templates/default/account/settings/feedback/confirm.tpl.php:9
 msgid "Thanks for sending along your thoughts. We'll read them right away."
-msgstr ""
+msgstr "あなたの考えに沿って送信してくれてありがとう。すぐに読みます。"
+# Thanks for sending along your thoughts. I'll read it right away
 
 #: ./templates/default/account/settings/feedback/confirm.tpl.php:22
 msgid ""
 "Feedback is a gift. For more information about Known, <a "
 "href=\"https://withknown.com/\">please visit our homepage</a>"
 msgstr ""
+"フィードバックは贈り物です。既知の詳細については、<a "
+"href=\"https://withknown.com/\">当社のホームページをご覧ください</a>"
 
 #: ./templates/default/account/settings/feedback.tpl.php:5
 msgid "Share your feedback"
-msgstr ""
+msgstr "フィードバックを共有する"
 
 #: ./templates/default/account/settings/feedback.tpl.php:9
 msgid ""
@@ -1035,26 +1043,31 @@ msgid ""
 "thoughts, suggestions, or ideas. We will personally read all of your "
 "feedback."
 msgstr ""
+"既知のチームと何かを共有したいですか?私たちはあなたの考え、提案、またはアイ"
+"デアを読んでみたいと思います。私たちは個人的にあなたのフィードバックのすべ"
+"てを読みます。"
 
 #: ./templates/default/account/settings/feedback.tpl.php:21
 msgid "From"
-msgstr ""
+msgstr "差出人"
 
 #: ./templates/default/account/settings/feedback.tpl.php:26
 msgid "To"
-msgstr ""
+msgstr "宛先"
+# Destination
 
 #: ./templates/default/account/settings/feedback.tpl.php:29
 msgid "Subject"
-msgstr ""
+msgstr "件名"
 
 #: ./templates/default/account/settings/feedback.tpl.php:29
 msgid "Feedback for the Known team"
-msgstr ""
+msgstr "既知のチームに対するフィードバック"
 
 #: ./templates/default/account/settings/feedback.tpl.php:32
 msgid "Let us know what you think."
-msgstr ""
+msgstr "ご思いをお聞かせください"
+# Tell us what you think.
 
 #: ./templates/default/account/settings/following/bookmarklet.tpl.php:3
 #: ./templates/default/account/settings/following/mf2user.tpl.php:105
@@ -2002,7 +2015,7 @@ msgstr "はこれを公開しました"
 
 #: ./templates/default/content/end.tpl.php:55
 msgid "Star this!"
-msgstr ""
+msgstr "スターこれ!"
 
 #: ./templates/default/content/end.tpl.php:61
 #: ./templates/default/content/feed/end.tpl.php:28
@@ -2026,23 +2039,27 @@ msgstr "コメント"
 
 #: ./templates/default/content/feed/end.tpl.php:106
 msgid "Also on"
-msgstr ""
+msgstr "また、オン"
+# In addition, on
 
 #: ./templates/default/content/notification/like.tpl.php:5
 msgid "liked"
-msgstr ""
+msgstr "好き"
+# Like
 
 #: ./templates/default/content/notification/mention.tpl.php:5
 msgid "mentioned"
-msgstr ""
+msgstr "言及"
+# Mention
 
 #: ./templates/default/content/notification/reply.tpl.php:5
 msgid "replied to"
-msgstr ""
+msgstr "に返信"
+# reply to
 
 #: ./templates/default/content/notification/reply.tpl.php:7
 msgid "Reply"
-msgstr ""
+msgstr "返信"
 
 #: ./templates/default/content/notification/rsvp.tpl.php:5
 msgid "RSVPed to"
@@ -2050,7 +2067,8 @@ msgstr ""
 
 #: ./templates/default/content/notification/share.tpl.php:5
 msgid "shared"
-msgstr ""
+msgstr "共有"
+# Share
 
 #: ./templates/default/content/unfurl.tpl.php:11
 msgid "Refresh preview"
@@ -2062,15 +2080,19 @@ msgstr "プレビューの削除"
 
 #: ./templates/default/entity/annotations/comment/main.tpl.php:16
 msgid "Add a comment ..."
-msgstr ""
+msgstr "コメントを追加する"
+# コメントを追加...
+# Add comment ...
 
 #: ./templates/default/entity/annotations/comment/main.tpl.php:21
 msgid "Leave Comment"
-msgstr ""
+msgstr "コメントを残す"
+# Leave a comment
 
 #: ./templates/default/entity/annotations/likes.tpl.php:24
 msgid "liked this post"
-msgstr ""
+msgstr "この投稿が気に入りました"
+# I like this post
 
 #: ./templates/default/entity/annotations/mentions.tpl.php:18
 msgid "Mentioned in"
@@ -2094,7 +2116,8 @@ msgstr ""
 
 #: ./templates/default/entity/annotations/shares.tpl.php:21
 msgid "reshared this post"
-msgstr ""
+msgstr "この投稿を再共有"
+# Reshare this post
 
 #: ./templates/default/entity/search.tpl.php:18
 msgid "Nothing found."
@@ -2177,11 +2200,12 @@ msgstr "画像を選択する"
 
 #: ./templates/default/file/picker/image.tpl.php:29
 msgid "Upload this image"
-msgstr ""
+msgstr "この画像をアップロードする"
 
 #: ./templates/default/file/picker/image.tpl.php:49
 msgid "Choose a different image"
-msgstr ""
+msgstr "別の画像を選択する"
+# Select a different image
 
 #: ./templates/default/following/add.tpl.php:3
 msgid "Add the address of a site to follow"
@@ -2340,7 +2364,7 @@ msgstr ""
 
 #: ./templates/default/onboarding/connect.tpl.php:14
 msgid "Continue"
-msgstr ""
+msgstr "続行"
 
 #: ./templates/default/onboarding/connect.tpl.php:19
 msgid "Don't worry, you can always connect these later."
@@ -2380,7 +2404,8 @@ msgstr ""
 
 #: ./templates/default/onboarding/register.tpl.php:26
 msgid "(at least 7 characters please)"
-msgstr ""
+msgstr "(7文字以上お願いします)"
+# (7 characters or more, please)
 
 #: ./templates/default/pages/403.tpl.php:7
 msgid "Click here to log in."
@@ -2453,7 +2478,8 @@ msgstr ""
 
 #: ./templates/default/robot/post.tpl.php:19
 msgid "Power down robots. I can take it from here."
-msgstr ""
+msgstr "ロボットの電源を切ります。私はここからそれを取ることができます。"
+# Turn off the robot.
 
 #: ./templates/default/robot/wizard.tpl.php:7
 msgid "Check out my new @withknown site!"
@@ -2474,15 +2500,16 @@ msgstr ""
 
 #: ./templates/default/robot/wizard.tpl.php:28
 msgid "Beep!"
-msgstr ""
+msgstr "ビープ 音！"
 
 #: ./templates/default/robot/wizard.tpl.php:34
 msgid "Zeep!"
-msgstr ""
+msgstr "ゼープ!"
 
 #: ./templates/default/robot/wizard.tpl.php:40
 msgid "Beep boop!"
-msgstr ""
+msgstr "ビープブープ!"
+# Beep-boo!
 
 #: ./templates/default/robot/wizard.tpl.php:47
 msgid ""
@@ -2518,11 +2545,13 @@ msgstr "サイト構成"
 
 #: ./templates/default/shell/pagination.tpl.php:28
 msgid "Newer"
-msgstr ""
+msgstr "新しい"
+# New
 
 #: ./templates/default/shell/pagination.tpl.php:29
 msgid "Older"
-msgstr ""
+msgstr "古い"
+# Old
 
 #: ./templates/default/shell/toolbar/content/all.tpl.php:4
 msgid "All content"
