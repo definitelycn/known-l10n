@@ -1027,7 +1027,7 @@ msgstr ""
 
 #: ./templates/default/account/settings/feedback.tpl.php:5
 msgid "Share your feedback"
-msgstr ""
+msgstr "フィードバックを共有する"
 
 #: ./templates/default/account/settings/feedback.tpl.php:9
 msgid ""
@@ -1035,6 +1035,9 @@ msgid ""
 "thoughts, suggestions, or ideas. We will personally read all of your "
 "feedback."
 msgstr ""
+"既知のチームと何かを共有したいですか?私たちはあなたの考え、提案、またはアイ"
+"デアを読んでみたいと思います。私たちは個人的にあなたのフィードバックのすべ"
+"てを読みます。"
 
 #: ./templates/default/account/settings/feedback.tpl.php:21
 msgid "From"
