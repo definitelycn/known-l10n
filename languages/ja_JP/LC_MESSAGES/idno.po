@@ -283,7 +283,7 @@ msgstr "招待が有効でないか、有効期限が切れています。"
 #: ./Idno/Pages/Account/Register.php:39
 #: ./Idno/Pages/Account/Register.php:47
 msgid "Create a new account"
-msgstr ""
+msgstr "新しいアカウントを作成する"
 
 #: ./Idno/Pages/Account/Register.php:80
 #: ./Idno/Pages/Admin/Users.php:143
