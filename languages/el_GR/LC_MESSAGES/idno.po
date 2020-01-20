@@ -283,6 +283,7 @@ msgstr ""
 "χαρακτήρες υπογράμμισης."
 
 #: ./Idno/Pages/Account/Register.php:143
+#: ./Idno/Pages/Admin/Users.php:168
 msgid "Usernames can't contain a slash %s character."
 msgstr ""
 
@@ -590,10 +591,6 @@ msgstr ""
 
 #: ./Idno/Pages/Admin/Users.php:141
 msgid "Please make sure your passwords match and aren't empty."
-msgstr ""
-
-#: ./Idno/Pages/Admin/Users.php:168
-msgid "Usernames can't contain a slash %s character."
 msgstr ""
 
 #: ./Idno/Pages/Admin/Users.php:182
