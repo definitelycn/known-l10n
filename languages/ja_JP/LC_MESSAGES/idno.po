@@ -50,7 +50,7 @@ msgstr "このコンテンツはここにはありません。"
 
 #: ./Idno/Common/Page.php:757
 msgid "This page can't be found."
-msgstr ""
+msgstr "このページが見つかりません。"
 
 #: ./Idno/Common/Page.php:799
 msgid "Forbidden"
@@ -2428,7 +2428,8 @@ msgstr ""
 
 #: ./templates/default/pages/404.tpl.php:5
 msgid "Oops! We couldn't find it."
-msgstr ""
+msgstr "おっと！見つかりませんでした。"
+# Oops! Not found.
 
 #: ./templates/default/pages/404.tpl.php:7
 msgid ""
@@ -2649,6 +2650,10 @@ msgstr ""
 #: ./templates/email/shell.tpl.php:72
 msgid "Powered by"
 msgstr ""
+# 協力を受けています
+# We're cooperating
+# 私たちは協力しています。
+# We are working together.
 
 #: ./templates/email-text/account/invite.tpl.php:21
 msgid "Hi there! Your friend *%s* has invited you to join %s"
@@ -2665,6 +2670,7 @@ msgstr ""
 #: ./known.php:110
 msgid "Returns the current Known version as defined in version.known"
 msgstr "ファイルで定義されている現在の既知のバージョンを返します version.known"
+# Returns the current known version defined in the file version.known
 
 #: ./known.php:118
 msgid ""
