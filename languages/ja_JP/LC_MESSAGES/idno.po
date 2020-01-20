@@ -1014,17 +1014,21 @@ msgstr ""
 
 #: ./templates/default/account/settings/feedback/confirm.tpl.php:5
 msgid "Message received!"
-msgstr ""
+msgstr "メッセージを受信しました!"
+# A message has been received
 
 #: ./templates/default/account/settings/feedback/confirm.tpl.php:9
 msgid "Thanks for sending along your thoughts. We'll read them right away."
-msgstr ""
+msgstr "あなたの考えに沿って送信してくれてありがとう。すぐに読みます。"
+# Thanks for sending along your thoughts. I'll read it right away
 
 #: ./templates/default/account/settings/feedback/confirm.tpl.php:22
 msgid ""
 "Feedback is a gift. For more information about Known, <a "
 "href=\"https://withknown.com/\">please visit our homepage</a>"
 msgstr ""
+"フィードバックは贈り物です。既知の詳細については、<a "
+"href=\"https://withknown.com/\">当社のホームページをご覧ください</a>"
 
 #: ./templates/default/account/settings/feedback.tpl.php:5
 msgid "Share your feedback"
