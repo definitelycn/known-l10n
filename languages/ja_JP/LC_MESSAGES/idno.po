@@ -1508,6 +1508,8 @@ msgid ""
 "On this page you can change the basic settings for your site, like the site "
 "name and the number of posts visible on each page."
 msgstr ""
+"このページでは、サイト名や各ページに表示される投稿の数など、"
+"サイトの基本設定を変更できます。"
 
 #: ./templates/default/admin/homepage.tpl.php:6
 msgid "Homepage content"
@@ -1545,12 +1547,12 @@ msgstr "保存"
 
 #: ./templates/default/admin/home.tpl.php:15
 msgid "Site Details"
-msgstr ""
+msgstr "サイトの詳細"
 
 #: ./templates/default/admin/home.tpl.php:20
 #: ./templates/default/admin/home.tpl.php:23
 msgid "Site name"
-msgstr ""
+msgstr "サイト名"
 
 #: ./templates/default/admin/home.tpl.php:27
 msgid "Give your site a name!"
@@ -1558,11 +1560,13 @@ msgstr ""
 
 #: ./templates/default/admin/home.tpl.php:35
 msgid "Site summary"
-msgstr ""
+msgstr "サイトの概要"
+# Site overview
 
 #: ./templates/default/admin/home.tpl.php:38
 msgid "Site description"
-msgstr ""
+msgstr "サイトの説明"
+# Description of the site
 
 #: ./templates/default/admin/home.tpl.php:42
 msgid "What's your site about?"
