@@ -333,6 +333,10 @@ msgid ""
 "hello?"
 msgstr ""
 
+#: ./Idno/Pages/Account/Register.php:164
+msgid "We couldn't register you."
+msgstr ""
+
 #: ./Idno/Pages/Account/Settings/FeedbackConfirm.php:17
 msgid "Thank you for your feedback!"
 msgstr ""
@@ -975,6 +979,10 @@ msgstr "Crea una nueva cuenta para empezar."
 msgid "Your name"
 msgstr "Te llamas"
 
+#: ./templates/default/account/register.tpl.php:16
+msgid "Henri Matisse"
+msgstr ""
+
 #: ./templates/default/account/register.tpl.php:20
 msgid "Choose a handle"
 msgstr "Elija un asa"
@@ -984,6 +992,9 @@ msgid ""
 "Handles identify you throughout the site. Something simple is best: for "
 "example, <em>janedoe</em>."
 msgstr ""
+"Los identificadores le identifican en todo el sitio. Algo simple es lo "
+"mejor: por ejemplo, <em>antonio</em>"
+"Identifiers"
 
 #: ./templates/default/account/register.tpl.php:23
 msgid "username"
