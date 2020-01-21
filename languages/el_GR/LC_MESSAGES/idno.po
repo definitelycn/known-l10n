@@ -2051,11 +2051,11 @@ msgstr ""
 
 #: ./templates/default/forms/components/usersearch/user.tpl.php:27
 msgid "Joined"
-msgstr ""
+msgstr "Εντάχθηκαν"
 
 #: ./templates/default/forms/components/usersearch/user.tpl.php:35
 msgid "Last update posted"
-msgstr ""
+msgstr "Τελευταία ενημέρωση δημοσιεύτηκε"
 
 #: ./templates/default/forms/components/usersearch/user.tpl.php:57
 msgid "Remote member"
@@ -2063,7 +2063,7 @@ msgstr ""
 
 #: ./templates/default/forms/components/usersearch/user.tpl.php:62
 msgid "Administrator"
-msgstr ""
+msgstr "Διαχειριστή"
 
 #: ./templates/default/forms/components/usersearch/user.tpl.php:65
 msgid "Remove rights"
@@ -2076,7 +2076,7 @@ msgstr "Πρότυπο μέλος"
 
 #: ./templates/default/forms/components/usersearch/user.tpl.php:72
 msgid "Make admin"
-msgstr ""
+msgstr "Κάντε τον διαχειριστή"
 
 #: ./templates/default/forms/components/usersearch/user.tpl.php:86
 msgid "Clear"
@@ -2091,6 +2091,8 @@ msgid ""
 "Are you sure? The user will be logged out and will no longer be able to log "
 "in or post."
 msgstr ""
+"Είσαι σίγουρος? Ο χρήστης θα αποσυνδεθεί και δεν θα είναι πλέον σε θέση να "
+"συνδεθείτε ή να δημοσιεύσετε."
 
 #: ./templates/default/forms/components/usersearch/user.tpl.php:90
 msgid "Are you sure? This will delete this user and all their content."
