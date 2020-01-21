@@ -548,7 +548,7 @@ msgstr ""
 
 #: ./Idno/Pages/Admin/Users.php:32
 msgid "User Management"
-msgstr ""
+msgstr "Διαχείριση χρηστών"
 
 #: ./Idno/Pages/Admin/Users.php:50
 msgid "%s was given administration rights."
@@ -1752,22 +1752,25 @@ msgstr ""
 #: ./templates/default/admin/users.tpl.php:9
 msgid "View the users registered for your site, and invite new users to join."
 msgstr ""
+"Προβάλετε τους χρήστες που είναι εγγεγραμμένοι στον ιστότοπό σας και "
+"προσκαλέστε νέους χρήστες να συμμετάσχουν."
+# subscribed
 
 #: ./templates/default/admin/users.tpl.php:17
 msgid "Manage site users"
-msgstr ""
+msgstr "Διαχείριση χρηστών τοποθεσίας"
 
 #: ./templates/default/admin/users.tpl.php:20
 msgid "Your site has"
-msgstr ""
+msgstr "Ο ιστότοπός σας έχει"
 
 #: ./templates/default/admin/users.tpl.php:21
 msgid "users"
-msgstr ""
+msgstr "χρήστες"
 
 #: ./templates/default/admin/users.tpl.php:23
 msgid "user"
-msgstr ""
+msgstr "χρήστη"
 
 #: ./templates/default/admin/users.tpl.php:45
 msgid "Invite new users"
