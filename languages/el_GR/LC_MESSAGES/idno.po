@@ -898,10 +898,14 @@ msgid ""
 "Handles identify you throughout the site. Something simple is best: for "
 "example, <em>janedoe</em>."
 msgstr ""
+"Οι λαβές σας αναγνωρίζουν σε όλη την τοποθεσία. Κάτι απλό είναι καλύτερο: "
+"για παράδειγμα, <em>aristotle</em>."
 
 #: ./templates/default/account/register.tpl.php:23
 msgid "username"
-msgstr "Όνομα χρήστη"
+msgstr ""
+#msgstr "Όνομα χρήστη"
+# Hellenic characters will be rejected
 
 #: ./templates/default/account/register.tpl.php:33
 msgid "Create a password"
