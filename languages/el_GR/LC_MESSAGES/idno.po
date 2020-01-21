@@ -2068,7 +2068,8 @@ msgstr ""
 
 #: ./templates/default/forms/components/usersearch/user.tpl.php:71
 msgid "Standard member"
-msgstr ""
+msgstr "Πρότυπο μέλος"
+# model member
 
 #: ./templates/default/forms/components/usersearch/user.tpl.php:72
 msgid "Make admin"
@@ -2090,7 +2091,7 @@ msgstr ""
 
 #: ./templates/default/forms/components/usersearch/user.tpl.php:90
 msgid "Are you sure? This will delete this user and all their content."
-msgstr ""
+msgstr "Είσαι σίγουρος? Αυτό θα διαγράψει αυτόν το χρήστη και όλο το περιεχόμενό τους."
 
 #: ./templates/default/forms/input/image-file.tpl.php:58
 msgid "Are you sure you want to permanently delete this?"
