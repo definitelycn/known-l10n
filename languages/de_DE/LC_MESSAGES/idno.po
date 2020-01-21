@@ -417,7 +417,7 @@ msgstr "Tools und Anwendungen"
 
 #: ./Idno/Pages/Admin/About.php:20
 msgid "About Known"
-msgstr ""
+msgstr "Über Known"
 
 #: ./Idno/Pages/Admin/Dependencies.php:20
 msgid "Dependencies"
@@ -1178,11 +1178,11 @@ msgstr ""
 
 #: ./templates/default/admin/about.tpl.php:15
 msgid "is a social publishing platform for groups and individuals."
-msgstr ""
+msgstr "ist eine Social-Publishing-Plattform für Gruppen und Einzelpersonen."
 
 #: ./templates/default/admin/about.tpl.php:17
 msgid "Open source project details"
-msgstr ""
+msgstr "Details zum Open-Source-Projekt"
 
 #: ./templates/default/admin/about.tpl.php:20
 msgid "Version: %s+%s"
@@ -1731,7 +1731,7 @@ msgstr ""
 
 #: ./templates/default/admin/menu.tpl.php:15
 msgid "About"
-msgstr ""
+msgstr "Über"
 
 #: ./templates/default/admin/plugins/plugin.tpl.php:35
 msgid "Enabled"
