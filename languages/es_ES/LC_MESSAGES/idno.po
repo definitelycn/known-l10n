@@ -321,6 +321,10 @@ msgid ""
 "Please check that your passwords match and that your password is at least 7 "
 "characters long."
 msgstr ""
+"Compruebe que sus contraseñas coincidan y que su contraseña tenga al menos "
+"7 caracteres."
+# Verify that your passwords match and that your password is at least
+# 7 characters long.
 
 #: ./Idno/Pages/Account/Register.php:156
 #: ./Idno/Pages/Admin/Users.php:178
@@ -916,7 +920,7 @@ msgstr ""
 
 #: ./templates/default/account/password/reset.tpl.php:23
 msgid "New password (7 characters or more)"
-msgstr ""
+msgstr "Nueva contraseña (7 caracteres o más)"
 
 #: ./templates/default/account/password/reset.tpl.php:29
 msgid "Retype password"
@@ -995,7 +999,7 @@ msgstr ""
 "Las manijas lo identifican en todo el sitio. Algo simple es lo "
 "mejor: por ejemplo, <em>antonio</em>."
 # Handles / Identifiers
-# identify you all over the site. Something simple is the best: for example, 
+# identify you all over the site. Something simple is the best: for example,
 
 #: ./templates/default/account/register.tpl.php:23
 msgid "username"
