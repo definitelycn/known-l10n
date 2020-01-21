@@ -290,7 +290,7 @@ msgstr ""
 
 #: ./Idno/Pages/Account/Register.php:156
 msgid "That doesn't seem like it's a valid email address."
-msgstr ""
+msgstr "Tio ne ŝajnas esti valida retpoŝtadreso."
 
 #: ./Idno/Pages/Account/Register.php:160
 msgid "You've registered! You're ready to get started. Why not add a post to say hello?"
@@ -298,7 +298,7 @@ msgstr "Vi registriĝis! Vi pretas komenci. Kial ne aldoni afiŝon por diri salu
 
 #: ./Idno/Pages/Account/Register.php:164
 msgid "We couldn't register you."
-msgstr ""
+msgstr "Ni ne povis registri vin"
 
 #: ./Idno/Pages/Account/Settings/FeedbackConfirm.php:17
 msgid "Thank you for your feedback!"
