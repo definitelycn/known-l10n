@@ -385,7 +385,7 @@ msgstr "Strumenti e app"
 
 #: Idno/Pages/Admin/About.php:20
 msgid "About Known"
-msgstr ""
+msgstr "Informazioni su Known"
 
 #: Idno/Pages/Admin/Dependencies.php:20
 msgid "Dependencies"
@@ -1381,7 +1381,8 @@ msgstr ""
 
 #: templates/default/admin/home.tpl.php:241
 msgid "Avatar as icon"
-msgstr ""
+msgstr "Avatar come Icona"
+# ?
 
 #: templates/default/admin/home.tpl.php:252
 msgid "This uses members' avatar images as the site favicon."
@@ -1525,15 +1526,15 @@ msgstr ""
 
 #: templates/default/admin/users.tpl.php:4
 msgid "Users"
-msgstr ""
+msgstr "Gli utenti"
 
 #: templates/default/admin/menu.tpl.php:9
 msgid "Export"
-msgstr ""
+msgstr "Esportazione"
 
 #: templates/default/admin/menu.tpl.php:10
 msgid "Import"
-msgstr ""
+msgstr "Importazione"
 
 #: templates/default/admin/menu.tpl.php:13
 msgid "Captured Logs"
@@ -1541,7 +1542,7 @@ msgstr ""
 
 #: templates/default/admin/menu.tpl.php:15
 msgid "About"
-msgstr ""
+msgstr "Circa"
 
 #: templates/default/admin/plugins/plugin.tpl.php:35
 msgid "Enabled"
