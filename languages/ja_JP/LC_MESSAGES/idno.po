@@ -329,6 +329,7 @@ msgid ""
 "Please check that your passwords match and that your password is at least 7 "
 "characters long."
 msgstr ""
+"パスワードが一致し、パスワードが 7 文字以上であることを確認してください。"
 
 #: ./Idno/Pages/Account/Register.php:156
 #: ./Idno/Pages/Admin/Users.php:178
@@ -921,7 +922,7 @@ msgstr ""
 
 #: ./templates/default/account/password/reset.tpl.php:23
 msgid "New password (7 characters or more)"
-msgstr ""
+msgstr "新しいパスワード (7 文字以上)"
 
 #: ./templates/default/account/password/reset.tpl.php:29
 msgid "Retype password"
