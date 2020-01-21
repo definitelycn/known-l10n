@@ -214,7 +214,7 @@ msgstr ""
 
 #: ./Idno/Pages/Account/Export.php:20
 msgid "Export Data"
-msgstr ""
+msgstr "Εξαγωγή δεδομένων"
 
 #: ./Idno/Pages/Account/Notifications.php:36
 #: templates/default/settings-shell/toolbar/logged-in.tpl.php:4
@@ -481,7 +481,7 @@ msgstr ""
 
 #: ./Idno/Pages/Admin/Export.php:17
 msgid "Export data"
-msgstr ""
+msgstr "Εξαγωγή δεδομένων"
 
 #: ./Idno/Pages/Admin/Homepage.php:25
 msgid "Homepage"
@@ -497,7 +497,7 @@ msgstr ""
 
 #: ./Idno/Pages/Admin/Import.php:18
 msgid "Import data"
-msgstr ""
+msgstr "Εισαγωγή δεδομένων"
 
 #: ./Idno/Pages/Admin/Import.php:33
 msgid "You need to upload an import file to continue."
@@ -1342,7 +1342,7 @@ msgstr ""
 
 #: ./templates/default/admin/export.tpl.php:9
 msgid "Export content"
-msgstr ""
+msgstr "Εξαγωγή περιεχομένου"
 
 #: ./templates/default/admin/export.tpl.php:17
 msgid ""
@@ -1534,7 +1534,7 @@ msgstr ""
 
 #: ./templates/default/admin/import.tpl.php:9
 msgid "Import content"
-msgstr ""
+msgstr "Εισαγωγή περιεχομένου"
 
 #: ./templates/default/admin/import.tpl.php:12
 msgid ""
