@@ -278,7 +278,7 @@ msgstr "Bedaŭrinde iu jam uzas tiun uzantonomon. Bonvolu elekti alian."
 
 #: ./Idno/Pages/Account/Register.php:149
 msgid "Hey, it looks like there's already an account with that email address. Did you forget your login?"
-msgstr ""
+msgstr "Hej, aspektas, ke jam ekzistas konto kun tiu retpoŝtadreso. Ĉu vi forgesis vian ensaluton?"
 
 #: ./Idno/Pages/Account/Register.php:152
 msgid ""
