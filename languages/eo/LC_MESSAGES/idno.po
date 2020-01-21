@@ -281,8 +281,12 @@ msgid "Hey, it looks like there's already an account with that email address. Di
 msgstr ""
 
 #: ./Idno/Pages/Account/Register.php:152
-msgid "Please check that your passwords match and that your password is at least 7 characters long."
+msgid ""
+"Please check that your passwords match and that your password is at "
+"least 7 characters long."
 msgstr ""
+"Bonvolu kontroli, ke viaj pasvortoj kongruas kaj ke via pasvorto havas "
+"almenaŭ 7 signojn."
 
 #: ./Idno/Pages/Account/Register.php:156
 msgid "That doesn't seem like it's a valid email address."
@@ -783,7 +787,7 @@ msgstr ""
 
 #: ./templates/default/account/password/reset.tpl.php:23
 msgid "New password (7 characters or more)"
-msgstr ""
+msgstr "Nova pasvorto (7 signoj aŭ pli)"
 
 #: ./templates/default/account/password/reset.tpl.php:29
 msgid "Retype password"
