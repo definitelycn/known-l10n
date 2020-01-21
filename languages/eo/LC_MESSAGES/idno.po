@@ -374,19 +374,20 @@ msgstr "Kontagordoj"
 
 #: ./Idno/Pages/Account/Settings.php:50
 msgid "Someone is already using %s as their email address."
-msgstr ""
+msgstr "Iu jam uzas %s kiel sian retpoŝtadreson."
 
 #: ./Idno/Pages/Account/Settings.php:56
 msgid "Your password has been updated."
-msgstr ""
+msgstr "Via pasvorto estis ĝisdatigita."
 
 #: ./Idno/Pages/Account/Settings.php:59
 msgid "Sorry, your password is too weak"
-msgstr ""
+msgstr "Bedaŭrinde, via pasvorto estas tro malforta"
+# Unfortunately
 
 #: ./Idno/Pages/Account/Settings.php:66
 msgid "Your details were saved."
-msgstr ""
+msgstr "Viaj detaloj estis konservitaj."
 
 #: ./Idno/Pages/Account/Settings/Tools.php:26
 msgid "Tools and Apps"
