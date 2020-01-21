@@ -2104,7 +2104,7 @@ msgstr "Elektu uzantnomon"
 
 #: ./templates/default/onboarding/register.tpl.php:26
 msgid "(at least 7 characters please)"
-msgstr ""
+msgstr "(almenaŭ 7 signoj bonvolu)"
 
 #: ./templates/default/pages/403.tpl.php:7
 msgid "Click here to log in."
