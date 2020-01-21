@@ -108,6 +108,8 @@ msgid "Session funnybusiness: "
 msgstr ""
 
 #: ./Idno/Core/Session.php:509
+#: ./Idno/Pages/Account/Register.php:64
+#: ./Idno/Pages/Account/Settings.php:35
 msgid "Warning: Access credentials were sent over a non-secured connection! To disable this warning set disable_cleartext_warning in your config.ini"
 msgstr ""
 
