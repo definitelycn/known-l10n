@@ -283,7 +283,8 @@ msgid "Usernames can only have letters, numbers and underscores."
 msgstr ""
 
 #: ./Idno/Pages/Account/Register.php:143
-msgid "Usernames can't contain a slash ('/"
+#: ./Idno/Pages/Admin/Users.php:168
+msgid "Usernames can't contain a slash %s character."
 msgstr ""
 
 #: ./Idno/Pages/Account/Register.php:146
@@ -303,6 +304,8 @@ msgid ""
 "Please check that your passwords match and that your password is at least 7 "
 "characters long."
 msgstr ""
+"Bitte überprüfen Sie, ob Ihre Kennwörter übereinstimmen und dass Ihr "
+"Kennwort mindestens 7 Zeichen lang ist."
 
 #: ./Idno/Pages/Account/Register.php:156
 msgid "That doesn't seem like it's a valid email address."
@@ -598,10 +601,6 @@ msgstr ""
 msgid "Please make sure your passwords match and aren't empty."
 msgstr ""
 
-#: ./Idno/Pages/Admin/Users.php:168
-msgid "Usernames can't contain a slash %s character."
-msgstr ""
-
 #: ./Idno/Pages/Admin/Users.php:182
 msgid "User %s was created. You may wish to email them to let them know."
 msgstr ""
@@ -884,11 +883,11 @@ msgstr ""
 
 #: ./templates/default/account/register.tpl.php:5
 msgid "Hello there!"
-msgstr ""
+msgstr "Hallo!"
 
 #: ./templates/default/account/register.tpl.php:7
 msgid "Create a new account to get started."
-msgstr ""
+msgstr "Erstellen Sie ein neues Konto, um loszulegen."
 
 #: ./templates/default/account/register.tpl.php:14
 msgid "Your name"
@@ -896,37 +895,39 @@ msgstr "Ihr Name"
 
 #: ./templates/default/account/register.tpl.php:20
 msgid "Choose a handle"
-msgstr ""
+msgstr "Wählen Sie ein Handle"
 
 #: ./templates/default/account/register.tpl.php:21
 msgid ""
 "Handles identify you throughout the site. Something simple is best: for "
 "example, <em>janedoe</em>."
 msgstr ""
+"Handles identifizieren Sie auf der gesamten Website. Etwas Einfaches ist "
+"das Beste: zum Beispiel, <em>gretel</em>."
 
 #: ./templates/default/account/register.tpl.php:23
 msgid "username"
-msgstr ""
+msgstr "Nutzername"
 
 #: ./templates/default/account/register.tpl.php:33
 msgid "Create a password"
-msgstr ""
+msgstr "Erstellen eines Kennworts"
 
 #: ./templates/default/account/register.tpl.php:34
 msgid "At least 7 characters please."
-msgstr ""
+msgstr "Mindestens 7 Zeichen, bitte."
 
 #: ./templates/default/account/register.tpl.php:37
 msgid "secret-password"
-msgstr ""
+msgstr "geheimes Kennwort"
 
 #: ./templates/default/account/register.tpl.php:42
 msgid "Your password again"
-msgstr ""
+msgstr "Ihr Passwort wieder"
 
 #: ./templates/default/account/register.tpl.php:49
 msgid "Create Account"
-msgstr ""
+msgstr "Konto erstellen"
 
 #: ./templates/default/account/settings/feedback/confirm.tpl.php:5
 msgid "Message received!"
@@ -2272,11 +2273,11 @@ msgstr ""
 
 #: ./templates/default/onboarding/register.tpl.php:13
 msgid "Choose a username"
-msgstr ""
+msgstr "Auswählen eines Benutzernamens"
 
 #: ./templates/default/onboarding/register.tpl.php:26
 msgid "(at least 7 characters please)"
-msgstr ""
+msgstr "(mindestens 7 Zeichen bitte)"
 
 #: ./templates/default/pages/403.tpl.php:7
 msgid "Click here to log in."
