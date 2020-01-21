@@ -419,7 +419,7 @@ msgstr ""
 
 #: ./Idno/Pages/Admin/About.php:20
 msgid "About Known"
-msgstr ""
+msgstr "Σχετικά με τον Known"
 
 #: ./Idno/Pages/Admin/Dependencies.php:20
 msgid "Dependencies"
@@ -1679,15 +1679,17 @@ msgstr ""
 
 #: ./templates/default/admin/menu.tpl.php:15
 msgid "About"
-msgstr ""
+msgstr "Σχετικά με"
+# For
+# Για
 
 #: ./templates/default/admin/plugins/plugin.tpl.php:35
 msgid "Enabled"
-msgstr ""
+msgstr "Ενεργοποιημένη"
 
 #: ./templates/default/admin/plugins/plugin.tpl.php:37
 msgid "Disabled"
-msgstr ""
+msgstr "Απενεργοποιημένη"
 
 #: ./templates/default/admin/plugins/plugin.tpl.php:56
 msgid "Known Version"
@@ -1707,11 +1709,11 @@ msgstr ""
 
 #: ./templates/default/admin/plugins/plugin.tpl.php:134
 msgid "Disable"
-msgstr ""
+msgstr "Απενεργοποιήσετε"
 
 #: ./templates/default/admin/plugins/plugin.tpl.php:147
 msgid "Enable"
-msgstr ""
+msgstr "Ενεργοποιήσετε"
 
 #: ./templates/default/admin/plugins.tpl.php:9
 msgid ""
@@ -1720,6 +1722,8 @@ msgid ""
 "change the way Known behaves. To enable or disable a plugin, just click its "
 "enable or disable button."
 msgstr ""
+"Τα πρόσθετα σάς επιτρέπουν να προσθέτετε δυνατότητες στον ιστότοπό σας. Σε αυτά περιλαμβάνονται νέα είδη περιεχομένου, επιλογές για την οργάνωση περιεχομένου σε διαφορετικές τοποθεσίες και δυνατότητες για να αλλάξετε τον τρόπο συμπεριφοράς των γνωστών. Για να ενεργοποιήσετε ή να απενεργοποιήσετε ένα plugin, απλά κάντε κλικ στο κουμπί ενεργοποίησης ή απενεργοποίησης."
+# Add-ons
 
 #: ./templates/default/admin/statistics.tpl.php:9
 msgid ""
