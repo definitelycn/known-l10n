@@ -761,7 +761,7 @@ msgstr ""
 
 #: ./templates/default/account/password/reset.tpl.php:23
 msgid "New password (7 characters or more)"
-msgstr ""
+msgstr "Nuova password (7 caratteri o più)"
 
 #: ./templates/default/account/password/reset.tpl.php:29
 msgid "Retype password"
