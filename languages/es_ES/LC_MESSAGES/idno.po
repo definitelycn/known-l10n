@@ -993,7 +993,7 @@ msgid ""
 "example, <em>janedoe</em>."
 msgstr ""
 "Los identificadores le identifican en todo el sitio. Algo simple es lo "
-"mejor: por ejemplo, <em>antonio</em>"
+"mejor: por ejemplo, <em>antonio</em>."
 "Identifiers"
 
 #: ./templates/default/account/register.tpl.php:23

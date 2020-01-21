@@ -992,7 +992,7 @@ msgid ""
 "example, <em>janedoe</em>."
 msgstr ""
 "Les poignées vous identifient sur tout le site. Quelque chose de simple "
-"est le meilleur: par exemple, <em>jeanne</em>"
+"est le meilleur: par exemple, <em>jeanne</em>."
 
 #: ./templates/default/account/register.tpl.php:23
 msgid "username"
