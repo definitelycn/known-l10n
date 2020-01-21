@@ -111,7 +111,7 @@ msgstr "Session drôle d’affaires: "
 #: ./Idno/Pages/Account/Register.php:64
 #: ./Idno/Pages/Account/Settings.php:35
 msgid ""
-"Warning: Access credentials were sent over a non-secured connection! To"
+"Warning: Access credentials were sent over a non-secured connection! To "
 "disable this warning set disable_cleartext_warning in your config.ini"
 msgstr ""
 
@@ -141,7 +141,7 @@ msgstr ""
 
 #: ./Idno/Core/TokenProvider.php:32
 msgid ""
-"Token was generated using an a cryptographically weak algorithm, this"
+"Token was generated using an a cryptographically weak algorithm, this "
 "probably means your version of OpenSSL is broken or very old."
 msgstr ""
 
@@ -151,9 +151,9 @@ msgstr ""
 
 #: ./Idno/Data/Mongo.php:38
 msgid ""
-"It looks like you don't have the new mongodb driver installed (<a"
-"href=\"https://secure.php.net/manual/en/set.mongodb.php\">https://secure.php.net/manual/en/set.mongodb.php</a>)\n\nMake"
-"sure you have it installed and configured, e.g. by running \"pecl install"
+"It looks like you don't have the new mongodb driver installed (<a "
+"href=\"https://secure.php.net/manual/en/set.mongodb.php\">https://secure.php.net/manual/en/set.mongodb.php</a>)\n\nMake "
+"sure you have it installed and configured, e.g. by running \"pecl install "
 "mongodb;\""
 msgstr ""
 
@@ -175,7 +175,7 @@ msgstr ""
 
 #: ./Idno/Files/FileSystem.php:65
 msgid ""
-"The uploaded file exceeds the MAX_FILE_SIZE directive that was specified in"
+"The uploaded file exceeds the MAX_FILE_SIZE directive that was specified in "
 "the HTML form"
 msgstr ""
 
@@ -217,7 +217,7 @@ msgstr "Quelque chose s’est mal passé en sauvant votre dossier."
 #: ./Idno/Files/LocalFileSystem.php:100
 #: ./Idno/Files/LocalFileSystem.php:152
 msgid ""
-"Check that your upload directory is writeable by the web server and try"
+"Check that your upload directory is writeable by the web server and try "
 "again."
 msgstr ""
 "Vérifiez que votre répertoire de téléchargement est écrit par le serveur web et réessayez."
@@ -253,7 +253,7 @@ msgstr ""
 
 #: ./Idno/Pages/Account/Password/Reset.php:35
 msgid ""
-"The password reset code wasn't valid. They expire after three hours, so you"
+"The password reset code wasn't valid. They expire after three hours, so you "
 "might need to try again."
 msgstr ""
 
@@ -306,22 +306,25 @@ msgstr ""
 #: ./Idno/Pages/Account/Register.php:146
 #: ./Idno/Pages/Admin/Users.php:171
 msgid ""
-"Unfortunately, someone is already using that username. Please choose"
+"Unfortunately, someone is already using that username. Please choose "
 "another."
 msgstr ""
 
 #: ./Idno/Pages/Account/Register.php:149
 #: ./Idno/Pages/Admin/Users.php:174
 msgid ""
-"Hey, it looks like there's already an account with that email address. Did"
+"Hey, it looks like there's already an account with that email address. Did "
 "you forget your login?"
 msgstr ""
 
 #: ./Idno/Pages/Account/Register.php:152
 msgid ""
-"Please check that your passwords match and that your password is at least 7"
+"Please check that your passwords match and that your password is at least 7 "
 "characters long."
 msgstr ""
+"Veuillez vérifier que vos mots de passe correspondent et que votre mot de "
+"passe est d'au moins 7 caractères."
+# Please verify
 
 #: ./Idno/Pages/Account/Register.php:156
 #: ./Idno/Pages/Admin/Users.php:178
@@ -330,7 +333,7 @@ msgstr "Cela ne semble pas être une adresse email valide."
 
 #: ./Idno/Pages/Account/Register.php:160
 msgid ""
-"You've registered! You're ready to get started. Why not add a post to say"
+"You've registered! You're ready to get started. Why not add a post to say "
 "hello?"
 msgstr ""
 "Vous vous êtes inscrit ! Tu es prêt à commencer. Pourquoi ne pas ajouter "
@@ -355,15 +358,15 @@ msgstr "Merci! Nous avons reçu vos commentaires."
 
 #: ./Idno/Pages/Account/Settings/Following/Bookmarklet.php:37
 msgid ""
-"Sorry, could not find any users on that page, perhaps they need to mark up"
-"their profile in <a"
+"Sorry, could not find any users on that page, perhaps they need to mark up "
+"their profile in <a "
 "href=\"http://microformats.org/wiki/microformats-2\">Microformats</a>?"
 msgstr ""
 
 #: ./Idno/Pages/Account/Settings/Following/Bookmarklet.php:51
 msgid ""
-"Page did not contain any <a"
-"href=\"http://microformats.org/wiki/microformats-2\">Microformats</a>"
+"Page did not contain any <a "
+"href=\"http://microformats.org/wiki/microformats-2\">Microformats</a> "
 "markup... doing my best with what I have!"
 msgstr ""
 
@@ -464,9 +467,9 @@ msgstr "Les diagnostiques"
 
 #: ./Idno/Pages/Admin/Diagnostics.php:78
 msgid ""
-"Your build of Known is behind the latest version from Github (%s - %s). If"
-"you're having problems, you may want to try updating to the latest"
-"version!<br /> <a href=\"https://github.com/idno/Known\""
+"Your build of Known is behind the latest version from Github (%s - %s). If "
+"you're having problems, you may want to try updating to the latest "
+"version!<br /> <a href=\"https://github.com/idno/Known\" "
 "target=\"_blank\">Update now.</a>"
 msgstr ""
 "Votre build de Known est derrière la dernière version de "
@@ -476,20 +479,24 @@ msgstr ""
 
 #: ./Idno/Pages/Admin/Diagnostics.php:97
 msgid ""
-"You appear to be running directly from a git checkout. While this is fine,"
+"You appear to be running directly from a git checkout. While this is fine, "
 "you might find a pre-packaged version of Known more stable."
 msgstr ""
-"Vous semblez être en cours d’exécution directement à partir d’une caisse git. Bien que ce soit très bien, vous pourriez trouver une version pré-emballée de Known plus stable."
+"Vous semblez être en cours d’exécution directement à partir d’une caisse "
+"git. Bien que ce soit très bien, vous pourriez trouver une version "
+"pré-emballée de Known plus stable."
 
 #: ./Idno/Pages/Admin/Diagnostics.php:160
 msgid "We can't read data from %s - please check permissions and try again."
-msgstr "Nous ne pouvons pas lire les données de %s - s'il vous plaît vérifier les autorisations et essayer à nouveau."
+msgstr "Nous ne pouvons pas lire les données de %s - s'il vous plaît "
+"vérifier les autorisations et essayer à nouveau."
 
 #: ./Idno/Pages/Admin/Diagnostics.php:165
 msgid ""
-"We can't write data to %s - please check it is writable by your web server"
+"We can't write data to %s - please check it is writable by your web server "
 "user."
-msgstr "Nous ne pouvons pas écrire des données à %s - s'il vous plaît vérifier qu'il est bref par votre utilisateur de serveur web."
+msgstr "Nous ne pouvons pas écrire des données à %s - s'il vous plaît "
+"vérifier qu'il est bref par votre utilisateur de serveur web."
 
 #: ./Idno/Pages/Admin/Diagnostics.php:170
 #: ./Idno/Pages/Admin/Diagnostics.php:175
@@ -571,7 +578,7 @@ msgstr "Le plug-in a été désactivé"
 
 #: ./Idno/Pages/Admin/Statistics.php:16
 msgid ""
-"Something went wrong, either no statistics were returned or it wasn't in the"
+"Something went wrong, either no statistics were returned or it wasn't in the "
 "correct format."
 msgstr ""
 
@@ -620,7 +627,7 @@ msgstr ""
 
 #: ./Idno/Pages/Admin/Users.php:97
 msgid ""
-"No email addresses were found or all the people you invited are already"
+"No email addresses were found or all the people you invited are already "
 "members of this site."
 msgstr ""
 
@@ -776,7 +783,7 @@ msgstr "Oups! Il semble que votre mot de passe n’est pas correct. S’il vous 
 
 #: ./Idno/Pages/Session/Login.php:72
 msgid ""
-"Oops! We couldn't find your username or email address. Please check you"
+"Oops! We couldn't find your username or email address. Please check you "
 "typed it correctly and try again."
 msgstr ""
 
@@ -803,11 +810,13 @@ msgstr "Exportez vos données"
 
 #: ./templates/default/account/export.tpl.php:19
 msgid ""
-"You can download an RSS version of everything you've posted on this site."
-"This file is suitable for importing into content management systems like"
+"You can download an RSS version of everything you've posted on this site. "
+"This file is suitable for importing into content management systems like "
 "WordPress, or another Known site."
 msgstr ""
-"Vous pouvez télécharger une version RSS de tout ce que vous avez posté sur ce site. Ce fichier est adapté pour l’importation dans les systèmes de gestion de contenu comme WordPress, ou un autre site Known."
+"Vous pouvez télécharger une version RSS de tout ce que vous avez posté sur "
+"ce site. Ce fichier est adapté pour l’importation dans les systèmes de "
+"gestion de contenu comme WordPress, ou un autre site Known."
 
 #: ./templates/default/account/export.tpl.php:24
 #: ./templates/default/admin/export.tpl.php:25
@@ -842,11 +851,13 @@ msgstr "Non"
 
 #: ./templates/default/account/export.tpl.php:34
 msgid ""
-"Platforms like WordPress may assume that all your posts should be displayed"
-"publicly. In order to protect your privacy, you may wish to just download"
+"Platforms like WordPress may assume that all your posts should be displayed "
+"publicly. In order to protect your privacy, you may wish to just download "
 "your public posts."
 msgstr ""
-"Les plates-formes comme WordPress peuvent supposer que tous vos messages doivent être affichés publiquement. Afin de protéger votre vie privée, vous pouvez simplement télécharger vos publications publiques."
+"Les plates-formes comme WordPress peuvent supposer que tous vos messages "
+"doivent être affichés publiquement. Afin de protéger votre vie privée, "
+"vous pouvez simplement télécharger vos publications publiques."
 
 #: ./templates/default/account/export.tpl.php:38
 msgid "Download RSS Feed"
@@ -915,7 +926,7 @@ msgstr ""
 
 #: ./templates/default/account/password/reset.tpl.php:23
 msgid "New password (7 characters or more)"
-msgstr ""
+msgstr "Nouveau mot de passe (7 caractères ou plus)"
 
 #: ./templates/default/account/password/reset.tpl.php:29
 msgid "Retype password"
@@ -931,13 +942,13 @@ msgstr ""
 
 #: ./templates/default/account/password/sent.tpl.php:15
 msgid ""
-"Check your inbox! You'll find an email containing a special link that will"
+"Check your inbox! You'll find an email containing a special link that will "
 "help you reset your password."
 msgstr ""
 
 #: ./templates/default/account/password/sent.tpl.php:18
 msgid ""
-"Did you remember your password? That's okay too. You can <a"
+"Did you remember your password? That's okay too. You can <a "
 "href=\"%s\">click here to sign in.</a>"
 msgstr ""
 
@@ -947,8 +958,8 @@ msgstr ""
 
 #: ./templates/default/account/password.tpl.php:10
 msgid ""
-"Just enter the email address associated with your %s account below, and"
-"we'll send you a top secret link to your email account so that you can"
+"Just enter the email address associated with your %s account below, and "
+"we'll send you a top secret link to your email account so that you can "
 "create a new password."
 msgstr ""
 
@@ -988,7 +999,7 @@ msgstr "Choisissez une poignée"
 
 #: ./templates/default/account/register.tpl.php:21
 msgid ""
-"Handles identify you throughout the site. Something simple is best: for"
+"Handles identify you throughout the site. Something simple is best: for "
 "example, <em>janedoe</em>."
 msgstr ""
 "Les poignées vous identifient sur tout le site. Quelque chose de simple "
@@ -1031,7 +1042,7 @@ msgstr ""
 
 #: ./templates/default/account/settings/feedback/confirm.tpl.php:22
 msgid ""
-"Feedback is a gift. For more information about Known, <a"
+"Feedback is a gift. For more information about Known, <a "
 "href=\"https://withknown.com/\">please visit our homepage</a>"
 msgstr ""
 
@@ -1041,8 +1052,8 @@ msgstr "Partagez vos commentaires et réactions"
 
 #: ./templates/default/account/settings/feedback.tpl.php:9
 msgid ""
-"Want to share something with the Known team? We'd love to read your"
-"thoughts, suggestions, or ideas. We will personally read all of your"
+"Want to share something with the Known team? We'd love to read your "
+"thoughts, suggestions, or ideas. We will personally read all of your "
 "feedback."
 msgstr ""
 "Vous voulez partager quelque chose avec l’équipe de Known? "
@@ -1097,7 +1108,7 @@ msgstr ""
 
 #: ./templates/default/account/settings/following.tpl.php:11
 msgid ""
-"Manage your subscriptions here. These users can also be given access to"
+"Manage your subscriptions here. These users can also be given access to "
 "private content you produce on your site."
 msgstr ""
 
@@ -1107,7 +1118,7 @@ msgstr ""
 
 #: ./templates/default/account/settings/notifications.tpl.php:17
 msgid ""
-"Set how you'd like to be notified when someone stars or comments on your"
+"Set how you'd like to be notified when someone stars or comments on your "
 "content."
 msgstr ""
 "Définir comment vous souhaitez être informé lorsque quelqu’un est en vedette "
@@ -1136,10 +1147,11 @@ msgstr "Domaines ignorés"
 
 #: ./templates/default/account/settings/notifications.tpl.php:64
 msgid ""
-"Do not send notifications for interactions originating from these domains"
+"Do not send notifications for interactions originating from these domains "
 "(one domain per line)"
 msgstr ""
-"N’envoyez pas de notifications pour les interactions provenant de ces domaines (un domaine par ligne)"
+"N’envoyez pas de notifications pour les interactions provenant de ces "
+"domaines (un domaine par ligne)"
 
 #: ./templates/default/account/settings/notifications.tpl.php:75
 #: ./templates/default/admin/email.tpl.php:142
@@ -1152,7 +1164,7 @@ msgstr ""
 
 #: ./templates/default/account/settings/tools.tpl.php:22
 msgid ""
-"The Known bookmarklet is the best way to save links, reply to posts, and"
+"The Known bookmarklet is the best way to save links, reply to posts, and "
 "share articles."
 msgstr ""
 "Le signet connu est le meilleur moyen d'enregistrer des liens, de répondre aux "
@@ -1171,7 +1183,7 @@ msgstr "Ne pas voir une barre de signets?"
 
 #: ./templates/default/account/settings/tools.tpl.php:45
 msgid ""
-"Sometimes web browsers have their bookmarked links bar hidden by default."
+"Sometimes web browsers have their bookmarked links bar hidden by default. "
 "Here's how to reveal it:"
 msgstr ""
 "Parfois, les navigateurs Web ont leurs liens signets barre cachée par défaut. "
@@ -1225,7 +1237,7 @@ msgstr ""
 
 #: ./templates/default/account/settings/tools.tpl.php:76
 msgid ""
-"Revoking this key will mean you must update any applications that use this"
+"Revoking this key will mean you must update any applications that use this "
 "key!"
 msgstr ""
 "Réévoquer cette clé signifie que vous devez mettre à jour toutes les "
@@ -1239,10 +1251,11 @@ msgstr "Paramètres de compte"
 
 #: ./templates/default/account/settings.tpl.php:14
 msgid ""
-"Change your user account settings here. You may also want to <a"
+"Change your user account settings here. You may also want to <a "
 "href=\"%s\">edit your profile</a>."
 msgstr ""
-"Modifiez les paramètres de votre compte utilisateur ici. Vous pouvez également <a href=\"%s\">modifier votre profil</a>."
+"Modifiez les paramètres de votre compte utilisateur ici. Vous pouvez "
+"également <a href=\"%s\">modifier votre profil</a>."
 
 #: ./templates/default/account/settings.tpl.php:45
 msgid "Site notifications will be sent here."
@@ -1302,9 +1315,9 @@ msgstr "(v%s requis)"
 
 #: ./templates/default/admin/dependencies.tpl.php:8
 msgid ""
-"The following are system components that are required for Known to fully"
-"run. It's worth checking to make sure that they're all installed. If you"
-"need help installing any required packages, ask your web host or system"
+"The following are system components that are required for Known to fully "
+"run. It's worth checking to make sure that they're all installed. If you "
+"need help installing any required packages, ask your web host or system "
 "administrator."
 msgstr ""
 
@@ -1322,14 +1335,14 @@ msgstr ""
 
 #: ./templates/default/admin/dependencies.tpl.php:28
 msgid ""
-"These extend the way PHP works, and are required for functionality like"
-"database storage, webmentions, etc. Click an extension name to learn more"
+"These extend the way PHP works, and are required for functionality like "
+"database storage, webmentions, etc. Click an extension name to learn more "
 "about it, including installation instructions."
 msgstr ""
 
 #: ./templates/default/admin/diagnostics.tpl.php:9
 msgid ""
-"This page provides you with information that may help you or others diagnose"
+"This page provides you with information that may help you or others diagnose "
 "any problems you may be experiencing with your Known install."
 msgstr ""
 "Cette page vous fournit des informations qui peuvent vous aider, vous ou "
@@ -1350,9 +1363,9 @@ msgstr "Paramètres d’email"
 
 #: ./templates/default/admin/email.tpl.php:9
 msgid ""
-"Known tries to send email using your server's default email settings. If"
-"you'd like it to do something else - for example, if you'd like to send"
-"email using an external provider - enter the new SMTP settings below. You"
+"Known tries to send email using your server's default email settings. If "
+"you'd like it to do something else - for example, if you'd like to send "
+"email using an external provider - enter the new SMTP settings below. You "
 "can also <a href=\"%s\">change your notification settings</a>."
 msgstr ""
 
@@ -1372,7 +1385,7 @@ msgstr ""
 
 #: ./templates/default/admin/email.tpl.php:40
 msgid ""
-"You can often leave the following settings blank. However, you may wish to"
+"You can often leave the following settings blank. However, you may wish to "
 "set them if you're using a third-party service to send email."
 msgstr ""
 
@@ -1461,12 +1474,14 @@ msgstr "Créer des archives"
 
 #: ./templates/default/admin/export/generate.tpl.php:18
 msgid ""
-"It may take a while to generate your archive. You can leave this page while"
-"it's working. Once the export file is complete, this page will update, and"
+"It may take a while to generate your archive. You can leave this page while "
+"it's working. Once the export file is complete, this page will update, and "
 "you'll be able to download the archive right here."
 msgstr ""
-"Il peut prendre un certain temps pour générer vos archives. Vous pouvez laisser cette page pendant qu'elle fonctionne. "
-"Une fois le fichier d’exportation terminé, cette page sera mise à jour, et vous serez en mesure de télécharger l’archive ici."
+"Il peut prendre un certain temps pour générer vos archives. Vous pouvez "
+"laisser cette page pendant qu'elle fonctionne. "
+"Une fois le fichier d’exportation terminé, cette page sera mise à jour, "
+"et vous serez en mesure de télécharger l’archive ici."
 
 #: ./templates/default/admin/export.tpl.php:9
 msgid "Export content"
@@ -1474,10 +1489,11 @@ msgstr "Contenu à l’exportation"
 
 #: ./templates/default/admin/export.tpl.php:17
 msgid ""
-"Export your published Known content as an RSS file. You can import this file"
+"Export your published Known content as an RSS file. You can import this file "
 "into Known or WordPress."
 msgstr ""
-"Exportez votre contenu Known publié sous forme de fichier RSS. Vous pouvez importer ce fichier dans Known ou WordPress."
+"Exportez votre contenu Known publié sous forme de fichier RSS. Vous pouvez "
+"importer ce fichier dans Known ou WordPress."
 
 #: ./templates/default/admin/export.tpl.php:20
 msgid "Generate RSS file"
@@ -1485,7 +1501,7 @@ msgstr "Générer des fichiers RSS"
 
 #: ./templates/default/admin/export.tpl.php:35
 msgid ""
-"Some platforms may assume that your content should be displayed publicly. To"
+"Some platforms may assume that your content should be displayed publicly. To "
 "protect your privacy, you may wish to only download your public content."
 msgstr ""
 "Certaines plates-formes peuvent supposer que votre contenu doit être affiché publiquement. "
@@ -1497,10 +1513,11 @@ msgstr "Télécharger le fichier"
 
 #: ./templates/default/admin/export/wait.tpl.php:4
 msgid ""
-"An archive of your data is being created. Please check again in a few"
+"An archive of your data is being created. Please check again in a few "
 "minutes."
 msgstr ""
-"Une archive de vos données est en cours de création. S'il vous plaît vérifier à nouveau dans quelques minutes."
+"Une archive de vos données est en cours de création. S'il vous plaît "
+"vérifier à nouveau dans quelques minutes."
 
 #: ./templates/default/admin/home/description.tpl.php:2
 #: ./templates/default/admin/menu.tpl.php:2
@@ -1509,10 +1526,11 @@ msgstr "Configuration du site"
 
 #: ./templates/default/admin/home/description.tpl.php:6
 msgid ""
-"On this page you can change the basic settings for your site, like the site"
+"On this page you can change the basic settings for your site, like the site "
 "name and the number of posts visible on each page."
 msgstr ""
-"Sur cette page, vous pouvez modifier les paramètres de base de votre site, tels que le nom du site et le nombre de publications visibles sur chaque page."
+"Sur cette page, vous pouvez modifier les paramètres de base de votre site, "
+"tels que le nom du site et le nombre de publications visibles sur chaque page."
 
 #: ./templates/default/admin/homepage.tpl.php:6
 msgid "Homepage content"
@@ -1520,11 +1538,14 @@ msgstr "Contenu de la page d’accueil"
 
 #: ./templates/default/admin/homepage.tpl.php:11
 msgid ""
-"Here you can choose what content visitors see on your site homepage. By"
-"default, all published content appears on the main page. If you want to hide"
+"Here you can choose what content visitors see on your site homepage. By "
+"default, all published content appears on the main page. If you want to hide "
 "some content types from the main page, you can turn them off below."
 msgstr ""
-"Ici, vous pouvez choisir le contenu que les visiteurs voient sur votre page d’accueil du site. Par défaut, tout le contenu publié apparaît sur la page principale. Si vous souhaitez masquer certains types de contenu de la page principale, vous pouvez les désactiver ci-dessous."
+"Ici, vous pouvez choisir le contenu que les visiteurs voient sur votre page "
+"d’accueil du site. Par défaut, tout le contenu publié apparaît sur la page "
+"principale. Si vous souhaitez masquer certains types de contenu de la page "
+"principale, vous pouvez les désactiver ci-dessous."
 
 #: ./templates/default/admin/homepage.tpl.php:16
 msgid "Turn off content types to hide them from the homepage of your site."
@@ -1574,7 +1595,7 @@ msgstr "Titre de la page d’accueil"
 
 #: ./templates/default/admin/home.tpl.php:57
 msgid ""
-"What should the browser display as the title on your homepage?<br>By default"
+"What should the browser display as the title on your homepage?<br>By default "
 "this is just your site title."
 msgstr ""
 "Qu’est-ce que le navigateur doit afficher comme titre sur votre page d’accueil ?<br>"
@@ -1594,7 +1615,7 @@ msgstr "Utilisateur unique"
 
 #: ./templates/default/admin/home.tpl.php:90
 msgid ""
-"Is this a single-user site? If so, your profile information will be shown at"
+"Is this a single-user site? If so, your profile information will be shown at "
 "the top of the homepage."
 msgstr ""
 "S’agit-il d’un site à usage unique? Si c’est le cas, les informations de votre profil seront affichées en haut de la page d’accueil."
@@ -1684,7 +1705,7 @@ msgstr "Contenu d’importation"
 
 #: ./templates/default/admin/import.tpl.php:12
 msgid ""
-"Import your content from other sites into Known. All imported content will"
+"Import your content from other sites into Known. All imported content will "
 "be treated as a post, with a title and body content."
 msgstr ""
 "Importez votre contenu d’autres sites dans Known. Tout le contenu importé sera traité comme un poste, avec un titre et un contenu corporel."
@@ -1806,8 +1827,8 @@ msgstr ""
 
 #: ./templates/default/admin/logs.tpl.php:9
 msgid ""
-"This page provides you with captured PHP logs. These contain sensitive"
-"information, so be very careful how you disclose the information and to"
+"This page provides you with captured PHP logs. These contain sensitive "
+"information, so be very careful how you disclose the information and to "
 "whom."
 msgstr ""
 
@@ -1871,16 +1892,16 @@ msgstr ""
 
 #: ./templates/default/admin/plugins.tpl.php:9
 msgid ""
-"Plugins allow you to add features to your site. These include new kinds of"
-"content, options to syndicate content to different sites, and features to"
-"change the way Known behaves. To enable or disable a plugin, just click its"
+"Plugins allow you to add features to your site. These include new kinds of "
+"content, options to syndicate content to different sites, and features to "
+"change the way Known behaves. To enable or disable a plugin, just click its "
 "enable or disable button."
 msgstr ""
 "Les plugins vous permettent d’ajouter des fonctionnalités à votre site. Il s’agit notamment de nouveaux types de contenu, des options de syndicat du contenu à différents sites, et des fonctionnalités pour changer la façon dont Known se comporte. Pour activer ou désactiver un plugin, il vous suffit de cliquer sur son bouton activer ou désactiver."
 
 #: ./templates/default/admin/statistics.tpl.php:9
 msgid ""
-"This page provides you with information and statistics about your Known"
+"This page provides you with information and statistics about your Known "
 "site."
 msgstr ""
 
@@ -1894,7 +1915,7 @@ msgstr ""
 
 #: ./templates/default/admin/themes.tpl.php:7
 msgid ""
-"Themes allow you to change the way your site looks. The following themes are"
+"Themes allow you to change the way your site looks. The following themes are "
 "installed."
 msgstr ""
 
@@ -1966,8 +1987,8 @@ msgstr "Bloquer les adresses e-mail"
 
 #: ./templates/default/admin/users.tpl.php:174
 msgid ""
-"By blocking email addresses, you prevent people using those email addresses"
-"from registering on your site. Enter the email addresses you want to block"
+"By blocking email addresses, you prevent people using those email addresses "
+"from registering on your site. Enter the email addresses you want to block "
 "below."
 msgstr ""
 "En bloquant les adresses e-mail, vous empêchez les personnes utilisant "
@@ -2129,7 +2150,7 @@ msgstr "Modifier votre profil"
 
 #: ./templates/default/entity/User/edit.tpl.php:6
 msgid ""
-"Your profile is how other users see you across the site. It's up to you how"
+"Your profile is how other users see you across the site. It's up to you how "
 "much or how little information you choose to provide."
 msgstr ""
 "Votre profil est la façon dont les autres utilisateurs vous voient à travers le site. "
@@ -2170,7 +2191,7 @@ msgstr "Modifier le profil"
 
 #: ./templates/default/entity/User.tpl.php:61
 msgid ""
-"A profile helps you describe yourself to other people on the site and on the"
+"A profile helps you describe yourself to other people on the site and on the "
 "web. You haven't described yourself yet."
 msgstr ""
 "Un profil vous aide à vous décrire à d’autres personnes sur le site et sur le web. Tu ne t’es pas encore décrit."
@@ -2249,7 +2270,7 @@ msgstr ""
 
 #: ./templates/default/forms/components/usersearch/user.tpl.php:88
 msgid ""
-"Are you sure? The user will be logged out and will no longer be able to log"
+"Are you sure? The user will be logged out and will no longer be able to log "
 "in or post."
 msgstr ""
 
@@ -2399,7 +2420,7 @@ msgstr "Attendez. Vous n’avez pas accès à ce contenu."
 
 #: ./templates/default/pages/403.tpl.php:20
 msgid ""
-"It's nothing personal. You just don't have the right permissions to see"
+"It's nothing personal. You just don't have the right permissions to see "
 "what's here."
 msgstr ""
 "Ce n’est rien de personnel. Vous n’avez pas les autorisations pour voir ce qu’il y a ici."
@@ -2415,15 +2436,15 @@ msgstr "Oups! On ne l’a pas trouvé."
 
 #: ./templates/default/pages/404.tpl.php:7
 msgid ""
-"Whatever you were looking for, it's not here. It might have been moved,"
-"deleted, or it doesn't exist. Or the robots ate it. That's always a"
+"Whatever you were looking for, it's not here. It might have been moved, "
+"deleted, or it doesn't exist. Or the robots ate it. That's always a "
 "possibility too."
 msgstr ""
 "Quoi que vous cherchiez, il n’est pas là. Il peut avoir été déplacé, supprimé, ou il n’existe pas. Ou les robots l’ont mangé. C’est toujours une possibilité aussi."
 
 #: ./templates/default/pages/404.tpl.php:8
 msgid ""
-"Maybe you'll find something interesting if you head back to the <a"
+"Maybe you'll find something interesting if you head back to the <a "
 "href=\"%s\">%s homepage</a>."
 msgstr ""
 "Peut-être que vous trouverez quelque chose d’intéressant si vous retournez à <a href=\"%s\">%s page d’accueil</a>"
@@ -2449,7 +2470,7 @@ msgstr ""
 
 #: ./templates/default/pages/500.tpl.php:15
 msgid ""
-"<a href=\"#\" onclick=\"window.history.back();\">Click here to try again</a>"
+"<a href=\"#\" onclick=\"window.history.back();\">Click here to try again</a> "
 "or <a href=\"%s\">click here to go back to the homepage</a>."
 msgstr ""
 "<a href=\"#\" onclick=\"window.history.back();\">Cliquez ici pour réessayer</a> ou <a href=\"%s\">cliquez ici pour revenir à la page d’accueil</a>."
@@ -2476,8 +2497,8 @@ msgstr "Découvrez mon nouveau site @withknown!"
 
 #: ./templates/default/robot/wizard.tpl.php:9
 msgid ""
-" That was a great update. Why not <%s>share your new website on Facebook</a>"
-"and <a href=\"%s\">Twitter</a> so your friends know about it?\n\nI bet"
+" That was a great update. Why not <%s>share your new website on Facebook</a> "
+"and <a href=\"%s\">Twitter</a> so your friends know about it?\n\nI bet "
 "you've got some great photos. <%s>Try posting one</a>!"
 msgstr ""
 " C'était une grande mise à jour. Pourquoi ne pas <%s>partager votre nouveau site Web sur "
@@ -2607,7 +2628,7 @@ msgstr "Salut! Votre ami <strong>%s</strong> vous a invité à rejoindre <%s>"
 #: ./templates/email/account/invite.tpl.php:8
 #: ./templates/email-text/account/invite.tpl.php:23
 msgid ""
-"You can use this space to publish your stories, share things that interest"
+"You can use this space to publish your stories, share things that interest "
 "you, and discuss things that matter."
 msgstr ""
 "Vous pouvez utiliser cet espace pour publier vos histoires, partager des choses qui vous intéressent, "
@@ -2625,7 +2646,7 @@ msgstr "Inscrivez-vous dès maintenant"
 #: ./templates/email/account/invite.tpl.php:16
 #: ./templates/email-text/account/invite.tpl.php:31
 msgid ""
-"If you have any questions at all, please don't hesitate to contact us by"
+"If you have any questions at all, please don't hesitate to contact us by "
 "sending an email to %s"
 msgstr "Si vous avez des questions, n’hésitez pas à nous contacter en envoyant un e-mail à %s"
 
@@ -2651,8 +2672,8 @@ msgstr "Retourne la version actuelle de Known telle que définie dans version.kn
 
 #: ./known.php:118
 msgid ""
-"WARNING: Your build of Known is behind the latest version from Github (%s -"
-"%s). If you're having problems, you may want to try updating to the latest"
+"WARNING: Your build of Known is behind the latest version from Github (%s - "
+"%s). If you're having problems, you may want to try updating to the latest "
 "version.\nUpdate now: https://github.com/idno/Known\n"
 msgstr ""
 "AVERTISSEMENT: Votre build de Known est derrière la dernière version de "
