@@ -248,10 +248,10 @@ msgstr "Questo sito è chiuso ai nuovi utenti."
 msgid "Your invitation doesn't seem to be valid, or has expired."
 msgstr ""
 
-#: Idno/Pages/Account/Register.php:39
+#: ./Idno/Pages/Account/Register.php:39
 #: ./Idno/Pages/Account/Register.php:47
 msgid "Create a new account"
-msgstr ""
+msgstr "Creare un nuovo account"
 
 #: Idno/Pages/Admin/Users.php:143
 msgid "Please enter a username and email address."
