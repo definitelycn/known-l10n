@@ -292,6 +292,10 @@ msgstr ""
 msgid "You've registered! You're ready to get started. Why not add a post to say hello?"
 msgstr "Vi registriĝis! Vi pretas komenci. Kial ne aldoni afiŝon por diri saluton?"
 
+#: ./Idno/Pages/Account/Register.php:164
+msgid "We couldn't register you."
+msgstr ""
+
 #: ./Idno/Pages/Account/Settings/FeedbackConfirm.php:17
 msgid "Thank you for your feedback!"
 msgstr ""
@@ -834,8 +838,13 @@ msgid "Choose a handle"
 msgstr ""
 
 #: ./templates/default/account/register.tpl.php:21
-msgid "Handles identify you throughout the site. Something simple is best: for example, <em>janedoe</em>."
+msgid ""
+"Handles identify you throughout the site. Something simple is best: for "
+"example, <em>janedoe</em>."
 msgstr ""
+"Identigiloj identigas vin tra la retejo. Io simpla estas la plej bona: "
+"ekzemple, <em>ludwik</em>."
+# Identifiers
 
 #: ./templates/default/account/register.tpl.php:23
 msgid "username"
@@ -2321,4 +2330,3 @@ msgstr ""
 "AVERTO: Via konato estas malantaŭ la plej nova versio de Github (%s - %s). "
 "Se vi havas problemojn, vi eble volas provi ĝisdatigon al la plej nova versio.\n"
 "Ĝisdatigu Nun: https://github.com/idno/Known\n"
-
