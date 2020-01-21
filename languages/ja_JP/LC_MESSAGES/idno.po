@@ -987,19 +987,27 @@ msgstr "開始する新しいアカウントを作成します。"
 msgid "Your name"
 msgstr "あなたの名前"
 
+#: ./templates/default/account/register.tpl.php:16
+msgid "Henri Matisse"
+msgstr ""
+
 #: ./templates/default/account/register.tpl.php:20
 msgid "Choose a handle"
-msgstr ""
+msgstr "ハンドルの選択"
+# Select a handle
 
 #: ./templates/default/account/register.tpl.php:21
 msgid ""
 "Handles identify you throughout the site. Something simple is best: for "
 "example, <em>janedoe</em>."
 msgstr ""
+"ハンドルは、サイト全体を通じてユーザーを識別します。単純なものが最善です: 例えば、"
+" <em>hiro</em>。"
 
 #: ./templates/default/account/register.tpl.php:23
 msgid "username"
-msgstr ""
+msgstr "名"
+# name
 
 #: ./templates/default/account/register.tpl.php:33
 #: ./templates/default/onboarding/register.tpl.php:25
