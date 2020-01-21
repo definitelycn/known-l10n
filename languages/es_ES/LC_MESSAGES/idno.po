@@ -992,9 +992,10 @@ msgid ""
 "Handles identify you throughout the site. Something simple is best: for "
 "example, <em>janedoe</em>."
 msgstr ""
-"Los identificadores le identifican en todo el sitio. Algo simple es lo "
+"Las manijas lo identifican en todo el sitio. Algo simple es lo "
 "mejor: por ejemplo, <em>antonio</em>."
-"Identifiers"
+# Handles / Identifiers
+# identify you all over the site. Something simple is the best: for example, 
 
 #: ./templates/default/account/register.tpl.php:23
 msgid "username"
