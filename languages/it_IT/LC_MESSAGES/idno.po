@@ -267,7 +267,7 @@ msgstr ""
 
 #: Idno/Pages/Account/Register.php:140
 msgid "Usernames can only have letters, numbers and underscores."
-msgstr ""
+msgstr "I nomi utente possono avere solo lettere, numeri e caratteri di sottolineatura."
 
 #: Idno/Pages/Account/Register.php:143 Idno/Pages/Admin/Users.php:168
 msgid "Usernames can't contain a slash %s character."
