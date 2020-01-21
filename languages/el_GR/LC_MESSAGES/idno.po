@@ -519,7 +519,7 @@ msgstr ""
 
 #: ./Idno/Pages/Admin/Plugins.php:44
 msgid "The plugin was enabled."
-msgstr ""
+msgstr "Η προσθήκη ήταν ενεργοποιημένη"
 
 #: ./Idno/Pages/Admin/Plugins.php:58
 msgid "The plugin was disabled."
@@ -1147,7 +1147,8 @@ msgstr ""
 
 #: ./templates/default/account/settings.tpl.php:73
 msgid "Timezone"
-msgstr ""
+msgstr "Ζώνη ώρας"
+# Zone ?
 
 #: ./templates/default/account/settings.tpl.php:78
 msgid "Specify your timezone."
@@ -1155,7 +1156,7 @@ msgstr ""
 
 #: ./templates/default/account/settings.tpl.php:83
 msgid "Save updates"
-msgstr ""
+msgstr "Αποθήκευση ενημερώσεων"
 
 #: ./templates/default/admin/about.tpl.php:15
 msgid "Known"
@@ -1163,15 +1164,15 @@ msgstr ""
 
 #: ./templates/default/admin/about.tpl.php:15
 msgid "is a social publishing platform for groups and individuals."
-msgstr ""
+msgstr "είναι μια πλατφόρμα κοινωνικής δημοσίευσης για ομάδες και ιδιώτες."
 
 #: ./templates/default/admin/about.tpl.php:17
 msgid "Open source project details"
-msgstr ""
+msgstr "Λεπτομέρειες έργου ανοιχτού κώδικα"
 
 #: ./templates/default/admin/about.tpl.php:20
 msgid "Version: %s+%s"
-msgstr ""
+msgstr "Έκδοση: %s+%s"
 
 #: ./templates/default/admin/dependencies/build.tpl.php:2
 msgid "%s installed"
