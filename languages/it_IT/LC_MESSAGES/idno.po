@@ -276,12 +276,12 @@ msgstr ""
 #: ./Idno/Pages/Account/Register.php:146
 #: Idno/Pages/Admin/Users.php:171
 msgid "Unfortunately, someone is already using that username. Please choose another."
-msgstr ""
+msgstr "Purtroppo, qualcuno sta già utilizzando quel nome utente. Si prega di scegliere un altro."
 
 #: ./Idno/Pages/Account/Register.php:149
 #: Idno/Pages/Admin/Users.php:174
 msgid "Hey, it looks like there's already an account with that email address. Did you forget your login?"
-msgstr ""
+msgstr "Ehi, sembra che ci sia già un account con quell'indirizzo email. Hai dimenticato il tuo login?"
 
 #: Idno/Pages/Account/Register.php:152
 msgid "Please check that your passwords match and that your password is at least 7 characters long."
@@ -290,7 +290,7 @@ msgstr "Assicurarsi che la password corrisponda e che la password sia lunga alme
 #: ./Idno/Pages/Account/Register.php:156
 #: Idno/Pages/Admin/Users.php:178
 msgid "That doesn't seem like it's a valid email address."
-msgstr ""
+msgstr "Questo non sembra che sia un indirizzo email valido."
 
 #: Idno/Pages/Account/Register.php:160
 msgid "You've registered! You're ready to get started. Why not add a post to say hello?"
@@ -298,7 +298,7 @@ msgstr ""
 
 #: ./Idno/Pages/Account/Register.php:164
 msgid "We couldn't register you."
-msgstr ""
+msgstr "Non siamo riusciti a registrarti."
 
 #: Idno/Pages/Account/Settings/FeedbackConfirm.php:17
 msgid "Thank you for your feedback!"
