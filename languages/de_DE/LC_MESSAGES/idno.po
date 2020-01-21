@@ -836,7 +836,7 @@ msgstr ""
 
 #: ./templates/default/account/password/reset.tpl.php:23
 msgid "New password (7 characters or more)"
-msgstr ""
+msgstr "Neues Passwort (7 Zeichen oder mehr)"
 
 #: ./templates/default/account/password/reset.tpl.php:29
 msgid "Retype password"
@@ -892,6 +892,10 @@ msgstr "Erstellen Sie ein neues Konto, um loszulegen."
 #: ./templates/default/account/register.tpl.php:14
 msgid "Your name"
 msgstr "Ihr Name"
+
+#: ./templates/default/account/register.tpl.php:16
+msgid "Henri Matisse"
+msgstr "Arthur Schopenhauer"
 
 #: ./templates/default/account/register.tpl.php:20
 msgid "Choose a handle"
