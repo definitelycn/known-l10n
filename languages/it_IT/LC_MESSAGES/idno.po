@@ -862,11 +862,12 @@ msgstr ""
 
 #: ./templates/default/account/settings/feedback.tpl.php:5
 msgid "Share your feedback"
-msgstr ""
+msgstr "Condividi la tua valutazione"
+# Share your rating
 
 #: ./templates/default/account/settings/feedback.tpl.php:9
 msgid "Want to share something with the Known team? We'd love to read your thoughts, suggestions, or ideas. We will personally read all of your feedback."
-msgstr ""
+msgstr "Vuoi condividere qualcosa con il team conosciuto? Ci piacerebbe leggere i vostri pensieri, suggerimenti, o idee. Leggeremo personalmente tutti i vostri feedback."
 
 #: ./templates/default/account/settings/feedback.tpl.php:21
 msgid "From"
