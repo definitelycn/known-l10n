@@ -1198,8 +1198,8 @@ msgstr ""
 
 #: ./templates/default/account/settings/tools.tpl.php:47
 msgid "Select <em>Always Show Bookmarks Bar</em> from the <em>View</em> menu."
-msgstr "<em>表示] メニューの [常にブックマーク バーを表示</em> を<em>常に</em>表示する] を選択します。"
-# Garbled
+msgstr "<em>表示</em> メニューから <em>常にブックマーク バーを表示</em> を選択します。"
+# Better?
 
 #: ./templates/default/account/settings/tools.tpl.php:48
 msgid "Firefox"
