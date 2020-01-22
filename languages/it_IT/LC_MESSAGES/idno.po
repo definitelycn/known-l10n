@@ -702,15 +702,15 @@ msgstr "Esportare i dati"
 
 #: ./templates/default/account/export.tpl.php:19
 msgid "You can download an RSS version of everything you've posted on this site. This file is suitable for importing into content management systems like WordPress, or another Known site."
-msgstr ""
+msgstr "Puoi scaricare una versione RSS di tutto ciò che hai pubblicato su questo sito. Questo file è adatto per l'importazione in sistemi di gestione dei contenuti come WordPress, o un altro sito Known."
 
 #: ./templates/default/account/export.tpl.php:34
 msgid "Platforms like WordPress may assume that all your posts should be displayed publicly. In order to protect your privacy, you may wish to just download your public posts."
-msgstr ""
+msgstr "Piattaforme come WordPress possono supporre che tutti i tuoi post dovrebbero essere visualizzati pubblicamente. Al fine di proteggere la tua privacy, potresti voler scaricare solo i tuoi post pubblici."
 
 #: ./templates/default/account/export.tpl.php:38
 msgid "Download RSS Feed"
-msgstr ""
+msgstr "Scarica feed RSS"
 
 #: ./templates/default/account/login.tpl.php:4
 msgid "Welcome back!"
@@ -723,6 +723,8 @@ msgstr "Il tuo indirizzo email o nome utente"
 #: ./templates/default/account/login.tpl.php:17 templates/default/account/settings.tpl.php:55
 msgid "Password"
 msgstr ""
+# Pass word
+# Passa parola
 
 #: ./templates/default/account/login.tpl.php:36
 msgid "New here? Register for an account."
@@ -750,7 +752,7 @@ msgstr "Non hai ancora nessuna notifica. Ma ti amiamo comunque!"
 
 #: ./templates/default/account/password.tpl.php:6
 msgid "Reset your password"
-msgstr ""
+msgstr "Reimpostare la password"
 
 #: ./templates/default/account/password/reset.tpl.php:7
 msgid "To change your password, enter your new password below:"
