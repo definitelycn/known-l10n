@@ -1278,7 +1278,7 @@ msgstr "Contenuto della pagina di indice"
 
 #: ./templates/default/admin/homepage.tpl.php:11
 msgid "Here you can choose what content visitors see on your site homepage. By default, all published content appears on the main page. If you want to hide some content types from the main page, you can turn them off below."
-msgstr ""
+msgstr "Qui puoi scegliere quali contenuti i visitatori vedono sulla home page del tuo sito. Per impostazione predefinita, tutto il contenuto pubblicato viene visualizzato nella pagina principale. Se si desidera nascondere alcuni tipi di contenuto dalla pagina principale, è possibile disattivarli di seguito."
 
 #: ./templates/default/admin/homepage.tpl.php:16
 msgid "Turn off content types to hide them from the homepage of your site."
