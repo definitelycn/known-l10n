@@ -746,7 +746,7 @@ msgstr "La schermata delle notifiche mostra chi ha interagito con i tuoi contenu
 
 #: ./templates/default/account/notifications.tpl.php:25
 msgid "You don't have any notifications yet. But we love you anyway!"
-msgstr ""
+msgstr "Non hai ancora nessuna notifica. Ma ti amiamo comunque!"
 
 #: ./templates/default/account/password.tpl.php:6
 msgid "Reset your password"
@@ -2135,11 +2135,13 @@ msgstr "Configurazione del sito"
 
 #: ./templates/default/shell/pagination.tpl.php:28
 msgid "Newer"
-msgstr ""
+msgstr "Più recenti"
+# Last/Latest
+# Ultima
 
 #: ./templates/default/shell/pagination.tpl.php:29
 msgid "Older"
-msgstr ""
+msgstr "Più vecchio"
 
 #: ./templates/default/shell/toolbar/content/default.tpl.php:4
 msgid "Default content"
