@@ -1246,23 +1246,23 @@ msgstr "Esportare il contenuto"
 
 #: ./templates/default/admin/export.tpl.php:17
 msgid "Export your published Known content as an RSS file. You can import this file into Known or WordPress."
-msgstr ""
+msgstr "Esporta il contenuto Known pubblicato come file RSS. È possibile importare questo file in Known o WordPress."
 
 #: ./templates/default/admin/export.tpl.php:20
 msgid "Generate RSS file"
-msgstr ""
+msgstr "Genera file RSS"
 
 #: ./templates/default/admin/export.tpl.php:35
 msgid "Some platforms may assume that your content should be displayed publicly. To protect your privacy, you may wish to only download your public content."
-msgstr ""
+msgstr "Alcune piattaforme potrebbero presupporre che i tuoi contenuti debbano essere visualizzati pubblicamente. Per proteggere la tua privacy, potresti voler scaricare solo i tuoi contenuti pubblici."
 
 #: ./templates/default/admin/export.tpl.php:39
 msgid "Download file"
-msgstr ""
+msgstr "Scarica il file"
 
 #: ./templates/default/admin/export/wait.tpl.php:4
 msgid "An archive of your data is being created. Please check again in a few minutes."
-msgstr ""
+msgstr "È in corso la creazione di un archivio dei dati. Si prega di controllare di nuovo in pochi minuti."
 
 #: ./templates/default/admin/menu.tpl.php:2
 msgid "Site configuration"
