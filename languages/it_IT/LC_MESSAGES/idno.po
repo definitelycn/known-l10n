@@ -964,19 +964,19 @@ msgstr ""
 
 #: ./templates/default/account/settings/tools.tpl.php:22
 msgid "The Known bookmarklet is the best way to save links, reply to posts, and share articles."
-msgstr ""
+msgstr "Il bookmarklet Known è il modo migliore per salvare link, rispondere ai post e condividere articoli."
 
 #: ./templates/default/account/settings/tools.tpl.php:23
 msgid "Just drag the bookmarklet button below into your browser's Bookmark Bar."
-msgstr ""
+msgstr "Basta trascinare il pulsante bookmarklet sotto nella barra dei segnalibri del browser."
 
 #: ./templates/default/account/settings/tools.tpl.php:42
 msgid "Don't see a bookmarks bar?"
-msgstr ""
+msgstr "Non vedi una barra dei segnalibri?"
 
 #: ./templates/default/account/settings/tools.tpl.php:45
 msgid "Sometimes web browsers have their bookmarked links bar hidden by default. Here's how to reveal it:"
-msgstr ""
+msgstr "A volte i browser web hanno la barra dei collegamenti preferiti nascosta per impostazione predefinita. Ecco come rivelarlo:"
 
 #: ./templates/default/account/settings/tools.tpl.php:47
 msgid "Chrome"
@@ -984,7 +984,7 @@ msgstr ""
 
 #: ./templates/default/account/settings/tools.tpl.php:47
 msgid "Select <em>Always Show Bookmarks Bar</em> from the <em>View</em> menu."
-msgstr ""
+msgstr "Selezionare <em>Mostra sempre barra dei segnalibri</em> dal menu <em>Visualizza</em>."
 
 #: ./templates/default/account/settings/tools.tpl.php:48
 msgid "Firefox"
@@ -992,15 +992,15 @@ msgstr ""
 
 #: ./templates/default/account/settings/tools.tpl.php:48
 msgid "Select <em>View</em>, then <em>Toolbars</em>, and make sure"
-msgstr ""
+msgstr "Selezionare <em>Visualizza</em>, quindi <em>Toolbars</em> e assicurarsi"
 
 #: ./templates/default/account/settings/tools.tpl.php:49
 msgid "Bookmarks Toolbar"
-msgstr ""
+msgstr "Barra degli strumenti Segnalibri"
 
 #: ./templates/default/account/settings/tools.tpl.php:49
 msgid "is checked."
-msgstr ""
+msgstr "è selezionata."
 
 #: ./templates/default/account/settings/tools.tpl.php:50
 msgid "Internet Explorer"
@@ -1008,23 +1008,23 @@ msgstr ""
 
 #: ./templates/default/account/settings/tools.tpl.php:50
 msgid "Select <em>Tools</em>, then make sure <em>Favorites Bar</em> is checked."
-msgstr ""
+msgstr "Selezionare <em>Strumenti</em>, quindi assicurarsi che <em>barra Preferiti</em> sia selezionata."
 
 #: ./templates/default/account/settings/tools.tpl.php:65
 msgid "Your API key"
-msgstr ""
+msgstr "La chiave API"
 
 #: ./templates/default/account/settings/tools.tpl.php:70
 msgid "Click to show"
-msgstr ""
+msgstr "Fare clic per visualizzare"
 
 #: ./templates/default/account/settings/tools.tpl.php:76
 msgid "Revoke"
-msgstr ""
+msgstr "Revocare"
 
 #: ./templates/default/account/settings/tools.tpl.php:76
 msgid "Revoking this key will mean you must update any applications that use this key!"
-msgstr ""
+msgstr "La revoca di questa chiave significa che è necessario aggiornare tutte le applicazioni che utilizzano questa chiave!"
 
 #: ./templates/default/account/settings.tpl.php:9
 #: ./templates/default/settings-shell/toolbar/logged-in.tpl.php:13
