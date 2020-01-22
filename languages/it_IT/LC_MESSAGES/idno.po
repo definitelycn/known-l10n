@@ -938,21 +938,23 @@ msgstr "Ogni volta che qualcuno interagisce con i miei contenuti"
 msgid "Only when someone comments on my content"
 msgstr "Solo quando qualcuno commenta i miei contenuti"
 
+#: ./templates/default/account/settings/notifications.tpl.php:54
 #: ./templates/default/forms/components/usersearch/user.tpl.php:45
 msgid "Never"
 msgstr "Mai"
 
 #: ./templates/default/account/settings/notifications.tpl.php:63
 msgid "Ignored Domains"
-msgstr ""
+msgstr "Domini ignorati"
 
 #: ./templates/default/account/settings/notifications.tpl.php:64
 msgid "Do not send notifications for interactions originating from these domains (one domain per line)"
-msgstr ""
+msgstr "Non inviare notifiche per le interazioni provenienti da questi domini (un dominio per riga)"
 
+#: ./templates/default/account/settings/notifications.tpl.php:75
 #: ./templates/default/admin/email.tpl.php:142
 msgid "Save settings"
-msgstr ""
+msgstr "Salvare le impostazioni"
 
 #: ./templates/default/account/settings/tools.tpl.php:13
 msgid "Bookmarklet"
@@ -1022,6 +1024,8 @@ msgstr ""
 msgid "Revoking this key will mean you must update any applications that use this key!"
 msgstr ""
 
+#: ./templates/default/account/settings.tpl.php:9
+#: ./templates/default/settings-shell/toolbar/logged-in.tpl.php:13
 #: ./templates/default/settings-shell/toolbar/logged-in.tpl.php:13
 msgid "Account Settings"
 msgstr "Impostazioni account"
