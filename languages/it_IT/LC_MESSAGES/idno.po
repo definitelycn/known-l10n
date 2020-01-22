@@ -710,6 +710,16 @@ msgstr "Puoi scaricare una versione RSS di tutto ciò che hai pubblicato su ques
 msgid "Include private posts?"
 msgstr "Includere post privati?"
 
+#: ./templates/default/account/export.tpl.php:28
+#: ./templates/default/admin/home.tpl.php:84
+msgid "Yes"
+msgstr "Sì"
+
+#: ./templates/default/account/export.tpl.php:29
+#: ./templates/default/admin/home.tpl.php:85
+msgid "No"
+msgstr ""
+
 #: ./templates/default/account/export.tpl.php:34
 msgid "Platforms like WordPress may assume that all your posts should be displayed publicly. In order to protect your privacy, you may wish to just download your public posts."
 msgstr "Piattaforme come WordPress possono supporre che tutti i tuoi post dovrebbero essere visualizzati pubblicamente. Al fine di proteggere la tua privacy, potresti voler scaricare solo i tuoi post pubblici."
@@ -1296,7 +1306,7 @@ msgstr "Nome sito"
 
 #: ./templates/default/admin/home.tpl.php:27
 msgid "Give your site a name!"
-msgstr ""
+msgstr "Dai un nome al tuo sito!"
 
 #: ./templates/default/admin/home.tpl.php:35
 msgid "Site summary"
@@ -1308,7 +1318,7 @@ msgstr "Descrizione del sito"
 
 #: ./templates/default/admin/home.tpl.php:42
 msgid "What's your site about?"
-msgstr ""
+msgstr "Di cosa tratta il tuo sito?"
 
 #: ./templates/default/admin/home.tpl.php:50
 msgid "Homepage title"
@@ -1316,7 +1326,8 @@ msgstr "Titolo della pagina di indice"
 
 #: ./templates/default/admin/home.tpl.php:57
 msgid "What should the browser display as the title on your homepage?<br>By default this is just your site title."
-msgstr ""
+msgstr "Quale deve essere visualizzato come titolo della tua home page? <br>Per impostazione predefinita, questo è solo il titolo del sito."
+# not Quale deve essere visualizzato il browser come titolo nella tua home page?
 
 #: ./templates/default/admin/home.tpl.php:65
 msgid "Items per page"
@@ -1324,27 +1335,23 @@ msgstr "Elementi per pagina"
 
 #: ./templates/default/admin/home.tpl.php:71
 msgid "This is the number of content posts displayed on each page."
-msgstr ""
+msgstr "Questo è il numero di post di contenuto visualizzati su ogni pagina."
 
 #: ./templates/default/admin/home.tpl.php:79
 msgid "Single user"
 msgstr "Singolo utente"
 
-#: ./templates/default/admin/home.tpl.php:84
-msgid "Yes"
-msgstr "Sì"
-
-#: ./templates/default/admin/home.tpl.php:85
-msgid "No"
-msgstr ""
-
 #: ./templates/default/admin/home.tpl.php:90
 msgid "Is this a single-user site? If so, your profile information will be shown at the top of the homepage."
-msgstr ""
+msgstr "Si tratta di un sito per utente singolo? In tal caso, le informazioni del profilo verranno visualizzate nella parte superiore della home page."
 
 #: ./templates/default/admin/home.tpl.php:101
 msgid "Permalink Structure"
 msgstr "Struttura di collegamento permanente"
+
+#: templates/default/admin/home.tpl.php:105
+msgid "<strong>(default)</strong>"
+msgstr "<strong>(predefinito)</strong>"
 
 #: ./templates/default/admin/home.tpl.php:118
 msgid "How permalinks for individual posts are constructed."
