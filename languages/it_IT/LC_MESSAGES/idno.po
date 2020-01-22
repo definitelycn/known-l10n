@@ -1133,19 +1133,19 @@ msgstr ""
 
 #: ./templates/default/admin/diagnostics.tpl.php:9
 msgid "This page provides you with information that may help you or others diagnose any problems you may be experiencing with your Known install."
-msgstr ""
+msgstr "Questa pagina fornisce informazioni che possono aiutare l'utente o altri a diagnosticare eventuali problemi che potrebbero verificarsi con l'installazione Known."
 
 #: ./templates/default/admin/diagnostics.tpl.php:57
 msgid "Generate detailed report"
-msgstr ""
+msgstr "Genera report dettagliato"
 
 #: ./templates/default/admin/diagnostics.tpl.php:66
 msgid "Generating..."
-msgstr ""
+msgstr "Generazione..."
 
 #: ./templates/default/admin/email.tpl.php:5
 msgid "Email settings"
-msgstr ""
+msgstr "Impostazioni e-mail"
 
 #: ./templates/default/admin/email.tpl.php:9
 msgid "Known tries to send email using your server's default email settings. If you'd like it to do something else - for example, if you'd like to send email using an external provider - enter the new SMTP settings below. You can also <a href=\"%s\">change your notification settings</a>."
