@@ -837,9 +837,17 @@ msgstr "Ciao!"
 msgid "Create a new account to get started."
 msgstr "Crea un nuovo account per iniziare."
 
+#: ./templates/default/account/register.tpl.php:14
+#: ./templates/default/account/settings.tpl.php:27
+#: ./templates/default/account/settings.tpl.php:30
+#: ./templates/default/entity/User/edit.tpl.php:37
 #: ./templates/default/onboarding/profile.tpl.php:22
 msgid "Your name"
 msgstr "Il tuo nome"
+
+#: ./templates/default/account/register.tpl.php:16
+msgid "Henri Matisse"
+msgstr "Michelangelo Buonarroti"
 
 #: ./templates/default/account/register.tpl.php:20
 msgid "Choose a handle"
