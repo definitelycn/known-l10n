@@ -1218,7 +1218,7 @@ msgstr ""
 
 #: ./templates/default/admin/export/download.tpl.php:2
 msgid "Download your data"
-msgstr ""
+msgstr "Scarica i tuoi dati"
 
 #: ./templates/default/admin/export/download.tpl.php:3
 msgid "Generated"
@@ -1264,6 +1264,7 @@ msgstr "Scarica il file"
 msgid "An archive of your data is being created. Please check again in a few minutes."
 msgstr "È in corso la creazione di un archivio dei dati. Si prega di controllare di nuovo in pochi minuti."
 
+#: ./templates/default/admin/home/description.tpl.php:2
 #: ./templates/default/admin/menu.tpl.php:2
 msgid "Site configuration"
 msgstr "Configurazione del sito"
