@@ -389,32 +389,39 @@ msgid "Your details were saved."
 msgstr ""
 
 #: ./Idno/Pages/Account/Settings/Tools.php:26
+#: ./templates/default/account/menu.tpl.php:8
+#: ./templates/default/account/settings/tools.tpl.php:9
 msgid "Tools and Apps"
 msgstr "Strumenti e app"
 
 #: ./Idno/Pages/Admin/About.php:20
+#: ./templates/default/admin/about.tpl.php:5
 msgid "About Known"
 msgstr "Informazioni su Known"
 
 #: ./Idno/Pages/Admin/Dependencies.php:20
+#: ./templates/default/admin/dependencies.tpl.php:4
 msgid "Dependencies"
 msgstr ""
 
 #: ./Idno/Pages/Admin/Diagnostics.php:36
+#: ./templates/default/admin/diagnostics.tpl.php:45
 msgid "Basic checks on installation discovered no problems."
-msgstr ""
+msgstr "I controlli di base sull'installazione non hanno rilevato problemi."
 
 #: ./Idno/Pages/Admin/Diagnostics.php:56
+#: ./templates/default/admin/diagnostics.tpl.php:4
+#: ./templates/default/admin/menu.tpl.php:11
 msgid "Diagnostics"
-msgstr ""
+msgstr "Diagnostica"
 
 #: ./Idno/Pages/Admin/Diagnostics.php:78
 msgid "Your build of Known is behind the latest version from Github (%s - %s). If you're having problems, you may want to try updating to the latest version!<br /> <a href=\"https://github.com/idno/Known\" target=\"_blank\">Update now.</a>"
-msgstr ""
+msgstr "La build di Known è dietro l'ultima versione da Github (%s - %s). Se si verificano problemi, provare ad eseguire l'aggiornamento alla versione più recente!<br/> Aggiornamento ora."
 
 #: ./Idno/Pages/Admin/Diagnostics.php:97
 msgid "You appear to be running directly from a git checkout. While this is fine, you might find a pre-packaged version of Known more stable."
-msgstr ""
+msgstr "Sembra che tu sia in esecuzione direttamente da un checkout git. Mentre questo va bene, si potrebbe trovare una versione preconfezionata di Known più stabile."
 
 #: ./Idno/Pages/Admin/Diagnostics.php:160
 msgid "We can't read data from %s - please check permissions and try again."
@@ -2294,9 +2301,12 @@ msgstr ""
 #: ./known.php:110
 msgid "Returns the current Known version as defined in version.known"
 msgstr ""
+"Restituisce la versione corrente di Known come definito in version.known"
 
 #: ./known.php:118
 msgid ""
 "WARNING: Your build of Known is behind the latest version from Github (%s - %s). If you're having problems, you may want to try updating to the latest version.\n"
 "Update now: https://github.com/idno/Known\n"
 msgstr ""
+"AVVISO: La build di Klown è dietro l'ultima versione da Github (%s - %s). Se si verificano problemi, provare ad eseguire l'aggiornamento alla versione più recente.\n"
+"Aggiornamento ora: https://github.com/idno/Known\n"
