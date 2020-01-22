@@ -1709,7 +1709,7 @@ msgstr ""
 
 #: ./templates/default/admin/plugins/plugin.tpl.php:91
 msgid "Extensions"
-msgstr ""
+msgstr "Επεκτάσεις"
 
 #: ./templates/default/admin/plugins/plugin.tpl.php:134
 msgid "Disable"
