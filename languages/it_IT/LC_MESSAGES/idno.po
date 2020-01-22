@@ -42,11 +42,11 @@ msgstr ""
 
 #: ./Idno/Common/Page.php:741
 msgid "This content isn't here."
-msgstr ""
+msgstr "Questo contenuto non è qui."
 
 #: ./Idno/Common/Page.php:757
 msgid "This page can't be found."
-msgstr ""
+msgstr "Impossibile trovare questa pagina."
 
 #: ./Idno/Common/Plugin.php:87
 msgid "Plugin %s doesn't have a version"
@@ -2074,7 +2074,7 @@ msgstr "Clicca qui per accedere."
 
 #: ./templates/default/pages/403.tpl.php:18
 msgid "Hold on. You don't have access to this content."
-msgstr ""
+msgstr "Aspettare. Non hai accesso a questo contenuto."
 
 #: ./templates/default/pages/403.tpl.php:20
 msgid "It's nothing personal. You just don't have the right permissions to see what's here."
@@ -2086,7 +2086,8 @@ msgstr ""
 
 #: ./templates/default/pages/404.tpl.php:5
 msgid "Oops! We couldn't find it."
-msgstr ""
+msgstr "Oops! Impossibile trovare questo contenuto."
+# Oops! This content could not be found.
 
 #: ./templates/default/pages/404.tpl.php:7
 msgid "Whatever you were looking for, it's not here. It might have been moved, deleted, or it doesn't exist. Or the robots ate it. That's always a possibility too."
