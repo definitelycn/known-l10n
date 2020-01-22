@@ -11,6 +11,7 @@ msgstr ""
 "Last-Translator: \n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 "Language: zh_CN\n"
+# zh-Hant
 
 #: ./Idno/Caching/FilesystemCache.php:19
 msgid "No domain specified for cache"
@@ -2472,7 +2473,7 @@ msgstr ""
 
 #: ./templates/default/shell/toolbar/content.tpl.php:26
 msgid "Filter content"
-msgstr ""
+msgstr "篩選內容"
 
 #: ./templates/default/shell/toolbar/logged-in.tpl.php:16
 msgid "Profile"
