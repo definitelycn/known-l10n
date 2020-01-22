@@ -1032,7 +1032,7 @@ msgstr ""
 
 #: ./templates/default/account/settings.tpl.php:45
 msgid "Site notifications will be sent here."
-msgstr ""
+msgstr "Le notifiche del sito verranno inviate qui."
 
 #: ./templates/default/account/settings.tpl.php:51
 msgid "Your password"
@@ -1040,7 +1040,7 @@ msgstr "La tua password"
 
 #: ./templates/default/account/settings.tpl.php:58
 msgid "Leave this blank if you don't want to change it."
-msgstr ""
+msgstr "Lasciare vuoto questo campo se non si desidera modificarlo."
 
 #: ./templates/default/account/settings.tpl.php:64
 msgid "Your timezone"
