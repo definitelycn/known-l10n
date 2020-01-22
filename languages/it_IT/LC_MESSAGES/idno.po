@@ -1242,7 +1242,7 @@ msgstr ""
 
 #: ./templates/default/admin/export.tpl.php:9
 msgid "Export content"
-msgstr ""
+msgstr "Esportare il contenuto"
 
 #: ./templates/default/admin/export.tpl.php:17
 msgid "Export your published Known content as an RSS file. You can import this file into Known or WordPress."
@@ -1425,7 +1425,7 @@ msgstr "Aggiungi sempre un link al tuo sito quando si esegue il sindacato a reti
 
 #: ./templates/default/admin/import.tpl.php:9
 msgid "Import content"
-msgstr ""
+msgstr "Importare contenuti"
 
 #: ./templates/default/admin/import.tpl.php:12
 msgid "Import your content from other sites into Known. All imported content will be treated as a post, with a title and body content."
