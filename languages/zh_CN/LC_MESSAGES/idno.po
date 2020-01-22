@@ -2389,11 +2389,11 @@ msgstr ""
 
 #: ./templates/default/robot/post.tpl.php:19
 msgid "Power down robots. I can take it from here."
-msgstr ""
+msgstr "關閉機器人的電源。我可以從這裡拿走"
 
 #: ./templates/default/robot/wizard.tpl.php:7
 msgid "Check out my new @withknown site!"
-msgstr ""
+msgstr "查看我的新@withknown網站！"
 
 #: ./templates/default/robot/wizard.tpl.php:9
 msgid ""
@@ -2410,15 +2410,17 @@ msgstr ""
 
 #: ./templates/default/robot/wizard.tpl.php:28
 msgid "Beep!"
-msgstr ""
+msgstr "嗶！"
 
 #: ./templates/default/robot/wizard.tpl.php:34
 msgid "Zeep!"
-msgstr ""
+msgstr "齊普！"
+# Chip!
 
 #: ./templates/default/robot/wizard.tpl.php:40
 msgid "Beep boop!"
-msgstr ""
+msgstr "蜂鳴！"
+# Buzz!
 
 #: ./templates/default/robot/wizard.tpl.php:47
 msgid ""
