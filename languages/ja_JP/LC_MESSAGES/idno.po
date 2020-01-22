@@ -818,7 +818,7 @@ msgstr ""
 #: ./templates/default/account/export.tpl.php:24
 #: ./templates/default/admin/export.tpl.php:25
 msgid "Include private posts?"
-msgstr ""
+msgstr "非公開投稿を含めますか?"
 
 #: ./templates/default/account/export.tpl.php:28
 #: ./templates/default/admin/email.tpl.php:121
@@ -989,7 +989,7 @@ msgstr "あなたの名前"
 
 #: ./templates/default/account/register.tpl.php:16
 msgid "Henri Matisse"
-msgstr ""
+msgstr "Hiro "
 
 #: ./templates/default/account/register.tpl.php:20
 msgid "Choose a handle"
@@ -1198,7 +1198,8 @@ msgstr ""
 
 #: ./templates/default/account/settings/tools.tpl.php:47
 msgid "Select <em>Always Show Bookmarks Bar</em> from the <em>View</em> menu."
-msgstr ""
+msgstr "<em>表示] メニューの [常にブックマーク バーを表示</em> を<em>常に</em>表示する] を選択します。"
+# Garbled
 
 #: ./templates/default/account/settings/tools.tpl.php:48
 msgid "Firefox"

@@ -816,7 +816,7 @@ msgstr ""
 #: ./templates/default/account/export.tpl.php:24
 #: ./templates/default/admin/export.tpl.php:25
 msgid "Include private posts?"
-msgstr ""
+msgstr "¿Incluir publicaciones privadas?"
 
 #: ./templates/default/account/export.tpl.php:28
 #: ./templates/default/admin/email.tpl.php:121
@@ -1187,7 +1187,7 @@ msgstr ""
 
 #: ./templates/default/account/settings/tools.tpl.php:47
 msgid "Select <em>Always Show Bookmarks Bar</em> from the <em>View</em> menu."
-msgstr ""
+msgstr "Seleccione <em>siempre mostrar la barra de marcadores</em> en el <em>Ver</em> menú."
 
 #: ./templates/default/account/settings/tools.tpl.php:48
 msgid "Firefox"

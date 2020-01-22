@@ -712,6 +712,7 @@ msgid "You can download an RSS version of everything you've posted on this site.
 msgstr ""
 
 #: ./templates/default/account/export.tpl.php:24
+#: ./templates/default/admin/export.tpl.php:25
 msgid "Include private posts?"
 msgstr "Inkluzivi privatajn afiŝojn?"
 
@@ -1009,7 +1010,7 @@ msgstr ""
 
 #: ./templates/default/account/settings/tools.tpl.php:47
 msgid "Select <em>Always Show Bookmarks Bar</em> from the <em>View</em> menu."
-msgstr ""
+msgstr "Elektu <em>Ĉiam montras legosignojn</em> el la menuo <em>Vido</em>."
 
 #: ./templates/default/account/settings/tools.tpl.php:48
 msgid "Firefox"

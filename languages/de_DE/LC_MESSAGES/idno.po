@@ -757,8 +757,10 @@ msgid ""
 msgstr ""
 
 #: ./templates/default/account/export.tpl.php:24
+#: ./templates/default/admin/export.tpl.php:25
 msgid "Include private posts?"
-msgstr ""
+msgstr "Private Beiträge einschließen?"
+# contributions
 
 #: ./templates/default/account/export.tpl.php:28
 msgid "Yes"
@@ -1085,7 +1087,8 @@ msgstr ""
 
 #: ./templates/default/account/settings/tools.tpl.php:47
 msgid "Select <em>Always Show Bookmarks Bar</em> from the <em>View</em> menu."
-msgstr ""
+msgstr "Wählen Sie <em>Immer Lesezeichenleiste anzeigen</em> aus dem <em>View</em> menü."
+# ?
 
 #: ./templates/default/account/settings/tools.tpl.php:48
 msgid "Firefox"

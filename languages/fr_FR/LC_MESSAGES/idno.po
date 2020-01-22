@@ -1195,7 +1195,7 @@ msgstr ""
 
 #: ./templates/default/account/settings/tools.tpl.php:47
 msgid "Select <em>Always Show Bookmarks Bar</em> from the <em>View</em> menu."
-msgstr ""
+msgstr "Sélectionnez <em>Affichez toujours la barre de signets</em> dans le menu <em>View</em>."
 
 #: ./templates/default/account/settings/tools.tpl.php:48
 msgid "Firefox"
