@@ -887,7 +887,7 @@ msgstr ""
 
 #: ./templates/default/account/settings/feedback.tpl.php:32
 msgid "Let us know what you think."
-msgstr ""
+msgstr "Fateci sapere cosa ne pensate."
 
 #: ./templates/default/account/settings/following/bookmarklet.tpl.php:3
 msgid "Add as friend..."
@@ -923,19 +923,20 @@ msgstr ""
 
 #: ./templates/default/account/settings/notifications.tpl.php:17
 msgid "Set how you'd like to be notified when someone stars or comments on your content."
-msgstr ""
+msgstr "Imposta la modalità di notifica quando qualcuno preferisce o commenta i tuoi contenuti."
+# stars->favourites->prefers
 
 #: ./templates/default/account/settings/notifications.tpl.php:26
 msgid "Send email notifications"
-msgstr ""
+msgstr "Inviare notifiche tramite posta elettronica"
 
 #: ./templates/default/account/settings/notifications.tpl.php:34
 msgid "Whenever someone interacts with my content"
-msgstr ""
+msgstr "Ogni volta che qualcuno interagisce con i miei contenuti"
 
 #: ./templates/default/account/settings/notifications.tpl.php:44
 msgid "Only when someone comments on my content"
-msgstr ""
+msgstr "Solo quando qualcuno commenta i miei contenuti"
 
 #: ./templates/default/forms/components/usersearch/user.tpl.php:45
 msgid "Never"
