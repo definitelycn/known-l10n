@@ -1348,7 +1348,8 @@ msgstr "Struttura di collegamento permanente"
 
 #: ./templates/default/admin/home.tpl.php:118
 msgid "How permalinks for individual posts are constructed."
-msgstr ""
+msgstr "Come vengono costruiti i collegamenti permanenti per i singoli posti."
+# individual seats ?
 
 #: ./templates/default/admin/home.tpl.php:130
 msgid "Registration and privacy"
@@ -1360,7 +1361,7 @@ msgstr "Consenti registrazione"
 
 #: ./templates/default/admin/home.tpl.php:148
 msgid "Allow registration if you want others to sign up for your site."
-msgstr ""
+msgstr "Consenti la registrazione se vuoi che altri si iscridano al tuo sito."
 
 #: ./templates/default/admin/home.tpl.php:161
 msgid "Make site private"
@@ -1368,15 +1369,15 @@ msgstr "Rendi il sito privato"
 
 #: ./templates/default/admin/home.tpl.php:170
 msgid "Content on a private site is only visible if you're logged in."
-msgstr ""
+msgstr "Il contenuto di un sito privato è visibile solo se hai effettuato l'accesso."
 
 #: ./templates/default/admin/home.tpl.php:188
 msgid "Per-post privacy"
-msgstr ""
+msgstr "Privacy per post"
 
 #: ./templates/default/admin/home.tpl.php:199
 msgid "Show per-post privacy settings."
-msgstr ""
+msgstr "Mostra le impostazioni di privacy per post."
 
 #: ./templates/default/admin/home.tpl.php:215
 msgid "Technical Settings"
@@ -1388,11 +1389,11 @@ msgstr ""
 
 #: ./templates/default/admin/home.tpl.php:226
 msgid "PubSubHubbub hub address"
-msgstr ""
+msgstr "Indirizzo hub PubSubHubbub"
 
 #: ./templates/default/admin/home.tpl.php:230
 msgid "You can probably leave this as is."
-msgstr ""
+msgstr "Probabilmente puoi lasciarlo così com'è."
 
 #: ./templates/default/admin/home.tpl.php:231
 msgid "Learn more about PuSH"
