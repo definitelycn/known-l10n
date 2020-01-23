@@ -118,7 +118,7 @@ msgstr ""
 
 #: ./Idno/Core/Time.php:89
 msgid "hour"
-msgstr ""
+msgstr "小時"
 
 #: ./Idno/Core/Time.php:91
 msgid "hours"
@@ -126,11 +126,11 @@ msgstr "小時"
 
 #: ./Idno/Core/Time.php:97
 msgid "minute"
-msgstr ""
+msgstr "分鐘"
 
 #: ./Idno/Core/Time.php:99
 msgid "minutes"
-msgstr ""
+msgstr "分鐘"
 
 #: ./Idno/Core/Time.php:103
 msgid "ahead"
