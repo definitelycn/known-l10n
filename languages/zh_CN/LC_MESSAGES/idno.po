@@ -523,7 +523,7 @@ msgstr ""
 
 #: ./Idno/Pages/Admin/Import.php:18
 msgid "Import data"
-msgstr ""
+msgstr "導入資料"
 
 #: ./Idno/Pages/Admin/Import.php:33
 msgid "You need to upload an import file to continue."
@@ -1335,7 +1335,7 @@ msgstr ""
 
 #: ./templates/default/admin/email.tpl.php:33
 msgid "This is the address that every notification will be sent from."
-msgstr "這是每個通知都將發送的位址。""
+msgstr "這是每個通知都將發送的位址。"
 # This is the address that each notification will send.
 
 #: ./templates/default/admin/email.tpl.php:40
@@ -1628,7 +1628,7 @@ msgstr ""
 
 #: ./templates/default/admin/import.tpl.php:9
 msgid "Import content"
-msgstr ""
+msgstr "導入內容"
 
 #: ./templates/default/admin/import.tpl.php:12
 msgid ""
@@ -1673,7 +1673,7 @@ msgstr ""
 #: ./templates/default/admin/import.tpl.php:91
 #: ./templates/default/admin/import.tpl.php:133
 msgid "Import your data"
-msgstr ""
+msgstr "導入資料"
 
 #: ./templates/default/admin/import.tpl.php:64
 msgid "WordPress"
@@ -1773,7 +1773,7 @@ msgstr "出口"
 
 #: ./templates/default/admin/menu.tpl.php:10
 msgid "Import"
-msgstr ""
+msgstr "進口"
 
 #: ./templates/default/admin/menu.tpl.php:13
 msgid "Captured Logs"
