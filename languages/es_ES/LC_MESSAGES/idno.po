@@ -450,7 +450,7 @@ msgstr ""
 #: ./Idno/Pages/Admin/Dependencies.php:20
 #: ./templates/default/admin/dependencies.tpl.php:4
 msgid "Dependencies"
-msgstr ""
+msgstr "Dependencias"
 
 #: ./Idno/Pages/Admin/Diagnostics.php:36
 #: ./templates/default/admin/diagnostics.tpl.php:45
