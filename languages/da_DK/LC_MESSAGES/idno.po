@@ -765,7 +765,7 @@ msgstr ""
 #: ./templates/default/account/login.tpl.php:21
 #: ./templates/default/shell/toolbar/login.tpl.php:3
 msgid "Sign in"
-msgstr ""
+msgstr "Log på"
 
 #: ./Idno/Pages/Session/Login.php:67
 msgid "Oops! It looks like your password isn't correct. Please try again."
@@ -1471,7 +1471,7 @@ msgstr ""
 #: ./templates/default/admin/home/description.tpl.php:2
 #: ./templates/default/admin/menu.tpl.php:2
 msgid "Site configuration"
-msgstr ""
+msgstr "Konfiguration af websted"
 
 #: ./templates/default/admin/home/description.tpl.php:6
 msgid ""
@@ -1481,7 +1481,7 @@ msgstr ""
 
 #: ./templates/default/admin/homepage.tpl.php:6
 msgid "Homepage content"
-msgstr ""
+msgstr "Hjemmeside indhold"
 
 #: ./templates/default/admin/homepage.tpl.php:11
 msgid ""
@@ -1492,19 +1492,20 @@ msgstr ""
 
 #: ./templates/default/admin/homepage.tpl.php:16
 msgid "Turn off content types to hide them from the homepage of your site."
-msgstr ""
+msgstr "Slå indholdstyper fra for at skjule dem fra webstedets hjemmeside."
 
 #: ./templates/default/admin/homepage.tpl.php:45
 msgid "On"
-msgstr ""
+msgstr "På"
 
 #: ./templates/default/admin/homepage.tpl.php:46
 msgid "Off"
-msgstr ""
+msgstr "Ud"
+# Out
 
 #: ./templates/default/admin/homepage.tpl.php:109
 msgid "Save"
-msgstr ""
+msgstr "Gemme"
 
 #: ./templates/default/admin/home.tpl.php:15
 msgid "Site Details"
@@ -1946,25 +1947,26 @@ msgstr ""
 
 #: ./templates/default/content/access.tpl.php:34
 msgid "Public"
-msgstr ""
+msgstr "Offentlige"
 
 #: ./templates/default/content/access.tpl.php:36
 msgid "Members only"
-msgstr ""
+msgstr "Kun medlemmer"
+# Only members
 
 #: ./templates/default/content/access.tpl.php:38
 msgid "Private"
-msgstr ""
+msgstr "Privat"
 
 #: ./templates/default/content/annotation/edit.tpl.php:5
 #: ./templates/default/content/edit.tpl.php:9
 #: ./templates/default/forms/components/usersearch/user.tpl.php:90
 msgid "Delete"
-msgstr ""
+msgstr "Slette"
 
 #: ./templates/default/content/edit.tpl.php:8
 msgid "Edit"
-msgstr ""
+msgstr "Redigere"
 
 #: ./templates/default/content/edit.tpl.php:9
 msgid "Are you sure you want to permanently delete this entry?"
@@ -2009,7 +2011,7 @@ msgstr "syntes godt om"
 
 #: ./templates/default/content/notification/mention.tpl.php:5
 msgid "mentioned"
-msgstr ""
+msgstr "Nævnt"
 
 #: ./templates/default/content/notification/reply.tpl.php:5
 msgid "replied to"
@@ -2025,7 +2027,7 @@ msgstr ""
 
 #: ./templates/default/content/notification/share.tpl.php:5
 msgid "shared"
-msgstr ""
+msgstr "delte"
 
 #: ./templates/default/content/unfurl.tpl.php:11
 msgid "Refresh preview"
@@ -2037,11 +2039,11 @@ msgstr ""
 
 #: ./templates/default/entity/annotations/comment/main.tpl.php:16
 msgid "Add a comment ..."
-msgstr ""
+msgstr "Tilføj en kommentar..."
 
 #: ./templates/default/entity/annotations/comment/main.tpl.php:21
 msgid "Leave Comment"
-msgstr ""
+msgstr "Efterlad kommentar"
 
 #: ./templates/default/entity/annotations/likes.tpl.php:24
 msgid "liked this post"
@@ -2471,7 +2473,7 @@ msgstr ""
 #: ./templates/default/settings-shell/toolbar/logged-in.tpl.php:18
 #: ./templates/default/shell/toolbar/logged-in.tpl.php:21
 msgid "Site Configuration"
-msgstr ""
+msgstr "Konfiguration af websted"
 
 #: ./templates/default/shell/pagination.tpl.php:28
 msgid "Newer"
@@ -2496,11 +2498,11 @@ msgstr "Filtrer indhold"
 
 #: ./templates/default/shell/toolbar/logged-in.tpl.php:16
 msgid "Profile"
-msgstr ""
+msgstr "Profil"
 
 #: ./templates/default/shell/toolbar/logged-in.tpl.php:49
 msgid "Leave feedback"
-msgstr ""
+msgstr "Efterlad feedback"
 
 #: ./templates/default/shell/toolbar/logged-in.tpl.php:49
 msgid "Feedback"
@@ -2508,7 +2510,7 @@ msgstr ""
 
 #: ./templates/default/shell/toolbar/logout.tpl.php:1
 msgid "Sign out"
-msgstr ""
+msgstr "Log ud"
 
 #: ./templates/default/shell/toolbar/main.tpl.php:1
 msgid "Skip to main content"
