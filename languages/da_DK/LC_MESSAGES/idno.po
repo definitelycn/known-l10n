@@ -875,7 +875,7 @@ msgstr "Indstillinger"
 #: ./templates/default/account/menu.tpl.php:6
 #: ./templates/default/account/settings/notifications.tpl.php:12
 msgid "Email notifications"
-msgstr ""
+msgstr "E-mailnotifikationer"
 
 #: ./templates/default/account/notifications.tpl.php:6
 msgid ""
@@ -1247,7 +1247,7 @@ msgstr ""
 #: ./templates/default/account/settings.tpl.php:83
 #: ./templates/default/admin/home.tpl.php:281
 msgid "Save updates"
-msgstr ""
+msgstr "Gem opdateringer"
 
 #: ./templates/default/admin/about.tpl.php:15
 #: ./templates/default/admin/import.tpl.php:24
@@ -2117,7 +2117,7 @@ msgstr ""
 
 #: ./templates/default/entity/User/edit.tpl.php:113
 msgid "Save Changes"
-msgstr ""
+msgstr "Gem ændringer"
 
 #: ./templates/default/entity/User.tpl.php:35
 msgid "Edit profile"
