@@ -1618,7 +1618,7 @@ msgstr ""
 
 #: ./templates/default/admin/home.tpl.php:226
 msgid "PubSubHubbub hub address"
-msgstr ""
+msgstr "PubSubHubbub-hub-adresse"
 
 #: ./templates/default/admin/home.tpl.php:230
 msgid "You can probably leave this as is."
@@ -1630,7 +1630,7 @@ msgstr ""
 
 #: ./templates/default/admin/home.tpl.php:241
 msgid "Avatar as icon"
-msgstr ""
+msgstr "Avatar som ikon"
 
 #: ./templates/default/admin/home.tpl.php:252
 msgid "This uses members' avatar images as the site favicon."
@@ -1638,7 +1638,7 @@ msgstr ""
 
 #: ./templates/default/admin/home.tpl.php:260
 msgid "Include permalinks"
-msgstr ""
+msgstr "Medtag permanente links"
 
 #: ./templates/default/admin/home.tpl.php:269
 msgid ""
