@@ -1952,51 +1952,54 @@ msgstr ""
 #: ./templates/default/content/end.tpl.php:26
 #: ./templates/default/content/feed/end.tpl.php:13
 msgid "published this"
-msgstr ""
+msgstr "發表了此"
 
 #: ./templates/default/content/end.tpl.php:55
 msgid "Star this!"
-msgstr ""
+msgstr "星吧！"
 
 #: ./templates/default/content/end.tpl.php:61
 #: ./templates/default/content/feed/end.tpl.php:28
 msgid "star"
-msgstr ""
+msgstr "星"
 
 #: ./templates/default/content/end.tpl.php:64
 #: ./templates/default/content/feed/end.tpl.php:30
 msgid "stars"
-msgstr ""
+msgstr "星"
 
 #: ./templates/default/content/end.tpl.php:95
 #: ./templates/default/content/feed/end.tpl.php:48
 msgid "comment"
-msgstr ""
+msgstr "評論"
 
 #: ./templates/default/content/end.tpl.php:97
 #: ./templates/default/content/feed/end.tpl.php:50
 msgid "comments"
-msgstr ""
+msgstr "評論"
 
 #: ./templates/default/content/feed/end.tpl.php:106
 msgid "Also on"
-msgstr ""
+msgstr "也在"
+# Also at
 
 #: ./templates/default/content/notification/like.tpl.php:5
 msgid "liked"
-msgstr ""
+msgstr "喜歡這個"
+# lying 撒謊
 
 #: ./templates/default/content/notification/mention.tpl.php:5
 msgid "mentioned"
-msgstr ""
+msgstr "提到"
+# mentions
 
 #: ./templates/default/content/notification/reply.tpl.php:5
 msgid "replied to"
-msgstr ""
+msgstr "回復"
 
 #: ./templates/default/content/notification/reply.tpl.php:7
 msgid "Reply"
-msgstr ""
+msgstr "回復"
 
 #: ./templates/default/content/notification/rsvp.tpl.php:5
 msgid "RSVPed to"
@@ -2004,7 +2007,8 @@ msgstr ""
 
 #: ./templates/default/content/notification/share.tpl.php:5
 msgid "shared"
-msgstr ""
+msgstr "共用"
+# Share
 
 #: ./templates/default/content/unfurl.tpl.php:11
 msgid "Refresh preview"
