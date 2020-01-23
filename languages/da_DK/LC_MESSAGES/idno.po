@@ -1489,6 +1489,9 @@ msgid ""
 "default, all published content appears on the main page. If you want to hide "
 "some content types from the main page, you can turn them off below."
 msgstr ""
+"Her kan du vælge, hvilket indhold besøgende ser på dit websteds hjemmeside. "
+"Som standard vises alt publiceret indhold på forsiden. Hvis du vil skjule "
+"nogle indholdstyper fra hovedsiden, kan du slå dem fra nedenfor."
 
 #: ./templates/default/admin/homepage.tpl.php:16
 msgid "Turn off content types to hide them from the homepage of your site."
