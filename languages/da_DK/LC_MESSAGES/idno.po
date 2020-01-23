@@ -52,6 +52,11 @@ msgid "This page can't be found."
 msgstr "Denne side blev ikke fundet."
 # This page was not found.
 
+#: ./Idno/Common/Page.php:799
+msgid "Forbidden"
+msgstr "Forbudt"
+# Prohibited
+
 #: ./Idno/Common/Plugin.php:87
 msgid "Plugin %s doesn't have a version"
 msgstr ""
@@ -74,7 +79,7 @@ msgstr ""
 
 #: ./Idno/Core/Config.php:268
 msgid "A social website powered by Known"
-msgstr ""
+msgstr "En social hjemmeside drevet af Known"
 
 #: ./Idno/Core/Email.php:16
 msgid "Something went wrong and we couldn't create the email message to send."
