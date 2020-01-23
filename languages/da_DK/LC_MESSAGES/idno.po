@@ -408,11 +408,12 @@ msgstr ""
 
 #: ./Idno/Pages/Account/Settings/Following.php:20
 msgid "Following settings"
-msgstr ""
+msgstr "Følgende indstillinger"
+# The following options
 
 #: ./Idno/Pages/Account/Settings/Notifications.php:20
 msgid "Notification settings"
-msgstr ""
+msgstr "Indstillinger for meddelelser"
 
 #: ./Idno/Pages/Account/Settings/Notifications.php:39
 msgid "Your notification preferences were saved."
@@ -420,7 +421,7 @@ msgstr ""
 
 #: ./Idno/Pages/Account/Settings.php:20
 msgid "Account settings"
-msgstr ""
+msgstr "Kontoindstillinger"
 
 #: ./Idno/Pages/Account/Settings.php:50
 msgid "Someone is already using %s as their email address."
@@ -869,7 +870,7 @@ msgstr ""
 
 #: ./templates/default/account/menu.tpl.php:3
 msgid "Settings"
-msgstr ""
+msgstr "Indstillinger"
 
 #: ./templates/default/account/menu.tpl.php:6
 #: ./templates/default/account/settings/notifications.tpl.php:12
@@ -1129,7 +1130,7 @@ msgstr ""
 #: ./templates/default/account/settings/notifications.tpl.php:75
 #: ./templates/default/admin/email.tpl.php:142
 msgid "Save settings"
-msgstr ""
+msgstr "Gem indstillinger"
 
 #: ./templates/default/account/settings/tools.tpl.php:13
 msgid "Bookmarklet"
@@ -1211,7 +1212,7 @@ msgstr ""
 #: ./templates/default/settings-shell/toolbar/logged-in.tpl.php:13
 #: ./templates/default/shell/toolbar/logged-in.tpl.php:19
 msgid "Account Settings"
-msgstr ""
+msgstr "Kontoindstillinger"
 
 #: ./templates/default/account/settings.tpl.php:14
 msgid ""
@@ -1408,7 +1409,7 @@ msgstr ""
 
 #: ./templates/default/admin/email.tpl.php:170
 msgid "Test settings"
-msgstr ""
+msgstr "Test indstillinger"
 
 #: ./templates/default/admin/export/download.tpl.php:2
 msgid "Download your data"
@@ -1597,7 +1598,7 @@ msgstr ""
 
 #: ./templates/default/admin/home.tpl.php:215
 msgid "Technical Settings"
-msgstr ""
+msgstr "Tekniske indstillinger"
 
 #: ./templates/default/admin/home.tpl.php:223
 msgid "PubSubHubbub hub"
@@ -1743,7 +1744,7 @@ msgstr ""
 
 #: ./templates/default/admin/import.tpl.php:116
 msgid "Click on Settings"
-msgstr ""
+msgstr "Klik på indstillinger"
 
 #: ./templates/default/admin/import.tpl.php:117
 msgid "Click on Other"
@@ -1787,7 +1788,7 @@ msgstr ""
 
 #: ./templates/default/admin/menu.tpl.php:15
 msgid "About"
-msgstr ""
+msgstr "Om"
 
 #: ./templates/default/admin/plugins/plugin.tpl.php:35
 msgid "Enabled"
