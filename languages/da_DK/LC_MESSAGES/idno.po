@@ -49,7 +49,8 @@ msgstr "Dette indhold er ikke her."
 
 #: ./Idno/Common/Page.php:757
 msgid "This page can't be found."
-msgstr ""
+msgstr "Denne side blev ikke fundet."
+# This page was not found.
 
 #: ./Idno/Common/Plugin.php:87
 msgid "Plugin %s doesn't have a version"
@@ -446,18 +447,18 @@ msgstr ""
 #: ./Idno/Pages/Admin/Dependencies.php:20
 #: ./templates/default/admin/dependencies.tpl.php:4
 msgid "Dependencies"
-msgstr ""
+msgstr "Afhængigheder"
 
 #: ./Idno/Pages/Admin/Diagnostics.php:36
 #: ./templates/default/admin/diagnostics.tpl.php:45
 msgid "Basic checks on installation discovered no problems."
-msgstr ""
+msgstr "Grundlæggende kontrol af installationen opdagede ingen problemer."
 
 #: ./Idno/Pages/Admin/Diagnostics.php:56
 #: ./templates/default/admin/diagnostics.tpl.php:4
 #: ./templates/default/admin/menu.tpl.php:11
 msgid "Diagnostics"
-msgstr ""
+msgstr "Diagnostik"
 
 #: ./Idno/Pages/Admin/Diagnostics.php:78
 msgid ""
@@ -1249,11 +1250,11 @@ msgstr ""
 
 #: ./templates/default/admin/about.tpl.php:15
 msgid "is a social publishing platform for groups and individuals."
-msgstr ""
+msgstr "er en social udgivelsesplatform for grupper og enkeltpersoner."
 
 #: ./templates/default/admin/about.tpl.php:17
 msgid "Open source project details"
-msgstr ""
+msgstr "Åbn kilde projektoplysninger"
 
 #: ./templates/default/admin/about.tpl.php:20
 msgid "Version: %s+%s"
