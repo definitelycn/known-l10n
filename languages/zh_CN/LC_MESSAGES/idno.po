@@ -225,14 +225,15 @@ msgstr ""
 #: ./Idno/Pages/Account/Export.php:20
 #: ./templates/default/account/menu.tpl.php:11
 msgid "Export Data"
-msgstr ""
+msgstr "匯出資料"
 
 #: ./Idno/Pages/Account/Notifications.php:36
 #: ./templates/default/account/notifications.tpl.php:4
 #: ./templates/default/settings-shell/toolbar/logged-in.tpl.php:4
 #: ./templates/default/shell/toolbar/logged-in.tpl.php:17
 msgid "Notifications"
-msgstr ""
+msgstr "通知"
+# Notice
 
 #: ./Idno/Pages/Account/Password.php:26
 msgid "Password recovery email sent"
@@ -398,19 +399,20 @@ msgstr ""
 
 #: ./Idno/Pages/Account/Settings/Following.php:20
 msgid "Following settings"
-msgstr ""
+msgstr "以下設置"
+# The following settings
 
 #: ./Idno/Pages/Account/Settings/Notifications.php:20
 msgid "Notification settings"
-msgstr ""
+msgstr "通知設置"
 
 #: ./Idno/Pages/Account/Settings/Notifications.php:39
 msgid "Your notification preferences were saved."
-msgstr ""
+msgstr "您的通知首選項已保存。"
 
 #: ./Idno/Pages/Account/Settings.php:20
 msgid "Account settings"
-msgstr ""
+msgstr "帳戶設置"
 
 #: ./Idno/Pages/Account/Settings.php:50
 msgid "Someone is already using %s as their email address."
@@ -504,7 +506,7 @@ msgstr ""
 
 #: ./Idno/Pages/Admin/Export.php:17
 msgid "Export data"
-msgstr ""
+msgstr "匯出資料"
 
 #: ./Idno/Pages/Admin/Homepage.php:25
 #: ./templates/default/admin/menu.tpl.php:6
@@ -789,7 +791,8 @@ msgstr ""
 
 #: ./templates/default/account/export.tpl.php:8
 msgid "Export your data"
-msgstr ""
+msgstr "匯出資料"
+# Export data
 
 #: ./templates/default/account/export.tpl.php:19
 msgid ""
@@ -863,21 +866,22 @@ msgstr ""
 
 #: ./templates/default/account/menu.tpl.php:3
 msgid "Settings"
-msgstr ""
+msgstr "設置"
+# Set up
 
 #: ./templates/default/account/menu.tpl.php:6
 #: ./templates/default/account/settings/notifications.tpl.php:12
 msgid "Email notifications"
-msgstr ""
+msgstr "電子郵件通知"
 
 #: ./templates/default/account/notifications.tpl.php:6
 msgid ""
 "The notifications screen shows you who has interacted with your content."
-msgstr ""
+msgstr "通知螢幕顯示與您的內容交互的使用者。"
 
 #: ./templates/default/account/notifications.tpl.php:25
 msgid "You don't have any notifications yet. But we love you anyway!"
-msgstr ""
+msgstr "您尚未獲得任何通知。但我們還是愛你！"
 
 #: ./templates/default/account/password/reset.tpl.php:5
 #: ./templates/default/account/password.tpl.php:6
@@ -1091,7 +1095,8 @@ msgstr ""
 
 #: ./templates/default/account/settings/notifications.tpl.php:26
 msgid "Send email notifications"
-msgstr ""
+msgstr "發送電子郵件通知"
+# Send an e-mail notification
 
 #: ./templates/default/account/settings/notifications.tpl.php:34
 msgid "Whenever someone interacts with my content"
@@ -1119,7 +1124,7 @@ msgstr ""
 #: ./templates/default/account/settings/notifications.tpl.php:75
 #: ./templates/default/admin/email.tpl.php:142
 msgid "Save settings"
-msgstr ""
+msgstr "保存設置"
 
 #: ./templates/default/account/settings/tools.tpl.php:13
 msgid "Bookmarklet"
@@ -1201,7 +1206,7 @@ msgstr ""
 #: ./templates/default/settings-shell/toolbar/logged-in.tpl.php:13
 #: ./templates/default/shell/toolbar/logged-in.tpl.php:19
 msgid "Account Settings"
-msgstr ""
+msgstr "帳戶設置"
 
 #: ./templates/default/account/settings.tpl.php:14
 msgid ""
@@ -1211,7 +1216,7 @@ msgstr ""
 
 #: ./templates/default/account/settings.tpl.php:45
 msgid "Site notifications will be sent here."
-msgstr ""
+msgstr "網站通知將在此處發送。"
 
 #: ./templates/default/account/settings.tpl.php:51
 msgid "Your password"
@@ -1308,7 +1313,7 @@ msgstr ""
 
 #: ./templates/default/admin/email.tpl.php:5
 msgid "Email settings"
-msgstr ""
+msgstr "電子郵件設定"
 
 #: ./templates/default/admin/email.tpl.php:9
 msgid ""
@@ -1330,7 +1335,8 @@ msgstr ""
 
 #: ./templates/default/admin/email.tpl.php:33
 msgid "This is the address that every notification will be sent from."
-msgstr ""
+msgstr "這是每個通知都將發送的位址。""
+# This is the address that each notification will send.
 
 #: ./templates/default/admin/email.tpl.php:40
 msgid ""
@@ -1396,7 +1402,7 @@ msgstr ""
 
 #: ./templates/default/admin/email.tpl.php:170
 msgid "Test settings"
-msgstr ""
+msgstr "測試設定"
 
 #: ./templates/default/admin/export/download.tpl.php:2
 msgid "Download your data"
@@ -1427,7 +1433,7 @@ msgstr ""
 
 #: ./templates/default/admin/export.tpl.php:9
 msgid "Export content"
-msgstr ""
+msgstr "匯出內容"
 
 #: ./templates/default/admin/export.tpl.php:17
 msgid ""
@@ -1458,7 +1464,7 @@ msgstr ""
 #: ./templates/default/admin/home/description.tpl.php:2
 #: ./templates/default/admin/menu.tpl.php:2
 msgid "Site configuration"
-msgstr ""
+msgstr "網站配置"
 
 #: ./templates/default/admin/home/description.tpl.php:6
 msgid ""
@@ -1585,7 +1591,7 @@ msgstr ""
 
 #: ./templates/default/admin/home.tpl.php:215
 msgid "Technical Settings"
-msgstr ""
+msgstr "技術設置"
 
 #: ./templates/default/admin/home.tpl.php:223
 msgid "PubSubHubbub hub"
@@ -1648,7 +1654,7 @@ msgstr ""
 
 #: ./templates/default/admin/import.tpl.php:36
 msgid "Click on Site Configuration"
-msgstr ""
+msgstr "按一下網站配置"
 
 #: ./templates/default/admin/import.tpl.php:37
 #: ./templates/default/admin/import.tpl.php:77
@@ -1731,7 +1737,7 @@ msgstr ""
 
 #: ./templates/default/admin/import.tpl.php:116
 msgid "Click on Settings"
-msgstr ""
+msgstr "按一下設置"
 
 #: ./templates/default/admin/import.tpl.php:117
 msgid "Click on Other"
@@ -1763,7 +1769,7 @@ msgstr ""
 
 #: ./templates/default/admin/menu.tpl.php:9
 msgid "Export"
-msgstr ""
+msgstr "出口"
 
 #: ./templates/default/admin/menu.tpl.php:10
 msgid "Import"
@@ -2024,7 +2030,7 @@ msgstr "添加注釋"
 
 #: ./templates/default/entity/annotations/comment/main.tpl.php:21
 msgid "Leave Comment"
-msgstr ""
+msgstr "發表評論"
 
 #: ./templates/default/entity/annotations/likes.tpl.php:24
 msgid "liked this post"
@@ -2459,7 +2465,7 @@ msgstr ""
 #: ./templates/default/settings-shell/toolbar/logged-in.tpl.php:18
 #: ./templates/default/shell/toolbar/logged-in.tpl.php:21
 msgid "Site Configuration"
-msgstr ""
+msgstr "網站配置"
 
 #: ./templates/default/shell/pagination.tpl.php:28
 msgid "Newer"
