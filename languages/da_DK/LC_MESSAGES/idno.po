@@ -1479,6 +1479,8 @@ msgid ""
 "On this page you can change the basic settings for your site, like the site "
 "name and the number of posts visible on each page."
 msgstr ""
+"På denne side kan du ændre de grundlæggende indstillinger for dit websted, "
+"såsom webstedets navn og antallet af opslag, der er synlige på hver side."
 
 #: ./templates/default/admin/homepage.tpl.php:6
 msgid "Homepage content"
@@ -1513,12 +1515,13 @@ msgstr "Gemme"
 
 #: ./templates/default/admin/home.tpl.php:15
 msgid "Site Details"
-msgstr ""
+msgstr "Oplysninger om websted"
+# Site information
 
 #: ./templates/default/admin/home.tpl.php:20
 #: ./templates/default/admin/home.tpl.php:23
 msgid "Site name"
-msgstr ""
+msgstr "Navn på websted"
 
 #: ./templates/default/admin/home.tpl.php:27
 msgid "Give your site a name!"
@@ -1526,11 +1529,12 @@ msgstr ""
 
 #: ./templates/default/admin/home.tpl.php:35
 msgid "Site summary"
-msgstr ""
+msgstr "Websted oversigt"
+# Site overview
 
 #: ./templates/default/admin/home.tpl.php:38
 msgid "Site description"
-msgstr ""
+msgstr "Beskrivelse af websted"
 
 #: ./templates/default/admin/home.tpl.php:42
 msgid "What's your site about?"
@@ -1539,7 +1543,7 @@ msgstr ""
 #: ./templates/default/admin/home.tpl.php:50
 #: ./templates/default/admin/home.tpl.php:53
 msgid "Homepage title"
-msgstr ""
+msgstr "Titel på hjemmeside"
 
 #: ./templates/default/admin/home.tpl.php:57
 msgid ""
@@ -1549,7 +1553,7 @@ msgstr ""
 
 #: ./templates/default/admin/home.tpl.php:65
 msgid "Items per page"
-msgstr ""
+msgstr "Elementer pr. side"
 
 #: ./templates/default/admin/home.tpl.php:71
 msgid "This is the number of content posts displayed on each page."
@@ -1557,7 +1561,7 @@ msgstr ""
 
 #: ./templates/default/admin/home.tpl.php:79
 msgid "Single user"
-msgstr ""
+msgstr "Enkelt bruger"
 
 #: ./templates/default/admin/home.tpl.php:90
 msgid ""
@@ -1567,7 +1571,7 @@ msgstr ""
 
 #: ./templates/default/admin/home.tpl.php:101
 msgid "Permalink Structure"
-msgstr ""
+msgstr "Permanent linkstruktur"
 
 #: ./templates/default/admin/home.tpl.php:118
 msgid "How permalinks for individual posts are constructed."
@@ -1575,7 +1579,8 @@ msgstr ""
 
 #: ./templates/default/admin/home.tpl.php:130
 msgid "Registration and privacy"
-msgstr ""
+msgstr "Registrering og beskyttelse af personlige oplysninger"
+# Registration and protection of personal information
 
 #: ./templates/default/admin/home.tpl.php:138
 msgid "Allow registration"
