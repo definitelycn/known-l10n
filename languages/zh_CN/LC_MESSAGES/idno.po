@@ -2465,7 +2465,7 @@ msgstr ""
 
 #: ./templates/default/shell/toolbar/content/all.tpl.php:4
 msgid "All content"
-msgstr ""
+msgstr "所有內容"
 
 #: ./templates/default/shell/toolbar/content/default.tpl.php:4
 msgid "Default content"
