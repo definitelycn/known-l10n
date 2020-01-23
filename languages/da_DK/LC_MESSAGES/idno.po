@@ -123,19 +123,19 @@ msgstr ""
 
 #: ./Idno/Core/Time.php:89
 msgid "hour"
-msgstr ""
+msgstr "Time"
 
 #: ./Idno/Core/Time.php:91
 msgid "hours"
-msgstr ""
+msgstr "Timer"
 
 #: ./Idno/Core/Time.php:97
 msgid "minute"
-msgstr ""
+msgstr "Minutters"
 
 #: ./Idno/Core/Time.php:99
 msgid "minutes"
-msgstr ""
+msgstr "Minutter"
 
 #: ./Idno/Core/Time.php:103
 msgid "ahead"
@@ -237,7 +237,8 @@ msgstr "Eksportere data"
 #: ./templates/default/settings-shell/toolbar/logged-in.tpl.php:4
 #: ./templates/default/shell/toolbar/logged-in.tpl.php:17
 msgid "Notifications"
-msgstr ""
+msgstr "Meddelelser"
+# Messages
 
 #: ./Idno/Pages/Account/Password.php:26
 msgid "Password recovery email sent"
@@ -866,7 +867,7 @@ msgstr ""
 
 #: ./templates/default/account/login.tpl.php:40
 msgid "Forgot your password?"
-msgstr ""
+msgstr "Glemt din adgangskode?"
 
 #: ./templates/default/account/menu.tpl.php:3
 msgid "Settings"
@@ -2271,27 +2272,27 @@ msgstr ""
 
 #: ./templates/default/onboarding/begin.tpl.php:8
 msgid "Known is your space for sharing content and discussing ideas."
-msgstr ""
+msgstr "Klown er din plads til at dele indhold og diskutere ideer."
 
 #: ./templates/default/onboarding/begin.tpl.php:13
 msgid "Take a picture"
-msgstr ""
+msgstr "Tage et billede"
 
 #: ./templates/default/onboarding/begin.tpl.php:17
 msgid "Share a message"
-msgstr ""
+msgstr "Dele en meddelelse"
 
 #: ./templates/default/onboarding/begin.tpl.php:21
 msgid "Save your location"
-msgstr ""
+msgstr "Gem din placering"
 
 #: ./templates/default/onboarding/begin.tpl.php:34
 msgid "Get started"
-msgstr ""
+msgstr "Kom godt i gang"
 
 #: ./templates/default/onboarding/begin.tpl.php:42
 msgid "Already have an account? Sign in."
-msgstr ""
+msgstr "Har du allerede en konto? Log på."
 
 #: ./templates/default/onboarding/connect.tpl.php:3
 msgid "Share to social"
