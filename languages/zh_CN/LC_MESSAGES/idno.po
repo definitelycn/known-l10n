@@ -700,7 +700,8 @@ msgstr ""
 
 #: ./Idno/Pages/Onboarding/Begin.php:23
 msgid "Welcome to Known"
-msgstr ""
+msgstr "歡迎來到已知"
+# Welcome to the known
 
 #: ./Idno/Pages/Onboarding/Connect.php:25
 msgid "Connect some networks"
@@ -845,7 +846,7 @@ msgstr ""
 
 #: ./templates/default/account/login.tpl.php:4
 msgid "Welcome back!"
-msgstr ""
+msgstr "歡迎回來！"
 
 #: ./templates/default/account/login.tpl.php:14
 msgid "Your email address or username"
@@ -2420,6 +2421,9 @@ msgid ""
 "Welcome to your new Known site! I'm Aleph, your very own welcome robot. "
 "Let's get started by <%s>adding your first status update</a>!"
 msgstr ""
+"歡迎來到您的新已知網站！我是阿萊夫，你自己的歡迎機器人。 "
+"讓我們開始<%s>添加您的第一個狀態更新</a>！"
+# link location?
 
 #: ./templates/default/robot/wizard.tpl.php:28
 msgid "Beep!"
