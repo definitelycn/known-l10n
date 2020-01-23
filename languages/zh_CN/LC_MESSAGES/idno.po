@@ -2479,31 +2479,35 @@ msgstr "篩選內容"
 
 #: ./templates/default/shell/toolbar/logged-in.tpl.php:16
 msgid "Profile"
-msgstr ""
+msgstr "配置 檔"
+# Configuration
 
 #: ./templates/default/shell/toolbar/logged-in.tpl.php:49
 msgid "Leave feedback"
-msgstr ""
+msgstr "離開回饋"
 
 #: ./templates/default/shell/toolbar/logged-in.tpl.php:49
 msgid "Feedback"
-msgstr ""
+msgstr "回饋"
 
 #: ./templates/default/shell/toolbar/logout.tpl.php:1
 msgid "Sign out"
-msgstr ""
+msgstr "登出"
+# Cancellation
 
 #: ./templates/default/shell/toolbar/main.tpl.php:1
 msgid "Skip to main content"
-msgstr ""
+msgstr "跳到主要內容"
+# Jump
 
 #: ./templates/default/shell/toolbar/register.tpl.php:1
 msgid "Register"
-msgstr ""
+msgstr "註冊"
+# Registered
 
 #: ./templates/default/shell/toolbar/search.tpl.php:17
 msgid "Search"
-msgstr ""
+msgstr "搜索"
 
 #: ./templates/email/account/invite.tpl.php:2
 #: ./templates/email-text/account/invite.tpl.php:1
