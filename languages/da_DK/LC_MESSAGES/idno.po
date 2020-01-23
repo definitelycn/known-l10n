@@ -45,7 +45,7 @@ msgstr ""
 
 #: ./Idno/Common/Page.php:741
 msgid "This content isn't here."
-msgstr ""
+msgstr "Dette indhold er ikke her."
 
 #: ./Idno/Common/Page.php:757
 msgid "This page can't be found."
