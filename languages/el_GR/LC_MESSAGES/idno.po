@@ -423,7 +423,7 @@ msgstr "Σχετικά με τον Known"
 
 #: ./Idno/Pages/Admin/Dependencies.php:20
 msgid "Dependencies"
-msgstr ""
+msgstr "Εξαρτήσεις"
 
 #: ./Idno/Pages/Admin/Diagnostics.php:36
 msgid "Basic checks on installation discovered no problems."
