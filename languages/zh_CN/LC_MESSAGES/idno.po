@@ -2457,11 +2457,13 @@ msgstr ""
 
 #: ./templates/default/shell/pagination.tpl.php:28
 msgid "Newer"
-msgstr ""
+msgstr "新"
+# New
 
-#: ./templates/default/shell/pagination.tpl.php:29
+  #: ./templates/default/shell/pagination.tpl.php:29
 msgid "Older"
-msgstr ""
+msgstr "老"
+# Old
 
 #: ./templates/default/shell/toolbar/content/all.tpl.php:4
 msgid "All content"
@@ -2469,7 +2471,7 @@ msgstr "所有內容"
 
 #: ./templates/default/shell/toolbar/content/default.tpl.php:4
 msgid "Default content"
-msgstr ""
+msgstr "預設內容"
 
 #: ./templates/default/shell/toolbar/content.tpl.php:26
 msgid "Filter content"
