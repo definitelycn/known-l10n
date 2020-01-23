@@ -1584,7 +1584,7 @@ msgstr "Registrering og beskyttelse af personlige oplysninger"
 
 #: ./templates/default/admin/home.tpl.php:138
 msgid "Allow registration"
-msgstr ""
+msgstr "Tillad registrering"
 
 #: ./templates/default/admin/home.tpl.php:148
 msgid "Allow registration if you want others to sign up for your site."
@@ -1592,7 +1592,8 @@ msgstr ""
 
 #: ./templates/default/admin/home.tpl.php:161
 msgid "Make site private"
-msgstr ""
+msgstr "Gør stedet privat"
+# Make the place private
 
 #: ./templates/default/admin/home.tpl.php:170
 msgid "Content on a private site is only visible if you're logged in."
@@ -1600,7 +1601,8 @@ msgstr ""
 
 #: ./templates/default/admin/home.tpl.php:188
 msgid "Per-post privacy"
-msgstr ""
+msgstr "Personlige oplysninger pr. post"
+# ?
 
 #: ./templates/default/admin/home.tpl.php:199
 msgid "Show per-post privacy settings."
