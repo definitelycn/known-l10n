@@ -2486,7 +2486,7 @@ msgid ""
 "and <a href=\"%s\">Twitter</a> so your friends know about it?\n\nI bet "
 "you've got some great photos. <%s>Try posting one</a>!"
 msgstr ""
-"Det var en god oppdatering. Hvorfor ikke <%s>dele ditt nye nettsted på "
+" Det var en god oppdatering. Hvorfor ikke <%s>dele ditt nye nettsted på "
 "Facebook</a> og <a href=\"%s\">Twitter</a>, slik at vennene dine vet om det?"
 "\n\nJeg vedder på at du har noen flotte bilder. <%s>Prøv å legge ut en</a>!"
 
@@ -2495,6 +2495,8 @@ msgid ""
 "Welcome to your new Known site! I'm Aleph, your very own welcome robot. "
 "Let's get started by <%s>adding your first status update</a>!"
 msgstr ""
+"Velkommen til din nye Klown site! Jeg er Aleph, din helt egen velkomstrobot. "
+"Lad os komme i gang med at <%s>tilføje din første statusopdatering</a>!"
 
 #: ./templates/default/robot/wizard.tpl.php:28
 msgid "Beep!"
@@ -2513,12 +2515,16 @@ msgid ""
 "Beepity boop! That was a great picture. Did you see that you can also <a "
 "href=\"{{userurl}}/edit\">update your profile</a>?"
 msgstr ""
+"Beepity boop! Det var et fantastisk billede. Så du, at du også kan <a "
+"href="{{userurl}}/edit">opdatere din profil</a>?"
 
 #: ./templates/default/robot/wizard.tpl.php:52
 msgid ""
 "Boopity beep! Did you see that you can also <a "
 "href=\"{{userurl}}/edit\">update your profile</a>?"
 msgstr ""
+"Boopity bip! Så du, at du også kan <a "
+"href="{{userurl}}/edit">opdatere din profil</a>?"
 
 #: ./templates/default/robot/wizard.tpl.php:65
 msgid ""
