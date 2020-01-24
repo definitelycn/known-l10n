@@ -27,7 +27,7 @@ msgstr ""
 #: ./Idno/Common/Page.php:414
 #: ./templates/default/pages/500.tpl.php:6
 msgid "Something went wrong."
-msgstr ""
+msgstr "Noget gik galt."
 
 #: ./Idno/Common/Page.php:479
 msgid "Attempted to redirect page to a non local URL."
@@ -1868,7 +1868,7 @@ msgid ""
 "This page provides you with information and statistics about your Known "
 "site."
 msgstr ""
-"Denne side giver dig oplysninger og statistikker om dit Known-websted. "
+"Denne side giver dig oplysninger og statistikker om dit Known-websted."
 
 #: ./templates/default/admin/themes/theme.tpl.php:41
 msgid "(Selected)"
