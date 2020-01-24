@@ -2609,6 +2609,7 @@ msgstr "Slutte sig til os!"
 #: ./templates/email/account/invite.tpl.php:6
 msgid "Hi there! Your friend <strong>%s</strong> has invited you to join <%s>"
 msgstr ""
+"Hej der! Din ven <strong>%s</strong> har inviteret dig til at deltage i <%s>"
 
 #: ./templates/email/account/invite.tpl.php:8
 #: ./templates/email-text/account/invite.tpl.php:23
@@ -2621,12 +2622,12 @@ msgstr ""
 
 #: ./templates/email/account/invite.tpl.php:10
 msgid "Get started with <strong>%s</strong> by setting up your account"
-msgstr ""
+msgstr "Start med <strong>%s</strong> ved at konfigurere din konto"
 
 #: ./templates/email/account/invite.tpl.php:13
 #: ./templates/email-text/account/invite.tpl.php:28
 msgid "Sign up now"
-msgstr ""
+msgstr "Tilmeld dig nu"
 
 #: ./templates/email/account/invite.tpl.php:16
 #: ./templates/email-text/account/invite.tpl.php:31
@@ -2637,15 +2638,16 @@ msgstr ""
 
 #: ./templates/email/shell.tpl.php:72
 msgid "Powered by"
-msgstr ""
+msgstr "Styret af"
+# Guided by
 
 #: ./templates/email-text/account/invite.tpl.php:21
 msgid "Hi there! Your friend *%s* has invited you to join %s"
-msgstr ""
+msgstr "Hej der! Din ven *%s* har inviteret dig til at deltage i %s"
 
 #: ./templates/email-text/account/invite.tpl.php:26
 msgid "Get started with *%s* by setting up your account"
-msgstr ""
+msgstr "Start med *%s* ved at konfigurere din konto"
 
 #: ./templates/email-text/content/notification/like.tpl.php:8
 msgid "View post:"
