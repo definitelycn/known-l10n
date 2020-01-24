@@ -575,11 +575,13 @@ msgid ""
 "Something went wrong, either no statistics were returned or it wasn't in the "
 "correct format."
 msgstr ""
+"Noget gik galt, enten ingen statistikker blev returneret, eller det var ikke "
+"i det korrekte format."
 
 #: ./Idno/Pages/Admin/Statistics.php:27
 #: ./templates/default/admin/statistics.tpl.php:4
 msgid "Statistics"
-msgstr ""
+msgstr "Statistik"
 
 #: ./Idno/Pages/Admin/Themes.php:22
 #: ./templates/default/admin/menu.tpl.php:4
