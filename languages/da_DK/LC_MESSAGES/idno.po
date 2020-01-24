@@ -32,17 +32,18 @@ msgstr "Noget gik galt."
 
 #: ./Idno/Common/Page.php:479
 msgid "Attempted to redirect page to a non local URL."
-msgstr ""
+msgstr "Forsøgte at omdirigere siden til en ikke-lokal URL-adresse."
 
 #: ./Idno/Common/Page.php:569
 #: ./Idno/Common/Page.php:655
 msgid "The page you were on timed out."
-msgstr ""
+msgstr "Den side, du var på timeout."
+# The side you were on the timeout.
 
 #: ./Idno/Common/Page.php:583
 #: ./Idno/Common/Page.php:669
 msgid "Couldn't say anything about execution, probably something went wrong"
-msgstr ""
+msgstr "Kunne ikke sige noget om udførelse, sandsynligvis noget gik galt"
 
 #: ./Idno/Common/Page.php:741
 msgid "This content isn't here."
@@ -60,23 +61,29 @@ msgstr "Forbudt"
 
 #: ./Idno/Common/Plugin.php:87
 msgid "Plugin %s doesn't have a version"
-msgstr ""
+msgstr "Plugin %s har ikke en version"
 
 #: ./Idno/Core/AsynchronousQueue.php:61
 msgid "No event passed"
-msgstr ""
+msgstr "Der er ikke bestået nogen begivenhed"
+# No event has passed
 
 #: ./Idno/Core/AsynchronousQueue.php:64
 msgid "Event passed is not a queued event, and so can't be dispatched"
 msgstr ""
+"Den overgåede hændelse er ikke en hændelse i kø, og kan derfor ikke afsendes"
+# The surpassed event is not an event in line and cannot be shipped
 
 #: ./Idno/Core/AsynchronousQueue.php:67
 msgid "Sorry, this event has already been dispatched (but not yet cleaned up)"
 msgstr ""
+"Beklager, denne begivenhed er allerede blevet afsendt (men endnu ikke ryddet "
+"op)"
+# Sorry, this event has already been shipped (but not yet cleaned up)
 
 #: ./Idno/Core/AsynchronousQueue.php:76
 msgid "Invalid user (%s) given for runAsContext, aborting"
-msgstr ""
+msgstr "Ugyldig bruger (%s), der er angivet for runAsContext, afbrudt"
 
 #: ./Idno/Core/Config.php:268
 msgid "A social website powered by Known"
