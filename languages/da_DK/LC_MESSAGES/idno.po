@@ -2516,7 +2516,7 @@ msgid ""
 "href=\"{{userurl}}/edit\">update your profile</a>?"
 msgstr ""
 "Beepity boop! Det var et fantastisk billede. Så du, at du også kan <a "
-"href="{{userurl}}/edit">opdatere din profil</a>?"
+"href=\"{{userurl}}/edit\">opdatere din profil</a>?"
 
 #: ./templates/default/robot/wizard.tpl.php:52
 msgid ""
@@ -2524,7 +2524,7 @@ msgid ""
 "href=\"{{userurl}}/edit\">update your profile</a>?"
 msgstr ""
 "Boopity bip! Så du, at du også kan <a "
-"href="{{userurl}}/edit">opdatere din profil</a>?"
+"href=\"{{userurl}}/edit\">opdatere din profil</a>?"
 
 #: ./templates/default/robot/wizard.tpl.php:65
 msgid ""
@@ -2535,6 +2535,12 @@ msgid ""
 "href=\"{{baseurl}}account/settings/feedback/\">send a message to my human "
 "creators</a>."
 msgstr ""
+"01011001 01101111 00100000 01111001 01101111 00100000 01111001 01101111 "
+"\n\n Det er sådan, du siger hej, hvor jeg kommer fra. Jeg vil gerne minde "
+"dig om, at du også kan <a href="{{baseurl}}admin/themes/">ændre temaet for "
+"dit websted</a>. Hvis du nogensinde får feedback, kan du <a "
+"href=\"{{baseurl}}account/settings/feedback/\">sende en meddelelse til "
+"mine menneskelige skabere</a>."
 
 #: ./templates/default/settings-shell/nav.tpl.php:6
 #: ./templates/default/shell/toolbar/main.tpl.php:7
