@@ -1550,6 +1550,8 @@ msgid ""
 "What should the browser display as the title on your homepage?<br>By default "
 "this is just your site title."
 msgstr ""
+"Hvad skal browseren vises som titlen på din hjemmeside? <br>By standard "
+"er dette bare dit websted titel."
 
 #: ./templates/default/admin/home.tpl.php:65
 msgid "Items per page"
@@ -1557,7 +1559,7 @@ msgstr "Elementer pr. side"
 
 #: ./templates/default/admin/home.tpl.php:71
 msgid "This is the number of content posts displayed on each page."
-msgstr ""
+msgstr "Dette er antallet af indholdsopslag, der vises på hver side."
 
 #: ./templates/default/admin/home.tpl.php:79
 msgid "Single user"
@@ -1568,6 +1570,8 @@ msgid ""
 "Is this a single-user site? If so, your profile information will be shown at "
 "the top of the homepage."
 msgstr ""
+"Er dette en enkelt bruger site? Hvis det er tilfældet, vil dine "
+"profiloplysninger blive vist øverst på hjemmesiden."
 
 #: ./templates/default/admin/home.tpl.php:101
 msgid "Permalink Structure"
@@ -1575,7 +1579,7 @@ msgstr "Permanent linkstruktur"
 
 #: ./templates/default/admin/home.tpl.php:118
 msgid "How permalinks for individual posts are constructed."
-msgstr ""
+msgstr "Hvordan permanente links til de enkelte stillinger er konstrueret."
 
 #: ./templates/default/admin/home.tpl.php:130
 msgid "Registration and privacy"
@@ -1589,6 +1593,7 @@ msgstr "Tillad registrering"
 #: ./templates/default/admin/home.tpl.php:148
 msgid "Allow registration if you want others to sign up for your site."
 msgstr ""
+"Tillad registrering, hvis du vil have andre til at tilmelde dig dit websted."
 
 #: ./templates/default/admin/home.tpl.php:161
 msgid "Make site private"
