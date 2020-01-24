@@ -1606,7 +1606,7 @@ msgstr "Personlige oplysninger pr. post"
 
 #: ./templates/default/admin/home.tpl.php:199
 msgid "Show per-post privacy settings."
-msgstr ""
+msgstr "Vis indstillinger for beskyttelse af personlige oplysninger pr. indlæg."
 
 #: ./templates/default/admin/home.tpl.php:215
 msgid "Technical Settings"
