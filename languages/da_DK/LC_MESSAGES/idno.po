@@ -18,11 +18,12 @@ msgstr "Der er ikke angivet noget domæne for cache"
 
 #: ./Idno/Common/Entity.php:692
 msgid "There was a problem syndicating."
-msgstr ""
+msgstr "Der var et problem syndikering."
+# There was a problem syndication.
 
 #: ./Idno/Common/Page.php:397
 msgid "Invalid token."
-msgstr ""
+msgstr "Ugyldigt token."
 
 #: ./Idno/Common/Page.php:414
 #: ./templates/default/pages/500.tpl.php:6
