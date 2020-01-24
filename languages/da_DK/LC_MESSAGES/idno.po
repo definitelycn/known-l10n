@@ -476,22 +476,28 @@ msgid ""
 "version!<br /> <a href=\"https://github.com/idno/Known\" "
 "target=\"_blank\">Update now.</a>"
 msgstr ""
+"Din build af Klown står bag den nyeste version fra Github (%s - %s). "
+"Hvis du har problemer, kan du prøve at opdatere til den nyeste version!<br /> "
+"<a href=\"https://github.com/idno/Known\" target=\"_blank\">Opdater nu.</a>"
 
 #: ./Idno/Pages/Admin/Diagnostics.php:97
 msgid ""
 "You appear to be running directly from a git checkout. While this is fine, "
 "you might find a pre-packaged version of Known more stable."
 msgstr ""
+"Du ser ud til at køre direkte fra en git checkout. Selv om dette er fint, "
+"kan du finde en færdigpakket version af Known mere stabil."
 
 #: ./Idno/Pages/Admin/Diagnostics.php:160
 msgid "We can't read data from %s - please check permissions and try again."
-msgstr ""
+msgstr "Vi kan ikke læse data fra %s - tjek tilladelser ne, og prøv igen."
 
 #: ./Idno/Pages/Admin/Diagnostics.php:165
 msgid ""
 "We can't write data to %s - please check it is writable by your web server "
 "user."
 msgstr ""
+"Vi kan ikke skrive data til %s - kontrollere tilladelser og prøve igen."
 
 #: ./Idno/Pages/Admin/Diagnostics.php:170
 #: ./Idno/Pages/Admin/Diagnostics.php:175
@@ -2655,7 +2661,7 @@ msgstr ""
 
 #: ./known.php:110
 msgid "Returns the current Known version as defined in version.known"
-msgstr ""
+msgstr "Returnerer den aktuelle Known-version som defineret i version.known"
 
 #: ./known.php:118
 msgid ""
@@ -2663,3 +2669,6 @@ msgid ""
 "%s). If you're having problems, you may want to try updating to the latest "
 "version.\nUpdate now: https://github.com/idno/Known\n"
 msgstr ""
+"ADVARSEL: Din opbygning af Known står bag den nyeste version fra Github (%s - "
+"%s). Hvis du har problemer, kan du prøve at opdatere til den nyeste version.\n"
+"Opdater nu: https://github.com/idno/Known\n"
