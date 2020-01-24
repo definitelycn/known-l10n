@@ -173,7 +173,7 @@ msgstr "Du er blevet inviteret til at deltage i %s"
 
 #: ./Idno/Files/FileSystem.php:63
 msgid "There is no error, the file uploaded with success"
-msgstr ""
+msgstr "Der er ingen fejl, filen uploadet med succes"
 
 #: ./Idno/Files/FileSystem.php:64
 msgid "The uploaded file exceeds the upload_max_filesize directive in php.ini"
@@ -187,38 +187,38 @@ msgstr ""
 
 #: ./Idno/Files/FileSystem.php:66
 msgid "The uploaded file was only partially uploaded"
-msgstr ""
+msgstr "Den uploadede fil blev kun delvist uploadet"
 
 #: ./Idno/Files/FileSystem.php:67
 msgid "No file was uploaded"
-msgstr ""
+msgstr "Ingen fil blev uploadet"
 
 #: ./Idno/Files/FileSystem.php:68
 msgid "Missing a temporary folder"
-msgstr ""
+msgstr "Mangler en midlertidig mappe"
 
 #: ./Idno/Files/FileSystem.php:69
 msgid "Failed to write file to disk."
-msgstr ""
+msgstr "Filen kunne ikke skrives til disken."
 
 #: ./Idno/Files/FileSystem.php:70
 msgid "A PHP extension stopped the file upload."
-msgstr ""
+msgstr "En PHP udvidelse stoppede filen upload."
 
 #: ./Idno/Files/LocalFileSystem.php:86
 #: ./Idno/Files/LocalFileSystem.php:137
 msgid "There was a problem storing the file data."
-msgstr ""
+msgstr "Der opstod et problem med lagring af fildataene."
 
 #: ./Idno/Files/LocalFileSystem.php:89
 #: ./Idno/Files/LocalFileSystem.php:141
 msgid "There was a problem saving the file's metadata"
-msgstr ""
+msgstr "Der opstod et problem under lagring af filens metadata"
 
 #: ./Idno/Files/LocalFileSystem.php:98
 #: ./Idno/Files/LocalFileSystem.php:150
 msgid "Something went wrong saving your file."
-msgstr ""
+msgstr "Noget gik galt at gemme din fil."
 
 #: ./Idno/Files/LocalFileSystem.php:100
 #: ./Idno/Files/LocalFileSystem.php:152
@@ -226,6 +226,7 @@ msgid ""
 "Check that your upload directory is writeable by the web server and try "
 "again."
 msgstr ""
+"Kontroller, at din uploadmappe kan skrives af webserveren, og prøv igen."
 
 #: ./Idno/Pages/Account/Export.php:20
 #: ./templates/default/account/menu.tpl.php:11
