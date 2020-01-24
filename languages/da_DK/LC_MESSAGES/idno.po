@@ -1866,10 +1866,12 @@ msgstr ""
 #: ./templates/default/admin/users.tpl.php:9
 msgid "View the users registered for your site, and invite new users to join."
 msgstr ""
+"Få vist de brugere, der er registreret for dit websted, og inviter nye "
+"brugere til at deltage."
 
 #: ./templates/default/admin/users.tpl.php:17
 msgid "Manage site users"
-msgstr ""
+msgstr "Administrere webstedsbrugere"
 
 #: ./templates/default/admin/users.tpl.php:20
 msgid "Your site has"
@@ -1899,6 +1901,8 @@ msgstr "Inviter nye brugere"
 msgid ""
 "To invite new users to the site, enter one or more email addresses below."
 msgstr ""
+"Hvis du vil invitere nye brugere til webstedet, skal du indtaste en eller "
+"flere mailadresser nedenfor."
 
 #: ./templates/default/admin/users.tpl.php:54
 msgid "Send invite"
