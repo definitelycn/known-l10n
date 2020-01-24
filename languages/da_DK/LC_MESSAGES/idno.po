@@ -537,7 +537,7 @@ msgstr "Hjemmeside"
 
 #: ./Idno/Pages/Admin/Homepage.php:42
 msgid "The default homepage content types were saved."
-msgstr ""
+msgstr "Standardindholdstyperne på startsiden blev gemt."
 
 #: ./Idno/Pages/Admin/Home.php:21
 msgid "Administration"
@@ -562,7 +562,7 @@ msgstr ""
 #: ./Idno/Pages/Admin/Logs.php:19
 #: ./templates/default/admin/logs.tpl.php:4
 msgid "Log capture"
-msgstr ""
+msgstr "Loghentning"
 
 #: ./Idno/Pages/Admin/Plugins.php:23
 #: ./templates/default/admin/menu.tpl.php:3
@@ -612,23 +612,23 @@ msgstr "Brugerstyring"
 
 #: ./Idno/Pages/Admin/Users.php:50
 msgid "%s was given administration rights."
-msgstr ""
+msgstr "%s fik administrationsrettigheder."
 
 #: ./Idno/Pages/Admin/Users.php:58
 msgid "%s was stripped of their administration rights."
-msgstr ""
+msgstr "%s blev frataget deres administrationsrettigheder."
 
 #: ./Idno/Pages/Admin/Users.php:65
 msgid "%s was removed from your site."
-msgstr ""
+msgstr "%s blev fjernet fra webstedet."
 
 #: ./Idno/Pages/Admin/Users.php:91
 msgid "%d invitations were sent."
-msgstr ""
+msgstr "%d invitationer blev sendt."
 
 #: ./Idno/Pages/Admin/Users.php:93
 msgid "Your invitation was sent."
-msgstr ""
+msgstr "Din invitation blev sendt."
 
 #: ./Idno/Pages/Admin/Users.php:95
 msgid "Something went wrong and we couldn't send emails to your recipients."
