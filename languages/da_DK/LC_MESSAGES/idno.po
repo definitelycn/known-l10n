@@ -1597,7 +1597,7 @@ msgstr "Gør stedet privat"
 
 #: ./templates/default/admin/home.tpl.php:170
 msgid "Content on a private site is only visible if you're logged in."
-msgstr ""
+msgstr "Indhold på et privat websted er kun synligt, hvis du er logget ind."
 
 #: ./templates/default/admin/home.tpl.php:188
 msgid "Per-post privacy"
@@ -1622,11 +1622,11 @@ msgstr "PubSubHubbub-hub-adresse"
 
 #: ./templates/default/admin/home.tpl.php:230
 msgid "You can probably leave this as is."
-msgstr ""
+msgstr "Du kan sikkert lade dette som det er."
 
 #: ./templates/default/admin/home.tpl.php:231
 msgid "Learn more about PuSH"
-msgstr ""
+msgstr "Læs mere om PuSH"
 
 #: ./templates/default/admin/home.tpl.php:241
 msgid "Avatar as icon"
@@ -1634,7 +1634,7 @@ msgstr "Avatar som ikon"
 
 #: ./templates/default/admin/home.tpl.php:252
 msgid "This uses members' avatar images as the site favicon."
-msgstr ""
+msgstr "Dette bruger medlemmernes avatar billeder som webstedet favicon."
 
 #: ./templates/default/admin/home.tpl.php:260
 msgid "Include permalinks"
@@ -1644,6 +1644,8 @@ msgstr "Medtag permanente links"
 msgid ""
 "Always add a link back to your site when you syndicate to external networks."
 msgstr ""
+"Føj altid et link tilbage til dit websted, når du syndikerer til eksterne "
+"netværk."
 
 #: ./templates/default/admin/import.tpl.php:9
 msgid "Import content"
@@ -1946,6 +1948,9 @@ msgid ""
 "from registering on your site. Enter the email addresses you want to block "
 "below."
 msgstr ""
+"Ved at blokere e-mailadresser forhindrer du personer, der bruger disse "
+"e-mailadresser, i at registrere sig på dit website. Angiv de mailadresser, "
+"du vil blokere nedenfor."
 
 #: ./templates/default/admin/users.tpl.php:196
 msgid "Blocked email addresses"
