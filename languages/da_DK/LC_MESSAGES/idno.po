@@ -99,7 +99,8 @@ msgstr ""
 
 #: ./Idno/Core/Service.php:27
 msgid "Sorry, signature doesn't match up."
-msgstr ""
+msgstr "Beklager, signatur passer ikke sammen."
+# Sorry, signature doesn't fit together.
 
 #: ./Idno/Core/Service.php:44
 msgid "Missing site secret"
