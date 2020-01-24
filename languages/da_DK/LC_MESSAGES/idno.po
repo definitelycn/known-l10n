@@ -1815,11 +1815,11 @@ msgstr "Om"
 
 #: ./templates/default/admin/plugins/plugin.tpl.php:35
 msgid "Enabled"
-msgstr ""
+msgstr "Aktiveret"
 
 #: ./templates/default/admin/plugins/plugin.tpl.php:37
 msgid "Disabled"
-msgstr ""
+msgstr "Deaktiveret"
 
 #: ./templates/default/admin/plugins/plugin.tpl.php:56
 msgid "Known Version"
@@ -1827,7 +1827,7 @@ msgstr ""
 
 #: ./templates/default/admin/plugins/plugin.tpl.php:67
 msgid "Known Build"
-msgstr ""
+msgstr "Known Byg"
 
 #: ./templates/default/admin/plugins/plugin.tpl.php:78
 msgid "PHP Version"
@@ -1835,16 +1835,16 @@ msgstr ""
 
 #: ./templates/default/admin/plugins/plugin.tpl.php:91
 msgid "Extensions"
-msgstr ""
+msgstr "Udvidelser"
 
 #: ./templates/default/admin/plugins/plugin.tpl.php:134
 msgid "Disable"
-msgstr ""
+msgstr "Deaktivere"
 
 #: ./templates/default/admin/plugins/plugin.tpl.php:147
 #: ./templates/default/admin/themes/theme.tpl.php:43
 msgid "Enable"
-msgstr ""
+msgstr "Aktiverer"
 
 #: ./templates/default/admin/plugins.tpl.php:9
 msgid ""
@@ -1853,6 +1853,11 @@ msgid ""
 "change the way Known behaves. To enable or disable a plugin, just click its "
 "enable or disable button."
 msgstr ""
+"Plugins giver dig mulighed for at tilføje funktioner til dit websted. Disse "
+"omfatter nye typer af indhold, indstillinger til at syndikere indhold til "
+"forskellige websteder og funktioner til at ændre den måde Klown opfører sig. "
+"For at aktivere eller deaktivere et plugin, skal du blot klikke på sin "
+"aktivere eller deaktivere knappen."
 
 #: ./templates/default/admin/statistics.tpl.php:9
 msgid ""
@@ -1873,6 +1878,8 @@ msgid ""
 "Themes allow you to change the way your site looks. The following themes are "
 "installed."
 msgstr ""
+"Temaer giver dig mulighed for at ændre den måde, dit websted ser ud. "
+"Følgende temaer er installeret."
 
 #: ./templates/default/admin/users.tpl.php:9
 msgid "View the users registered for your site, and invite new users to join."
