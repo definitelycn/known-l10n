@@ -2595,7 +2595,7 @@ msgstr ""
 
 #: ./templates/default/shell/toolbar/register.tpl.php:1
 msgid "Register"
-msgstr ""
+msgstr "Registrer"
 
 #: ./templates/default/shell/toolbar/search.tpl.php:17
 msgid "Search"
@@ -2604,7 +2604,7 @@ msgstr "Søg"
 #: ./templates/email/account/invite.tpl.php:2
 #: ./templates/email-text/account/invite.tpl.php:1
 msgid "Join us!"
-msgstr ""
+msgstr "Slutte sig til os!"
 
 #: ./templates/email/account/invite.tpl.php:6
 msgid "Hi there! Your friend <strong>%s</strong> has invited you to join <%s>"
@@ -2616,6 +2616,8 @@ msgid ""
 "You can use this space to publish your stories, share things that interest "
 "you, and discuss things that matter."
 msgstr ""
+"Du kan bruge dette rum til at udgive dine historier, dele ting, der "
+"interesserer dig, og diskutere ting, der betyder noget."
 
 #: ./templates/email/account/invite.tpl.php:10
 msgid "Get started with <strong>%s</strong> by setting up your account"
