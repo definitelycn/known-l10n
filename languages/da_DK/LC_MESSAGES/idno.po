@@ -177,13 +177,15 @@ msgstr "Der er ingen fejl, filen uploadet med succes"
 
 #: ./Idno/Files/FileSystem.php:64
 msgid "The uploaded file exceeds the upload_max_filesize directive in php.ini"
-msgstr ""
+msgstr "Den uploadede fil overstiger upload_max_filesize direktiv i php.ini"
 
 #: ./Idno/Files/FileSystem.php:65
 msgid ""
 "The uploaded file exceeds the MAX_FILE_SIZE directive that was specified in "
 "the HTML form"
 msgstr ""
+"Den uploadede fil overskrider det MAX_FILE_SIZE direktiv, der er angivet i "
+"HTML-formularen"
 
 #: ./Idno/Files/FileSystem.php:66
 msgid "The uploaded file was only partially uploaded"
