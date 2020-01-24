@@ -1868,6 +1868,7 @@ msgid ""
 "This page provides you with information and statistics about your Known "
 "site."
 msgstr ""
+"Denne side giver dig oplysninger og statistikker om dit Known-websted. "
 
 #: ./templates/default/admin/themes/theme.tpl.php:41
 msgid "(Selected)"
