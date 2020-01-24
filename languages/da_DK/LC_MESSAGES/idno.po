@@ -2258,23 +2258,25 @@ msgstr ""
 
 #: ./templates/default/forms/usersearch.tpl.php:24
 msgid "Search by name, email address, or username"
-msgstr ""
+msgstr "Søg efter navn, e-mailadresse eller brugernavn"
 
 #: ./templates/default/forms/usersearch.tpl.php:79
 msgid "By creation date"
-msgstr ""
+msgstr "Efter oprettelsesdato"
 
 #: ./templates/default/forms/usersearch.tpl.php:80
 msgid "By name"
-msgstr ""
+msgstr "Efter navn"
 
 #: ./templates/default/forms/usersearch.tpl.php:89
 msgid "Ascending"
-msgstr ""
+msgstr "Stigende"
+# Increasing
 
 #: ./templates/default/forms/usersearch.tpl.php:90
 msgid "Descending"
-msgstr ""
+msgstr "Faldende"
+# Falling
 
 #: ./templates/default/forms/usersearch.tpl.php:102
 msgid "Prev"
