@@ -2151,15 +2151,15 @@ msgstr ""
 
 #: ./templates/default/file/picker/image.tpl.php:19
 msgid "Select an image"
-msgstr ""
+msgstr "Vælg et billede"
 
 #: ./templates/default/file/picker/image.tpl.php:29
 msgid "Upload this image"
-msgstr ""
+msgstr "Overfør dette billede"
 
 #: ./templates/default/file/picker/image.tpl.php:49
 msgid "Choose a different image"
-msgstr ""
+msgstr "Vælg et andet billede"
 
 #: ./templates/default/following/add.tpl.php:3
 msgid "Add the address of a site to follow"
@@ -2183,15 +2183,17 @@ msgstr ""
 
 #: ./templates/default/forms/components/usersearch/user.tpl.php:27
 msgid "Joined"
-msgstr ""
+msgstr "Tilmeldt dig"
+# Enrolled
+# Indskrevet
 
 #: ./templates/default/forms/components/usersearch/user.tpl.php:35
 msgid "Last update posted"
-msgstr ""
+msgstr "Sidste opdatering bogført"
 
 #: ./templates/default/forms/components/usersearch/user.tpl.php:57
 msgid "Remote member"
-msgstr ""
+msgstr "Fjernmedlem"
 
 #: ./templates/default/forms/components/usersearch/user.tpl.php:62
 msgid "Administrator"
@@ -2199,23 +2201,25 @@ msgstr ""
 
 #: ./templates/default/forms/components/usersearch/user.tpl.php:65
 msgid "Remove rights"
-msgstr ""
+msgstr "Fjerne rettigheder"
+# Removing privileges
 
 #: ./templates/default/forms/components/usersearch/user.tpl.php:71
 msgid "Standard member"
-msgstr ""
+msgstr "Standardmedlem"
 
 #: ./templates/default/forms/components/usersearch/user.tpl.php:72
 msgid "Make admin"
-msgstr ""
+msgstr "Gør admin"
+# Do admin
 
 #: ./templates/default/forms/components/usersearch/user.tpl.php:86
 msgid "Clear"
-msgstr ""
+msgstr "Klart"
 
 #: ./templates/default/forms/components/usersearch/user.tpl.php:88
 msgid "Block"
-msgstr ""
+msgstr "Blok"
 
 #: ./templates/default/forms/components/usersearch/user.tpl.php:88
 msgid ""
@@ -2237,15 +2241,15 @@ msgstr "Er du sikker på, at du vil slette dette permanent?"
 #: ./templates/default/forms/input/image-file.tpl.php:81
 #: ./templates/default/onboarding/profile.tpl.php:65
 msgid "Choose different photo"
-msgstr ""
+msgstr "Vælg et andet billede"
 
 #: ./templates/default/forms/input/image-file.tpl.php:78
 msgid "Select a photo"
-msgstr ""
+msgstr "Vælg et billede"
 
 #: ./templates/default/forms/input/image-file.tpl.php:83
 msgid "Add photo"
-msgstr ""
+msgstr "Tilføj billede"
 
 #: ./templates/default/forms/input/longtext.tpl.php:21
 #: ./templates/default/forms/input/richtext.tpl.php:21
