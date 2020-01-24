@@ -420,7 +420,7 @@ msgstr "Indstillinger for meddelelser"
 
 #: ./Idno/Pages/Account/Settings/Notifications.php:39
 msgid "Your notification preferences were saved."
-msgstr ""
+msgstr "Dine meddelelsesindstillinger blev gemt."
 
 #: ./Idno/Pages/Account/Settings.php:20
 msgid "Account settings"
@@ -440,7 +440,8 @@ msgstr ""
 
 #: ./Idno/Pages/Account/Settings.php:66
 msgid "Your details were saved."
-msgstr ""
+msgstr "Dine oplysninger blev gemt."
+# Your information was stored
 
 #: ./Idno/Pages/Account/Settings/Tools.php:26
 #: ./templates/default/account/menu.tpl.php:8
@@ -502,7 +503,7 @@ msgstr ""
 #: ./Idno/Pages/Admin/Diagnostics.php:170
 #: ./Idno/Pages/Admin/Diagnostics.php:175
 msgid "The upload path %s either doesn't exist or isn't a directory."
-msgstr ""
+msgstr "Overførselsstien %s findes enten ikke eller er ikke en mappe."
 
 #: ./Idno/Pages/Admin/Email.php:17
 #: ./templates/default/account/settings/following/mf2user.tpl.php:73
