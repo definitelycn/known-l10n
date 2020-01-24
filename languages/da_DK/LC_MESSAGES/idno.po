@@ -328,6 +328,8 @@ msgid ""
 "Please check that your passwords match and that your password is at least 7 "
 "characters long."
 msgstr ""
+"Kontroller, at dine adgangskoder stemmer overens, og at din adgangskode er "
+"på mindst 7 tegn."
 
 #: ./Idno/Pages/Account/Register.php:156
 #: ./Idno/Pages/Admin/Users.php:178
@@ -915,7 +917,7 @@ msgstr ""
 
 #: ./templates/default/account/password/reset.tpl.php:23
 msgid "New password (7 characters or more)"
-msgstr ""
+msgstr "Ny adgangskode (7 tegn eller mere)"
 
 #: ./templates/default/account/password/reset.tpl.php:29
 msgid "Retype password"
@@ -963,7 +965,7 @@ msgstr ""
 #: ./templates/default/account/register.tpl.php:5
 #: ./templates/default/onboarding/register.tpl.php:3
 msgid "Hello there!"
-msgstr ""
+msgstr "Hej der!"
 
 #: ./templates/default/account/register.tpl.php:7
 #: ./templates/default/onboarding/register.tpl.php:5
@@ -980,7 +982,7 @@ msgstr "Dit navn"
 
 #: ./templates/default/account/register.tpl.php:16
 msgid "Henri Matisse"
-msgstr ""
+msgstr "Edvard Eriksen"
 
 #: ./templates/default/account/register.tpl.php:20
 msgid "Choose a handle"
@@ -1003,7 +1005,8 @@ msgstr "Oprette en adgangskode"
 
 #: ./templates/default/account/register.tpl.php:34
 msgid "At least 7 characters please."
-msgstr ""
+msgstr "Mindst 7 tegn tak."
+# ... thanks
 
 #: ./templates/default/account/register.tpl.php:37
 #: ./templates/default/account/register.tpl.php:44
@@ -2393,7 +2396,7 @@ msgstr ""
 
 #: ./templates/default/onboarding/register.tpl.php:26
 msgid "(at least 7 characters please)"
-msgstr ""
+msgstr "(mindst 7 tegn venligst)"
 
 #: ./templates/default/pages/403.tpl.php:7
 msgid "Click here to log in."
@@ -2408,6 +2411,8 @@ msgid ""
 "It's nothing personal. You just don't have the right permissions to see "
 "what's here."
 msgstr ""
+"Det er ikke noget personligt. Du har bare ikke de rette tilladelser til "
+"at se, hvad der er her."
 
 #: ./templates/default/pages/403.tpl.php:22
 msgid "Find something else to view on the <a href=\"%s\">%s homepage</a>."
@@ -2423,6 +2428,10 @@ msgid ""
 "deleted, or it doesn't exist. Or the robots ate it. That's always a "
 "possibility too."
 msgstr ""
+"
+Uanset hvad du ledte efter, er det her ikke. Den er muligvis blevet "
+"flyttet, slettet, eller den findes ikke. Eller robotterne spiste det. "
+"Det er også altid en mulighed."
 
 #: ./templates/default/pages/404.tpl.php:8
 msgid ""
