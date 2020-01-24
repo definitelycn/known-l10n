@@ -1525,7 +1525,7 @@ msgstr "Navn på websted"
 
 #: ./templates/default/admin/home.tpl.php:27
 msgid "Give your site a name!"
-msgstr ""
+msgstr "Giv dit websted et navn!"
 
 #: ./templates/default/admin/home.tpl.php:35
 msgid "Site summary"
@@ -1538,7 +1538,7 @@ msgstr "Beskrivelse af websted"
 
 #: ./templates/default/admin/home.tpl.php:42
 msgid "What's your site about?"
-msgstr ""
+msgstr "Hvad handler dit website om?"
 
 #: ./templates/default/admin/home.tpl.php:50
 #: ./templates/default/admin/home.tpl.php:53
@@ -1576,6 +1576,10 @@ msgstr ""
 #: ./templates/default/admin/home.tpl.php:101
 msgid "Permalink Structure"
 msgstr "Permanent linkstruktur"
+
+#: templates/default/admin/home.tpl.php:105
+msgid "<strong>(default)</strong>"
+msgstr "<strong>(Standard)</strong>"
 
 #: ./templates/default/admin/home.tpl.php:118
 msgid "How permalinks for individual posts are constructed."
