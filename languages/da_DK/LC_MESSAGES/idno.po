@@ -1922,7 +1922,7 @@ msgstr "Sende"
 
 #: ./templates/default/admin/users.tpl.php:140
 msgid "Are you sure? The user will receive a second email."
-msgstr ""
+msgstr "Er du sikker? Brugeren vil modtage en anden e-mail."
 
 #: ./templates/default/admin/users.tpl.php:145
 #: ./templates/default/entity/User/edit.tpl.php:81
@@ -1933,7 +1933,7 @@ msgstr "Fjerne"
 
 #: ./templates/default/admin/users.tpl.php:145
 msgid "Are you sure? The user won't be able to register."
-msgstr ""
+msgstr "Er du sikker? Brugeren kan ikke registrere sig."
 
 #: ./templates/default/admin/users.tpl.php:171
 #: ./templates/default/admin/users.tpl.php:180
@@ -1959,6 +1959,7 @@ msgstr "Fjern blok"
 #: ./templates/default/forms/components/usersearch/user.tpl.php:86
 msgid "Are you sure? The user will be able to log in and post again."
 msgstr ""
+"Er du sikker? Brugeren vil være i stand til at logge ind og skrive igen."
 
 #: ./templates/default/content/access.tpl.php:34
 msgid "Public"
@@ -1985,7 +1986,7 @@ msgstr "Redigere"
 
 #: ./templates/default/content/edit.tpl.php:9
 msgid "Are you sure you want to permanently delete this entry?"
-msgstr ""
+msgstr "Er du sikker på, at du vil slette denne post permanent?"
 
 #: ./templates/default/content/end.tpl.php:26
 #: ./templates/default/content/feed/end.tpl.php:13
@@ -2221,14 +2222,16 @@ msgid ""
 "Are you sure? The user will be logged out and will no longer be able to log "
 "in or post."
 msgstr ""
+"Er du sikker? Brugeren vil blive logget ud og vil ikke længere være i stand "
+"til at logge ind eller skrive."
 
 #: ./templates/default/forms/components/usersearch/user.tpl.php:90
 msgid "Are you sure? This will delete this user and all their content."
-msgstr ""
+msgstr "Er du sikker? Dette vil slette denne bruger og alt deres indhold."
 
 #: ./templates/default/forms/input/image-file.tpl.php:58
 msgid "Are you sure you want to permanently delete this?"
-msgstr ""
+msgstr "Er du sikker på, at du vil slette dette permanent?"
 
 #: ./templates/default/forms/input/image-file.tpl.php:75
 #: ./templates/default/forms/input/image-file.tpl.php:81
