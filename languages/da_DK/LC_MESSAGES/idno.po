@@ -1910,7 +1910,7 @@ msgstr "Send invitation"
 
 #: ./templates/default/admin/users.tpl.php:111
 msgid "Invitations"
-msgstr ""
+msgstr "Invitationer"
 
 #: ./templates/default/admin/users.tpl.php:130
 msgid "Sent"
@@ -1929,16 +1929,16 @@ msgstr ""
 #: ./templates/default/entity/User/edit.tpl.php:97
 #: ./templates/default/entity/User/edit.tpl.php:130
 msgid "Remove"
-msgstr ""
+msgstr "Fjerne"
 
 #: ./templates/default/admin/users.tpl.php:145
 msgid "Are you sure? The user won't be able to register."
-msgstr "Fjerne"
+msgstr ""
 
 #: ./templates/default/admin/users.tpl.php:171
 #: ./templates/default/admin/users.tpl.php:180
 msgid "Block email addresses"
-msgstr ""
+msgstr "Bloker mailadresser"
 
 #: ./templates/default/admin/users.tpl.php:174
 msgid ""
@@ -1949,11 +1949,11 @@ msgstr ""
 
 #: ./templates/default/admin/users.tpl.php:196
 msgid "Blocked email addresses"
-msgstr ""
+msgstr "Blokerede mailadresser"
 
 #: ./templates/default/admin/users.tpl.php:218
 msgid "Remove block"
-msgstr ""
+msgstr "Fjern blok"
 
 #: ./templates/default/admin/users.tpl.php:218
 #: ./templates/default/forms/components/usersearch/user.tpl.php:86
