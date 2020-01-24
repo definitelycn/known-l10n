@@ -2474,11 +2474,11 @@ msgstr ""
 
 #: ./templates/default/robot/post.tpl.php:19
 msgid "Power down robots. I can take it from here."
-msgstr ""
+msgstr "Sluk robotter. Jeg kan tage det herfra."
 
 #: ./templates/default/robot/wizard.tpl.php:7
 msgid "Check out my new @withknown site!"
-msgstr ""
+msgstr "Tjek min nye @withknown site!"
 
 #: ./templates/default/robot/wizard.tpl.php:9
 msgid ""
@@ -2495,7 +2495,7 @@ msgstr ""
 
 #: ./templates/default/robot/wizard.tpl.php:28
 msgid "Beep!"
-msgstr ""
+msgstr "Bip!"
 
 #: ./templates/default/robot/wizard.tpl.php:34
 msgid "Zeep!"
@@ -2503,7 +2503,7 @@ msgstr ""
 
 #: ./templates/default/robot/wizard.tpl.php:40
 msgid "Beep boop!"
-msgstr ""
+msgstr "Bip boop!"
 
 #: ./templates/default/robot/wizard.tpl.php:47
 msgid ""
