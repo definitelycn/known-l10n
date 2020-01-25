@@ -122,7 +122,7 @@ msgstr "Intet resultat af slutpunktet."
 
 #: ./Idno/Core/Session.php:136
 msgid "Session funnybusiness: "
-msgstr ""
+msgstr "Session sjove forretning:"
 
 #: ./Idno/Core/Session.php:509
 #: ./Idno/Pages/Account/Register.php:64
@@ -131,6 +131,9 @@ msgid ""
 "Warning: Access credentials were sent over a non-secured connection! To "
 "disable this warning set disable_cleartext_warning in your config.ini"
 msgstr ""
+"Advarsel: Adgangslegitimationsoplysninger blev sendt via en ikke-sikret "
+"forbindelse! Sådan deaktiveres denne disable_cleartext_warning i dit "
+"config.ini"
 
 #: ./Idno/Core/Time.php:89
 msgid "hour"
@@ -150,17 +153,18 @@ msgstr "minutter"
 
 #: ./Idno/Core/Time.php:103
 msgid "ahead"
-msgstr ""
+msgstr "Forude"
 
 #: ./Idno/Core/Time.php:103
 msgid "behind"
-msgstr ""
+msgstr "Bag"
 
 #: ./Idno/Core/TokenProvider.php:32
 msgid ""
 "Token was generated using an a cryptographically weak algorithm, this "
 "probably means your version of OpenSSL is broken or very old."
 msgstr ""
+"Token blev genereret ved hjælp af en kryptografisk svag algoritme, dette betyder sandsynligvis din version af OpenSSL er brudt eller meget gammel."
 
 #: ./Idno/Core/Webservice.php:431
 msgid "Your version of PHP doesn't support CURLFile."
