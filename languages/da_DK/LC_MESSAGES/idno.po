@@ -164,11 +164,13 @@ msgid ""
 "Token was generated using an a cryptographically weak algorithm, this "
 "probably means your version of OpenSSL is broken or very old."
 msgstr ""
-"Token blev genereret ved hjælp af en kryptografisk svag algoritme, dette betyder sandsynligvis din version af OpenSSL er brudt eller meget gammel."
+"Token blev genereret ved hjælp af en kryptografisk svag algoritme, "
+"dette betyder sandsynligvis din version af OpenSSL er brudt eller meget "
+"gammel."
 
 #: ./Idno/Core/Webservice.php:431
 msgid "Your version of PHP doesn't support CURLFile."
-msgstr ""
+msgstr "Din version af PHP understøtter ikke CURLFile."
 
 #: ./Idno/Data/Mongo.php:38
 msgid ""
@@ -177,10 +179,14 @@ msgid ""
 "sure you have it installed and configured, e.g. by running \"pecl install "
 "mongodb;\""
 msgstr ""
+"Det ser ud som om du ikke har den nye mongodb driver installeret (<a "
+"href=\"https://secure.php.net/manual/en/set.mongodb.php\">https://secure.php.net/manual/en/set.mongodb.php</a>)\n"
+"\n"
+"Sørg for, at den er installeret og konfigureret, f.eks. ved at køre \"pecl installere mongodb;\""
 
 #: ./Idno/Entities/GenericDataItem.php:43
 msgid "GenericDataItem classes must have a datatype label set."
-msgstr ""
+msgstr "GenericDataItem-klasser skal have et datatypeetiketsæt."
 
 #: ./Idno/Entities/Invitation.php:110
 msgid "You've been invited to join %s"
