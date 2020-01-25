@@ -182,7 +182,7 @@ msgstr ""
 "Det ser ud som om du ikke har den nye mongodb driver installeret (<a "
 "href=\"https://secure.php.net/manual/en/set.mongodb.php\">https://secure.php.net/manual/en/set.mongodb.php</a>)\n"
 "\n"
-"Sørg for, at den er installeret og konfigureret, f.eks. ved at køre \"pecl installere mongodb;\""
+"Sørg for, at den er installeret og konfigureret, f.eks. ved at køre \"pecl install mongodb;\""
 
 #: ./Idno/Entities/GenericDataItem.php:43
 msgid "GenericDataItem classes must have a datatype label set."
@@ -266,15 +266,17 @@ msgstr "Meddelelser"
 
 #: ./Idno/Pages/Account/Password.php:26
 msgid "Password recovery email sent"
-msgstr ""
+msgstr "E-mail til gendannelse af adgangskode sendt"
 
 #: ./Idno/Pages/Account/Password.php:29
 msgid "Recover password"
-msgstr ""
+msgstr "Gendanne adgangskode"
 
 #: ./Idno/Pages/Account/Password.php:63
 msgid "Oh no! We couldn't find an account associated with that email address."
 msgstr ""
+"Åh nej! Vi kunne ikke finde en konto, der var knyttet til den pågældende "
+"e-mailadresse."
 
 #: ./Idno/Pages/Account/Password/Reset.php:27
 #: ./templates/default/account/password/reset.tpl.php:37
