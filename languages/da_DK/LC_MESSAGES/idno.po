@@ -95,7 +95,7 @@ msgstr "Noget gik galt, og vi kunne ikke oprette e-mail-besked til at sende."
 
 #: ./Idno/Core/Service.php:24
 msgid "Missing X-Known-Service-Signature, service call is not possible."
-msgstr ""
+msgstr "Manglende X-Known-Service-Signature, serviceopkald er ikke muligt."
 
 #: ./Idno/Core/Service.php:27
 msgid "Sorry, signature doesn't match up."
@@ -104,19 +104,21 @@ msgstr "Beklager, signatur passer ikke sammen."
 
 #: ./Idno/Core/Service.php:44
 msgid "Missing site secret"
-msgstr ""
+msgstr "Manglende websted hemmelig"
 
 #: ./Idno/Core/Service.php:53
 msgid "Url not provided to token generation."
-msgstr ""
+msgstr "Url-adressen er ikke angivet til tokengenerering."
+# The URL is not set for token generation.
 
 #: ./Idno/Core/Service.php:86
 msgid "Response from service endpoint was not json"
-msgstr ""
+msgstr "Svar fra serviceslutpunktet var ikke json"
 
 #: ./Idno/Core/Service.php:98
 msgid "No result from endpoint."
-msgstr ""
+msgstr "Intet resultat af slutpunktet."
+# No result of the endpoint
 
 #: ./Idno/Core/Session.php:136
 msgid "Session funnybusiness: "
