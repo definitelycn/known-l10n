@@ -489,7 +489,7 @@ msgid ""
 "version!<br /> <a href=\"https://github.com/idno/Known\" "
 "target=\"_blank\">Update now.</a>"
 msgstr ""
-"Din build af Klown står bag den nyeste version fra Github (%s - %s). "
+"Din build af Known står bag den nyeste version fra Github (%s - %s). "
 "Hvis du har problemer, kan du prøve at opdatere til den nyeste version!<br /> "
 "<a href=\"https://github.com/idno/Known\" target=\"_blank\">Opdater nu.</a>"
 
@@ -1881,7 +1881,7 @@ msgid ""
 msgstr ""
 "Plugins giver dig mulighed for at tilføje funktioner til dit websted. Disse "
 "omfatter nye typer af indhold, indstillinger til at syndikere indhold til "
-"forskellige websteder og funktioner til at ændre den måde Klown opfører sig. "
+"forskellige websteder og funktioner til at ændre den måde Known opfører sig. "
 "For at aktivere eller deaktivere et plugin, skal du blot klikke på sin "
 "aktivere eller deaktivere knappen."
 
@@ -2347,7 +2347,7 @@ msgstr "Næste"
 
 #: ./templates/default/onboarding/begin.tpl.php:8
 msgid "Known is your space for sharing content and discussing ideas."
-msgstr "Klown er din plads til at dele indhold og diskutere ideer."
+msgstr "Known er din plads til at dele indhold og diskutere ideer."
 
 #: ./templates/default/onboarding/begin.tpl.php:13
 msgid "Take a picture"
@@ -2519,7 +2519,7 @@ msgid ""
 "Welcome to your new Known site! I'm Aleph, your very own welcome robot. "
 "Let's get started by <%s>adding your first status update</a>!"
 msgstr ""
-"Velkommen til din nye Klown site! Jeg er Aleph, din helt egen velkomstrobot. "
+"Velkommen til din nye Known site! Jeg er Aleph, din helt egen velkomstrobot. "
 "Lad os komme i gang med at <%s>tilføje din første statusopdatering</a>!"
 
 #: ./templates/default/robot/wizard.tpl.php:28
