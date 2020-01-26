@@ -302,32 +302,33 @@ msgstr "Beklager, dine adgangskoder enten ikke passer, eller er for svag"
 
 #: ./Idno/Pages/Account/Register.php:27
 msgid "This site is closed to new users."
-msgstr ""
+msgstr "Dette websted er lukket for nye brugere."
 
 #: ./Idno/Pages/Account/Register.php:31
 #: ./Idno/Pages/Account/Register.php:69
 msgid "Your invitation doesn't seem to be valid, or has expired."
-msgstr ""
+msgstr "Invitationen ser ikke ud til at være gyldig eller er udløbet."
 
 #: ./Idno/Pages/Account/Register.php:39
 #: ./Idno/Pages/Account/Register.php:47
 msgid "Create a new account"
-msgstr ""
+msgstr "Oprette en ny konto"
 
 #: ./Idno/Pages/Account/Register.php:80
 #: ./Idno/Pages/Admin/Users.php:143
 msgid "Please enter a username and email address."
-msgstr ""
+msgstr "Angiv et brugernavn og en e-mailadresse."
 
 #: ./Idno/Pages/Account/Register.php:134
 #: ./Idno/Pages/Admin/Users.php:162
 msgid "Please create a username."
-msgstr ""
+msgstr "Opret et brugernavn."
 
 #: ./Idno/Pages/Account/Register.php:137
 #: ./Idno/Pages/Admin/Users.php:165
 msgid "Your username is too long."
-msgstr ""
+msgstr "Dit brugernavn er for langt."
+# Your username is too far
 
 #: ./Idno/Pages/Account/Register.php:140
 msgid "Usernames can only have letters, numbers and underscores."
