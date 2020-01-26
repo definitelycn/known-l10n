@@ -281,21 +281,24 @@ msgstr ""
 #: ./Idno/Pages/Account/Password/Reset.php:27
 #: ./templates/default/account/password/reset.tpl.php:37
 msgid "Reset password"
-msgstr ""
+msgstr "Nulstil adgangskode"
 
 #: ./Idno/Pages/Account/Password/Reset.php:35
 msgid ""
 "The password reset code wasn't valid. They expire after three hours, so you "
 "might need to try again."
 msgstr ""
+"Adgangskoden blev ikke gyldig. De udløber efter tre timer, så du skal "
+"muligvis prøve igen."
 
 #: ./Idno/Pages/Account/Password/Reset.php:58
 msgid "Your password was reset!"
-msgstr ""
+msgstr "Din adgangskode blev nulstillet!"
 
 #: ./Idno/Pages/Account/Password/Reset.php:64
 msgid "Sorry, your passwords either don't match, or are too weak"
-msgstr ""
+msgstr "Beklager, dine adgangskoder enten ikke passer, eller er for svag"
+# … don’t fit, …
 
 #: ./Idno/Pages/Account/Register.php:27
 msgid "This site is closed to new users."
