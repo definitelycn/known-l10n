@@ -345,6 +345,7 @@ msgid ""
 "Unfortunately, someone is already using that username. Please choose "
 "another."
 msgstr ""
+"Desværre er der allerede nogen, der bruger det brugernavn. Vælg en anden."
 
 #: ./Idno/Pages/Account/Register.php:149
 #: ./Idno/Pages/Admin/Users.php:174
@@ -352,6 +353,8 @@ msgid ""
 "Hey, it looks like there's already an account with that email address. Did "
 "you forget your login?"
 msgstr ""
+"Hey, det ser ud som om der allerede er en konto med denne e-mail-adresse. "
+"Har du glemt dit login?"
 
 #: ./Idno/Pages/Account/Register.php:152
 msgid ""
@@ -364,21 +367,24 @@ msgstr ""
 #: ./Idno/Pages/Account/Register.php:156
 #: ./Idno/Pages/Admin/Users.php:178
 msgid "That doesn't seem like it's a valid email address."
-msgstr ""
+msgstr "Det ser ikke ud som om det er en gyldig e-mail-adresse."
 
 #: ./Idno/Pages/Account/Register.php:160
 msgid ""
 "You've registered! You're ready to get started. Why not add a post to say "
 "hello?"
 msgstr ""
+"Du har registreret dig! Du er klar til at komme i gang. Hvorfor ikke "
+"tilføje et indlæg til at sige hej?"
 
 #: ./Idno/Pages/Account/Register.php:164
 msgid "We couldn't register you."
-msgstr ""
+msgstr "Vi kunne ikke registrere dig."
+# We couldn’t register
 
 #: ./Idno/Pages/Account/Settings/FeedbackConfirm.php:17
 msgid "Thank you for your feedback!"
-msgstr ""
+msgstr "Tak for din feedback!"
 
 #: ./Idno/Pages/Account/Settings/Feedback.php:19
 #: ./templates/default/account/settings/feedback.tpl.php:37
