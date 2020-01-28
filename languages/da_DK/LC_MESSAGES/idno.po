@@ -591,15 +591,15 @@ msgstr "Importere data"
 
 #: ./Idno/Pages/Admin/Import.php:33
 msgid "You need to upload an import file to continue."
-msgstr ""
+msgstr "Du skal overføre en importfil for at fortsætte."
 
 #: ./Idno/Pages/Admin/Import.php:35
 msgid "We couldn't open the file you uploaded. Please try again."
-msgstr ""
+msgstr "Vi kunne ikke åbne den fil, du har overført. Prøv igen."
 
 #: ./Idno/Pages/Admin/Import.php:37
 msgid "Your import has started. We'll email you when it's done."
-msgstr ""
+msgstr "Importen er startet. Vi sender dig en e-mail, når det er gjort."
 
 #: ./Idno/Pages/Admin/Logs.php:19
 #: ./templates/default/admin/logs.tpl.php:4
@@ -674,62 +674,70 @@ msgstr "Din invitation blev sendt."
 
 #: ./Idno/Pages/Admin/Users.php:95
 msgid "Something went wrong and we couldn't send emails to your recipients."
-msgstr ""
+msgstr "Noget gik galt, og vi kunne ikke sende e-mails til dine modtagere."
 
 #: ./Idno/Pages/Admin/Users.php:97
 msgid ""
 "No email addresses were found or all the people you invited are already "
 "members of this site."
 msgstr ""
+"Der blev ikke fundet nogen e-mailadresser, eller alle de personer, du har "
+"inviteret, er allerede medlemmer af dette websted."
 
 #: ./Idno/Pages/Admin/Users.php:105
 msgid "The invitation was removed."
-msgstr ""
+msgstr "Invitationen blev fjernet."
 
 #: ./Idno/Pages/Admin/Users.php:119
 msgid "The invitation was resent."
-msgstr ""
+msgstr "Invitationen blev sendt igen."
+# Not "The invitation was dissatisfied"
 
 #: ./Idno/Pages/Admin/Users.php:128
 msgid "You can't add any more users to your site."
-msgstr ""
+msgstr "Du kan ikke føje ekstra brugere til dit websted."
+# You cannot add additional (extra) users to your site.
 
 #: ./Idno/Pages/Admin/Users.php:141
 msgid "Please make sure your passwords match and aren't empty."
-msgstr ""
+msgstr "Sørg for, at dine adgangskoder stemmer overens og ikke er tomme."
 
 #: ./Idno/Pages/Admin/Users.php:182
 msgid "User %s was created. You may wish to email them to let them know."
 msgstr ""
+"Brugeren %s blev oprettet. Du ønsker måske at e-maile dem for atlade dem vide."
 
 #: ./Idno/Pages/Admin/Users.php:205
 msgid "%d emails were blocked."
-msgstr ""
+msgstr "%d mailadresser blev blokeret."
+# email addresses
 
 #: ./Idno/Pages/Admin/Users.php:207
 msgid "The email address was blocked."
-msgstr ""
+msgstr "E-mail-adressen blev blokeret."
 
 #: ./Idno/Pages/Admin/Users.php:209
 #: ./Idno/Pages/Admin/Users.php:234
 msgid "No email addresses were found."
-msgstr ""
+msgstr "Der blev ikke fundet nogen e-mail-adresser."
 
 #: ./Idno/Pages/Admin/Users.php:230
 msgid "%d emails were unblocked."
-msgstr ""
+msgstr "%d mailadresserne blev fjernet."
+# ... removed
 
 #: ./Idno/Pages/Admin/Users.php:232
 msgid "The email address was unblocked."
-msgstr ""
+msgstr "E-mail-adressen blev fjernet."
+# ... removed
 
 #: ./Idno/Pages/Annotation/Delete.php:42
 msgid "The annotation was deleted."
-msgstr ""
+msgstr "Anmærkningen blev slettet."
 
 #: ./Idno/Pages/Entity/Attachment/Delete.php:21
 msgid "We couldn't find the post."
-msgstr ""
+msgstr "Vi kunne ikke finde opslaget."
 
 #: ./Idno/Pages/Entity/Delete.php:45
 msgid "We couldn't find the post to delete."
@@ -1022,7 +1030,7 @@ msgstr "Hej der!"
 #: ./templates/default/account/register.tpl.php:7
 #: ./templates/default/onboarding/register.tpl.php:5
 msgid "Create a new account to get started."
-msgstr ""
+msgstr "Opret en ny konto for at komme i gang."
 
 #: ./templates/default/account/register.tpl.php:14
 #: ./templates/default/account/settings.tpl.php:27
@@ -1038,13 +1046,15 @@ msgstr "Edvard Eriksen"
 
 #: ./templates/default/account/register.tpl.php:20
 msgid "Choose a handle"
-msgstr ""
+msgstr "Vælg et håndtag"
 
 #: ./templates/default/account/register.tpl.php:21
 msgid ""
 "Handles identify you throughout the site. Something simple is best: for "
 "example, <em>janedoe</em>."
 msgstr ""
+"Håndtag identificerer dig i hele webstedet. Noget simpelt er bedst: for "
+"eksempel <em>astrid</em>."
 
 #: ./templates/default/account/register.tpl.php:23
 msgid "username"
@@ -1063,16 +1073,16 @@ msgstr "Mindst 7 tegn tak."
 #: ./templates/default/account/register.tpl.php:37
 #: ./templates/default/account/register.tpl.php:44
 msgid "secret-password"
-msgstr ""
+msgstr "hemmelig adgangskode"
 
 #: ./templates/default/account/register.tpl.php:42
 #: ./templates/default/onboarding/register.tpl.php:33
 msgid "Your password again"
-msgstr ""
+msgstr "Din adgangskode igen"
 
 #: ./templates/default/account/register.tpl.php:49
 msgid "Create Account"
-msgstr ""
+msgstr "Opret konto"
 
 #: ./templates/default/account/settings/feedback/confirm.tpl.php:5
 msgid "Message received!"
@@ -2449,7 +2459,8 @@ msgstr ""
 
 #: ./templates/default/onboarding/register.tpl.php:13
 msgid "Choose a username"
-msgstr ""
+msgstr "Vælg et brugernavn"
+# Select
 
 #: ./templates/default/onboarding/register.tpl.php:26
 msgid "(at least 7 characters please)"
