@@ -2383,11 +2383,11 @@ msgstr "Tilføj billede"
 #: ./templates/default/forms/input/longtext.tpl.php:21
 #: ./templates/default/forms/input/richtext.tpl.php:21
 msgid "Share something brilliant..."
-msgstr ""
+msgstr "Del noget strålende ..."
 
 #: ./templates/default/forms/input/richtext.tpl.php:49
 msgid "Please complete this field."
-msgstr ""
+msgstr "Udfyld dette felt."
 
 #: ./templates/default/forms/usersearch.tpl.php:24
 msgid "Search by name, email address, or username"
