@@ -759,16 +759,18 @@ msgstr "Du kan kun uploade billeder."
 
 #: ./Idno/Pages/Following/Add.php:23
 msgid "We couldn't find a feed at that site."
-msgstr ""
+msgstr "Vi kunne ikke finde et feed på det sted."
+# .. that place
 
 #: ./Idno/Pages/Following/Confirm.php:50
 msgid "You're following %s!"
-msgstr ""
+msgstr "Du følger %s!"
+# You follow
 
 #: ./Idno/Pages/Following/Home.php:17
 #: ./templates/default/following/home.tpl.php:3
 msgid "Following"
-msgstr ""
+msgstr "Følgende"
 
 #: ./Idno/Pages/Onboarding/Begin.php:23
 msgid "Welcome to Known"
