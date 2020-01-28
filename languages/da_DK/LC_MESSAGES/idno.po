@@ -863,7 +863,7 @@ msgstr "Redigere profil: %s"
 
 #: ./Idno/Pages/Webmentions/Endpoint.php:19
 msgid "Webmention endpoint"
-msgstr ""
+msgstr "Slutpunkt for webomtale"
 
 #: ./Idno/Stats/Timer.php:39
 #: ./Idno/Stats/TotalTimer.php:44
@@ -965,11 +965,13 @@ msgstr ""
 #: ./templates/default/account/password/reset.tpl.php:5
 #: ./templates/default/account/password.tpl.php:6
 msgid "Reset your password"
-msgstr ""
+msgstr "Nulstille din adgangskode"
 
 #: ./templates/default/account/password/reset.tpl.php:7
 msgid "To change your password, enter your new password below:"
 msgstr ""
+"Hvis du vil ændre din adgangskode, skal du indtaste din nye "
+"adgangskode nedenfor:"
 
 #: ./templates/default/account/password/reset.tpl.php:16
 #: ./templates/default/account/password.tpl.php:18
@@ -982,7 +984,7 @@ msgstr "Din e-mailadresse"
 
 #: ./templates/default/account/password/reset.tpl.php:17
 msgid "The address associated with your %s account."
-msgstr ""
+msgstr "Den adresse, der er knyttet til din %s konto."
 
 #: ./templates/default/account/password/reset.tpl.php:23
 msgid "New password (7 characters or more)"
@@ -990,31 +992,35 @@ msgstr "Ny adgangskode (7 tegn eller mere)"
 
 #: ./templates/default/account/password/reset.tpl.php:29
 msgid "Retype password"
-msgstr ""
+msgstr "Skriv adgangskode igen"
 
 #: ./templates/default/account/password/reset.tpl.php:30
 msgid "We ask you to enter the password twice to protect against typos."
-msgstr ""
+msgstr "Vi beder dig om at indtaste adgangskoden to gange for at beskytte mod slåfejl."
 
 #: ./templates/default/account/password/sent.tpl.php:5
 msgid "Your password reset email has been sent"
-msgstr ""
+msgstr "Din e-mail til nulstilling af adgangskode er blevet sendt"
 
 #: ./templates/default/account/password/sent.tpl.php:15
 msgid ""
 "Check your inbox! You'll find an email containing a special link that will "
 "help you reset your password."
 msgstr ""
+"Tjek din indbakke! Du kan finde en e-mail, der indeholder et særligt link, "
+"der kan hjælpe dig med at nulstille din adgangskode."
 
 #: ./templates/default/account/password/sent.tpl.php:18
 msgid ""
 "Did you remember your password? That's okay too. You can <a "
 "href=\"%s\">click here to sign in.</a>"
 msgstr ""
+"Kunne du huske din adgangskode? Det er også okay. Du kan <a "
+"href=\"%s\">klikke her for at logge på.</a>"
 
 #: ./templates/default/account/password.tpl.php:9
 msgid "Forgot your password? Don't worry! It happens to the best of us."
-msgstr ""
+msgstr "Glemt din adgangskode? Vær ikke bekymret! Det sker for de bedste af os."
 
 #: ./templates/default/account/password.tpl.php:10
 msgid ""
@@ -1022,6 +1028,9 @@ msgid ""
 "we'll send you a top secret link to your email account so that you can "
 "create a new password."
 msgstr ""
+"Du skal blot indtaste den e-mailadresse, der er knyttet til din %s konto "
+"nedenfor, og vi sender dig et tophemmeligt link til din e-mail-konto, så "
+"du kan oprette en ny adgangskode."
 
 #: ./templates/default/account/password.tpl.php:20
 msgid "me@awesome.com"
@@ -1029,7 +1038,7 @@ msgstr ""
 
 #: ./templates/default/account/password.tpl.php:27
 msgid "Send password reset email"
-msgstr ""
+msgstr "Send mail til nulstilling af adgangskode"
 
 #: ./templates/default/account/register.tpl.php:5
 #: ./templates/default/onboarding/register.tpl.php:3
