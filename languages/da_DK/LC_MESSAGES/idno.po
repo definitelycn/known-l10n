@@ -778,42 +778,45 @@ msgstr "Velkommen til Known"
 
 #: ./Idno/Pages/Onboarding/Connect.php:25
 msgid "Connect some networks"
-msgstr ""
+msgstr "Tilslut nogle netværk"
 
 #: ./Idno/Pages/Onboarding/Profile.php:22
 #: ./templates/default/onboarding/profile.tpl.php:3
 msgid "Create your profile"
-msgstr ""
+msgstr "Opret din profil"
 
 #: ./Idno/Pages/Search/User.php:23
 msgid "Invalid sort type %s"
-msgstr ""
+msgstr "Ugyldig sorteringstype %s"
 
 #: ./Idno/Pages/Search/User.php:27
 msgid "Invalid sort order %s"
-msgstr ""
+msgstr "Ugyldig sorteringsrækkefølge %s"
 
 #: ./Idno/Pages/Service/Security/CSRFToken.php:16
 msgid "URL missing"
-msgstr ""
+msgstr "URL-adressen mangler"
 
 #: ./Idno/Pages/Service/Web/ImageProxy.php:77
 #: ./Idno/Pages/Service/Web/ImageProxy.php:267
 msgid "There was a problem decoding the url"
 msgstr ""
+"Der opstod et problem, der afkodede url-adressenDer opstod et problem, "
+"der afkodede url-adressen"
+# ?
 
 #: ./Idno/Pages/Service/Web/ImageProxy.php:81
 #: ./Idno/Pages/Service/Web/ImageProxy.php:271
 msgid "No url specified"
-msgstr ""
+msgstr "Der er ikke angivet en url-adresse"
 
 #: ./Idno/Pages/Service/Web/ImageProxy.php:222
 msgid "Could not save temporary file"
-msgstr ""
+msgstr "Midlertidig fil kunne ikke gemmes"
 
 #: ./Idno/Pages/Service/Web/ImageProxy.php:253
 msgid "Looks like something went wrong, image was zero bytes big!"
-msgstr ""
+msgstr "Ser ud som noget gik galt, billedet var nul bytes store!"
 
 #: ./Idno/Pages/Service/Web/UrlUnfurl.php:20
 #: ./Idno/Pages/Service/Web/UrlUnfurl.php:47
