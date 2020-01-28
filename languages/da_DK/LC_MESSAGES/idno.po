@@ -2447,20 +2447,22 @@ msgstr "Har du allerede en konto? Log på."
 
 #: ./templates/default/onboarding/connect.tpl.php:3
 msgid "Share to social"
-msgstr ""
+msgstr "Del til sociale"
 
 #: ./templates/default/onboarding/connect.tpl.php:6
 msgid ""
 "Connect your accounts to easily share content with people across the web."
 msgstr ""
+"Tilslut dine konti for nemt at dele indhold med personer på tværs af "
+"internettet."
 
 #: ./templates/default/onboarding/connect.tpl.php:14
 msgid "Continue"
-msgstr ""
+msgstr "Fortsætte"
 
 #: ./templates/default/onboarding/connect.tpl.php:19
 msgid "Don't worry, you can always connect these later."
-msgstr ""
+msgstr "Bare rolig, du kan altid forbinde disse senere."
 
 #: ./templates/default/onboarding/profile.tpl.php:16
 msgid "Add a photo of yourself"
