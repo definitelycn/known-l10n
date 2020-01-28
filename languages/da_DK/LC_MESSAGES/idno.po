@@ -1156,37 +1156,41 @@ msgstr "Lad os vide, hvad du synes."
 #: ./templates/default/account/settings/following/bookmarklet.tpl.php:3
 #: ./templates/default/account/settings/following/mf2user.tpl.php:105
 msgid "Add as friend..."
-msgstr ""
+msgstr "Tilføj som ven..."
 
 #: ./templates/default/account/settings/following/mf2user.tpl.php:55
 msgid "Name"
-msgstr ""
+msgstr "Navn"
 
 #: ./templates/default/account/settings/following/mf2user.tpl.php:64
 msgid "Nickname"
-msgstr ""
+msgstr "Brugernavn"
 
 #: ./templates/default/account/settings/following/mf2user.tpl.php:67
 msgid "Handle (for your reference)"
-msgstr ""
+msgstr "Håndtag (til din reference)"
 
 #: ./templates/default/account/settings/following/mf2user.tpl.php:82
 msgid "Profile URL"
-msgstr ""
+msgstr "URL-adresse til profil"
 
 #: ./templates/default/account/settings/following.tpl.php:5
 msgid "Following..."
-msgstr ""
+msgstr "Følgende..."
 
 #: ./templates/default/account/settings/following.tpl.php:11
 msgid ""
 "Manage your subscriptions here. These users can also be given access to "
 "private content you produce on your site."
 msgstr ""
+"Administrer dine abonnementer her. Disse brugere kan også få adgang til "
+"det private indhold, du producerer på dette websted."
+# ?
 
 #: ./templates/default/account/settings/following.tpl.php:16
 msgid "Use this bookmarklet to make is easy to add new friends."
-msgstr ""
+msgstr "Ved hjælp af denne bookmarklet er det nemt at tilføje nye venner."
+# Using this bookmarklet it is easy to add new friends.
 
 #: ./templates/default/account/settings/notifications.tpl.php:17
 msgid ""
