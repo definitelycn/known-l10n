@@ -843,17 +843,19 @@ msgstr "Log på"
 
 #: ./Idno/Pages/Session/Login.php:67
 msgid "Oops! It looks like your password isn't correct. Please try again."
-msgstr ""
+msgstr "Ups! Det ser ud til, at din adgangskode ikke er korrekt. Prøv igen."
 
 #: ./Idno/Pages/Session/Login.php:72
 msgid ""
 "Oops! We couldn't find your username or email address. Please check you "
 "typed it correctly and try again."
 msgstr ""
+"Ups! Vi kunne ikke finde dit brugernavn eller din e-mailadresse. Kontroller, "
+"at du har skrevet den korrekt, og prøv igen."
 
 #: ./Idno/Pages/Session/Logout.php:24
 msgid "You've signed out. See you soon!"
-msgstr ""
+msgstr "Du har meldt dig ud. Vi ses snart!"
 
 #: ./Idno/Pages/User/Edit.php:30
 msgid "Edit profile: %s"
