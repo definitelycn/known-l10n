@@ -2024,6 +2024,11 @@ msgstr ""
 msgid "Send invite"
 msgstr "Send invitation"
 
+#: ./templates/default/admin/users.tpl.php:95
+#: ./templates/default/following/add.tpl.php:5
+msgid "Add"
+msgstr "Tilføj"
+
 #: ./templates/default/admin/users.tpl.php:111
 msgid "Invitations"
 msgstr "Invitationer"
@@ -2287,23 +2292,23 @@ msgstr "Vælg et andet billede"
 
 #: ./templates/default/following/add.tpl.php:3
 msgid "Add the address of a site to follow"
-msgstr ""
+msgstr "Tilføje adressen på et websted, der skal følges"
 
 #: ./templates/default/following/confirm.tpl.php:7
 msgid "Follow"
-msgstr ""
+msgstr "Følge"
 
 #: ./templates/default/following/confirm.tpl.php:12
 msgid "Here's the latest content."
-msgstr ""
+msgstr "Her er det nyeste indhold."
 
 #: ./templates/default/following/home.tpl.php:13
 msgid "Follow another site"
-msgstr ""
+msgstr "Følg et andet websted"
 
 #: ./templates/default/following/home.tpl.php:31
 msgid "You're not following anyone yet."
-msgstr ""
+msgstr "Du følger ikke efter nogen endnu."
 
 #: ./templates/default/forms/components/usersearch/user.tpl.php:27
 msgid "Joined"
