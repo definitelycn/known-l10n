@@ -741,21 +741,21 @@ msgstr "Vi kunne ikke finde opslaget."
 
 #: ./Idno/Pages/Entity/Delete.php:45
 msgid "We couldn't find the post to delete."
-msgstr ""
+msgstr "Vi kunne ikke finde stillingen til at slette."
 
 #: ./Idno/Pages/Entity/Delete.php:52
 #: ./Idno/Pages/Entity/View.php:125
 #: ./Idno/Pages/User/View.php:103
 msgid "%s was deleted."
-msgstr ""
+msgstr "%s blev slettet."
 
 #: ./Idno/Pages/Entity/Withdraw.php:48
 msgid "We removed copies on all the syndicated sites."
-msgstr ""
+msgstr "Vi fjernede kopier på alle syndikerede websteder."
 
 #: ./Idno/Pages/File/Picker.php:57
 msgid "You can only upload images."
-msgstr ""
+msgstr "Du kan kun uploade billeder."
 
 #: ./Idno/Pages/Following/Add.php:23
 msgid "We couldn't find a feed at that site."
