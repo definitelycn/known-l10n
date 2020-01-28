@@ -1104,21 +1104,23 @@ msgstr "Opret konto"
 
 #: ./templates/default/account/settings/feedback/confirm.tpl.php:5
 msgid "Message received!"
-msgstr ""
+msgstr "Besked modtaget!"
 
 #: ./templates/default/account/settings/feedback/confirm.tpl.php:9
 msgid "Thanks for sending along your thoughts. We'll read them right away."
-msgstr ""
+msgstr "Tak for at sende langs dine tanker. Vi læser dem med det samme."
 
 #: ./templates/default/account/settings/feedback/confirm.tpl.php:22
 msgid ""
 "Feedback is a gift. For more information about Known, <a "
 "href=\"https://withknown.com/\">please visit our homepage</a>"
 msgstr ""
+"Feedback er en gave. Du kan finde flere oplysninger om Known, "
+"<a href=\"https://withknown.com/\">på vores hjemmeside</a>"
 
 #: ./templates/default/account/settings/feedback.tpl.php:5
 msgid "Share your feedback"
-msgstr ""
+msgstr "Del din feedback"
 
 #: ./templates/default/account/settings/feedback.tpl.php:9
 msgid ""
