@@ -1255,11 +1255,16 @@ msgid ""
 "The Known bookmarklet is the best way to save links, reply to posts, and "
 "share articles."
 msgstr ""
+"Den Known bookmarklet er den bedste måde at gemme links, svare på indlæg "
+"og dele artikler."
 
 #: ./templates/default/account/settings/tools.tpl.php:23
 msgid ""
 "Just drag the bookmarklet button below into your browser's Bookmark Bar."
 msgstr ""
+"Du skal blot trække bookmarklet-knappen nedenfor ind i browserens "
+"bogmærkelinje."
+# .. bookmark line
 
 #: ./templates/default/account/settings/tools.tpl.php:42
 msgid "Don't see a bookmarks bar?"
