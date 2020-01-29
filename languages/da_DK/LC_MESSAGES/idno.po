@@ -1411,6 +1411,10 @@ msgid ""
 "need help installing any required packages, ask your web host or system "
 "administrator."
 msgstr ""
+"Følgende er systemkomponenter, der kræves, for at Known kan køre fuldt ud. "
+"Det er værd at kontrollere, at de alle er installeret. Hvis du har brug for "
+"hjælp til at installere de nødvendige pakker, skal du spørge webhosten eller "
+"systemadministratoren."
 
 #: ./templates/default/admin/dependencies.tpl.php:17
 msgid "PHP"
@@ -1418,11 +1422,11 @@ msgstr ""
 
 #: ./templates/default/admin/dependencies.tpl.php:19
 msgid "Version %s or greater"
-msgstr ""
+msgstr "Version %s eller nyere"
 
 #: ./templates/default/admin/dependencies.tpl.php:27
 msgid "PHP extensions required"
-msgstr ""
+msgstr "PHP udvidelser påkrævet"
 
 #: ./templates/default/admin/dependencies.tpl.php:28
 msgid ""
@@ -1430,6 +1434,9 @@ msgid ""
 "database storage, webmentions, etc. Click an extension name to learn more "
 "about it, including installation instructions."
 msgstr ""
+"Disse udvider den måde PHP fungerer, og er nødvendige for funktionalitet "
+"som database opbevaring, webmentions, osv. Klik på et udvidelsesnavn for at "
+"få mere at vide om det, herunder installationsinstruktioner."
 
 #: ./templates/default/admin/diagnostics.tpl.php:9
 msgid ""
