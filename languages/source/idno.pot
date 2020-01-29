@@ -687,6 +687,10 @@ msgstr ""
 msgid "We couldn't find a feed at that site."
 msgstr ""
 
+#: ./Idno/Pages/Following/Confirm.php:24
+msgid "Subscribe to %s"
+msgstr ""
+
 #: ./Idno/Pages/Following/Confirm.php:50
 msgid "You're following %s!"
 msgstr ""

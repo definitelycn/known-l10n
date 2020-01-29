@@ -762,6 +762,10 @@ msgid "We couldn't find a feed at that site."
 msgstr "Vi kunne ikke finde et feed på det sted."
 # .. that place
 
+#: ./Idno/Pages/Following/Confirm.php:24
+msgid "Subscribe to %s"
+msgstr "Abonner på %s"
+
 #: ./Idno/Pages/Following/Confirm.php:50
 msgid "You're following %s!"
 msgstr "Du følger %s!"
