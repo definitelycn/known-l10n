@@ -2520,7 +2520,7 @@ msgstr ""
 
 #: ./templates/default/pages/403.tpl.php:22
 msgid "Find something else to view on the <a href=\"%s\">%s homepage</a>."
-msgstr ""
+msgstr "Find noget andet, du kan se på <a href=\"%s\">%s hjemmeside</a>."
 
 #: ./templates/default/pages/404.tpl.php:5
 msgid "Oops! We couldn't find it."
