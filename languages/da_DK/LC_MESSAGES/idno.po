@@ -2466,31 +2466,32 @@ msgstr "Bare rolig, du kan altid forbinde disse senere."
 
 #: ./templates/default/onboarding/profile.tpl.php:16
 msgid "Add a photo of yourself"
-msgstr ""
+msgstr "Tilføj et billede af dig selv"
 
 #: ./templates/default/onboarding/profile.tpl.php:23
 msgid "Ben Franklin"
-msgstr ""
+msgstr "Ole Kirk Christiansen"
 
 #: ./templates/default/onboarding/profile.tpl.php:27
 msgid "Your short bio"
-msgstr ""
+msgstr "Din korte bio"
 
 #: ./templates/default/onboarding/profile.tpl.php:29
 msgid "I fly kites..."
-msgstr ""
+msgstr "Jeg arbejder med træ..."
+# I work with wood...
 
 #: ./templates/default/onboarding/profile.tpl.php:34
 msgid "Your other websites"
-msgstr ""
+msgstr "Dine andre hjemmesider"
 
 #: ./templates/default/onboarding/profile.tpl.php:35
 msgid "(a blog, a portfolio, Twitter, Facebook, etc)"
-msgstr ""
+msgstr "(en blog, en portefølje, Twitter, Facebook, osv.)"
 
 #: ./templates/default/onboarding/profile.tpl.php:40
 msgid "Add another website"
-msgstr ""
+msgstr "Tilføj et andet websted"
 
 #: ./templates/default/onboarding/register.tpl.php:13
 msgid "Choose a username"
@@ -2503,7 +2504,7 @@ msgstr "(mindst 7 tegn venligst)"
 
 #: ./templates/default/pages/403.tpl.php:7
 msgid "Click here to log in."
-msgstr ""
+msgstr "Klik her for at logge ind."
 
 #: ./templates/default/pages/403.tpl.php:18
 msgid "Hold on. You don't have access to this content."
