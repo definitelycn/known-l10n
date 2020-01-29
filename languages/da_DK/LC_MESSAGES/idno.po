@@ -1542,23 +1542,24 @@ msgstr "Dette er normalt 25 eller 587."
 
 #: ./templates/default/admin/email.tpl.php:114
 msgid "Secure connection"
-msgstr ""
+msgstr "Sikker forbindelse"
 
 #: ./templates/default/admin/email.tpl.php:135
 msgid "Select yes if you use secure logins to your mail server."
-msgstr ""
+msgstr "Vælg ja, hvis du bruger sikre logins til din mailserver."
+# Hvis du bruger sikre logins til din e-mail-server, skal du vælge ja.
 
 #: ./templates/default/admin/email.tpl.php:157
 msgid "Send a test message to"
-msgstr ""
+msgstr "Send en testmeddelelse til"
 
 #: ./templates/default/admin/email.tpl.php:160
 msgid "To address"
-msgstr ""
+msgstr "Til adresse"
 
 #: ./templates/default/admin/email.tpl.php:164
 msgid "Check your email settings by sending a test email."
-msgstr ""
+msgstr "Tjek dine mailindstillinger ved at sende en testmail."
 
 #: ./templates/default/admin/email.tpl.php:170
 msgid "Test settings"
