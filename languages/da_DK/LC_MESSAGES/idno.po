@@ -1268,13 +1268,15 @@ msgstr ""
 
 #: ./templates/default/account/settings/tools.tpl.php:42
 msgid "Don't see a bookmarks bar?"
-msgstr ""
+msgstr "Kan du ikke se en bogmærkelinje?"
 
 #: ./templates/default/account/settings/tools.tpl.php:45
 msgid ""
 "Sometimes web browsers have their bookmarked links bar hidden by default. "
 "Here's how to reveal it:"
 msgstr ""
+"Sommetider webbrowsere har deres bogmærkede links bar skjult som standard. "
+"Sådan afslører du det:"
 
 #: ./templates/default/account/settings/tools.tpl.php:47
 msgid "Chrome"
