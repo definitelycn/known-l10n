@@ -2541,6 +2541,8 @@ msgid ""
 "Maybe you'll find something interesting if you head back to the <a "
 "href=\"%s\">%s homepage</a>."
 msgstr ""
+"Måske finder du noget interessant, hvis du går tilbage til <a "
+"href=\"%s\">%s hjemmeside</a>."
 
 #: ./templates/default/pages/410.tpl.php:6
 msgid "Sorry, this content isn't here anymore."
@@ -2556,17 +2558,19 @@ msgstr ""
 #: ./templates/default/pages/410.tpl.php:10
 msgid ""
 "Maybe you'd like to head back to the <a href=\"%s\">%s homepage</a> instead."
-msgstr ""
+msgstr "Måske vil du gå tilbage til <a href=\"%s\">%s hjemmeside</a> i stedet."
 
 #: ./templates/default/pages/500.tpl.php:15
 msgid ""
 "<a href=\"#\" onclick=\"window.history.back();\">Click here to try again</a> "
 "or <a href=\"%s\">click here to go back to the homepage</a>."
 msgstr ""
+"<a href=\"#\" onclick=\"window.history.back();\">Klik her for at prøve "
+"igen</a> eller <a href=\"%s\">klik her for at gå tilbage til startsiden</a>."
 
 #: ./templates/default/pages/500.tpl.php:19
 msgid "Click here to see the technical details."
-msgstr ""
+msgstr "Klik her for at se de tekniske detaljer."
 
 #: ./templates/default/pages/500.tpl.php:32
 msgid "Oh no! Something went wrong."
