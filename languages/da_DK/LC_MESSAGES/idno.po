@@ -945,7 +945,7 @@ msgstr "Adgangskode"
 
 #: ./templates/default/account/login.tpl.php:36
 msgid "New here? Register for an account."
-msgstr ""
+msgstr "Ny her? Tilmeld dig en konto."
 
 #: ./templates/default/account/login.tpl.php:40
 msgid "Forgot your password?"
@@ -964,10 +964,12 @@ msgstr "E-mailnotifikationer"
 msgid ""
 "The notifications screen shows you who has interacted with your content."
 msgstr ""
+"Skærmbilledet meddelelser viser dig, hvem der har interageret med dit indhold."
+# The messages ...
 
 #: ./templates/default/account/notifications.tpl.php:25
 msgid "You don't have any notifications yet. But we love you anyway!"
-msgstr ""
+msgstr "Du har endnu ingen meddelelser. Men vi elsker dig alligevel!"
 
 #: ./templates/default/account/password/reset.tpl.php:5
 #: ./templates/default/account/password.tpl.php:6
@@ -1204,33 +1206,40 @@ msgid ""
 "Set how you'd like to be notified when someone stars or comments on your "
 "content."
 msgstr ""
+"Angiv, hvordan du vil have besked, når der er stjerner eller kommentarer "
+"til dit indhold."
+# Specify how you want to be notified when there are stars or comments on
+# your content.
 
 #: ./templates/default/account/settings/notifications.tpl.php:26
 msgid "Send email notifications"
-msgstr ""
+msgstr "Send mailmeddelelser"
+# Send email messages
 
 #: ./templates/default/account/settings/notifications.tpl.php:34
 msgid "Whenever someone interacts with my content"
-msgstr ""
+msgstr "Når nogen interagerer med mit indhold"
 
 #: ./templates/default/account/settings/notifications.tpl.php:44
 msgid "Only when someone comments on my content"
-msgstr ""
+msgstr "Kun når nogen kommenterer mit indhold"
 
 #: ./templates/default/account/settings/notifications.tpl.php:54
 #: ./templates/default/forms/components/usersearch/user.tpl.php:45
 msgid "Never"
-msgstr ""
+msgstr "Aldrig"
 
 #: ./templates/default/account/settings/notifications.tpl.php:63
 msgid "Ignored Domains"
-msgstr ""
+msgstr "Ignorerede domæner"
 
 #: ./templates/default/account/settings/notifications.tpl.php:64
 msgid ""
 "Do not send notifications for interactions originating from these domains "
 "(one domain per line)"
 msgstr ""
+"Send ikke meddelelser om interaktioner, der stammer fra disse domæner "
+"(ét domæne pr. linje)"
 
 #: ./templates/default/account/settings/notifications.tpl.php:75
 #: ./templates/default/admin/email.tpl.php:142
