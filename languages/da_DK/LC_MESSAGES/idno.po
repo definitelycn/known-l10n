@@ -1345,10 +1345,12 @@ msgid ""
 "Change your user account settings here. You may also want to <a "
 "href=\"%s\">edit your profile</a>."
 msgstr ""
+"Skift indstillingerne for din brugerkonto her. Du kan også <a "
+"href=\"%s\">redigere din profil</a>."
 
 #: ./templates/default/account/settings.tpl.php:45
 msgid "Site notifications will be sent here."
-msgstr ""
+msgstr "Webstedsmeddelelser vil blive sendt her."
 
 #: ./templates/default/account/settings.tpl.php:51
 msgid "Your password"
@@ -1356,7 +1358,7 @@ msgstr "Din adgangskode"
 
 #: ./templates/default/account/settings.tpl.php:58
 msgid "Leave this blank if you don't want to change it."
-msgstr ""
+msgstr "Lad dette være tomt, hvis du ikke vil ændre den."
 
 #: ./templates/default/account/settings.tpl.php:64
 msgid "Your timezone"
@@ -1368,7 +1370,7 @@ msgstr "Tidszone"
 
 #: ./templates/default/account/settings.tpl.php:78
 msgid "Specify your timezone."
-msgstr ""
+msgstr "Angiv din tidszone."
 
 #: ./templates/default/account/settings.tpl.php:83
 #: ./templates/default/admin/home.tpl.php:281
