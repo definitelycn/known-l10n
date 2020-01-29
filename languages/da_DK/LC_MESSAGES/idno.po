@@ -1567,23 +1567,23 @@ msgstr "Test indstillinger"
 
 #: ./templates/default/admin/export/download.tpl.php:2
 msgid "Download your data"
-msgstr ""
+msgstr "Download dine data"
 
 #: ./templates/default/admin/export/download.tpl.php:3
 msgid "Generated"
-msgstr ""
+msgstr "Genereret"
 
 #: ./templates/default/admin/export/download.tpl.php:7
 msgid "You can also regenerate a new copy of your data archive."
-msgstr ""
+msgstr "Du kan også regenerere en ny kopi af dataarkivet."
 
 #: ./templates/default/admin/export/download.tpl.php:11
 msgid "Re-archive your data"
-msgstr ""
+msgstr "Arkivere dine data igen"
 
 #: ./templates/default/admin/export/generate.tpl.php:5
 msgid "Create archive"
-msgstr ""
+msgstr "Opret arkiv"
 
 #: ./templates/default/admin/export/generate.tpl.php:18
 msgid ""
@@ -1591,6 +1591,9 @@ msgid ""
 "it's working. Once the export file is complete, this page will update, and "
 "you'll be able to download the archive right here."
 msgstr ""
+"Det kan tage et stykke tid at generere dit arkiv. Du kan forlade denne side, "
+"mens den virker. Når eksportfilen er færdig, opdateres denne side, og du kan "
+"downloade arkivet lige her."
 
 #: ./templates/default/admin/export.tpl.php:9
 msgid "Export content"
