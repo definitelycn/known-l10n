@@ -2578,7 +2578,7 @@ msgstr "Åh nej! Noget gik galt."
 
 #: ./templates/default/pages/home/nocontent.tpl.php:10
 msgid "We couldn't find anything that matches your search."
-msgstr ""
+msgstr "Vi kunne ikke finde noget, der matcher din søgning."
 
 #: ./templates/default/robot/post.tpl.php:19
 msgid "Power down robots. I can take it from here."
@@ -2653,7 +2653,7 @@ msgstr ""
 #: ./templates/default/settings-shell/nav.tpl.php:6
 #: ./templates/default/shell/toolbar/main.tpl.php:7
 msgid "Toggle navigation"
-msgstr ""
+msgstr "Skifte navigation til/fra"
 
 #: ./templates/default/settings-shell/toolbar/logged-in.tpl.php:18
 #: ./templates/default/shell/toolbar/logged-in.tpl.php:21
@@ -2699,7 +2699,7 @@ msgstr "Log ud"
 
 #: ./templates/default/shell/toolbar/main.tpl.php:1
 msgid "Skip to main content"
-msgstr ""
+msgstr "Gå til hovedindhold"
 
 #: ./templates/default/shell/toolbar/register.tpl.php:1
 msgid "Register"
