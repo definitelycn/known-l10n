@@ -1471,32 +1471,40 @@ msgid ""
 "email using an external provider - enter the new SMTP settings below. You "
 "can also <a href=\"%s\">change your notification settings</a>."
 msgstr ""
-""
+"Known forsøger at sende mail ved hjælp af serverens standard "
+"mailindstillinger. Hvis du gerne vil have det til at gøre noget andet - "
+"for eksempel, hvis du gerne vil sende e-mail ved hjælp af en ekstern "
+"udbyder - skal du indtaste de nye SMTP-indstillinger nedenfor. Du kan "
+"også <a href=\"%s\">ændre dine notifikationsindstillinger</a>."
 
 #: ./templates/default/admin/email.tpl.php:20
 msgid ""
 "Fill in the site email address if you would like your site to send email."
 msgstr ""
+"Udfyld webstedets e-mailadresse, hvis du ønsker, at dit websted skal "
+"sende e-mail."
 
 #: ./templates/default/admin/email.tpl.php:26
 #: ./templates/default/admin/email.tpl.php:29
 msgid "Site email address"
-msgstr ""
+msgstr "E-mail-adresse på webstedet"
 
 #: ./templates/default/admin/email.tpl.php:33
 msgid "This is the address that every notification will be sent from."
-msgstr ""
+msgstr "Dette er den adresse, som hver meddelelse vil blive sendt fra."
 
 #: ./templates/default/admin/email.tpl.php:40
 msgid ""
 "You can often leave the following settings blank. However, you may wish to "
 "set them if you're using a third-party service to send email."
 msgstr ""
+"Du kan ofte lade følgende indstillinger være tomme. Du kan dog indstille "
+"dem, hvis du bruger en tredjepartstjeneste til at sende e-mail."
 
 #: ./templates/default/admin/email.tpl.php:48
 #: ./templates/default/admin/email.tpl.php:51
 msgid "SMTP host"
-msgstr ""
+msgstr "SMTP-vært"
 
 #: ./templates/default/admin/email.tpl.php:55
 msgid "This is the address of the server that will send email for you."
