@@ -1284,7 +1284,7 @@ msgstr ""
 
 #: ./templates/default/account/settings/tools.tpl.php:47
 msgid "Select <em>Always Show Bookmarks Bar</em> from the <em>View</em> menu."
-msgstr ""
+msgstr "Vælg <em>Vis altid bogmærkelinje</em> i menuen <em>View</em>."
 
 #: ./templates/default/account/settings/tools.tpl.php:48
 msgid "Firefox"
@@ -1292,15 +1292,16 @@ msgstr ""
 
 #: ./templates/default/account/settings/tools.tpl.php:48
 msgid "Select <em>View</em>, then <em>Toolbars</em>, and make sure"
-msgstr ""
+msgstr "Vælg <em>Vis</em>, og <em>Værktøjslinjer</em>, og sørg for at"
 
 #: ./templates/default/account/settings/tools.tpl.php:49
 msgid "Bookmarks Toolbar"
-msgstr ""
+msgstr "Værktøjslinje til bogmærker"
 
 #: ./templates/default/account/settings/tools.tpl.php:49
 msgid "is checked."
-msgstr ""
+msgstr "er markeret."
+# is selected.
 
 #: ./templates/default/account/settings/tools.tpl.php:50
 msgid "Internet Explorer"
@@ -1310,24 +1311,28 @@ msgstr ""
 msgid ""
 "Select <em>Tools</em>, then make sure <em>Favorites Bar</em> is checked."
 msgstr ""
+"Vælg <em>Værktøjer</em>, og sørg for <em>Favoritterbar</em> er markeret."
 
 #: ./templates/default/account/settings/tools.tpl.php:65
 msgid "Your API key"
-msgstr ""
+msgstr "Din API-nøgle"
 
 #: ./templates/default/account/settings/tools.tpl.php:70
 msgid "Click to show"
-msgstr ""
+msgstr "Klik her for at få vist"
 
 #: ./templates/default/account/settings/tools.tpl.php:76
 msgid "Revoke"
-msgstr ""
+msgstr "Tilbagekalde"
 
 #: ./templates/default/account/settings/tools.tpl.php:76
 msgid ""
 "Revoking this key will mean you must update any applications that use this "
 "key!"
 msgstr ""
+"Hvis du tilbagekalder denne nøgle, betyder det, at du skal opdatere alle "
+"programmer, der bruger denne nøgle!"
+# Recalling ..
 
 #: ./templates/default/account/settings.tpl.php:9
 #: ./templates/default/settings-shell/toolbar/logged-in.tpl.php:13
