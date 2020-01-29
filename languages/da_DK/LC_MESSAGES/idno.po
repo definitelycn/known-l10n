@@ -1508,34 +1508,37 @@ msgstr "SMTP-vært"
 
 #: ./templates/default/admin/email.tpl.php:55
 msgid "This is the address of the server that will send email for you."
-msgstr ""
+msgstr "Dette er adressen på den server, der sender din e-mail."
+# This is the address of the server that sends your e-mail.
 
 #: ./templates/default/admin/email.tpl.php:62
 #: ./templates/default/admin/email.tpl.php:65
 msgid "SMTP username"
-msgstr ""
+msgstr "SMTP brugernavn"
 
 #: ./templates/default/admin/email.tpl.php:69
 msgid "If your mail server needs a username, enter it here."
 msgstr ""
+"Hvis din mailserver har brug for et brugernavn, skal du indtaste den her."
 
 #: ./templates/default/admin/email.tpl.php:76
 #: ./templates/default/admin/email.tpl.php:79
 msgid "SMTP password"
-msgstr ""
+msgstr "SMTP-adgangskode"
 
 #: ./templates/default/admin/email.tpl.php:84
 msgid "If your mail server needs a password, enter it here."
 msgstr ""
+"Hvis din mailserver har brug for en adgangskode, skal du indtaste den her."
 
 #: ./templates/default/admin/email.tpl.php:91
 #: ./templates/default/admin/email.tpl.php:94
 msgid "SMTP port"
-msgstr ""
+msgstr "SMTP-port"
 
 #: ./templates/default/admin/email.tpl.php:107
 msgid "This is normally 25 or 587."
-msgstr ""
+msgstr "Dette er normalt 25 eller 587."
 
 #: ./templates/default/admin/email.tpl.php:114
 msgid "Secure connection"
