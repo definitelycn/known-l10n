@@ -1975,7 +1975,7 @@ msgstr "Importere"
 
 #: ./templates/default/admin/menu.tpl.php:13
 msgid "Captured Logs"
-msgstr ""
+msgstr "Hentede logfiler"
 
 #: ./templates/default/admin/menu.tpl.php:15
 msgid "About"
@@ -2036,11 +2036,12 @@ msgstr ""
 
 #: ./templates/default/admin/themes/theme.tpl.php:41
 msgid "(Selected)"
-msgstr ""
+msgstr "(Valgt)"
 
 #: ./templates/default/admin/themes/theme.tpl.php:48
 msgid "by"
-msgstr ""
+msgstr "af"
+# Af
 
 #: ./templates/default/admin/themes.tpl.php:7
 msgid ""
@@ -2226,15 +2227,16 @@ msgstr "Nævnt"
 
 #: ./templates/default/content/notification/reply.tpl.php:5
 msgid "replied to"
-msgstr ""
+msgstr "svarede på"
 
 #: ./templates/default/content/notification/reply.tpl.php:7
 msgid "Reply"
-msgstr ""
+msgstr "Svar"
 
 #: ./templates/default/content/notification/rsvp.tpl.php:5
 msgid "RSVPed to"
-msgstr ""
+msgstr "RSVPed til"
+# ?
 
 #: ./templates/default/content/notification/share.tpl.php:5
 msgid "shared"
@@ -2242,11 +2244,11 @@ msgstr "delte"
 
 #: ./templates/default/content/unfurl.tpl.php:11
 msgid "Refresh preview"
-msgstr ""
+msgstr "Opdater eksempel"
 
 #: ./templates/default/content/unfurl.tpl.php:12
 msgid "Remove preview"
-msgstr ""
+msgstr "Fjern eksempelvisning"
 
 #: ./templates/default/entity/annotations/comment/main.tpl.php:16
 msgid "Add a comment ..."
