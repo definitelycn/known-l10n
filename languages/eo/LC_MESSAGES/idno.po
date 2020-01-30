@@ -2344,7 +2344,7 @@ msgstr "Rigardi afiŝon:"
 
 #: ./known.php:110
 msgid "Returns the current Known version as defined in version.known"
-msgstr ""
+msgstr "Redonas la aktualan Known-version kiel difinitan en version.known"
 
 #: ./known.php:118
 msgid "WARNING: Your build of Known is behind the latest version from Github (%s - %s). If you're having problems, you may want to try updating to the latest version.\nUpdate now: https://github.com/idno/Known\n"
