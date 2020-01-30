@@ -2577,11 +2577,21 @@ msgstr ""
 msgid "Get started with *%s* by setting up your account"
 msgstr ""
 
-#: ./templates/email/content/notification/like.tpl.php:10
+#: templates/email/content/notification/like.tpl.php:7
+msgid ""
+"Hi! We wanted to let you know that <strong>%s</strong> liked the post "
+"<strong>%s</strong>"
+msgstr ""
+
+#: ./templates/email/content/notification/like.tpl.php:11
 msgid "View post"
 msgstr ""
 
-#: ./templates/email-text/content/notification/like.tpl.php:8
+#: templates/email-text/content/notification/like.tpl.php:6
+msgid "Hi! We wanted to let you know that *%s* liked the post *%s*"
+msgstr ""
+
+#: ./templates/email-text/content/notification/like.tpl.php:9
 msgid "View post:"
 msgstr ""
 
