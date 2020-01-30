@@ -18,27 +18,27 @@ msgstr "Neniu domajno specifita por kaŝmemoro"
 
 #: ./Idno/Common/Entity.php:692
 msgid "There was a problem syndicating."
-msgstr ""
+msgstr "Estis problemo sindiki."
 
 #: ./Idno/Common/Page.php:397
 msgid "Invalid token."
-msgstr ""
+msgstr "Nevalida ĵetono"
 
 #: ./Idno/Common/Page.php:414
 msgid "Something went wrong."
-msgstr ""
+msgstr "Io iris malbone."
 
 #: ./Idno/Common/Page.php:479
 msgid "Attempted to redirect page to a non local URL."
-msgstr ""
+msgstr "Oni provis redirekti paĝon al ne loka URL."
 
 #: ./Idno/Common/Page.php:569
 msgid "The page you were on timed out."
-msgstr ""
+msgstr "La paĝo vi estis en tempolimo."
 
 #: ./Idno/Common/Page.php:583
 msgid "Couldn't say anything about execution, probably something went wrong"
-msgstr ""
+msgstr "Mi ne povis diri ion pri ekzekuto, probable io iris malbone"
 
 #: ./Idno/Common/Page.php:741
 msgid "This content isn't here."
