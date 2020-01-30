@@ -128,11 +128,11 @@ msgstr "minutoj"
 
 #: ./Idno/Core/Time.php:103
 msgid "ahead"
-msgstr ""
+msgstr "antaŭen"
 
 #: ./Idno/Core/Time.php:103
 msgid "behind"
-msgstr ""
+msgstr "malantaŭe"
 
 #: ./Idno/Core/TokenProvider.php:32
 msgid "Token was generated using an a cryptographically weak algorithm, this probably means your version of OpenSSL is broken or very old."
@@ -142,15 +142,15 @@ msgstr ""
 
 #: ./Idno/Core/Webservice.php:431
 msgid "Your version of PHP doesn't support CURLFile."
-msgstr ""
+msgstr "Via versio de PHP ne subtenas CURLFile."
 
 #: ./Idno/Data/Mongo.php:38
 msgid "It looks like you don't have the new mongodb driver installed (<a href=\"https://secure.php.net/manual/en/set.mongodb.php\">https://secure.php.net/manual/en/set.mongodb.php</a>)\n\nMake sure you have it installed and configured, e.g. by running \"pecl install mongodb;\""
-msgstr ""
+msgstr "Ŝajnas, ke vi ne havas la novan mongodb-pelilon instalitan (<a href=\"https://secure.php.net/manual/en/set.mongodb.php\">https://secure.php.net/manual/en/set.mongodb.php</a>)\n\nAsigu, ke vi havas ĝin instalita kaj agordita, ekz. kurante \"pecl install mongodb;\""
 
 #: ./Idno/Entities/GenericDataItem.php:43
 msgid "GenericDataItem classes must have a datatype label set."
-msgstr ""
+msgstr "GenericDataItem-klasoj devas havi datumtipan etikedon."
 
 #: ./Idno/Entities/Invitation.php:110
 msgid "You've been invited to join %s"
