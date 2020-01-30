@@ -50,7 +50,7 @@ msgstr "Ĉi tiu paĝo ne troveblas."
 
 #: ./Idno/Common/Plugin.php:87
 msgid "Plugin %s doesn't have a version"
-msgstr ""
+msgstr "Plugin %s ne havas version"
 
 #: ./Idno/Core/AsynchronousQueue.php:61
 msgid "No event passed"
@@ -62,11 +62,11 @@ msgstr "Evento preterpasita ne estas antaŭenirita, kaj do ne povas esti sendita
 
 #: ./Idno/Core/AsynchronousQueue.php:67
 msgid "Sorry, this event has already been dispatched (but not yet cleaned up)"
-msgstr ""
+msgstr "Bedaŭrinde ĉi tiu evento jam estis sendita (sed ankoraŭ ne purigita)"
 
 #: ./Idno/Core/AsynchronousQueue.php:76
 msgid "Invalid user (%s) given for runAsContext, aborting"
-msgstr ""
+msgstr "Nevalida uzanto (%s) donita por runAsContext, haltante"
 
 #: ./Idno/Core/Config.php:268
 msgid "A social website powered by Known"
