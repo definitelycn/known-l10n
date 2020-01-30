@@ -2327,6 +2327,8 @@ msgid ""
 "Hi! We wanted to let you know that <strong>%s</strong> liked the post "
 "<strong>%s</strong>"
 msgstr ""
+"Saluton! Ni volis sciigi vin, ke <strong>%s</strong> ŝatas la afiŝon "
+"<strong>%s</strong>"
 
 #: ./templates/email/content/notification/like.tpl.php:11
 msgid "View post"
@@ -2334,7 +2336,7 @@ msgstr "Rigardi afiŝon"
 
 #: templates/email-text/content/notification/like.tpl.php:6
 msgid "Hi! We wanted to let you know that *%s* liked the post *%s*"
-msgstr ""
+msgstr "Saluton! Ni volis sciigi vin, ke *%s* ŝatas la afiŝon *%s*"
 
 #: ./templates/email-text/content/notification/like.tpl.php:9
 msgid "View post:"
