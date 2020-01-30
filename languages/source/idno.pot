@@ -2577,6 +2577,10 @@ msgstr ""
 msgid "Get started with *%s* by setting up your account"
 msgstr ""
 
+#: ./templates/email/content/notification/like.tpl.php:10
+msgid "View post"
+msgstr ""
+
 #: ./templates/email-text/content/notification/like.tpl.php:8
 msgid "View post:"
 msgstr ""

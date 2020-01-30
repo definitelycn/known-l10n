@@ -2844,6 +2844,10 @@ msgstr "Hej der! Din ven *%s* har inviteret dig til at deltage i %s"
 msgid "Get started with *%s* by setting up your account"
 msgstr "Start med *%s* ved at konfigurere din konto"
 
+#: ./templates/email/content/notification/like.tpl.php:10
+msgid "View post"
+msgstr "Se indlæg"
+
 #: ./templates/email-text/content/notification/like.tpl.php:8
 msgid "View post:"
 msgstr "Se indlæg:"
