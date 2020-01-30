@@ -158,19 +158,19 @@ msgstr "Vi estis invitita aliĝi al %s"
 
 #: ./Idno/Files/FileSystem.php:63
 msgid "There is no error, the file uploaded with success"
-msgstr ""
+msgstr "Estas neniu eraro, la dosiero alŝutita kun sukceso"
 
 #: ./Idno/Files/FileSystem.php:64
 msgid "The uploaded file exceeds the upload_max_filesize directive in php.ini"
-msgstr ""
+msgstr "La alŝutita dosiero superas la direktivon upload_max_filesize en php.ini"
 
 #: ./Idno/Files/FileSystem.php:65
 msgid "The uploaded file exceeds the MAX_FILE_SIZE directive that was specified in the HTML form"
-msgstr ""
+msgstr "La alŝutita dosiero superas la direktivon MAX_FILE_SIZE kiu estis specifita en la HTML-formularo"
 
 #: ./Idno/Files/FileSystem.php:66
 msgid "The uploaded file was only partially uploaded"
-msgstr ""
+msgstr "La alŝutita dosiero estis nur parte alŝutita"
 
 #: ./Idno/Files/FileSystem.php:67
 msgid "No file was uploaded"
