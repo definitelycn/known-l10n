@@ -78,11 +78,11 @@ msgstr "Iu iris malbone kaj ni ne povis krei la retpoŝton por sendi."
 
 #: ./Idno/Core/Service.php:24
 msgid "Missing X-Known-Service-Signature, service call is not possible."
-msgstr ""
+msgstr "Mankas X-Known-Service-Signature, servo-alvoko ne eblas."
 
 #: ./Idno/Core/Service.php:27
 msgid "Sorry, signature doesn't match up."
-msgstr ""
+msgstr "Pardonu, subskribo ne kongruas."
 
 #: ./Idno/Core/Service.php:44
 msgid "Missing site secret"
@@ -90,7 +90,7 @@ msgstr "Mankis sekreta retejo"
 
 #: ./Idno/Core/Service.php:53
 msgid "Url not provided to token generation."
-msgstr ""
+msgstr "Url ne provizita al token-generacio."
 
 #: ./Idno/Core/Service.php:86
 msgid "Response from service endpoint was not json"
@@ -98,7 +98,7 @@ msgstr "Respondo de servo de la finpunkto ne estis json"
 
 #: ./Idno/Core/Service.php:98
 msgid "No result from endpoint."
-msgstr ""
+msgstr "Neniu rezulto de finpunkto."
 
 #: ./Idno/Core/Session.php:136
 msgid "Session funnybusiness: "
