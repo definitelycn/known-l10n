@@ -2861,11 +2861,11 @@ msgstr "Hej! Vi ønskede at lade dig vide, at %s nævnt dig på %s"
 
 #: ./templates/email/content/notification/preheader/like.tpl.php:6
 msgid "%s liked %s."
-msgstr ""
+msgstr "%s kunne lide %s."
 
 #: ./templates/email/content/notification/preheader/mention.tpl.php:6
 msgid "%s mentioned you on %s."
-msgstr ""
+msgstr "%s nævnt dig på %s."
 
 #: ./templates/email/content/notification/preheader/reply.tpl.php:6
 msgid "%s replied to %s."
@@ -2877,17 +2877,17 @@ msgstr ""
 
 #: ./templates/email/content/notification/preheader/share.tpl.php:6
 msgid "%s shared %s."
-msgstr ""
+msgstr "%s delte %s."
 
 #: ./templates/email/content/notification/reply.tpl.php:7
 #: ./templates/email-text/content/notification/reply.tpl.php:6
 msgid "Hi! We wanted to let you know that %s replied to the post %s."
-msgstr ""
+msgstr "Hej! Vi ønskede at lade dig vide, at %s svarede på indlæg %s."
 
 #: ./templates/email/content/notification/reply.tpl.php:10
 #: ./templates/email-text/content/notification/reply.tpl.php:10
 msgid "Here's what they said:"
-msgstr ""
+msgstr "Her er, hvad de sagde:"
 
 #: ./templates/email/shell.tpl.php:72
 msgid "Powered by"
