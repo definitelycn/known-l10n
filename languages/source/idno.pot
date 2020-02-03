@@ -87,6 +87,14 @@ msgstr ""
 msgid "Something went wrong and we couldn't create the email message to send."
 msgstr ""
 
+#: ./Idno/Core/JWT.php:82
+msgid "Identity token expired"
+msgstr ""
+
+#: ./Idno/Core/JWT.php:86
+msgid "Identity token is not valid"
+msgstr ""
+
 #: ./Idno/Core/Service.php:24
 msgid "Missing X-Known-Service-Signature, service call is not possible."
 msgstr ""
