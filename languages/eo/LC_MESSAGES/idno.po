@@ -222,7 +222,7 @@ msgstr "Sciigoj"
 
 #: ./Idno/Pages/Account/Password.php:26
 msgid "Password recovery email sent"
-msgstr ""
+msgstr "Retpoŝta reakiro de retpoŝto sendita"
 
 #: ./Idno/Pages/Account/Password.php:29
 msgid "Recover password"
@@ -230,15 +230,15 @@ msgstr "Reakiri pasvorton"
 
 #: ./Idno/Pages/Account/Password.php:63
 msgid "Oh no! We couldn't find an account associated with that email address."
-msgstr ""
+msgstr "Ho ne! Ni ne povis trovi konton asociitan kun tiu retpoŝta adreso."
 
 #: ./Idno/Pages/Account/Password/Reset.php:27
 msgid "Reset password"
-msgstr ""
+msgstr "Restarigi pasvorton"
 
 #: ./Idno/Pages/Account/Password/Reset.php:35
 msgid "The password reset code wasn't valid. They expire after three hours, so you might need to try again."
-msgstr ""
+msgstr "La pasvorta reset-kodo ne validas. Ili eksvalidiĝas post tri horoj, do vi eble bezonos provi denove."
 
 #: ./Idno/Pages/Account/Password/Reset.php:58
 msgid "Your password was reset!"
@@ -246,7 +246,7 @@ msgstr "Via pasvorto estis restarigita!"
 
 #: ./Idno/Pages/Account/Password/Reset.php:64
 msgid "Sorry, your passwords either don't match, or are too weak"
-msgstr ""
+msgstr "Bedaŭrinde, viaj pasvortoj ĉu ne kongruas, aŭ estas tro malfortaj"
 
 #: ./Idno/Pages/Account/Register.php:27
 msgid "This site is closed to new users."
