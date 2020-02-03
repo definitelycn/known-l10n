@@ -84,6 +84,14 @@ msgstr "Socia retejo funkciigita de Known"
 msgid "Something went wrong and we couldn't create the email message to send."
 msgstr "Iu iris malbone kaj ni ne povis krei la retpoŝton por sendi."
 
+#: ./Idno/Core/JWT.php:82
+msgid "Identity token expired"
+msgstr "Identeca tokeno eksvalidiĝis"
+
+#: ./Idno/Core/JWT.php:86
+msgid "Identity token is not valid"
+msgstr "Identeca tokeno ne validas"
+
 #: ./Idno/Core/Service.php:24
 msgid "Missing X-Known-Service-Signature, service call is not possible."
 msgstr "Mankas X-Known-Service-Signature, servo-alvoko ne eblas."
@@ -262,7 +270,7 @@ msgstr "Krei novan konton"
 
 #: ./Idno/Pages/Account/Register.php:80
 msgid "Please enter a username and email address."
-msgstr ""
+msgstr "Bonvolu tajpi salutnomon kaj retpoŝtadreson."
 
 #: ./Idno/Pages/Account/Register.php:134
 msgid "Please create a username."
@@ -270,15 +278,15 @@ msgstr "Bonvolu krei salutnomon."
 
 #: ./Idno/Pages/Account/Register.php:137
 msgid "Your username is too long."
-msgstr ""
+msgstr "Via uzantnomo estas tro longa."
 
 #: ./Idno/Pages/Account/Register.php:140
 msgid "Usernames can only have letters, numbers and underscores."
-msgstr ""
+msgstr "Uznomoj nur povas havi literojn, nombrojn kaj sub partituroj."
 
 #: ./Idno/Pages/Account/Register.php:143
 msgid "Usernames can't contain a slash %s character."
-msgstr ""
+msgstr "Uznomoj ne povas enhavi oblikvan %s karakteron."
 
 #: ./Idno/Pages/Account/Register.php:146
 msgid "Unfortunately, someone is already using that username. Please choose another."
@@ -310,7 +318,7 @@ msgstr "Ni ne povis registri vin"
 
 #: ./Idno/Pages/Account/Settings/FeedbackConfirm.php:17
 msgid "Thank you for your feedback!"
-msgstr ""
+msgstr "Dankon pro via reago!"
 
 #: ./Idno/Pages/Account/Settings/Feedback.php:19
 msgid "Send feedback"
@@ -318,7 +326,8 @@ msgstr "Sendu retrosciigon"
 
 #: ./Idno/Pages/Account/Settings/Feedback.php:42
 msgid "Thanks! We received your feedback."
-msgstr ""
+msgstr "Dankon! Ni ricevis viajn komentojn."
+# ... comments
 
 #: ./Idno/Pages/Account/Settings/Following/Bookmarklet.php:37
 msgid "Sorry, could not find any users on that page, perhaps they need to mark up their profile in <a href=\"http://microformats.org/wiki/microformats-2\">Microformats</a>?"
