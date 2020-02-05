@@ -1179,11 +1179,11 @@ msgstr "Retpoŝtaj agordoj"
 
 #: ./templates/default/admin/email.tpl.php:9
 msgid "Known tries to send email using your server's default email settings. If you'd like it to do something else - for example, if you'd like to send email using an external provider - enter the new SMTP settings below. You can also <a href=\"%s\">change your notification settings</a>."
-msgstr ""
+msgstr "Known provas sendi retpoŝton per la defaŭlta retpoŝta agordo de via servilo. Se vi ŝatus fari ion alian - ekzemple, se vi ŝatus sendi retpoŝton per ekstera provizanto - enigu la novajn SMTP-agordojn sube. Vi ankaŭ povas <a href=\"%s\">ŝanĝi viajn sciigajn agordojn</a>."
 
 #: ./templates/default/admin/email.tpl.php:20
 msgid "Fill in the site email address if you would like your site to send email."
-msgstr ""
+msgstr "Plenigu la retpoŝtadreson se vi ŝatus ke via retejo sendu retpoŝton."
 
 #: ./templates/default/admin/email.tpl.php:26
 msgid "Site email address"
@@ -1191,11 +1191,11 @@ msgstr "Retejo Retpoŝta adreso"
 
 #: ./templates/default/admin/email.tpl.php:33
 msgid "This is the address that every notification will be sent from."
-msgstr ""
+msgstr "Jen la adreso, de kiu ĉiu sciigo estos sendita."
 
 #: ./templates/default/admin/email.tpl.php:40
 msgid "You can often leave the following settings blank. However, you may wish to set them if you're using a third-party service to send email."
-msgstr ""
+msgstr "Vi ofte povas lasi la sekvajn agordojn malplenaj. Tamen vi eble deziros agordi ilin se vi uzas triapartan servon por sendi retpoŝton."
 
 #: ./templates/default/admin/email.tpl.php:48
 msgid "SMTP host"
@@ -1203,7 +1203,7 @@ msgstr "SMTP-gastiganto"
 
 #: ./templates/default/admin/email.tpl.php:55
 msgid "This is the address of the server that will send email for you."
-msgstr ""
+msgstr "Jen la adreso de la servilo, kiu sendos retpoŝton por vi."
 
 #: ./templates/default/admin/email.tpl.php:62
 msgid "SMTP username"
@@ -1211,7 +1211,7 @@ msgstr "SMTP uzantnomo"
 
 #: ./templates/default/admin/email.tpl.php:69
 msgid "If your mail server needs a username, enter it here."
-msgstr ""
+msgstr "Se via poŝta servilo bezonas uzantnomon, tajpu ĝin ĉi tie."
 
 #: ./templates/default/admin/email.tpl.php:76
 msgid "SMTP password"
@@ -1219,7 +1219,7 @@ msgstr "SMTP pasvorto"
 
 #: ./templates/default/admin/email.tpl.php:84
 msgid "If your mail server needs a password, enter it here."
-msgstr ""
+msgstr "Se via poŝta servilo bezonas passvorto, tajpu ĝin ĉi tie."
 
 #: ./templates/default/admin/email.tpl.php:91
 msgid "SMTP port"
@@ -1227,7 +1227,7 @@ msgstr "SMTP-haveno"
 
 #: ./templates/default/admin/email.tpl.php:107
 msgid "This is normally 25 or 587."
-msgstr ""
+msgstr "Ĉi tio kutime estas 25 aŭ 587."
 
 #: ./templates/default/admin/email.tpl.php:114
 msgid "Secure connection"
@@ -1235,23 +1235,23 @@ msgstr "Sekura konekto"
 
 #: ./templates/default/admin/email.tpl.php:135
 msgid "Select yes if you use secure logins to your mail server."
-msgstr ""
+msgstr "Elektu jes, se vi uzas sekurajn ensalutojn al via poŝta servilo."
 
 #: ./templates/default/admin/email.tpl.php:157
 msgid "Send a test message to"
-msgstr ""
+msgstr "Sendu testan mesaĝon al"
 
 #: ./templates/default/admin/email.tpl.php:160
 msgid "To address"
-msgstr ""
+msgstr "Al adreso"
 
 #: ./templates/default/admin/email.tpl.php:164
 msgid "Check your email settings by sending a test email."
-msgstr ""
+msgstr "Kontrolu viajn retpoŝtajn agordojn sendante testan retpoŝton."
 
 #: ./templates/default/admin/email.tpl.php:170
 msgid "Test settings"
-msgstr ""
+msgstr "Testaj agordoj"
 
 #: ./templates/default/admin/export/download.tpl.php:2
 msgid "Download your data"
