@@ -950,7 +950,7 @@ msgstr "Kaŝnomo"
 
 #: ./templates/default/account/settings/following/mf2user.tpl.php:67
 msgid "Handle (for your reference)"
-msgstr "Mane (por via referenco)"
+msgstr "Tenilo (por via referenco)"
 
 #: ./templates/default/account/settings/following/mf2user.tpl.php:82
 msgid "Profile URL"
