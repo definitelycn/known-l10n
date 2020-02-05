@@ -1039,7 +1039,7 @@ msgstr ""
 
 #: ./templates/default/account/settings/tools.tpl.php:48
 msgid "Select <em>View</em>, then <em>Toolbars</em>, and make sure"
-msgstr ""
+msgstr "Elektu <em>Rigardi</em>, tiam <em>Ilobretoj</em>, kaj certigu"
 
 #: ./templates/default/account/settings/tools.tpl.php:49
 msgid "Bookmarks Toolbar"
@@ -1098,7 +1098,7 @@ msgstr "Lasu ĉi tiun malplenon se vi ne volas ŝanĝi ĝin."
 
 #: ./templates/default/account/settings.tpl.php:64
 msgid "Your timezone"
-msgstr ""
+msgstr "Via horzono"
 
 #: ./templates/default/account/settings.tpl.php:73
 msgid "Timezone"
@@ -1153,11 +1153,11 @@ msgstr "Versio %s aŭ pli"
 
 #: ./templates/default/admin/dependencies.tpl.php:27
 msgid "PHP extensions required"
-msgstr ""
+msgstr "PHP-etendoj bezonataj"
 
 #: ./templates/default/admin/dependencies.tpl.php:28
 msgid "These extend the way PHP works, and are required for functionality like database storage, webmentions, etc. Click an extension name to learn more about it, including installation instructions."
-msgstr ""
+msgstr "Ĉi tiuj etendas la manieron kiel PHP, kaj estas bezonataj por funkciado kiel stokado de datumbazoj, retsendoj, ktp. Alklaku etendon por lerni pli pri ĝi, inkluzive instrukciojn pri instalado."
 
 #: ./templates/default/admin/diagnostics.tpl.php:9
 msgid "This page provides you with information that may help you or others diagnose any problems you may be experiencing with your Known install."
