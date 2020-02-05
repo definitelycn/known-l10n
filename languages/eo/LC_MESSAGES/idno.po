@@ -376,7 +376,7 @@ msgstr "Ne UUID, bonvolu provi tion denove!"
 
 #: ./Idno/Pages/Account/Settings/Following.php:20
 msgid "Following settings"
-msgstr ""
+msgstr "Sekvaj agordoj"
 
 #: ./Idno/Pages/Account/Settings/Notifications.php:20
 msgid "Notification settings"
@@ -384,7 +384,7 @@ msgstr "Agordoj pri sciigoj"
 
 #: ./Idno/Pages/Account/Settings/Notifications.php:39
 msgid "Your notification preferences were saved."
-msgstr ""
+msgstr "Viaj sciigaj preferoj estis konservitaj."
 
 #: ./Idno/Pages/Account/Settings.php:20
 msgid "Account settings"
@@ -417,7 +417,7 @@ msgstr "Pri Known"
 
 #: ./Idno/Pages/Admin/Dependencies.php:20
 msgid "Dependencies"
-msgstr ""
+msgstr "Dependecoj"
 
 #: ./Idno/Pages/Admin/Diagnostics.php:36
 msgid "Basic checks on installation discovered no problems."
