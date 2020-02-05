@@ -461,11 +461,11 @@ msgstr "Testu retpoŝton de %s!"
 
 #: ./Idno/Pages/Admin/EmailTest.php:26
 msgid "Test email sent to %s"
-msgstr ""
+msgstr "Provo-retpoŝto sendita al %s"
 
 #: ./Idno/Pages/Admin/EmailTest.php:28
 msgid "There was a problem sending a test message to %s."
-msgstr ""
+msgstr "Okazis problemo sendante testan mesaĝon al %s."
 
 #: ./Idno/Pages/Admin/Export.php:17
 msgid "Export data"
@@ -477,7 +477,7 @@ msgstr "Hejmpaĝo"
 
 #: ./Idno/Pages/Admin/Homepage.php:42
 msgid "The default homepage content types were saved."
-msgstr ""
+msgstr "La defaŭltaj hejmpaĝaj enhavtipoj estis konservitaj."
 
 #: ./Idno/Pages/Admin/Home.php:21
 msgid "Administration"
