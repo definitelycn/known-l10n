@@ -655,11 +655,11 @@ msgstr "Kreu vian profilon"
 
 #: ./Idno/Pages/Search/User.php:23
 msgid "Invalid sort type %s"
-msgstr ""
+msgstr "Nevalida varo tipo %s"
 
 #: ./Idno/Pages/Search/User.php:27
 msgid "Invalid sort order %s"
-msgstr ""
+msgstr "Nevalida varo ordo %s"
 
 #: ./Idno/Pages/Service/Security/CSRFToken.php:16
 msgid "URL missing"
@@ -691,7 +691,7 @@ msgstr "Url %s ne povis esti malŝlosita"
 
 #: ./Idno/Pages/Session/CurrentUser.php:36
 msgid "The %s profile for %s"
-msgstr ""
+msgstr "La profilo de %s por %s"
 
 #: ./Idno/Pages/Session/Login.php:42
 msgid "Sign in"
@@ -717,11 +717,11 @@ msgstr "Redakti profilon: %s"
 
 #: ./Idno/Pages/Webmentions/Endpoint.php:19
 msgid "Webmention endpoint"
-msgstr ""
+msgstr "Finpunkto de Webmention"
 
 #: ./Idno/Stats/Timer.php:39
 msgid "Timer %s has not been started."
-msgstr ""
+msgstr "La temporizilo %s ne komenciĝis."
 
 #: ./templates/default/account/export.tpl.php:8
 msgid "Export your data"
