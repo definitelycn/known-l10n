@@ -1267,7 +1267,7 @@ msgstr "Vi ankaŭ povas regeneri novan kopion de via datuma ar archiveivo."
 
 #: ./templates/default/admin/export/download.tpl.php:11
 msgid "Re-archive your data"
-msgstr ""
+msgstr "Re-arkivi viajn datumojn"
 
 #: ./templates/default/admin/export/generate.tpl.php:5
 msgid "Create archive"
@@ -1285,19 +1285,19 @@ msgstr "Eksporti enhavon"
 
 #: ./templates/default/admin/export.tpl.php:17
 msgid "Export your published Known content as an RSS file. You can import this file into Known or WordPress."
-msgstr ""
+msgstr "Eksportu vian eldonitan Known-enhavon kiel RSS-dosiero. Vi povas importi ĉi tiun dosieron en Known aŭ WordPress."
 
 #: ./templates/default/admin/export.tpl.php:20
 msgid "Generate RSS file"
-msgstr ""
+msgstr "Generu RSS-dosieron"
 
 #: ./templates/default/admin/export.tpl.php:35
 msgid "Some platforms may assume that your content should be displayed publicly. To protect your privacy, you may wish to only download your public content."
-msgstr ""
+msgstr "Iuj platformoj povas supozi, ke via enhavo devas esti publike montrita. Por protekti vian privatecon, vi eble nur elŝutos vian publikan enhavon."
 
 #: ./templates/default/admin/export.tpl.php:39
 msgid "Download file"
-msgstr ""
+msgstr "Elŝuti dosieron"
 
 #: ./templates/default/admin/export/wait.tpl.php:4
 msgid "An archive of your data is being created. Please check again in a few minutes."
@@ -1466,17 +1466,17 @@ msgstr "Ĉiam aldonu ligon reen al via retejo kiam vi aliĝas al eksteraj retoj.
 
 #: ./templates/default/admin/import.tpl.php:9
 msgid "Import content"
-msgstr ""
+msgstr "Importi enhavon"
 
 #: ./templates/default/admin/import.tpl.php:12
 msgid "Import your content from other sites into Known. All imported content will be treated as a post, with a title and body content."
 msgstr ""
-"Importu vian enhavon de aliaj retejoj al Konataj. Ĉiu importita enhavo estos traktata ĉe afiŝo, kun titolo "
+"Importu vian enhavon de aliaj retejoj al Known. Ĉiu importita enhavo estos traktata ĉe afiŝo, kun titolo "
 "kaj korpa enhavo."
 
 #: ./templates/default/admin/import.tpl.php:27
 msgid "Upload a Known RSS export file and turn it into Known posts."
-msgstr ""
+msgstr "Alŝutu RSS-eksportodosieron de Known kaj transformu ĝin en Known-afiŝojn."
 
 #: ./templates/default/admin/import.tpl.php:28
 msgid "How do I get my Known RSS file?"
