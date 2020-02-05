@@ -729,7 +729,7 @@ msgstr "Eksportu viajn datumojn"
 
 #: ./templates/default/account/export.tpl.php:19
 msgid "You can download an RSS version of everything you've posted on this site. This file is suitable for importing into content management systems like WordPress, or another Known site."
-msgstr ""
+msgstr "Vi povas elŝuti RSS-version de ĉio, kion vi afiŝis en ĉi tiu retejo. Ĉi tiu dosiero taŭgas por importado al sistemoj de enhavo kiel WordPress, aŭ alia retejo de Known."
 
 #: ./templates/default/account/export.tpl.php:24
 #: ./templates/default/admin/export.tpl.php:25
@@ -769,7 +769,7 @@ msgstr "Pasvorto"
 
 #: ./templates/default/account/login.tpl.php:36
 msgid "New here? Register for an account."
-msgstr ""
+msgstr "Nova ĉi tie? Registru por konto."
 
 #: ./templates/default/account/login.tpl.php:40
 msgid "Forgot your password?"
@@ -793,11 +793,11 @@ msgstr "Vi ankoraŭ ne havas sciigojn. Sed ni amas vin ĉiuokaze!"
 
 #: ./templates/default/account/password/reset.tpl.php:5
 msgid "Reset your password"
-msgstr ""
+msgstr "Restarigu vian pasvorton"
 
 #: ./templates/default/account/password/reset.tpl.php:7
 msgid "To change your password, enter your new password below:"
-msgstr ""
+msgstr "Por ŝanĝi vian pasvorton, enigu vian novan pasvorton sube:"
 
 #: ./templates/default/account/password/reset.tpl.php:16
 msgid "Your email address"
@@ -805,7 +805,7 @@ msgstr "Via retpoŝta adreso"
 
 #: ./templates/default/account/password/reset.tpl.php:17
 msgid "The address associated with your %s account."
-msgstr ""
+msgstr "La adreso asociita kun via %s konto."
 
 #: ./templates/default/account/password/reset.tpl.php:23
 msgid "New password (7 characters or more)"
@@ -813,11 +813,11 @@ msgstr "Nova pasvorto (7 signoj aŭ pli)"
 
 #: ./templates/default/account/password/reset.tpl.php:29
 msgid "Retype password"
-msgstr ""
+msgstr "Retajpu pasvorton"
 
 #: ./templates/default/account/password/reset.tpl.php:30
 msgid "We ask you to enter the password twice to protect against typos."
-msgstr ""
+msgstr "Ni petas vin tajpi la pasvorton dufoje por protekti kontraŭ tajpoj."
 
 #: ./templates/default/account/password/sent.tpl.php:5
 msgid "Your password reset email has been sent"
