@@ -938,35 +938,36 @@ msgstr "Lasu nin scii, kion vi pensas."
 
 #: ./templates/default/account/settings/following/bookmarklet.tpl.php:3
 msgid "Add as friend..."
-msgstr ""
+msgstr "Aldoni kiel amiko ..."
 
 #: ./templates/default/account/settings/following/mf2user.tpl.php:55
 msgid "Name"
-msgstr ""
+msgstr "Nomo"
 
 #: ./templates/default/account/settings/following/mf2user.tpl.php:64
 msgid "Nickname"
-msgstr ""
+msgstr "Kaŝnomo"
 
 #: ./templates/default/account/settings/following/mf2user.tpl.php:67
 msgid "Handle (for your reference)"
-msgstr ""
+msgstr "Mane (por via referenco)"
 
 #: ./templates/default/account/settings/following/mf2user.tpl.php:82
 msgid "Profile URL"
-msgstr ""
+msgstr "Profila URL"
 
 #: ./templates/default/account/settings/following.tpl.php:5
 msgid "Following..."
-msgstr ""
+msgstr "Sekvaj ..."
+# Sekvante
 
 #: ./templates/default/account/settings/following.tpl.php:11
 msgid "Manage your subscriptions here. These users can also be given access to private content you produce on your site."
-msgstr ""
+msgstr "Administri viajn abonojn ĉi tie. Ĉi tiuj uzantoj ankaŭ povas ricevi aliron al privata enhavo, kiun vi produktas en via retejo."
 
 #: ./templates/default/account/settings/following.tpl.php:16
 msgid "Use this bookmarklet to make is easy to add new friends."
-msgstr ""
+msgstr "Uzu ĉi tiun legosignon por faciligi aldoni novajn amikojn."
 
 #: ./templates/default/account/settings/notifications.tpl.php:17
 msgid "Set how you'd like to be notified when someone stars or comments on your content."
