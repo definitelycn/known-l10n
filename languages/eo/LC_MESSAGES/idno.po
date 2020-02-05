@@ -861,7 +861,7 @@ msgstr "Via nomo"
 
 #: ./templates/default/account/register.tpl.php:20
 msgid "Choose a handle"
-msgstr ""
+msgstr "Elektu tenilon"
 
 #: ./templates/default/account/register.tpl.php:21
 msgid ""
