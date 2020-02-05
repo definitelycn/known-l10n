@@ -545,11 +545,11 @@ msgstr "%s estis forigita de iliaj administraj rajtoj."
 
 #: ./Idno/Pages/Admin/Users.php:65
 msgid "%s was removed from your site."
-msgstr ""
+msgstr "%s estis forigita de via retejo."
 
 #: ./Idno/Pages/Admin/Users.php:91
 msgid "%d invitations were sent."
-msgstr ""
+msgstr "%d invitoj estis senditaj."
 
 #: ./Idno/Pages/Admin/Users.php:93
 msgid "Your invitation was sent."
@@ -557,11 +557,11 @@ msgstr "Via invito estis sendita."
 
 #: ./Idno/Pages/Admin/Users.php:95
 msgid "Something went wrong and we couldn't send emails to your recipients."
-msgstr ""
+msgstr "Io iris malbone kaj ni ne povis sendi retpoŝtojn al viaj adresatoj."
 
 #: ./Idno/Pages/Admin/Users.php:97
 msgid "No email addresses were found or all the people you invited are already members of this site."
-msgstr ""
+msgstr "Neniuj retpoŝtadresoj estis trovitaj aŭ ĉiuj homoj, kiujn vi invitis, estas jam membroj de ĉi tiu retejo."
 
 #: ./Idno/Pages/Admin/Users.php:105
 msgid "The invitation was removed."
@@ -573,7 +573,7 @@ msgstr "La invito resendis."
 
 #: ./Idno/Pages/Admin/Users.php:128
 msgid "You can't add any more users to your site."
-msgstr ""
+msgstr "Vi ne povas aldoni pliajn uzantojn al via retejo."
 
 #: ./Idno/Pages/Admin/Users.php:141
 msgid "Please make sure your passwords match and aren't empty."
@@ -581,23 +581,24 @@ msgstr "Bonvolu certigi, ke viaj pasvortoj kongruas kaj ne estas malplenaj."
 
 #: ./Idno/Pages/Admin/Users.php:182
 msgid "User %s was created. You may wish to email them to let them know."
-msgstr ""
+msgstr "Uzanto %s estis kreita. Vi eble deziros retpoŝti ilin por sciigi ilin."
 
 #: ./Idno/Pages/Admin/Users.php:205
 msgid "%d emails were blocked."
-msgstr ""
+msgstr "%d retpoŝtadresoj estis blokitaj."
 
 #: ./Idno/Pages/Admin/Users.php:207
 msgid "The email address was blocked."
-msgstr ""
+msgstr "La retpoŝta adreso estis blokita."
 
 #: ./Idno/Pages/Admin/Users.php:209
 msgid "No email addresses were found."
-msgstr ""
+msgstr "Neniuj retpoŝtaj adresoj estis trovitaj."
 
 #: ./Idno/Pages/Admin/Users.php:230
 msgid "%d emails were unblocked."
-msgstr ""
+msgstr "%d retpoŝtadreso malŝlosis."
+# unlocked
 
 #: ./Idno/Pages/Admin/Users.php:232
 msgid "The email address was unblocked."
