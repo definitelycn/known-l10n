@@ -1848,23 +1848,24 @@ msgstr "Al %s li ŝatis ĉi tiun afiŝon"
 
 #: ./templates/default/entity/annotations/mentions.tpl.php:18
 msgid "Mentioned in"
-msgstr ""
+msgstr "Menciita en"
 
 #: ./templates/default/entity/annotations/rsvps.tpl.php:38
 msgid "Attending"
-msgstr ""
+msgstr "Ĉeesti"
 
 #: ./templates/default/entity/annotations/rsvps.tpl.php:41
 msgid "Maybe attending"
-msgstr ""
+msgstr "Eble ĉeesti"
 
 #: ./templates/default/entity/annotations/rsvps.tpl.php:44
 msgid "Not attending"
-msgstr ""
+msgstr "Ne ĉeestante"
+# Ne asistado
 
 #: ./templates/default/entity/annotations/rsvps.tpl.php:47
 msgid "Other responses"
-msgstr ""
+msgstr "Aliaj respondoj"
 
 #: ./templates/default/entity/annotations/shares.tpl.php:21
 msgid "reshared this post"
