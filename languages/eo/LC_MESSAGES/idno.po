@@ -630,7 +630,8 @@ msgstr "Vi nur povas alŝuti bildojn."
 
 #: ./Idno/Pages/Following/Add.php:23
 msgid "We couldn't find a feed at that site."
-msgstr ""
+msgstr "Ni ne povis trovi nutraĵon en tiu retejo."
+# We couldn't find any feed on that site.
 
 #: ./Idno/Pages/Following/Confirm.php:50
 msgid "You're following %s!"
@@ -638,7 +639,7 @@ msgstr "Vi sekvas %s!"
 
 #: ./Idno/Pages/Following/Home.php:17
 msgid "Following"
-msgstr ""
+msgstr "Sekvas"
 
 #: ./Idno/Pages/Onboarding/Begin.php:23
 msgid "Welcome to Known"
