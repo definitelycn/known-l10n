@@ -898,43 +898,43 @@ msgstr "Krei konton"
 
 #: ./templates/default/account/settings/feedback/confirm.tpl.php:5
 msgid "Message received!"
-msgstr ""
+msgstr "Mesaĝo ricevita!"
 
 #: ./templates/default/account/settings/feedback/confirm.tpl.php:9
 msgid "Thanks for sending along your thoughts. We'll read them right away."
-msgstr ""
+msgstr "Dankon pro sendado de viaj pensoj. Ni legos ilin tuj."
 
 #: ./templates/default/account/settings/feedback/confirm.tpl.php:22
 msgid "Feedback is a gift. For more information about Known, <a href=\"https://withknown.com/\">please visit our homepage</a>"
-msgstr ""
+msgstr "Retrosciigo estas donaco. Por pliaj informoj pri Known, <a href=\"https://withknown.com/\">bonvolu viziti nian hejmpaĝon</a>"
 
 #: ./templates/default/account/settings/feedback.tpl.php:5
 msgid "Share your feedback"
-msgstr ""
+msgstr "Kunhavigu viajn komentojn"
 
 #: ./templates/default/account/settings/feedback.tpl.php:9
 msgid "Want to share something with the Known team? We'd love to read your thoughts, suggestions, or ideas. We will personally read all of your feedback."
-msgstr ""
+msgstr "Ĉu vi volas dividi ion kun la Known-teamo? Ni amus legi viajn pensojn, sugestojn, aŭ ideojn. Ni persone legos ĉiujn viajn komentojn."
 
 #: ./templates/default/account/settings/feedback.tpl.php:21
 msgid "From"
-msgstr ""
+msgstr "De"
 
 #: ./templates/default/account/settings/feedback.tpl.php:26
 msgid "To"
-msgstr ""
+msgstr "Al"
 
 #: ./templates/default/account/settings/feedback.tpl.php:29
 msgid "Subject"
-msgstr ""
+msgstr "Subjekto"
 
 #: ./templates/default/account/settings/feedback.tpl.php:29
 msgid "Feedback for the Known team"
-msgstr ""
+msgstr "Retrosciigo pri la Known-teamo"
 
 #: ./templates/default/account/settings/feedback.tpl.php:32
 msgid "Let us know what you think."
-msgstr ""
+msgstr "Lasu nin scii, kion vi pensas."
 
 #: ./templates/default/account/settings/following/bookmarklet.tpl.php:3
 msgid "Add as friend..."
