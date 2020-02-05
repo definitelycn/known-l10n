@@ -1936,7 +1936,7 @@ msgstr "Elektu bildon"
 
 #: ./templates/default/file/picker/image.tpl.php:29
 msgid "Upload this image"
-msgstr ""
+msgstr "Alŝutu ĉi tiun bildon"
 
 #: ./templates/default/file/picker/image.tpl.php:49
 msgid "Choose a different image"
@@ -1944,23 +1944,23 @@ msgstr "Elektu malsaman foton"
 
 #: ./templates/default/following/add.tpl.php:3
 msgid "Add the address of a site to follow"
-msgstr ""
+msgstr "Aldonu la adreson de retejo por sekvi"
 
 #: ./templates/default/following/confirm.tpl.php:7
 msgid "Follow"
-msgstr ""
+msgstr "Sekvu"
 
 #: ./templates/default/following/confirm.tpl.php:12
 msgid "Here's the latest content."
-msgstr ""
+msgstr "Jen la plej nova enhavo."
 
 #: ./templates/default/following/home.tpl.php:13
 msgid "Follow another site"
-msgstr ""
+msgstr "Sekvu alian retejon"
 
 #: ./templates/default/following/home.tpl.php:31
 msgid "You're not following anyone yet."
-msgstr ""
+msgstr "Vi ankoraŭ ne sekvas iun."
 
 #: ./templates/default/forms/components/usersearch/user.tpl.php:27
 msgid "Joined"
