@@ -489,7 +489,7 @@ msgstr "Importi datumojn"
 
 #: ./Idno/Pages/Admin/Import.php:33
 msgid "You need to upload an import file to continue."
-msgstr ""
+msgstr "Vi devas alŝuti importan dosieron por daŭrigi."
 
 #: ./Idno/Pages/Admin/Import.php:35
 msgid "We couldn't open the file you uploaded. Please try again."
@@ -497,7 +497,7 @@ msgstr "Ni ne povis malfermi la dosieron, kiun vi alŝutis. Bonvolu reprovi."
 
 #: ./Idno/Pages/Admin/Import.php:37
 msgid "Your import has started. We'll email you when it's done."
-msgstr ""
+msgstr "Via importado komenciĝis. Ni sendos al vi retpoŝton kiam ĝi finiĝos."
 
 #: ./Idno/Pages/Admin/Logs.php:19
 msgid "Log capture"
@@ -517,11 +517,11 @@ msgstr "La kromaĵo estis malebligita."
 
 #: ./Idno/Pages/Admin/Statistics.php:16
 msgid "Something went wrong, either no statistics were returned or it wasn't in the correct format."
-msgstr ""
+msgstr "Io iris malbone, ĉu neniu statistiko estis redonita aŭ ĝi ne estis en la ĝusta formato."
 
 #: ./Idno/Pages/Admin/Statistics.php:27
 msgid "Statistics"
-msgstr ""
+msgstr "Statistikoj"
 
 #: ./Idno/Pages/Admin/Themes.php:22
 msgid "Themes"
