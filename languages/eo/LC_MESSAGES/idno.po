@@ -331,47 +331,48 @@ msgstr "Dankon! Ni ricevis viajn komentojn."
 
 #: ./Idno/Pages/Account/Settings/Following/Bookmarklet.php:37
 msgid "Sorry, could not find any users on that page, perhaps they need to mark up their profile in <a href=\"http://microformats.org/wiki/microformats-2\">Microformats</a>?"
-msgstr ""
+msgstr "Pardonu, ke ne trovis iujn uzantojn sur tiu paĝo, eble ili bezonas reskribi sian profilon en <a href=\"http://microformats.org/wiki/microformats-2\">Mikroformatoj markado</a>?"
 
 #: ./Idno/Pages/Account/Settings/Following/Bookmarklet.php:51
 msgid "Page did not contain any <a href=\"http://microformats.org/wiki/microformats-2\">Microformats</a> markup... doing my best with what I have!"
-msgstr ""
+msgstr "Paĝo ne enhavis <a href=\"http://microformats.org/wiki/microformats-2\"> Mikroformatoj </a> markado ... farante mian plej bonan kun tio, kion mi havas!"
 
 #: ./Idno/Pages/Account/Settings/Following/Bookmarklet.php:60
 msgid "Found users"
-msgstr ""
+msgstr "Uzantoj trovitaj"
 
 #: ./Idno/Pages/Account/Settings/Following/Bookmarklet.php:64
 msgid "Sorry, there was a problem parsing the page!"
-msgstr ""
+msgstr "Pardonu, ke estis problemo analizante la paĝon!"
 
 #: ./Idno/Pages/Account/Settings/Following/Bookmarklet.php:66
 msgid "Sorry, %s could not be retrieved!"
-msgstr ""
+msgstr "Pardonu, %s ne reakireblis!"
 
 #: ./Idno/Pages/Account/Settings/Following/Bookmarklet.php:149
 msgid "There was a problem saving the new remote user."
-msgstr ""
+msgstr "Okazis problemo pri savo de la nova fora uzanto."
 
 #: ./Idno/Pages/Account/Settings/Following/Bookmarklet.php:170
 msgid "You are now following %s, would you like to subscribe to their feed?"
-msgstr ""
+msgstr "Vi nun sekvas %s, ĉu vi ŝatus aboni ilian paŝadon?"
+# ... treadmill
 
 #: ./Idno/Pages/Account/Settings/Following/Bookmarklet.php:175
 msgid "You are now following %s"
-msgstr ""
+msgstr "Vi nun sekvas %s"
 
 #: ./Idno/Pages/Account/Settings/Following/Bookmarklet.php:180
 msgid "You're already following %s"
-msgstr ""
+msgstr "Vi jam sekvas %s"
 
 #: ./Idno/Pages/Account/Settings/Following/Bookmarklet.php:183
 msgid "Sorry, that user doesn't exist!"
-msgstr ""
+msgstr "Bedaŭrinde, tiu uzanto ne ekzistas!"
 
 #: ./Idno/Pages/Account/Settings/Following/Bookmarklet.php:185
 msgid "No UUID, please try that again!"
-msgstr ""
+msgstr "Ne UUID, bonvolu provi tion denove!"
 
 #: ./Idno/Pages/Account/Settings/Following.php:20
 msgid "Following settings"
@@ -2247,7 +2248,7 @@ msgstr ""
 
 #: ./templates/default/settings-shell/nav.tpl.php:6
 msgid "Toggle navigation"
-msgstr ""
+msgstr "Montri aŭ kaŝi navigadon"
 
 #: ./templates/default/settings-shell/toolbar/logged-in.tpl.php:18
 msgid "Site Configuration"
