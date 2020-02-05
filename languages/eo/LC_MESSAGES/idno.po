@@ -821,15 +821,15 @@ msgstr "Ni petas vin tajpi la pasvorton dufoje por protekti kontraŭ tajpoj."
 
 #: ./templates/default/account/password/sent.tpl.php:5
 msgid "Your password reset email has been sent"
-msgstr ""
+msgstr "Via pasvorta reset-retpoŝto estis sendita"
 
 #: ./templates/default/account/password/sent.tpl.php:15
 msgid "Check your inbox! You'll find an email containing a special link that will help you reset your password."
-msgstr ""
+msgstr "Kontrolu vian informkeston! Vi trovos retpoŝton enhavantan specialan ligon, kiu helpos vin restarigi vian pasvorton."
 
 #: ./templates/default/account/password/sent.tpl.php:18
 msgid "Did you remember your password? That's okay too. You can <a href=\"%s\">click here to sign in.</a>"
-msgstr ""
+msgstr "Ĉu vi memoris vian pasvorton? Ankaŭ tio estas en ordo. Vi povas <a href=\"%s\">alklaki ĉi tie por ensaluti.</a>"
 
 #: ./templates/default/account/password.tpl.php:9
 msgid "Forgot your password? Don't worry! It happens to the best of us."
