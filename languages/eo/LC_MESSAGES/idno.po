@@ -1588,11 +1588,11 @@ msgstr "Alklaku sur Eksporti Blogo"
 
 #: ./templates/default/admin/logs.tpl.php:9
 msgid "This page provides you with captured PHP logs. These contain sensitive information, so be very careful how you disclose the information and to whom."
-msgstr ""
+msgstr "Ĉi tiu paĝo provizas al vi kaptitajn PHP-ŝtipojn. Ĉi tiuj enhavas sentemajn informojn, do estu tre zorgema pri kiel vi diskonigas la informojn kaj al kiu."
 
 #: ./templates/default/admin/logs.tpl.php:19
 msgid "Refresh..."
-msgstr ""
+msgstr "Refreŝigu ..."
 
 #: ./templates/default/admin/users.tpl.php:4
 msgid "Users"
@@ -1608,7 +1608,7 @@ msgstr "Importi"
 
 #: ./templates/default/admin/menu.tpl.php:13
 msgid "Captured Logs"
-msgstr ""
+msgstr "Kaptitaj ŝtipoj"
 
 #: ./templates/default/admin/menu.tpl.php:15
 msgid "About"
@@ -1655,15 +1655,15 @@ msgstr ""
 
 #: ./templates/default/admin/statistics.tpl.php:9
 msgid "This page provides you with information and statistics about your Known site."
-msgstr ""
+msgstr "Ĉi tiu paĝo donas al vi informojn kaj statistikojn pri via Known-retejo."
 
 #: ./templates/default/admin/themes/theme.tpl.php:41
 msgid "(Selected)"
-msgstr ""
+msgstr "(Elektita)"
 
 #: ./templates/default/admin/themes/theme.tpl.php:48
 msgid "by"
-msgstr ""
+msgstr "de"
 
 #: ./templates/default/admin/themes.tpl.php:7
 msgid "Themes allow you to change the way your site looks. The following themes are installed."
