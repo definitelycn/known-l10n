@@ -833,11 +833,11 @@ msgstr "Ĉu vi memoris vian pasvorton? Ankaŭ tio estas en ordo. Vi povas <a hre
 
 #: ./templates/default/account/password.tpl.php:9
 msgid "Forgot your password? Don't worry! It happens to the best of us."
-msgstr ""
+msgstr "Ĉu vi forgesis vian pasvorton? Ne maltrankviliĝu! Ĝi okazas al la plej bona el ni."
 
 #: ./templates/default/account/password.tpl.php:10
 msgid "Just enter the email address associated with your %s account below, and we'll send you a top secret link to your email account so that you can create a new password."
-msgstr ""
+msgstr "Nur enigu la retpoŝtadreson asociitan kun via %s konto, kaj ni sendos al vi plej sekretan ligon al via retpoŝta konto, por ke vi kreu novan pasvorton."
 
 #: ./templates/default/account/password.tpl.php:20
 msgid "me@awesome.com"
@@ -845,7 +845,7 @@ msgstr ""
 
 #: ./templates/default/account/password.tpl.php:27
 msgid "Send password reset email"
-msgstr ""
+msgstr "Sendu pasvorton restarigi retpoŝton"
 
 #: ./templates/default/account/register.tpl.php:5
 msgid "Hello there!"
