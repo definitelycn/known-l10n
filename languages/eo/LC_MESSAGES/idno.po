@@ -1825,11 +1825,11 @@ msgstr "dividis"
 
 #: ./templates/default/content/unfurl.tpl.php:11
 msgid "Refresh preview"
-msgstr ""
+msgstr "Refreŝigi antaŭrigardon"
 
 #: ./templates/default/content/unfurl.tpl.php:12
 msgid "Remove preview"
-msgstr ""
+msgstr "Forigi antaŭrigardon"
 
 #: ./templates/default/entity/annotations/comment/main.tpl.php:16
 msgid "Add a comment ..."
