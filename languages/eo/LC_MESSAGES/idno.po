@@ -2064,15 +2064,15 @@ msgstr "Known estas via spaco por dividi enhavon kaj diskuti ideojn."
 
 #: ./templates/default/onboarding/begin.tpl.php:13
 msgid "Take a picture"
-msgstr ""
+msgstr "Faru foton"
 
 #: ./templates/default/onboarding/begin.tpl.php:17
 msgid "Share a message"
-msgstr ""
+msgstr "Kunhavigi mesaĝon"
 
 #: ./templates/default/onboarding/begin.tpl.php:21
 msgid "Save your location"
-msgstr ""
+msgstr "Konservu vian lokon"
 
 #: ./templates/default/onboarding/begin.tpl.php:34
 msgid "Get started"
