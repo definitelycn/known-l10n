@@ -2179,11 +2179,11 @@ msgstr "Eble vi ŝatus reiri al la <a href=\"%s\">%s hejmpaĝo</a> anstataŭe."
 
 #: ./templates/default/pages/500.tpl.php:15
 msgid "<a href=\"#\" onclick=\"window.history.back();\">Click here to try again</a> or <a href=\"%s\">click here to go back to the homepage</a>."
-msgstr ""
+msgstr "<a href=\"#\" onclick=\"window.history.back() ;\">Alklaku ĉi tie por provi denove</a> aŭ <a href=\"%s\">alklaku ĉi tie por reiri al la ĉefpaĝo</a>."
 
 #: ./templates/default/pages/500.tpl.php:19
 msgid "Click here to see the technical details."
-msgstr ""
+msgstr "Alklaku ĉi tie por vidi la teknikajn detalojn."
 
 #: ./templates/default/pages/500.tpl.php:32
 msgid "Oh no! Something went wrong."
@@ -2191,7 +2191,7 @@ msgstr "Ho ne! Io iris malbone."
 
 #: ./templates/default/pages/home/nocontent.tpl.php:10
 msgid "We couldn't find anything that matches your search."
-msgstr ""
+msgstr "Ni ne povis trovi ion ajn kongruan kun via serĉado."
 
 #: ./templates/default/robot/post.tpl.php:19
 msgid "Power down robots. I can take it from here."
