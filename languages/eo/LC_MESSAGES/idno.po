@@ -2285,7 +2285,7 @@ msgstr "Profilo"
 
 #: ./templates/default/shell/toolbar/logged-in.tpl.php:49
 msgid "Leave feedback"
-msgstr ""
+msgstr "Lasu komentojn"
 
 #: ./templates/default/shell/toolbar/logged-in.tpl.php:49
 msgid "Feedback"
@@ -2297,7 +2297,7 @@ msgstr "Elsaluti"
 
 #: ./templates/default/shell/toolbar/main.tpl.php:1
 msgid "Skip to main content"
-msgstr ""
+msgstr "Saltu al ĉefa enhavo"
 
 #: ./templates/default/shell/toolbar/register.tpl.php:1
 msgid "Register"
