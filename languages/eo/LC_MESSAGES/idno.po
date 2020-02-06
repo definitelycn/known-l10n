@@ -2084,11 +2084,11 @@ msgstr "Ĉu vi jam havas konton? Ensaluti."
 
 #: ./templates/default/onboarding/connect.tpl.php:3
 msgid "Share to social"
-msgstr ""
+msgstr "Kunhavigi al socia"
 
 #: ./templates/default/onboarding/connect.tpl.php:6
 msgid "Connect your accounts to easily share content with people across the web."
-msgstr ""
+msgstr "Kunligu viajn kontojn por facile dividi enhavon kun homoj tra la reto."
 
 #: ./templates/default/onboarding/connect.tpl.php:14
 msgid "Continue"
@@ -2096,35 +2096,36 @@ msgstr "Daŭrigu"
 
 #: ./templates/default/onboarding/connect.tpl.php:19
 msgid "Don't worry, you can always connect these later."
-msgstr ""
+msgstr "Ne maltrankviliĝu, vi ĉiam povas konekti tiujn poste."
 
 #: ./templates/default/onboarding/profile.tpl.php:16
 msgid "Add a photo of yourself"
-msgstr ""
+msgstr "Aldonu foton de vi mem"
 
 #: ./templates/default/onboarding/profile.tpl.php:23
 msgid "Ben Franklin"
-msgstr ""
+msgstr "Marie Curie"
 
 #: ./templates/default/onboarding/profile.tpl.php:27
 msgid "Your short bio"
-msgstr ""
+msgstr "Via mallonga bio"
 
 #: ./templates/default/onboarding/profile.tpl.php:29
 msgid "I fly kites..."
-msgstr ""
+msgstr "Mi studas radioaktivecon ..."
+# I study radioactivity...
 
 #: ./templates/default/onboarding/profile.tpl.php:34
 msgid "Your other websites"
-msgstr ""
+msgstr "Viaj aliaj retejoj"
 
 #: ./templates/default/onboarding/profile.tpl.php:35
 msgid "(a blog, a portfolio, Twitter, Facebook, etc)"
-msgstr ""
+msgstr "(blogo, biletujo, Twitter, Facebook, ktp)"
 
 #: ./templates/default/onboarding/profile.tpl.php:40
 msgid "Add another website"
-msgstr ""
+msgstr "Aldonu alian retejon"
 
 #: ./templates/default/onboarding/register.tpl.php:13
 msgid "Choose a username"
