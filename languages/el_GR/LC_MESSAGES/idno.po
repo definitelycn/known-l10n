@@ -14,10 +14,18 @@ msgstr ""
 
 #: ./Idno/Caching/FilesystemCache.php:19
 msgid "No domain specified for cache"
-msgstr ""
+msgstr "Δεν έχει καθοριστεί τομέας για το cache"
 
 #: ./Idno/Common/Entity.php:692
 msgid "There was a problem syndicating."
+msgstr ""
+
+#: ./Idno/Common/Entity.php:2346
+msgid "%s replied to your post!"
+msgstr ""
+
+#: ./Idno/Common/Entity.php:2348
+msgid "%s replied!"
 msgstr ""
 
 #: ./Idno/Common/Page.php:397
@@ -74,6 +82,14 @@ msgstr ""
 
 #: ./Idno/Core/Email.php:16
 msgid "Something went wrong and we couldn't create the email message to send."
+msgstr ""
+
+#: ./Idno/Core/JWT.php:82
+msgid "Identity token expired"
+msgstr ""
+
+#: ./Idno/Core/JWT.php:86
+msgid "Identity token is not valid"
 msgstr ""
 
 #: ./Idno/Core/Service.php:24
@@ -633,6 +649,8 @@ msgid "We couldn't find the post to delete."
 msgstr ""
 
 #: ./Idno/Pages/Entity/Delete.php:52
+#: ./Idno/Pages/Entity/View.php:125
+#: ./Idno/Pages/User/View.php:103
 msgid "%s was deleted."
 msgstr ""
 
@@ -646,6 +664,10 @@ msgstr ""
 
 #: ./Idno/Pages/Following/Add.php:23
 msgid "We couldn't find a feed at that site."
+msgstr ""
+
+#: ./Idno/Pages/Following/Confirm.php:24
+msgid "Subscribe to %s"
 msgstr ""
 
 #: ./Idno/Pages/Following/Confirm.php:50
@@ -1787,6 +1809,11 @@ msgstr ""
 msgid "Send invite"
 msgstr ""
 
+#: ./templates/default/admin/users.tpl.php:95
+#: ./templates/default/following/add.tpl.php:5
+msgid "Add"
+msgstr ""
+
 #: ./templates/default/admin/users.tpl.php:111
 msgid "Invitations"
 msgstr ""
@@ -2461,6 +2488,64 @@ msgid ""
 "sending an email to %s"
 msgstr ""
 
+#: ./templates/email/account/password.tpl.php:6
+#: ./templates/email-text/account/password.tpl.php:14
+msgid "We heard you forgot your password. Don't worry. It happens to the best of us."
+msgstr ""
+
+#: ./templates/email/account/password.tpl.php:8
+#: ./templates/email-text/account/password.tpl.php:17
+msgid "You can reset your password by clicking the link below (or copy and paste it into your browser)."
+msgstr ""
+
+#: ./templates/email/content/notification/like.tpl.php:7
+msgid ""
+"Hi! We wanted to let you know that <strong>%s</strong> liked the post "
+"<strong>%s</strong>"
+msgstr ""
+
+#: ./templates/email/content/notification/like.tpl.php:11
+#: ./templates/email/content/notification/reply.tpl.php:22
+#: ./templates/email/content/notification/rsvp.tpl.php:20
+#: ./templates/email/content/notification/share.tpl.php:10
+msgid "View post"
+msgstr ""
+
+#: ./templates/email/content/notification/mention.tpl.php:13
+#: ./templates/email-text/content/notification/mention.tpl.php:6
+msgid "Hi! We wanted to let you know that %s mentioned you on %s"
+msgstr ""
+
+#: ./templates/email/content/notification/preheader/like.tpl.php:6
+msgid "%s liked %s."
+msgstr ""
+
+#: ./templates/email/content/notification/preheader/mention.tpl.php:6
+msgid "%s mentioned you on %s."
+msgstr ""
+
+#: ./templates/email/content/notification/preheader/reply.tpl.php:6
+msgid "%s replied to %s."
+msgstr ""
+
+#: ./templates/email/content/notification/preheader/rsvp.tpl.php:6
+msgid "%s RSVPed %s."
+msgstr ""
+
+#: ./templates/email/content/notification/preheader/share.tpl.php:6
+msgid "%s shared %s."
+msgstr ""
+
+#: ./templates/email/content/notification/reply.tpl.php:7
+#: ./templates/email-text/content/notification/reply.tpl.php:6
+msgid "Hi! We wanted to let you know that %s replied to the post %s."
+msgstr ""
+
+#: ./templates/email/content/notification/reply.tpl.php:10
+#: ./templates/email-text/content/notification/reply.tpl.php:10
+msgid "Here's what they said:"
+msgstr ""
+
 #: ./templates/email/shell.tpl.php:72
 msgid "Powered by"
 msgstr ""
@@ -2473,7 +2558,11 @@ msgstr ""
 msgid "Get started with *%s* by setting up your account"
 msgstr ""
 
-#: ./templates/email-text/content/notification/like.tpl.php:8
+#: ./templates/email-text/content/notification/like.tpl.php:6
+msgid "Hi! We wanted to let you know that *%s* liked the post *%s*"
+msgstr ""
+
+#: ./templates/email-text/content/notification/like.tpl.php:9
 msgid "View post:"
 msgstr ""
 
