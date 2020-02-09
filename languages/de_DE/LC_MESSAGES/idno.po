@@ -2083,7 +2083,7 @@ msgstr "Auswählen eines Bildes"
 
 #: ./templates/default/file/picker/image.tpl.php:29
 msgid "Upload this image"
-msgstr ""
+msgstr "Dieses Bild hochladen"
 
 #: ./templates/default/file/picker/image.tpl.php:49
 msgid "Choose a different image"
