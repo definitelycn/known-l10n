@@ -18,38 +18,40 @@ msgstr "No se ha especificado ningún dominio para la memoria caché"
 
 #: ./Idno/Common/Entity.php:692
 msgid "There was a problem syndicating."
-msgstr ""
+msgstr "Había un problema sindicando."
 
 #: ./Idno/Common/Page.php:397
 msgid "Invalid token."
-msgstr ""
+msgstr "Token no válido."
 
 #: ./Idno/Common/Page.php:414
 #: ./templates/default/pages/500.tpl.php:6
 msgid "Something went wrong."
-msgstr ""
+msgstr "Algo salió mal."
 
 #: ./Idno/Common/Page.php:479
 msgid "Attempted to redirect page to a non local URL."
-msgstr ""
+msgstr "The page's timeout was advanced."
 
 #: ./Idno/Common/Page.php:569
 #: ./Idno/Common/Page.php:655
 msgid "The page you were on timed out."
-msgstr ""
+msgstr "Se adelantó el tiempo de espera de la página."
+#
 
 #: ./Idno/Common/Page.php:583
 #: ./Idno/Common/Page.php:669
 msgid "Couldn't say anything about execution, probably something went wrong"
-msgstr ""
+msgstr "No sé nada de lo que pasó, probablemente algo salió mal"
+# I don't know anything about what happened, probably something went wrong
 
 #: ./Idno/Common/Page.php:741
 msgid "This content isn't here."
-msgstr ""
+msgstr "Este contenido no está aquí."
 
 #: ./Idno/Common/Page.php:757
 msgid "This page can't be found."
-msgstr ""
+msgstr "No se puede encontrar esta página."
 
 #: ./Idno/Common/Plugin.php:87
 msgid "Plugin %s doesn't have a version"
