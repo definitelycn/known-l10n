@@ -81,6 +81,7 @@ msgstr "Un sitio web social impulsado por Known"
 #: ./Idno/Core/Email.php:16
 msgid "Something went wrong and we couldn't create the email message to send."
 msgstr ""
+"Algo salió mal y no pudimos crear el mensaje de correo electrónico para enviar."
 
 #: ./Idno/Core/Service.php:24
 msgid "Missing X-Known-Service-Signature, service call is not possible."
