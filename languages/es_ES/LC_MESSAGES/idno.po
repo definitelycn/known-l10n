@@ -157,7 +157,8 @@ msgstr ""
 
 #: ./Idno/Core/Webservice.php:431
 msgid "Your version of PHP doesn't support CURLFile."
-msgstr ""
+msgstr "Su versión de PHP no es compatible con CURLFile."
+# Your PHP version is not compatible with CURLFile.
 
 #: ./Idno/Data/Mongo.php:38
 msgid ""
@@ -166,10 +167,17 @@ msgid ""
 "sure you have it installed and configured, e.g. by running \"pecl install "
 "mongodb;\""
 msgstr ""
+"Parece que no tiene instalado el nuevo controlador mongodb (<a "
+"href=\"https://secure.php.net/manual/en/set.mongodb.php\">https"
+"://secure.php.net/manual/en/set.mongodb.php</a>)\n"
+"Asegúrese de que lo tiene instalado y configurado, por ejemplo, "
+"ejecutando el comando \"pecl install mongodb;\""
 
 #: ./Idno/Entities/GenericDataItem.php:43
 msgid "GenericDataItem classes must have a datatype label set."
 msgstr ""
+"Las clases GenericDataItem deben tener un conjunto de etiquetas de tipo de datos."
+# GenericDataItem classes must have a set of data type tags.
 
 #: ./Idno/Entities/Invitation.php:110
 msgid "You've been invited to join %s"
