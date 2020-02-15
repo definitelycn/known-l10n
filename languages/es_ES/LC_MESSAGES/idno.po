@@ -185,29 +185,33 @@ msgstr "Te han invitado a unirte a %s"
 
 #: ./Idno/Files/FileSystem.php:63
 msgid "There is no error, the file uploaded with success"
-msgstr ""
+msgstr "No hay error, el archivo cargado con éxito"
+# No error, file uploaded successfully
 
 #: ./Idno/Files/FileSystem.php:64
 msgid "The uploaded file exceeds the upload_max_filesize directive in php.ini"
-msgstr ""
+msgstr "El archivo cargado supera la directiva upload_max_filesize en php.ini"
 
 #: ./Idno/Files/FileSystem.php:65
 msgid ""
 "The uploaded file exceeds the MAX_FILE_SIZE directive that was specified in "
 "the HTML form"
 msgstr ""
+"El archivo cargado supera la directiva MAX_FILE_SIZE que se especificó en "
+"el formulario HTML"
 
 #: ./Idno/Files/FileSystem.php:66
 msgid "The uploaded file was only partially uploaded"
-msgstr ""
+msgstr "El archivo cargado sólo se cargó parcialmente"
 
 #: ./Idno/Files/FileSystem.php:67
 msgid "No file was uploaded"
-msgstr ""
+msgstr "No se ha subido ningún archivo"
+# No files have been uploaded
 
 #: ./Idno/Files/FileSystem.php:68
 msgid "Missing a temporary folder"
-msgstr ""
+msgstr "Falta una carpeta temporal"
 
 #: ./Idno/Files/FileSystem.php:69
 msgid "Failed to write file to disk."
