@@ -364,30 +364,32 @@ msgstr ""
 #: ./Idno/Pages/Account/Register.php:156
 #: ./Idno/Pages/Admin/Users.php:178
 msgid "That doesn't seem like it's a valid email address."
-msgstr ""
+msgstr "Eso no parece que sea una dirección de correo electrónico válida."
 
 #: ./Idno/Pages/Account/Register.php:160
 msgid ""
 "You've registered! You're ready to get started. Why not add a post to say "
 "hello?"
 msgstr ""
+"¡Te has registrado! Estás listo para empezar. ¿Por qué no añadir una "
+"publicación para saludar?"
 
 #: ./Idno/Pages/Account/Register.php:164
 msgid "We couldn't register you."
-msgstr ""
+msgstr "No pudimos registrarte."
 
 #: ./Idno/Pages/Account/Settings/FeedbackConfirm.php:17
 msgid "Thank you for your feedback!"
-msgstr ""
+msgstr "Gracias por sus comentarios!"
 
 #: ./Idno/Pages/Account/Settings/Feedback.php:19
 #: ./templates/default/account/settings/feedback.tpl.php:37
 msgid "Send feedback"
-msgstr ""
+msgstr "Enviar comentarios"
 
 #: ./Idno/Pages/Account/Settings/Feedback.php:42
 msgid "Thanks! We received your feedback."
-msgstr ""
+msgstr "¡Gracias! Recibimos sus comentarios."
 
 #: ./Idno/Pages/Account/Settings/Following/Bookmarklet.php:37
 msgid ""
