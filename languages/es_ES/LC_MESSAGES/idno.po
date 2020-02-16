@@ -234,7 +234,7 @@ msgstr "Se ha producido un problema al guardar los metadatos del archivo"
 #: ./Idno/Files/LocalFileSystem.php:98
 #: ./Idno/Files/LocalFileSystem.php:150
 msgid "Something went wrong saving your file."
-msgstr ""
+msgstr "Algo salió mal salvando tu archivo."
 
 #: ./Idno/Files/LocalFileSystem.php:100
 #: ./Idno/Files/LocalFileSystem.php:152
@@ -242,6 +242,9 @@ msgid ""
 "Check that your upload directory is writeable by the web server and try "
 "again."
 msgstr ""
+"Compruebe que el servidor web pueda escribir en el directorio de carga e "
+"inténtelo de nuevo."
+# Verify that the web server can write to the upload directory and try again.
 
 #: ./Idno/Pages/Account/Export.php:20
 #: ./templates/default/account/menu.tpl.php:11
@@ -257,15 +260,17 @@ msgstr "Notificaciones"
 
 #: ./Idno/Pages/Account/Password.php:26
 msgid "Password recovery email sent"
-msgstr ""
+msgstr "Correo electrónico de recuperación de contraseña enviado"
 
 #: ./Idno/Pages/Account/Password.php:29
 msgid "Recover password"
-msgstr ""
+msgstr "Recuperar contraseña"
 
 #: ./Idno/Pages/Account/Password.php:63
 msgid "Oh no! We couldn't find an account associated with that email address."
 msgstr ""
+"¡No! No hemos encontrado una cuenta asociada a esa dirección de "
+"correo electrónico."
 
 #: ./Idno/Pages/Account/Password/Reset.php:27
 #: ./templates/default/account/password/reset.tpl.php:37
