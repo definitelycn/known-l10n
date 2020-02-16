@@ -275,21 +275,23 @@ msgstr ""
 #: ./Idno/Pages/Account/Password/Reset.php:27
 #: ./templates/default/account/password/reset.tpl.php:37
 msgid "Reset password"
-msgstr ""
+msgstr "Restablecer contraseña"
 
 #: ./Idno/Pages/Account/Password/Reset.php:35
 msgid ""
 "The password reset code wasn't valid. They expire after three hours, so you "
 "might need to try again."
 msgstr ""
+"El código de restablecimiento de contraseña no era válido. Caducan después "
+"de tres horas, por lo que es posible que deba intentarlo de nuevo."
 
 #: ./Idno/Pages/Account/Password/Reset.php:58
 msgid "Your password was reset!"
-msgstr ""
+msgstr "¡Se restableció la contraseña!"
 
 #: ./Idno/Pages/Account/Password/Reset.php:64
 msgid "Sorry, your passwords either don't match, or are too weak"
-msgstr ""
+msgstr "Lo sentimos, tus contraseñas no coinciden o son demasiado débiles"
 
 #: ./Idno/Pages/Account/Register.php:27
 msgid "This site is closed to new users."
@@ -308,12 +310,12 @@ msgstr "Crear una nueva cuenta"
 #: ./Idno/Pages/Account/Register.php:80
 #: ./Idno/Pages/Admin/Users.php:143
 msgid "Please enter a username and email address."
-msgstr ""
+msgstr "Introduzca un nombre de usuario y una dirección de correo electrónico."
 
 #: ./Idno/Pages/Account/Register.php:134
 #: ./Idno/Pages/Admin/Users.php:162
 msgid "Please create a username."
-msgstr ""
+msgstr "Por favor, cree un nombre de usuario."
 
 #: ./Idno/Pages/Account/Register.php:137
 #: ./Idno/Pages/Admin/Users.php:165
