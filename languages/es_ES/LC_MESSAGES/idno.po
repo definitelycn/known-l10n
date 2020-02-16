@@ -215,21 +215,21 @@ msgstr "Falta una carpeta temporal"
 
 #: ./Idno/Files/FileSystem.php:69
 msgid "Failed to write file to disk."
-msgstr ""
+msgstr "No se pudo escribir el archivo en el disco."
 
 #: ./Idno/Files/FileSystem.php:70
 msgid "A PHP extension stopped the file upload."
-msgstr ""
+msgstr "Una extensión PHP detuvo la carga del archivo."
 
 #: ./Idno/Files/LocalFileSystem.php:86
 #: ./Idno/Files/LocalFileSystem.php:137
 msgid "There was a problem storing the file data."
-msgstr ""
+msgstr "Se ha producido un problema al almacenar los datos del archivo."
 
 #: ./Idno/Files/LocalFileSystem.php:89
 #: ./Idno/Files/LocalFileSystem.php:141
 msgid "There was a problem saving the file's metadata"
-msgstr ""
+msgstr "Se ha producido un problema al guardar los metadatos del archivo"
 
 #: ./Idno/Files/LocalFileSystem.php:98
 #: ./Idno/Files/LocalFileSystem.php:150
