@@ -320,16 +320,18 @@ msgstr "Por favor, cree un nombre de usuario."
 #: ./Idno/Pages/Account/Register.php:137
 #: ./Idno/Pages/Admin/Users.php:165
 msgid "Your username is too long."
-msgstr ""
+msgstr "Tu nombre de usuario es demasiado largo."
 
 #: ./Idno/Pages/Account/Register.php:140
 msgid "Usernames can only have letters, numbers and underscores."
 msgstr ""
+"Los nombres de usuario solo pueden tener letras, números y guiones bajos."
 
 #: ./Idno/Pages/Account/Register.php:143
 #: ./Idno/Pages/Admin/Users.php:168
 msgid "Usernames can't contain a slash %s character."
 msgstr ""
+"Los nombres de usuario no pueden contener un carácter %s de barra diagonal."
 
 #: ./Idno/Pages/Account/Register.php:146
 #: ./Idno/Pages/Admin/Users.php:171
@@ -337,6 +339,8 @@ msgid ""
 "Unfortunately, someone is already using that username. Please choose "
 "another."
 msgstr ""
+"Desafortunadamente, alguien ya está usando ese nombre de usuario. "
+"Por favor, elija otro."
 
 #: ./Idno/Pages/Account/Register.php:149
 #: ./Idno/Pages/Admin/Users.php:174
@@ -344,6 +348,8 @@ msgid ""
 "Hey, it looks like there's already an account with that email address. Did "
 "you forget your login?"
 msgstr ""
+"Parece que ya hay una cuenta con esa dirección de correo electrónico. "
+"¿Olvidaste tu inicio de sesión?"
 
 #: ./Idno/Pages/Account/Register.php:152
 msgid ""
