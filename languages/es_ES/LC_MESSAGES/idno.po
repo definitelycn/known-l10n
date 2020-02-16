@@ -397,6 +397,9 @@ msgid ""
 "their profile in <a "
 "href=\"http://microformats.org/wiki/microformats-2\">Microformats</a>?"
 msgstr ""
+"Lo sentimos, no hemos podido encontrar ningún usuario en esa página, tal "
+"vez necesitan marcar su perfil en <a "
+"href=\"http://microformats.org/wiki/microformats-2\">Microformats</a>?"
 
 #: ./Idno/Pages/Account/Settings/Following/Bookmarklet.php:51
 msgid ""
@@ -404,6 +407,9 @@ msgid ""
 "href=\"http://microformats.org/wiki/microformats-2\">Microformats</a> "
 "markup... doing my best with what I have!"
 msgstr ""
+"La página no contenía ningún <a "
+"href=\"http://microformats.org/wiki/microformats-2\">Microformats</a> "
+"marcado... haciendo lo mejor que puedo con lo que tengo!"
 
 #: ./Idno/Pages/Account/Settings/Following/Bookmarklet.php:60
 msgid "Found users"

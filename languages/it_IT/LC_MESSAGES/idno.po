@@ -315,10 +315,12 @@ msgstr ""
 #: ./Idno/Pages/Account/Settings/Following/Bookmarklet.php:37
 msgid "Sorry, could not find any users on that page, perhaps they need to mark up their profile in <a href=\"http://microformats.org/wiki/microformats-2\">Microformats</a>?"
 msgstr ""
+"Spiacenti, non siamo riusciti a trovare alcun utente in quella pagina, forse hanno bisogno di contrassegnare il loro profilo in <a href=\"http://microformats.org/wiki/microformats-2\">Microformats</a>?"
 
 #: ./Idno/Pages/Account/Settings/Following/Bookmarklet.php:51
 msgid "Page did not contain any <a href=\"http://microformats.org/wiki/microformats-2\">Microformats</a> markup... doing my best with what I have!"
 msgstr ""
+"La pagina non contiene il markup <a href=\"http://microformats.org/wiki/microformats-2\"Microformats</a>... facendo del mio meglio con quello che ho!"
 
 #: ./Idno/Pages/Account/Settings/Following/Bookmarklet.php:60
 msgid "Found users"
