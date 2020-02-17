@@ -430,23 +430,24 @@ msgstr "Se ha producido un problema al guardar el nuevo usuario remoto."
 
 #: ./Idno/Pages/Account/Settings/Following/Bookmarklet.php:170
 msgid "You are now following %s, would you like to subscribe to their feed?"
-msgstr ""
+msgstr "Ahora estás siguiendo %s, ¿te gustaría suscribirte a su feed?"
 
 #: ./Idno/Pages/Account/Settings/Following/Bookmarklet.php:175
 msgid "You are now following %s"
-msgstr ""
+msgstr "Ahora está siguiendo %s"
+# Now you're following
 
 #: ./Idno/Pages/Account/Settings/Following/Bookmarklet.php:180
 msgid "You're already following %s"
-msgstr ""
+msgstr "Ya estás siguiendo %s"
 
 #: ./Idno/Pages/Account/Settings/Following/Bookmarklet.php:183
 msgid "Sorry, that user doesn't exist!"
-msgstr ""
+msgstr "Lo siento, ese usuario no existe!"
 
 #: ./Idno/Pages/Account/Settings/Following/Bookmarklet.php:185
 msgid "No UUID, please try that again!"
-msgstr ""
+msgstr "¡Sin UUID, por favor inténtelo de nuevo!"
 
 #: ./Idno/Pages/Account/Settings/Following.php:20
 msgid "Following settings"
