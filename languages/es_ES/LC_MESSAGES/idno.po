@@ -421,11 +421,12 @@ msgstr "Lo sentimos, hubo un problema al analizar la página!"
 
 #: ./Idno/Pages/Account/Settings/Following/Bookmarklet.php:66
 msgid "Sorry, %s could not be retrieved!"
-msgstr ""
+msgstr "Lo sentimos, %s no se pudo recuperar!"
+# Sorry, %s could not be recovered
 
 #: ./Idno/Pages/Account/Settings/Following/Bookmarklet.php:149
 msgid "There was a problem saving the new remote user."
-msgstr ""
+msgstr "Se ha producido un problema al guardar el nuevo usuario remoto."
 
 #: ./Idno/Pages/Account/Settings/Following/Bookmarklet.php:170
 msgid "You are now following %s, would you like to subscribe to their feed?"
