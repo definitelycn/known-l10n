@@ -628,6 +628,7 @@ msgid ""
 "Something went wrong, either no statistics were returned or it wasn't in the "
 "correct format."
 msgstr ""
+"Algo salió mal, o no se devolvieron estadísticas o no estaba en el formato correcto."
 
 #: ./Idno/Pages/Admin/Statistics.php:27
 #: ./templates/default/admin/statistics.tpl.php:4
@@ -642,7 +643,7 @@ msgstr "Temas"
 
 #: ./Idno/Pages/Admin/Themes.php:52
 msgid "The theme was enabled."
-msgstr ""
+msgstr "El tema fue habilitado."
 
 #: ./Idno/Pages/Admin/Users.php:32
 msgid "User Management"
