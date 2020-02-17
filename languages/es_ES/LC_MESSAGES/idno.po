@@ -585,24 +585,26 @@ msgstr "Administración"
 
 #: ./Idno/Pages/Admin/Import.php:18
 msgid "Import data"
-msgstr ""
+msgstr "Importar datos"
 
 #: ./Idno/Pages/Admin/Import.php:33
 msgid "You need to upload an import file to continue."
-msgstr ""
+msgstr "Debe cargar un archivo de importación para continuar."
 
 #: ./Idno/Pages/Admin/Import.php:35
 msgid "We couldn't open the file you uploaded. Please try again."
 msgstr ""
+"No hemos podido abrir el archivo que subiste. Por favor, inténtelo de nuevo."
 
 #: ./Idno/Pages/Admin/Import.php:37
 msgid "Your import has started. We'll email you when it's done."
 msgstr ""
+"La importación ha comenzado. Te enviaremos un correo electrónico cuando termine."
 
 #: ./Idno/Pages/Admin/Logs.php:19
 #: ./templates/default/admin/logs.tpl.php:4
 msgid "Log capture"
-msgstr ""
+msgstr "Captura de registros"
 
 #: ./Idno/Pages/Admin/Plugins.php:23
 #: ./templates/default/admin/menu.tpl.php:3
@@ -630,7 +632,7 @@ msgstr ""
 #: ./Idno/Pages/Admin/Statistics.php:27
 #: ./templates/default/admin/statistics.tpl.php:4
 msgid "Statistics"
-msgstr ""
+msgstr "Estadísticas"
 
 #: ./Idno/Pages/Admin/Themes.php:22
 #: ./templates/default/admin/menu.tpl.php:4
