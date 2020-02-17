@@ -577,6 +577,7 @@ msgstr "Página principal"
 #: ./Idno/Pages/Admin/Homepage.php:42
 msgid "The default homepage content types were saved."
 msgstr ""
+"Se guardaron los tipos de contenido de la página principal predeterminadas."
 
 #: ./Idno/Pages/Admin/Home.php:21
 msgid "Administration"
