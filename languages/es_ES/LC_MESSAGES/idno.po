@@ -490,7 +490,7 @@ msgstr "Herramienta y aplicaciones"
 #: ./Idno/Pages/Admin/About.php:20
 #: ./templates/default/admin/about.tpl.php:5
 msgid "About Known"
-msgstr ""
+msgstr "Acerca de Known"
 
 #: ./Idno/Pages/Admin/Dependencies.php:20
 #: ./templates/default/admin/dependencies.tpl.php:4
@@ -554,15 +554,16 @@ msgstr "Correo electrónico"
 
 #: ./Idno/Pages/Admin/EmailTest.php:21
 msgid "Test email from %s!"
-msgstr ""
+msgstr "Prueba de correo electrónico de %s!"
+# %s email test!
 
 #: ./Idno/Pages/Admin/EmailTest.php:26
 msgid "Test email sent to %s"
-msgstr ""
+msgstr "Correo electrónico de prueba enviado a %s"
 
 #: ./Idno/Pages/Admin/EmailTest.php:28
 msgid "There was a problem sending a test message to %s."
-msgstr ""
+msgstr "Se ha producido un problema al enviar un mensaje de prueba a %s."
 
 #: ./Idno/Pages/Admin/Export.php:17
 msgid "Export data"
