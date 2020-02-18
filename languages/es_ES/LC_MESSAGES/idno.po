@@ -651,74 +651,81 @@ msgstr "Gestión de usuarios"
 
 #: ./Idno/Pages/Admin/Users.php:50
 msgid "%s was given administration rights."
-msgstr ""
+msgstr "%s recibió derechos de administración."
 
 #: ./Idno/Pages/Admin/Users.php:58
 msgid "%s was stripped of their administration rights."
-msgstr ""
+msgstr "%s fue despojado de sus derechos de administración."
+# %s was stripped of its administration rights.
 
 #: ./Idno/Pages/Admin/Users.php:65
 msgid "%s was removed from your site."
-msgstr ""
+msgstr "%s se eliminó de su sitio."
 
 #: ./Idno/Pages/Admin/Users.php:91
 msgid "%d invitations were sent."
-msgstr ""
+msgstr "Se enviaron %d invitaciones."
 
 #: ./Idno/Pages/Admin/Users.php:93
 msgid "Your invitation was sent."
-msgstr ""
+msgstr "Su invitación fue enviada."
 
 #: ./Idno/Pages/Admin/Users.php:95
 msgid "Something went wrong and we couldn't send emails to your recipients."
 msgstr ""
+"Algo salió mal y no pudimos enviar correos electrónicos a sus destinatarios."
 
 #: ./Idno/Pages/Admin/Users.php:97
 msgid ""
 "No email addresses were found or all the people you invited are already "
 "members of this site."
 msgstr ""
+"No se encontraron direcciones de correo electrónico o todas las personas "
+"a las que invitó ya son miembros de este sitio."
 
 #: ./Idno/Pages/Admin/Users.php:105
 msgid "The invitation was removed."
-msgstr ""
+msgstr "La invitación fue eliminada."
 
 #: ./Idno/Pages/Admin/Users.php:119
 msgid "The invitation was resent."
-msgstr ""
+msgstr "La invitación fue enviada de nuevo."
+# The invitation was sent again.
 
 #: ./Idno/Pages/Admin/Users.php:128
 msgid "You can't add any more users to your site."
-msgstr ""
+msgstr "No puede agregar más usuarios a su sitio."
 
 #: ./Idno/Pages/Admin/Users.php:141
 msgid "Please make sure your passwords match and aren't empty."
-msgstr ""
+msgstr "Asegúrate de que tus contraseñas coincidan y no estén vacías."
 
 #: ./Idno/Pages/Admin/Users.php:182
 msgid "User %s was created. You may wish to email them to let them know."
 msgstr ""
+"Se creó el usuario %s. Es posible que desee enviarles un correo "
+"electrónico para hacerles saber."
 
 #: ./Idno/Pages/Admin/Users.php:205
 msgid "%d emails were blocked."
-msgstr ""
+msgstr "Se bloquearon %d direcciones de correo electrónico."
 
 #: ./Idno/Pages/Admin/Users.php:207
 msgid "The email address was blocked."
-msgstr ""
+msgstr "La dirección de correo electrónico se bloqueó."
 
 #: ./Idno/Pages/Admin/Users.php:209
 #: ./Idno/Pages/Admin/Users.php:234
 msgid "No email addresses were found."
-msgstr ""
+msgstr "No se encontraron direcciones de correo electrónico."
 
 #: ./Idno/Pages/Admin/Users.php:230
 msgid "%d emails were unblocked."
-msgstr ""
+msgstr "Se desbloquearon %d direcciones de correo electrónico."
 
 #: ./Idno/Pages/Admin/Users.php:232
 msgid "The email address was unblocked."
-msgstr ""
+msgstr "La dirección de correo electrónico se ha desbloqueado."
 
 #: ./Idno/Pages/Annotation/Delete.php:42
 msgid "The annotation was deleted."
