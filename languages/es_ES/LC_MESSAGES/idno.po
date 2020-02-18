@@ -729,15 +729,15 @@ msgstr "La dirección de correo electrónico se ha desbloqueado."
 
 #: ./Idno/Pages/Annotation/Delete.php:42
 msgid "The annotation was deleted."
-msgstr ""
+msgstr "Se eliminó la anotación."
 
 #: ./Idno/Pages/Entity/Attachment/Delete.php:21
 msgid "We couldn't find the post."
-msgstr ""
+msgstr "No hemos encontrado la publicación."
 
 #: ./Idno/Pages/Entity/Delete.php:45
 msgid "We couldn't find the post to delete."
-msgstr ""
+msgstr "No hemos encontrado la publicación que se va a eliminar."
 
 #: ./Idno/Pages/Entity/Delete.php:52
 #: ./Idno/Pages/Entity/View.php:125
