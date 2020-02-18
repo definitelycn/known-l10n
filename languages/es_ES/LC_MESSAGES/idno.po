@@ -772,24 +772,24 @@ msgstr "Bienvenido a Known"
 
 #: ./Idno/Pages/Onboarding/Connect.php:25
 msgid "Connect some networks"
-msgstr ""
+msgstr "Conectar algunas redes"
 
 #: ./Idno/Pages/Onboarding/Profile.php:22
 #: ./templates/default/onboarding/profile.tpl.php:3
 msgid "Create your profile"
-msgstr ""
+msgstr "Crea tu perfil"
 
 #: ./Idno/Pages/Search/User.php:23
 msgid "Invalid sort type %s"
-msgstr ""
+msgstr "Tipo de ordenación no válido %s"
 
 #: ./Idno/Pages/Search/User.php:27
 msgid "Invalid sort order %s"
-msgstr ""
+msgstr "Orden de ordenación no válido %s"
 
 #: ./Idno/Pages/Service/Security/CSRFToken.php:16
 msgid "URL missing"
-msgstr ""
+msgstr "Falta URL"
 
 #: ./Idno/Pages/Service/Web/ImageProxy.php:77
 #: ./Idno/Pages/Service/Web/ImageProxy.php:267
