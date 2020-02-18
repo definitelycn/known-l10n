@@ -794,29 +794,30 @@ msgstr "Falta URL"
 #: ./Idno/Pages/Service/Web/ImageProxy.php:77
 #: ./Idno/Pages/Service/Web/ImageProxy.php:267
 msgid "There was a problem decoding the url"
-msgstr ""
+msgstr "Hubo un problema dedecodificación de la url"
 
 #: ./Idno/Pages/Service/Web/ImageProxy.php:81
 #: ./Idno/Pages/Service/Web/ImageProxy.php:271
 msgid "No url specified"
-msgstr ""
+msgstr "No se ha especificado ninguna url"
 
 #: ./Idno/Pages/Service/Web/ImageProxy.php:222
 msgid "Could not save temporary file"
-msgstr ""
+msgstr "No se pudo guardar el archivo temporal"
 
 #: ./Idno/Pages/Service/Web/ImageProxy.php:253
 msgid "Looks like something went wrong, image was zero bytes big!"
-msgstr ""
+msgstr "Parece que algo salió mal, la imagen era cero bytes!"
 
 #: ./Idno/Pages/Service/Web/UrlUnfurl.php:20
 #: ./Idno/Pages/Service/Web/UrlUnfurl.php:47
 msgid "You need to specify a working URL"
-msgstr ""
+msgstr "Debe especificar una url de trabajo"
+# Debe especificar una DIRECCIÓN URL de trabajo"
 
 #: ./Idno/Pages/Service/Web/UrlUnfurl.php:69
 msgid "Url %s could not be unfurled"
-msgstr ""
+msgstr "Url %s no se pudo desplegar"
 
 #: ./Idno/Pages/Session/CurrentUser.php:36
 #: ./Idno/Pages/User/View.php:72
