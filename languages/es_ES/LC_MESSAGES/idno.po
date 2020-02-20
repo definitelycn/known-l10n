@@ -863,7 +863,7 @@ msgstr "El temporizador %s no se ha iniciado."
 
 #: ./templates/default/account/export.tpl.php:8
 msgid "Export your data"
-msgstr ""
+msgstr "Exporta tus datos"
 
 #: ./templates/default/account/export.tpl.php:19
 msgid ""
@@ -871,6 +871,9 @@ msgid ""
 "This file is suitable for importing into content management systems like "
 "WordPress, or another Known site."
 msgstr ""
+"Puede descargar una versión RSS de todo lo que ha publicado en este sitio. "
+"Este archivo es adecuado para importar en sistemas de gestión de contenido "
+"como WordPress, u otro sitio De Known."
 
 #: ./templates/default/account/export.tpl.php:24
 #: ./templates/default/admin/export.tpl.php:25
@@ -909,10 +912,13 @@ msgid ""
 "publicly. In order to protect your privacy, you may wish to just download "
 "your public posts."
 msgstr ""
+"Plataformas como WordPress pueden suponer que todas sus publicaciones deben "
+"mostrarse públicamente. Con el fin de proteger su privacidad, es posible "
+"que desee simplemente descargar sus publicaciones públicas."
 
 #: ./templates/default/account/export.tpl.php:38
 msgid "Download RSS Feed"
-msgstr ""
+msgstr "Descargar RSS Feed"
 
 #: ./templates/default/account/login.tpl.php:4
 msgid "Welcome back!"
