@@ -999,23 +999,28 @@ msgstr ""
 
 #: ./templates/default/account/password/sent.tpl.php:5
 msgid "Your password reset email has been sent"
-msgstr ""
+msgstr "Se ha enviado el correo electrónico de restablecimiento de contraseña"
 
 #: ./templates/default/account/password/sent.tpl.php:15
 msgid ""
 "Check your inbox! You'll find an email containing a special link that will "
 "help you reset your password."
 msgstr ""
+"¡Compruebe su bandeja de entrada! Encontrarás un correo electrónico con un "
+"enlace especial que te ayudará a restablecer tu contraseña."
 
 #: ./templates/default/account/password/sent.tpl.php:18
 msgid ""
 "Did you remember your password? That's okay too. You can <a "
 "href=\"%s\">click here to sign in.</a>"
 msgstr ""
+"¿Recuerdas tu contraseña? Eso también está bien. Puede <a "
+"href=\"%s\">haga clic aquí para iniciar sesión.</a>"
 
 #: ./templates/default/account/password.tpl.php:9
 msgid "Forgot your password? Don't worry! It happens to the best of us."
 msgstr ""
+"¿Olvidaste tu contraseña? ¡No te preocupes! Le pasa a los mejores de nosotros."
 
 #: ./templates/default/account/password.tpl.php:10
 msgid ""
@@ -1023,14 +1028,17 @@ msgid ""
 "we'll send you a top secret link to your email account so that you can "
 "create a new password."
 msgstr ""
+"Sólo tiene que introducir la dirección de correo electrónico asociada "
+"con su cuenta %s a continuación, y le enviaremos un enlace secreto a su "
+"cuenta de correo electrónico para que pueda crear una nueva contraseña."
 
 #: ./templates/default/account/password.tpl.php:20
 msgid "me@awesome.com"
-msgstr ""
+msgstr "me@impresionante.es"
 
 #: ./templates/default/account/password.tpl.php:27
 msgid "Send password reset email"
-msgstr ""
+msgstr "Enviar correo electrónico de restablecimiento de contraseña"
 
 #: ./templates/default/account/register.tpl.php:5
 #: ./templates/default/onboarding/register.tpl.php:3
