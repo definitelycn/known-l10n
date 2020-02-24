@@ -23,11 +23,11 @@ msgstr "Si è verificato un problema durante il sindacato."
 
 #: ./Idno/Common/Entity.php:2346
 msgid "%s replied to your post!"
-msgstr ""
+msgstr "%s ha risposto al tuo post!"
 
 #: ./Idno/Common/Entity.php:2348
 msgid "%s replied!"
-msgstr ""
+msgstr "%s ha risposto!"
 
 #: ./Idno/Common/Page.php:397
 msgid "Invalid token."
