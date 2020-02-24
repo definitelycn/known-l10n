@@ -21,6 +21,14 @@ msgid "There was a problem syndicating."
 msgstr "Si è verificato un problema durante il sindacato."
 # There was a problem with the union.
 
+#: ./Idno/Common/Entity.php:2346
+msgid "%s replied to your post!"
+msgstr ""
+
+#: ./Idno/Common/Entity.php:2348
+msgid "%s replied!"
+msgstr ""
+
 #: ./Idno/Common/Page.php:397
 msgid "Invalid token."
 msgstr "Token non valido."
