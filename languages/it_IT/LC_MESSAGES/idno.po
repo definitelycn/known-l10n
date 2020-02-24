@@ -92,34 +92,35 @@ msgstr ""
 #: ./Idno/Core/Service.php:24
 msgid "Missing X-Known-Service-Signature, service call is not possible."
 msgstr ""
+"Manca X-Known-Service-Signature, la chiamata al servizio non è possibile."
 
 #: ./Idno/Core/Service.php:27
 msgid "Sorry, signature doesn't match up."
-msgstr ""
+msgstr "Spiacenti, la firma non corrisponde."
 
 #: ./Idno/Core/Service.php:44
 msgid "Missing site secret"
-msgstr ""
+msgstr "Segreto del sito mancante"
 
 #: ./Idno/Core/Service.php:53
 msgid "Url not provided to token generation."
-msgstr ""
+msgstr "URL non fornito alla generazione di token."
 
 #: ./Idno/Core/Service.php:86
 msgid "Response from service endpoint was not json"
-msgstr ""
+msgstr "Risposta dall'endpoint del servizio non json"
 
 #: ./Idno/Core/Service.php:98
 msgid "No result from endpoint."
-msgstr ""
+msgstr "Nessun risultato dall'endpoint."
 
 #: ./Idno/Core/Session.php:136
 msgid "Session funnybusiness: "
-msgstr ""
+msgstr "Sessione divertenteaffari: "
 
 #: ./Idno/Core/Session.php:509 Idno/Pages/Account/Register.php:64 Idno/Pages/Account/Settings.php:35
 msgid "Warning: Access credentials were sent over a non-secured connection! To disable this warning set disable_cleartext_warning in your config.ini"
-msgstr ""
+msgstr "Avviso: le credenziali di accesso sono state inviate tramite una connessione non protetta. Per disabilitare questo avviso impostato disable_cleartext_warning nel file config.ini"
 
 #: ./Idno/Core/Time.php:89
 msgid "hour"
