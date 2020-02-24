@@ -14,7 +14,8 @@ msgstr ""
 
 #: ./Idno/Caching/FilesystemCache.php:19
 msgid "No domain specified for cache"
-msgstr ""
+msgstr "キャッシュ ドメインが指定されていません"
+# Cache domain not specified
 
 #: ./Idno/Common/Entity.php:692
 msgid "There was a problem syndicating."
