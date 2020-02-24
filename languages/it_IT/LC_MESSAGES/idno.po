@@ -23,23 +23,23 @@ msgstr "Si è verificato un problema durante il sindacato."
 
 #: ./Idno/Common/Page.php:397
 msgid "Invalid token."
-msgstr ""
+msgstr "Token non valido."
 
 #: ./Idno/Common/Page.php:414 templates/default/pages/500.tpl.php:6
 msgid "Something went wrong."
-msgstr ""
+msgstr "Qualcosa è andato storto."
 
 #: ./Idno/Common/Page.php:479
 msgid "Attempted to redirect page to a non local URL."
-msgstr ""
+msgstr "Tentativo di reindirizzare la pagina a un URL non locale."
 
 #: ./Idno/Common/Page.php:569 Idno/Common/Page.php:655
 msgid "The page you were on timed out."
-msgstr ""
+msgstr "La pagina in cui eri in timeout."
 
 #: ./Idno/Common/Page.php:583 Idno/Common/Page.php:669
 msgid "Couldn't say anything about execution, probably something went wrong"
-msgstr ""
+msgstr "Non posso dire nulla sull'esecuzione, probabilmente qualcosa è andato storto"
 
 #: ./Idno/Common/Page.php:741
 msgid "This content isn't here."
