@@ -14,11 +14,12 @@ msgstr ""
 
 #: ./Idno/Caching/FilesystemCache.php:19
 msgid "No domain specified for cache"
-msgstr ""
+msgstr "Nessun dominio specificato per la cache"
 
 #: ./Idno/Common/Entity.php:692
 msgid "There was a problem syndicating."
-msgstr ""
+msgstr "Si è verificato un problema durante il sindacato."
+# There was a problem with the union.
 
 #: ./Idno/Common/Page.php:397
 msgid "Invalid token."
