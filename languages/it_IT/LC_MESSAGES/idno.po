@@ -73,11 +73,13 @@ msgstr "Utente non valido (%s) specificato per runAsContext, interruzione"
 
 #: ./Idno/Core/Config.php:268
 msgid "A social website powered by Known"
-msgstr ""
+msgstr "Un sito web sociale alimentato da Known"
 
 #: ./Idno/Core/Email.php:16
 msgid "Something went wrong and we couldn't create the email message to send."
 msgstr ""
+"Si è verificato un problema e non è stato possibile creare il messaggio di "
+"posta elettronica da inviare."
 
 #: ./Idno/Core/Service.php:24
 msgid "Missing X-Known-Service-Signature, service call is not possible."
