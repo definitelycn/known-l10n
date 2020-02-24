@@ -15,10 +15,18 @@ msgstr ""
 
 #: ./Idno/Caching/FilesystemCache.php:19
 msgid "No domain specified for cache"
-msgstr ""
+msgstr "未為緩存指定域"
 
 #: ./Idno/Common/Entity.php:692
 msgid "There was a problem syndicating."
+msgstr ""
+
+#: ./Idno/Common/Entity.php:2346
+msgid "%s replied to your post!"
+msgstr ""
+
+#: ./Idno/Common/Entity.php:2348
+msgid "%s replied!"
 msgstr ""
 
 #: ./Idno/Common/Page.php:397
