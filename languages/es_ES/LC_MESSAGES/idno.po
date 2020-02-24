@@ -22,11 +22,11 @@ msgstr "Había un problema sindicando."
 
 #: ./Idno/Common/Entity.php:2346
 msgid "%s replied to your post!"
-msgstr ""
+msgstr "%s respondió a su publicación!"
 
 #: ./Idno/Common/Entity.php:2348
 msgid "%s replied!"
-msgstr ""
+msgstr "%s respondió!"
 
 #: ./Idno/Common/Page.php:397
 msgid "Invalid token."
