@@ -920,19 +920,19 @@ msgstr "Vuoi condividere qualcosa con il team conosciuto? Ci piacerebbe leggere 
 
 #: ./templates/default/account/settings/feedback.tpl.php:21
 msgid "From"
-msgstr ""
+msgstr "Da"
 
 #: ./templates/default/account/settings/feedback.tpl.php:26
 msgid "To"
-msgstr ""
+msgstr "A"
 
 #: ./templates/default/account/settings/feedback.tpl.php:29
 msgid "Subject"
-msgstr ""
+msgstr "Oggetto"
 
 #: ./templates/default/account/settings/feedback.tpl.php:29
 msgid "Feedback for the Known team"
-msgstr ""
+msgstr "Feedback per il team di Known"
 
 #: ./templates/default/account/settings/feedback.tpl.php:32
 msgid "Let us know what you think."
