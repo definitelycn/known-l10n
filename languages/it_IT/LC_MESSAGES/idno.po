@@ -160,10 +160,14 @@ msgid ""
 "\n"
 "Make sure you have it installed and configured, e.g. by running \"pecl install mongodb;\""
 msgstr ""
+"Sembra che non si dispone del nuovo driver mongodb installato (<a href=\"https://secure.php.net/manual/en/set.mongodb.php\">https://secure.php.net/manual/en/set.mongodb.php</a>)\n"
+"\n"
+"Assicurarsi di averlo installato e configurato, ad esempio eseguendo \"pecl install mongodb;\""
 
 #: ./Idno/Entities/GenericDataItem.php:43
 msgid "GenericDataItem classes must have a datatype label set."
 msgstr ""
+"Le classi GenericDataItem devono avere un set di etichette del tipo di dati."
 
 #: ./Idno/Entities/Invitation.php:110
 msgid "You've been invited to join %s"
