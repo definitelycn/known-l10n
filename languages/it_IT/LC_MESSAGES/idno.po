@@ -140,11 +140,11 @@ msgstr "Minuti"
 
 #: ./Idno/Core/Time.php:103
 msgid "ahead"
-msgstr ""
+msgstr "avanti"
 
 #: ./Idno/Core/Time.php:103
 msgid "behind"
-msgstr ""
+msgstr "dietro"
 
 #: ./Idno/Core/TokenProvider.php:32
 msgid "Token was generated using an a cryptographically weak algorithm, this probably means your version of OpenSSL is broken or very old."
@@ -940,11 +940,11 @@ msgstr "Fateci sapere cosa ne pensate."
 
 #: ./templates/default/account/settings/following/bookmarklet.tpl.php:3
 msgid "Add as friend..."
-msgstr ""
+msgstr "Aggiungi come amico..."
 
 #: ./templates/default/account/settings/following/mf2user.tpl.php:55
 msgid "Name"
-msgstr ""
+msgstr "Nome"
 
 #: ./templates/default/account/settings/following/mf2user.tpl.php:64
 msgid "Nickname"
@@ -952,11 +952,11 @@ msgstr ""
 
 #: ./templates/default/account/settings/following/mf2user.tpl.php:67
 msgid "Handle (for your reference)"
-msgstr ""
+msgstr "Maniglia (per il vostro riferimento)"
 
 #: ./templates/default/account/settings/following/mf2user.tpl.php:82
 msgid "Profile URL"
-msgstr ""
+msgstr "URL profilo"
 
 #: ./templates/default/account/settings/following.tpl.php:5
 msgid "Following..."
