@@ -1219,7 +1219,7 @@ msgstr ""
 # ?
 
 #: ./templates/default/account/settings/following.tpl.php:16
-msgid "Use this bookmarklet to make is easy to add new friends."
+msgid "Use this bookmarklet to make it easy to add new friends."
 msgstr "Ved hjælp af denne bookmarklet er det nemt at tilføje nye venner."
 # Using this bookmarklet it is easy to add new friends.
 

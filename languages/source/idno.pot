@@ -1106,7 +1106,7 @@ msgid ""
 msgstr ""
 
 #: ./templates/default/account/settings/following.tpl.php:16
-msgid "Use this bookmarklet to make is easy to add new friends."
+msgid "Use this bookmarklet to make it easy to add new friends."
 msgstr ""
 
 #: ./templates/default/account/settings/notifications.tpl.php:17

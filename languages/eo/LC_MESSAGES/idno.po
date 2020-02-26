@@ -966,7 +966,7 @@ msgid "Manage your subscriptions here. These users can also be given access to p
 msgstr "Administri viajn abonojn ĉi tie. Ĉi tiuj uzantoj ankaŭ povas ricevi aliron al privata enhavo, kiun vi produktas en via retejo."
 
 #: ./templates/default/account/settings/following.tpl.php:16
-msgid "Use this bookmarklet to make is easy to add new friends."
+msgid "Use this bookmarklet to make it easy to add new friends."
 msgstr "Uzu ĉi tiun legosignon por faciligi aldoni novajn amikojn."
 
 #: ./templates/default/account/settings/notifications.tpl.php:17
