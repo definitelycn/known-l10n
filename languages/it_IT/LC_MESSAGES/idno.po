@@ -152,7 +152,7 @@ msgstr "Token è stato generato utilizzando un algoritmo crittograficamente debo
 
 #: ./Idno/Core/Webservice.php:431
 msgid "Your version of PHP doesn't support CURLFile."
-msgstr ""
+msgstr "La versione di PHP non supporta CURLFile."
 
 #: ./Idno/Data/Mongo.php:38
 msgid ""
