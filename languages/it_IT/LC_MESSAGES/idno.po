@@ -960,15 +960,15 @@ msgstr "URL profilo"
 
 #: ./templates/default/account/settings/following.tpl.php:5
 msgid "Following..."
-msgstr ""
+msgstr "Seguente..."
 
 #: ./templates/default/account/settings/following.tpl.php:11
 msgid "Manage your subscriptions here. These users can also be given access to private content you produce on your site."
-msgstr ""
+msgstr "Gestisci i tuoi abbonamenti qui. A questi utenti può anche essere concesso l'accesso ai contenuti privati che produci sul tuo sito."
 
 #: ./templates/default/account/settings/following.tpl.php:16
-msgid "Use this bookmarklet to make is easy to add new friends."
-msgstr ""
+msgid "Use this bookmarklet to make it easy to add new friends."
+msgstr "Utilizzare questo bookmarklet per rendere più facile aggiungere nuovi amici."
 
 #: ./templates/default/account/settings/notifications.tpl.php:17
 msgid "Set how you'd like to be notified when someone stars or comments on your content."
