@@ -1133,15 +1133,16 @@ msgstr "Versione: %s+%s"
 
 #: ./templates/default/admin/dependencies/build.tpl.php:2
 msgid "%s installed"
-msgstr ""
+msgstr "%s installato"
 
 #: ./templates/default/admin/dependencies/plugin.tpl.php:30
 msgid "(v%s required)"
-msgstr ""
+msgstr "(v%s obbligatorio)"
 
 #: ./templates/default/admin/dependencies.tpl.php:8
 msgid "The following are system components that are required for Known to fully run. It's worth checking to make sure that they're all installed. If you need help installing any required packages, ask your web host or system administrator."
-msgstr ""
+msgstr "Di seguito sono riportati i componenti di sistema necessari per l'esecuzione completa di Known. Si è verificato un problema sconosciuto. Se hai bisogno di aiuto per installare i pacchetti necessari, chiedi al tuo host web o all'amministratore di sistema."
+# The following are the system components required for full Known execution. I'm not sure if I'll be back. If you need help installing the necessary packages, ask your web host or system administrator.
 
 #: ./templates/default/admin/dependencies.tpl.php:17
 msgid "PHP"

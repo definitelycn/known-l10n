@@ -1392,11 +1392,11 @@ msgstr "Versión: %s+%s"
 #: ./templates/default/admin/dependencies/idno.tpl.php:2
 #: ./templates/default/admin/dependencies/php.tpl.php:2
 msgid "%s installed"
-msgstr ""
+msgstr "%s instalado"
 
 #: ./templates/default/admin/dependencies/plugin.tpl.php:30
 msgid "(v%s required)"
-msgstr ""
+msgstr "(v%s requerido)"
 
 #: ./templates/default/admin/dependencies.tpl.php:8
 msgid ""
@@ -1405,6 +1405,10 @@ msgid ""
 "need help installing any required packages, ask your web host or system "
 "administrator."
 msgstr ""
+"A continuación se indican los componentes del sistema necesarios para "
+"que Known se ejecute completamente. Vale la pena comprobar lo que están "
+"todos instalados. Si necesita ayuda para instalar los paquetes necesarios, "
+"pregunte al host web o al administrador del sistema."
 
 #: ./templates/default/admin/dependencies.tpl.php:17
 msgid "PHP"
