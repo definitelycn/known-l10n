@@ -171,7 +171,8 @@ msgstr ""
 
 #: ./Idno/Entities/Invitation.php:110
 msgid "You've been invited to join %s"
-msgstr ""
+msgstr "Sei stato invitato a partecipare a %s"
+# You have been invited to participate in %s
 
 #: ./Idno/Files/FileSystem.php:63
 msgid "There is no error, the file uploaded with success"
