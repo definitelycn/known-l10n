@@ -1378,15 +1378,15 @@ msgstr ""
 
 #: ./templates/default/admin/about.tpl.php:15
 msgid "is a social publishing platform for groups and individuals."
-msgstr ""
+msgstr "es una plataforma de publicación social para grupos e individuos."
 
 #: ./templates/default/admin/about.tpl.php:17
 msgid "Open source project details"
-msgstr ""
+msgstr "Detalles del proyecto de código abierto"
 
 #: ./templates/default/admin/about.tpl.php:20
 msgid "Version: %s+%s"
-msgstr ""
+msgstr "Versión: %s+%s"
 
 #: ./templates/default/admin/dependencies/build.tpl.php:2
 #: ./templates/default/admin/dependencies/idno.tpl.php:2
