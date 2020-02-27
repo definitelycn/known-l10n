@@ -1416,11 +1416,11 @@ msgstr ""
 
 #: ./templates/default/admin/dependencies.tpl.php:19
 msgid "Version %s or greater"
-msgstr ""
+msgstr "Versión %s o superior"
 
 #: ./templates/default/admin/dependencies.tpl.php:27
 msgid "PHP extensions required"
-msgstr ""
+msgstr "Se requieren extensiones PHP"
 
 #: ./templates/default/admin/dependencies.tpl.php:28
 msgid ""
@@ -1428,6 +1428,10 @@ msgid ""
 "database storage, webmentions, etc. Click an extension name to learn more "
 "about it, including installation instructions."
 msgstr ""
+"Estos amplían el funcionamiento de PHP, y son necesarios para funciones "
+"como almacenamiento de bases de datos, webmentions, etc. Haga clic en un "
+"nombre de extensión para obtener más información al respecto, incluidas "
+"las instrucciones de instalación."
 
 #: ./templates/default/admin/diagnostics.tpl.php:9
 msgid ""
@@ -1457,6 +1461,7 @@ msgid ""
 "email using an external provider - enter the new SMTP settings below. You "
 "can also <a href=\"%s\">change your notification settings</a>."
 msgstr ""
+""
 
 #: ./templates/default/admin/email.tpl.php:20
 msgid ""

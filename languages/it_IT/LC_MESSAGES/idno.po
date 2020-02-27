@@ -1151,15 +1151,15 @@ msgstr ""
 
 #: ./templates/default/admin/dependencies.tpl.php:19
 msgid "Version %s or greater"
-msgstr ""
+msgstr "Versione %s o superiore"
 
 #: ./templates/default/admin/dependencies.tpl.php:27
 msgid "PHP extensions required"
-msgstr ""
+msgstr "Estensioni PHP necessarie"
 
 #: ./templates/default/admin/dependencies.tpl.php:28
 msgid "These extend the way PHP works, and are required for functionality like database storage, webmentions, etc. Click an extension name to learn more about it, including installation instructions."
-msgstr ""
+msgstr "Questi estendono il funzionamento di PHP e sono necessari per funzionalità come l'archiviazione di database, webmentions, ecc. Fare clic sul nome di un'estensione per ulteriori informazioni, incluse le istruzioni di installazione."
 
 #: ./templates/default/admin/diagnostics.tpl.php:9
 msgid "This page provides you with information that may help you or others diagnose any problems you may be experiencing with your Known install."
