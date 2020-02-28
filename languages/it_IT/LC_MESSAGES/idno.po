@@ -1199,27 +1199,27 @@ msgstr "Spesso è possibile lasciare vuote le seguenti impostazioni. Tuttavia, �
 
 #: ./templates/default/admin/email.tpl.php:48
 msgid "SMTP host"
-msgstr ""
+msgstr "Host SMTP"
 
 #: ./templates/default/admin/email.tpl.php:55
 msgid "This is the address of the server that will send email for you."
-msgstr ""
+msgstr "Questo è l'indirizzo del server che invierà e-mail per te."
 
 #: ./templates/default/admin/email.tpl.php:62
 msgid "SMTP username"
-msgstr ""
+msgstr "Nome utente SMTP"
 
 #: ./templates/default/admin/email.tpl.php:69
 msgid "If your mail server needs a username, enter it here."
-msgstr ""
+msgstr "Se il server di posta ha bisogno di un nome utente, immetterlo qui."
 
 #: ./templates/default/admin/email.tpl.php:76
 msgid "SMTP password"
-msgstr ""
+msgstr "Password SMTP"
 
 #: ./templates/default/admin/email.tpl.php:84
 msgid "If your mail server needs a password, enter it here."
-msgstr ""
+msgstr "Se il server di posta ha bisogno di una password, immetterlo qui."
 
 #: ./templates/default/admin/email.tpl.php:91
 msgid "SMTP port"

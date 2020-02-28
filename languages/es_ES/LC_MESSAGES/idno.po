@@ -1495,29 +1495,29 @@ msgstr ""
 #: ./templates/default/admin/email.tpl.php:48
 #: ./templates/default/admin/email.tpl.php:51
 msgid "SMTP host"
-msgstr ""
+msgstr "Host SMTP"
 
 #: ./templates/default/admin/email.tpl.php:55
 msgid "This is the address of the server that will send email for you."
-msgstr ""
+msgstr "Esta es la dirección del servidor que le enviará un correo electrónico."
 
 #: ./templates/default/admin/email.tpl.php:62
 #: ./templates/default/admin/email.tpl.php:65
 msgid "SMTP username"
-msgstr ""
+msgstr "Nombre de usuario SMTP"
 
 #: ./templates/default/admin/email.tpl.php:69
 msgid "If your mail server needs a username, enter it here."
-msgstr ""
+msgstr "Si su servidor de correo necesita un nombre de usuario, introdúzcalo aquí."
 
 #: ./templates/default/admin/email.tpl.php:76
 #: ./templates/default/admin/email.tpl.php:79
 msgid "SMTP password"
-msgstr ""
+msgstr "Contraseña SMTP"
 
 #: ./templates/default/admin/email.tpl.php:84
 msgid "If your mail server needs a password, enter it here."
-msgstr ""
+msgstr "Si su servidor de correo necesita una contraseña, introdúzcalo aquí."
 
 #: ./templates/default/admin/email.tpl.php:91
 #: ./templates/default/admin/email.tpl.php:94
