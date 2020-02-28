@@ -232,15 +232,15 @@ msgstr "Notifiche"
 
 #: ./Idno/Pages/Account/Password.php:26
 msgid "Password recovery email sent"
-msgstr ""
+msgstr "Email di recupero password inviata"
 
 #: ./Idno/Pages/Account/Password.php:29
 msgid "Recover password"
-msgstr ""
+msgstr "Recupera password"
 
 #: ./Idno/Pages/Account/Password.php:63
 msgid "Oh no! We couldn't find an account associated with that email address."
-msgstr ""
+msgstr "Oh no! Non è stato possibile trovare un account associato a tale indirizzo e-mail."
 
 #: ./Idno/Pages/Account/Password/Reset.php:27
 msgid "Reset password"
