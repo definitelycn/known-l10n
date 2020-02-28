@@ -1461,7 +1461,11 @@ msgid ""
 "email using an external provider - enter the new SMTP settings below. You "
 "can also <a href=\"%s\">change your notification settings</a>."
 msgstr ""
-""
+"Known intenta enviar correo electrónico utilizando la configuración de "
+"correo electrónico predeterminada de su servidor. Si desea que haga algo "
+"más (por ejemplo, si desea enviar correo electrónico con un proveedor "
+"externo), introduzca la nueva configuración de SMTP a continuación. "
+"También puede <a href=\"%s\">cambiar la configuración de la notificación</a>."
 
 #: ./templates/default/admin/email.tpl.php:20
 msgid ""
