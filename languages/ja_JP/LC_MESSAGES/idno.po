@@ -19,15 +19,16 @@ msgstr "キャッシュ ドメインが指定されていません"
 
 #: ./Idno/Common/Entity.php:692
 msgid "There was a problem syndicating."
-msgstr ""
+msgstr "シンカジケートに問題がありました。"
+# There was a problem with the synkajite.
 
 #: ./Idno/Common/Entity.php:2346
 msgid "%s replied to your post!"
-msgstr ""
+msgstr "%s は投稿に返信しました!"
 
 #: ./Idno/Common/Entity.php:2348
 msgid "%s replied!"
-msgstr ""
+msgstr "%s は答えました!"
 
 #: ./Idno/Common/Page.php:397
 msgid "Invalid token."
