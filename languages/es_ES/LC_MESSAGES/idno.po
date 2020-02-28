@@ -1471,6 +1471,8 @@ msgstr ""
 msgid ""
 "Fill in the site email address if you would like your site to send email."
 msgstr ""
+"Rellene la dirección de correo electrónico del sitio si desea que su "
+"sitio envíe correo electrónico."
 
 #: ./templates/default/admin/email.tpl.php:26
 #: ./templates/default/admin/email.tpl.php:29

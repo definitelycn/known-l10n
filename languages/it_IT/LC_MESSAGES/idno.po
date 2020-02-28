@@ -1183,7 +1183,7 @@ msgstr "Knoln tenta di inviare e-mail utilizzando le impostazioni e-mail predefi
 
 #: ./templates/default/admin/email.tpl.php:20
 msgid "Fill in the site email address if you would like your site to send email."
-msgstr ""
+msgstr "Inserisci l'indirizzo email del sito se desideri che il tuo sito invii email."
 
 #: ./templates/default/admin/email.tpl.php:26
 msgid "Site email address"
