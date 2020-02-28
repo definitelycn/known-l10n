@@ -1481,13 +1481,16 @@ msgstr "Dirección de correo electrónico del sitio"
 
 #: ./templates/default/admin/email.tpl.php:33
 msgid "This is the address that every notification will be sent from."
-msgstr ""
+msgstr "Esta es la dirección desde la que se enviará cada notificación."
 
 #: ./templates/default/admin/email.tpl.php:40
 msgid ""
 "You can often leave the following settings blank. However, you may wish to "
 "set them if you're using a third-party service to send email."
 msgstr ""
+"A menudo puede dejar los siguientes ajustes en blanco. Sin embargo, es "
+"posible que desee establecerlos si está utilizando un servicio de terceros "
+"para enviar correo electrónico."
 
 #: ./templates/default/admin/email.tpl.php:48
 #: ./templates/default/admin/email.tpl.php:51

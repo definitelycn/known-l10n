@@ -1187,15 +1187,15 @@ msgstr "Inserisci l'indirizzo email del sito se desideri che il tuo sito invii e
 
 #: ./templates/default/admin/email.tpl.php:26
 msgid "Site email address"
-msgstr ""
+msgstr "Indirizzo di posta elettronica del sito"
 
 #: ./templates/default/admin/email.tpl.php:33
 msgid "This is the address that every notification will be sent from."
-msgstr ""
+msgstr "Questo è l'indirizzo da cui verrà inviata ogni notifica."
 
 #: ./templates/default/admin/email.tpl.php:40
 msgid "You can often leave the following settings blank. However, you may wish to set them if you're using a third-party service to send email."
-msgstr ""
+msgstr "Spesso è possibile lasciare vuote le seguenti impostazioni. Tuttavia, è possibile impostarli se si utilizza un servizio di terze parti per inviare posta elettronica."
 
 #: ./templates/default/admin/email.tpl.php:48
 msgid "SMTP host"
