@@ -1530,11 +1530,12 @@ msgstr "Esto es normalmente 25 o 587."
 
 #: ./templates/default/admin/email.tpl.php:114
 msgid "Secure connection"
-msgstr ""
+msgstr "Conexión segura"
 
 #: ./templates/default/admin/email.tpl.php:135
 msgid "Select yes if you use secure logins to your mail server."
 msgstr ""
+"Seleccione sí si utiliza inicios de sesión seguros en su servidor de correo."
 
 #: ./templates/default/admin/email.tpl.php:157
 msgid "Send a test message to"

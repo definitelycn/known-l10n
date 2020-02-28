@@ -1231,11 +1231,11 @@ msgstr "Questo è normalmente 25 o 587."
 
 #: ./templates/default/admin/email.tpl.php:114
 msgid "Secure connection"
-msgstr ""
+msgstr "Connessione sicura"
 
 #: ./templates/default/admin/email.tpl.php:135
 msgid "Select yes if you use secure logins to your mail server."
-msgstr ""
+msgstr "Selezionare Sì se si utilizzano accessi sicuri al server di posta."
 
 #: ./templates/default/admin/email.tpl.php:157
 msgid "Send a test message to"
