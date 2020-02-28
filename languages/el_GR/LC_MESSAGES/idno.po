@@ -18,15 +18,16 @@ msgstr "Δεν έχει καθοριστεί τομέας για το cache"
 
 #: ./Idno/Common/Entity.php:692
 msgid "There was a problem syndicating."
-msgstr ""
+msgstr "Υπήρξε ένα πρόβλημα συνδικάτο."
+# There was a union problem (?)
 
 #: ./Idno/Common/Entity.php:2346
 msgid "%s replied to your post!"
-msgstr ""
+msgstr "το %s απάντησε στη δημοσίευσή σας!"
 
 #: ./Idno/Common/Entity.php:2348
 msgid "%s replied!"
-msgstr ""
+msgstr "το %s απάντησε!"
 
 #: ./Idno/Common/Page.php:397
 msgid "Invalid token."
