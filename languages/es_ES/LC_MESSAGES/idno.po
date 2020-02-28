@@ -1522,11 +1522,11 @@ msgstr "Si su servidor de correo necesita una contraseña, introdúzcalo aquí."
 #: ./templates/default/admin/email.tpl.php:91
 #: ./templates/default/admin/email.tpl.php:94
 msgid "SMTP port"
-msgstr ""
+msgstr "Puerto SMTP"
 
 #: ./templates/default/admin/email.tpl.php:107
 msgid "This is normally 25 or 587."
-msgstr ""
+msgstr "Esto es normalmente 25 o 587."
 
 #: ./templates/default/admin/email.tpl.php:114
 msgid "Secure connection"

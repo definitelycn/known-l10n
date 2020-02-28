@@ -1223,11 +1223,11 @@ msgstr "Se il server di posta ha bisogno di una password, immetterlo qui."
 
 #: ./templates/default/admin/email.tpl.php:91
 msgid "SMTP port"
-msgstr ""
+msgstr "Porta SMTP"
 
 #: ./templates/default/admin/email.tpl.php:107
 msgid "This is normally 25 or 587."
-msgstr ""
+msgstr "Questo è normalmente 25 o 587."
 
 #: ./templates/default/admin/email.tpl.php:114
 msgid "Secure connection"
