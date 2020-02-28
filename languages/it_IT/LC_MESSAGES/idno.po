@@ -208,19 +208,19 @@ msgstr "Un'estensione PHP ha interrotto il caricamento del file."
 
 #: ./Idno/Files/LocalFileSystem.php:86 Idno/Files/LocalFileSystem.php:137
 msgid "There was a problem storing the file data."
-msgstr ""
+msgstr "Si è verificato un problema durante l'archiviazione dei dati del file."
 
 #: ./Idno/Files/LocalFileSystem.php:89 Idno/Files/LocalFileSystem.php:141
 msgid "There was a problem saving the file's metadata"
-msgstr ""
+msgstr "Si è verificato un problema durante il salvataggio dei metadati del file"
 
 #: ./Idno/Files/LocalFileSystem.php:98 Idno/Files/LocalFileSystem.php:150
 msgid "Something went wrong saving your file."
-msgstr ""
+msgstr "Si è verificato un problema durante il salvataggio del file."
 
 #: ./Idno/Files/LocalFileSystem.php:100
 msgid "Check that your upload directory is writeable by the web server and try again."
-msgstr ""
+msgstr "Verificare che la directory di caricamento sia scrivibile dal server Web e riprovare."
 
 #: ./Idno/Pages/Account/Export.php:20
 msgid "Export Data"
