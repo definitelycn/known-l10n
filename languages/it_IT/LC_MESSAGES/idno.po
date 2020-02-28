@@ -176,35 +176,35 @@ msgstr "Sei stato invitato a partecipare a %s"
 
 #: ./Idno/Files/FileSystem.php:63
 msgid "There is no error, the file uploaded with success"
-msgstr ""
+msgstr "Non c'è nessun errore, il file caricato con successo"
 
 #: ./Idno/Files/FileSystem.php:64
 msgid "The uploaded file exceeds the upload_max_filesize directive in php.ini"
-msgstr ""
+msgstr "Il file caricato supera la direttiva upload_max_filesize in php.ini"
 
 #: ./Idno/Files/FileSystem.php:65
 msgid "The uploaded file exceeds the MAX_FILE_SIZE directive that was specified in the HTML form"
-msgstr ""
+msgstr "Il file caricato supera la direttiva MAX_FILE_SIZE specificata nel modulo HTML"
 
 #: ./Idno/Files/FileSystem.php:66
 msgid "The uploaded file was only partially uploaded"
-msgstr ""
+msgstr "Il file caricato è stato caricato solo parzialmente"
 
 #: ./Idno/Files/FileSystem.php:67
 msgid "No file was uploaded"
-msgstr ""
+msgstr "Nessun file è stato caricato"
 
 #: ./Idno/Files/FileSystem.php:68
 msgid "Missing a temporary folder"
-msgstr ""
+msgstr "Manca una cartella temporanea"
 
 #: ./Idno/Files/FileSystem.php:69
 msgid "Failed to write file to disk."
-msgstr ""
+msgstr "Impossibile scrivere il file su disco."
 
 #: ./Idno/Files/FileSystem.php:70
 msgid "A PHP extension stopped the file upload."
-msgstr ""
+msgstr "Un'estensione PHP ha interrotto il caricamento del file."
 
 #: ./Idno/Files/LocalFileSystem.php:86 Idno/Files/LocalFileSystem.php:137
 msgid "There was a problem storing the file data."
