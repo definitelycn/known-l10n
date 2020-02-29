@@ -244,19 +244,19 @@ msgstr "Oh no! Non è stato possibile trovare un account associato a tale indiri
 
 #: ./Idno/Pages/Account/Password/Reset.php:27
 msgid "Reset password"
-msgstr ""
+msgstr "Reimposta password"
 
 #: ./Idno/Pages/Account/Password/Reset.php:35
 msgid "The password reset code wasn't valid. They expire after three hours, so you might need to try again."
-msgstr ""
+msgstr "Il codice di reimpostazione della password non è valido. Scadono dopo tre ore, quindi potrebbe essere necessario riprovare."
 
 #: ./Idno/Pages/Account/Password/Reset.php:58
 msgid "Your password was reset!"
-msgstr ""
+msgstr "La tua password è stata reimpostata!"
 
 #: ./Idno/Pages/Account/Password/Reset.php:64
 msgid "Sorry, your passwords either don't match, or are too weak"
-msgstr ""
+msgstr "Spiacenti, le password non corrispondono o sono troppo deboli"
 
 #: ./Idno/Pages/Account/Register.php:27
 msgid "This site is closed to new users."
