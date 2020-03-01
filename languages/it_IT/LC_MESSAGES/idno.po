@@ -1240,19 +1240,20 @@ msgstr "Selezionare Sì se si utilizzano accessi sicuri al server di posta."
 
 #: ./templates/default/admin/email.tpl.php:157
 msgid "Send a test message to"
-msgstr ""
+msgstr "Inviare un messaggio di prova a"
 
 #: ./templates/default/admin/email.tpl.php:160
 msgid "To address"
-msgstr ""
+msgstr "Per indirizzo"
+# By address
 
 #: ./templates/default/admin/email.tpl.php:164
 msgid "Check your email settings by sending a test email."
-msgstr ""
+msgstr "Controlla le impostazioni della posta elettronica inviando un'email di prova."
 
 #: ./templates/default/admin/email.tpl.php:170
 msgid "Test settings"
-msgstr ""
+msgstr "Controllare le impostazioni"
 
 #: ./templates/default/admin/export/download.tpl.php:2
 msgid "Download your data"
