@@ -32,26 +32,28 @@ msgstr "%s は答えました!"
 
 #: ./Idno/Common/Page.php:397
 msgid "Invalid token."
-msgstr ""
+msgstr "無効なトークンです。"
 
 #: ./Idno/Common/Page.php:414
 #: ./templates/default/pages/500.tpl.php:6
 msgid "Something went wrong."
-msgstr ""
+msgstr "何かがうまくいかなかった。"
 
 #: ./Idno/Common/Page.php:479
 msgid "Attempted to redirect page to a non local URL."
-msgstr ""
+msgstr "ページをローカル以外の URL にリダイレクトしようとしました。"
 
 #: ./Idno/Common/Page.php:569
 #: ./Idno/Common/Page.php:655
 msgid "The page you were on timed out."
-msgstr ""
+msgstr "ページがタイムアウトしました。"
+# The page timed out.
 
 #: ./Idno/Common/Page.php:583
 #: ./Idno/Common/Page.php:669
 msgid "Couldn't say anything about execution, probably something went wrong"
-msgstr ""
+msgstr "実行について何も言えなかった、おそらく何かがうまくいかなかった"
+# I couldn't say anything about the execution, and perhaps something didn't work out.
 
 #: ./Idno/Common/Page.php:741
 msgid "This content isn't here."
