@@ -1261,23 +1261,23 @@ msgstr "Scarica i tuoi dati"
 
 #: ./templates/default/admin/export/download.tpl.php:3
 msgid "Generated"
-msgstr ""
+msgstr "Generato"
 
 #: ./templates/default/admin/export/download.tpl.php:7
 msgid "You can also regenerate a new copy of your data archive."
-msgstr ""
+msgstr "È inoltre possibile rigenerare una nuova copia del file di dati."
 
 #: ./templates/default/admin/export/download.tpl.php:11
 msgid "Re-archive your data"
-msgstr ""
+msgstr "Riarchiviare i dati"
 
 #: ./templates/default/admin/export/generate.tpl.php:5
 msgid "Create archive"
-msgstr ""
+msgstr "Crea archivio"
 
 #: ./templates/default/admin/export/generate.tpl.php:18
 msgid "It may take a while to generate your archive. You can leave this page while it's working. Once the export file is complete, this page will update, and you'll be able to download the archive right here."
-msgstr ""
+msgstr "La generazione dell'archivio potrebbe richiedere un po' di tempo. È possibile lasciare questa pagina mentre è in funzione. Una volta completato il file di esportazione, questa pagina verrà aggiornata e potrai scaricare l'archivio qui."
 
 #: ./templates/default/admin/export.tpl.php:9
 msgid "Export content"
