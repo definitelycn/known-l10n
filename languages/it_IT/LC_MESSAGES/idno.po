@@ -321,7 +321,7 @@ msgstr "Non siamo riusciti a registrarti."
 
 #: ./Idno/Pages/Account/Settings/FeedbackConfirm.php:17
 msgid "Thank you for your feedback!"
-msgstr ""
+msgstr "Grazie per il vostro feedback!"
 
 #: ./Idno/Pages/Account/Settings/Feedback.php:19
 msgid "Send feedback"
@@ -329,7 +329,7 @@ msgstr "Inviare commenti e suggerimenti"
 
 #: ./Idno/Pages/Account/Settings/Feedback.php:42
 msgid "Thanks! We received your feedback."
-msgstr ""
+msgstr "Grazie! Abbiamo ricevuto il tuo feedback."
 
 #: ./Idno/Pages/Account/Settings/Following/Bookmarklet.php:37
 msgid "Sorry, could not find any users on that page, perhaps they need to mark up their profile in <a href=\"http://microformats.org/wiki/microformats-2\">Microformats</a>?"
