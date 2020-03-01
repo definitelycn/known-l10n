@@ -290,7 +290,7 @@ msgstr "I nomi utente possono avere solo lettere, numeri e caratteri di sottolin
 
 #: ./Idno/Pages/Account/Register.php:143 Idno/Pages/Admin/Users.php:168
 msgid "Usernames can't contain a slash %s character."
-msgstr ""
+msgstr "I nomi utente non possono contenere un carattere barra %s."
 
 #: ./Idno/Pages/Account/Register.php:146
 #: ./Idno/Pages/Admin/Users.php:171
