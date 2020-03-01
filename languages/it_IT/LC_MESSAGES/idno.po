@@ -351,31 +351,31 @@ msgstr "Spiacenti, si è verificato un problema durante l'analisi della pagina!"
 
 #: ./Idno/Pages/Account/Settings/Following/Bookmarklet.php:66
 msgid "Sorry, %s could not be retrieved!"
-msgstr ""
+msgstr "Spiacenti, impossibile recuperare %s!"
 
 #: ./Idno/Pages/Account/Settings/Following/Bookmarklet.php:149
 msgid "There was a problem saving the new remote user."
-msgstr ""
+msgstr "Si è verificato un problema durante il salvataggio del nuovo utente remoto."
 
 #: ./Idno/Pages/Account/Settings/Following/Bookmarklet.php:170
 msgid "You are now following %s, would you like to subscribe to their feed?"
-msgstr ""
+msgstr "Stai seguendo %s, vuoi iscriverti al loro feed?"
 
 #: ./Idno/Pages/Account/Settings/Following/Bookmarklet.php:175
 msgid "You are now following %s"
-msgstr ""
+msgstr "Si sta seguendo %s"
 
 #: ./Idno/Pages/Account/Settings/Following/Bookmarklet.php:180
 msgid "You're already following %s"
-msgstr ""
+msgstr "Stai già seguendo %s"
 
 #: ./Idno/Pages/Account/Settings/Following/Bookmarklet.php:183
 msgid "Sorry, that user doesn't exist!"
-msgstr ""
+msgstr "Spiacenti, quell'utente non esiste!"
 
 #: ./Idno/Pages/Account/Settings/Following/Bookmarklet.php:185
 msgid "No UUID, please try that again!"
-msgstr ""
+msgstr "Nessun UUID, si prega di provare di nuovo!"
 
 #: ./Idno/Pages/Account/Settings/Following.php:20
 msgid "Following settings"
