@@ -1562,15 +1562,15 @@ msgstr "Descargue sus datos"
 
 #: ./templates/default/admin/export/download.tpl.php:3
 msgid "Generated"
-msgstr ""
+msgstr "Generado"
 
 #: ./templates/default/admin/export/download.tpl.php:7
 msgid "You can also regenerate a new copy of your data archive."
-msgstr ""
+msgstr "También puede regenerar una nueva copia del archivo de datos."
 
 #: ./templates/default/admin/export/download.tpl.php:11
 msgid "Re-archive your data"
-msgstr ""
+msgstr "Vuelva a archivar sus datos"
 
 #: ./templates/default/admin/export/generate.tpl.php:5
 msgid "Create archive"
