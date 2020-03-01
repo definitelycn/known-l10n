@@ -1800,7 +1800,7 @@ msgstr ""
 
 #: ./templates/default/admin/home.tpl.php:260
 msgid "Include permalinks"
-msgstr ""
+msgstr "Incluir enlaces permanentes"
 
 #: ./templates/default/admin/home.tpl.php:269
 msgid ""
