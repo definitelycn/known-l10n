@@ -1558,7 +1558,7 @@ msgstr "Comprobar la configuración"
 
 #: ./templates/default/admin/export/download.tpl.php:2
 msgid "Download your data"
-msgstr ""
+msgstr "Descargue sus datos"
 
 #: ./templates/default/admin/export/download.tpl.php:3
 msgid "Generated"
