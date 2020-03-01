@@ -1574,7 +1574,7 @@ msgstr "Vuelva a archivar sus datos"
 
 #: ./templates/default/admin/export/generate.tpl.php:5
 msgid "Create archive"
-msgstr ""
+msgstr "Crear archivo"
 
 #: ./templates/default/admin/export/generate.tpl.php:18
 msgid ""
@@ -1582,6 +1582,9 @@ msgid ""
 "it's working. Once the export file is complete, this page will update, and "
 "you'll be able to download the archive right here."
 msgstr ""
+"Puede tomar un tiempo generar su archivo. Puedes dejar esta página mientras "
+"está funcionando. Una vez completado el archivo de exportación, esta página "
+"se actualizará y podrás descargar el archivo aquí mismo."
 
 #: ./templates/default/admin/export.tpl.php:9
 msgid "Export content"
