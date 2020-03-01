@@ -31,15 +31,15 @@ msgstr "το %s απάντησε!"
 
 #: ./Idno/Common/Page.php:397
 msgid "Invalid token."
-msgstr ""
+msgstr "Μη έγκυρο διακριτικό."
 
 #: ./Idno/Common/Page.php:414
 msgid "Something went wrong."
-msgstr ""
+msgstr "Κάτι πήγε στραβά."
 
 #: ./Idno/Common/Page.php:479
 msgid "Attempted to redirect page to a non local URL."
-msgstr ""
+msgstr "Επιχειρήθηκε ανακατεύθυνση σελίδας σε μη τοπική διεύθυνση URL."
 
 #: ./Idno/Common/Page.php:569
 msgid "The page you were on timed out."
