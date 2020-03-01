@@ -313,7 +313,7 @@ msgstr "Questo non sembra che sia un indirizzo email valido."
 
 #: ./Idno/Pages/Account/Register.php:160
 msgid "You've registered! You're ready to get started. Why not add a post to say hello?"
-msgstr ""
+msgstr "Ti sei registrato! Sei pronto per iniziare. Perché non aggiungere un post per salutarlo?"
 
 #: ./Idno/Pages/Account/Register.php:164
 msgid "We couldn't register you."
