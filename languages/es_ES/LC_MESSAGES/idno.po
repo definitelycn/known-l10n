@@ -1539,19 +1539,22 @@ msgstr ""
 
 #: ./templates/default/admin/email.tpl.php:157
 msgid "Send a test message to"
-msgstr ""
+msgstr "Enviar un mensaje de prueba a"
 
 #: ./templates/default/admin/email.tpl.php:160
 msgid "To address"
-msgstr ""
+msgstr "Para abordar"
 
 #: ./templates/default/admin/email.tpl.php:164
 msgid "Check your email settings by sending a test email."
 msgstr ""
+"Compruebe la configuración de correo electrónico enviando un "
+"correo electrónico de prueba."
 
 #: ./templates/default/admin/email.tpl.php:170
 msgid "Test settings"
-msgstr ""
+msgstr "Comprobar la configuración"
+# Check settings
 
 #: ./templates/default/admin/export/download.tpl.php:2
 msgid "Download your data"
