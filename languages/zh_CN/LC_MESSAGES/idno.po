@@ -19,15 +19,16 @@ msgstr "未為緩存指定域"
 
 #: ./Idno/Common/Entity.php:692
 msgid "There was a problem syndicating."
-msgstr ""
+msgstr "聯合存在問題。"
+# There was a problem with the union.
 
 #: ./Idno/Common/Entity.php:2346
 msgid "%s replied to your post!"
-msgstr ""
+msgstr "%s 回復了您的帖子！"
 
 #: ./Idno/Common/Entity.php:2348
 msgid "%s replied!"
-msgstr ""
+msgstr "%s 回答！"
 
 #: ./Idno/Common/Page.php:397
 msgid "Invalid token."
