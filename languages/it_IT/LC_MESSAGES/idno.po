@@ -379,7 +379,8 @@ msgstr ""
 
 #: ./Idno/Pages/Account/Settings/Following.php:20
 msgid "Following settings"
-msgstr ""
+msgstr "Impostazioni relative ai seguenti"
+# Settings for the following
 
 #: ./Idno/Pages/Account/Settings/Notifications.php:20
 msgid "Notification settings"
@@ -387,7 +388,7 @@ msgstr "Impostazioni di notifica"
 
 #: ./Idno/Pages/Account/Settings/Notifications.php:39
 msgid "Your notification preferences were saved."
-msgstr ""
+msgstr "Le preferenze di notifica sono state salvate."
 
 #: ./Idno/Pages/Account/Settings.php:20
 msgid "Account settings"
