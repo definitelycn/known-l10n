@@ -571,46 +571,49 @@ msgstr ""
 #: ./Idno/Pages/Admin/Users.php:97
 msgid "No email addresses were found or all the people you invited are already members of this site."
 msgstr ""
+"Non sono stati trovati indirizzi e-mail o tutte le persone che hai invitato sono già membri di questo sito."
 
 #: ./Idno/Pages/Admin/Users.php:105
 msgid "The invitation was removed."
-msgstr ""
+msgstr "L'invito è stato rimosso."
 
 #: ./Idno/Pages/Admin/Users.php:119
 msgid "The invitation was resent."
-msgstr ""
+msgstr "L'invito è stato inviato di nuovo."
 
 #: ./Idno/Pages/Admin/Users.php:128
 msgid "You can't add any more users to your site."
-msgstr ""
+msgstr "Non puoi aggiungere altri utenti al tuo sito."
 
 #: ./Idno/Pages/Admin/Users.php:141
 msgid "Please make sure your passwords match and aren't empty."
-msgstr ""
+msgstr "Assicurati che le password corrispondano e non siano vuote."
 
 #: ./Idno/Pages/Admin/Users.php:182
 msgid "User %s was created. You may wish to email them to let them know."
 msgstr ""
+"L'utente %s è stato creato. Si consiglia di inviarli via e-mail per informarli."
 
 #: ./Idno/Pages/Admin/Users.php:205
 msgid "%d emails were blocked."
-msgstr ""
+msgstr "Sono stati bloccati %d indirizzi e-mail."
 
 #: ./Idno/Pages/Admin/Users.php:207
 msgid "The email address was blocked."
-msgstr ""
+msgstr "L'indirizzo e-mail è stato bloccato."
 
 #: ./Idno/Pages/Admin/Users.php:209
 msgid "No email addresses were found."
-msgstr ""
+msgstr "Non sono stati trovati indirizzi di posta elettronica."
 
 #: ./Idno/Pages/Admin/Users.php:230
 msgid "%d emails were unblocked."
-msgstr ""
+msgstr "%d indirizzi e-mail sono stati sbloccati."
 
 #: ./Idno/Pages/Admin/Users.php:232
 msgid "The email address was unblocked."
-msgstr ""
+msgstr "L'indirizzo e-mail è stato sbloccato."
+# unlocked?
 
 #: ./Idno/Pages/Annotation/Delete.php:42
 msgid "The annotation was deleted."
