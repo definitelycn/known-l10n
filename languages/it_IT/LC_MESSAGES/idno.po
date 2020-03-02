@@ -545,27 +545,28 @@ msgstr "Gestione Utente"
 
 #: ./Idno/Pages/Admin/Users.php:50
 msgid "%s was given administration rights."
-msgstr ""
+msgstr "A %s sono stati concessi diritti amministrativi."
 
 #: ./Idno/Pages/Admin/Users.php:58
 msgid "%s was stripped of their administration rights."
-msgstr ""
+msgstr "%s è stato privato dei diritti amministrativi."
 
 #: ./Idno/Pages/Admin/Users.php:65
 msgid "%s was removed from your site."
-msgstr ""
+msgstr "%s è stato rimosso dal sito."
 
 #: ./Idno/Pages/Admin/Users.php:91
 msgid "%d invitations were sent."
-msgstr ""
+msgstr "Sono stati inviati %d inviti."
 
 #: ./Idno/Pages/Admin/Users.php:93
 msgid "Your invitation was sent."
-msgstr ""
+msgstr "Il tuo invito è stato inviato."
 
 #: ./Idno/Pages/Admin/Users.php:95
 msgid "Something went wrong and we couldn't send emails to your recipients."
 msgstr ""
+"Qualcosa è andato storto e non abbiamo potuto inviare e-mail ai destinatari."
 
 #: ./Idno/Pages/Admin/Users.php:97
 msgid "No email addresses were found or all the people you invited are already members of this site."
