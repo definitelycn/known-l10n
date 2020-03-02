@@ -484,7 +484,7 @@ msgstr "Pagina indice"
 
 #: ./Idno/Pages/Admin/Homepage.php:42
 msgid "The default homepage content types were saved."
-msgstr ""
+msgstr "I tipi di contenuto predefiniti della home page sono stati salvati."
 
 #: ./Idno/Pages/Admin/Home.php:21
 msgid "Administration"
@@ -496,19 +496,20 @@ msgstr "Importa dati"
 
 #: ./Idno/Pages/Admin/Import.php:33
 msgid "You need to upload an import file to continue."
-msgstr ""
+msgstr "È necessario caricare un file di importazione per continuare."
 
 #: ./Idno/Pages/Admin/Import.php:35
 msgid "We couldn't open the file you uploaded. Please try again."
-msgstr ""
+msgstr "Impossibile aprire il file caricato. Riprovare."
 
 #: ./Idno/Pages/Admin/Import.php:37
 msgid "Your import has started. We'll email you when it's done."
 msgstr ""
+"L'importazione è iniziata. Ti invieremo un'email al termine dell'operazione."
 
 #: ./Idno/Pages/Admin/Logs.php:19
 msgid "Log capture"
-msgstr ""
+msgstr "Acquisizione log"
 
 #: ./Idno/Pages/Admin/Plugins.php:23
 msgid "Plugins"
@@ -524,11 +525,11 @@ msgstr "Il plug-in è stato disabilitato."
 
 #: ./Idno/Pages/Admin/Statistics.php:16
 msgid "Something went wrong, either no statistics were returned or it wasn't in the correct format."
-msgstr ""
+msgstr "Si è verificato un problema, non sono state restituite statistiche o non era nel formato corretto."
 
 #: ./Idno/Pages/Admin/Statistics.php:27
 msgid "Statistics"
-msgstr ""
+msgstr "Statistiche"
 
 #: ./Idno/Pages/Admin/Themes.php:22
 msgid "Themes"
