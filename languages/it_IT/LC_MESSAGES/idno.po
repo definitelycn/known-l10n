@@ -463,15 +463,16 @@ msgstr "Posta elettronica"
 
 #: ./Idno/Pages/Admin/EmailTest.php:21
 msgid "Test email from %s!"
-msgstr ""
+msgstr "Posta elettronica di prova da %s!"
 
 #: ./Idno/Pages/Admin/EmailTest.php:26
 msgid "Test email sent to %s"
-msgstr ""
+msgstr "Posta elettronica di prova inviata a %s"
 
 #: ./Idno/Pages/Admin/EmailTest.php:28
 msgid "There was a problem sending a test message to %s."
 msgstr ""
+"Si è verificato un problema durante l'invio di un messaggio di prova a %s."
 
 #: ./Idno/Pages/Admin/Export.php:17
 msgid "Export data"
