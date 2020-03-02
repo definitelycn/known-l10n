@@ -642,15 +642,15 @@ msgstr "È possibile caricare solo immagini."
 
 #: ./Idno/Pages/Following/Add.php:23
 msgid "We couldn't find a feed at that site."
-msgstr ""
+msgstr "Non siamo riusciti a trovare un feed in quel sito."
 
 #: ./Idno/Pages/Following/Confirm.php:50
 msgid "You're following %s!"
-msgstr ""
+msgstr "Stai seguendo %s!"
 
 #: ./Idno/Pages/Following/Home.php:17
 msgid "Following"
-msgstr ""
+msgstr "Seguente"
 
 #: ./Idno/Pages/Onboarding/Begin.php:23
 msgid "Welcome to Known"
