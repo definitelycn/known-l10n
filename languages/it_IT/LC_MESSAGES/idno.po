@@ -629,15 +629,16 @@ msgstr "Non siamo riusciti a trovare il post da eliminare."
 
 #: ./Idno/Pages/Entity/View.php:125
 msgid "%s was deleted."
-msgstr ""
+msgstr "%s è stato eliminato."
 
 #: ./Idno/Pages/Entity/Withdraw.php:48
 msgid "We removed copies on all the syndicated sites."
-msgstr ""
+msgstr "Abbiamo rimosso copie su tutti i siti su diversi siti."
+# ?
 
 #: ./Idno/Pages/File/Picker.php:57
 msgid "You can only upload images."
-msgstr ""
+msgstr "È possibile caricare solo immagini."
 
 #: ./Idno/Pages/Following/Add.php:23
 msgid "We couldn't find a feed at that site."
