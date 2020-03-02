@@ -617,15 +617,15 @@ msgstr "L'indirizzo e-mail è stato sbloccato."
 
 #: ./Idno/Pages/Annotation/Delete.php:42
 msgid "The annotation was deleted."
-msgstr ""
+msgstr "L'annotazione è stata eliminata."
 
 #: ./Idno/Pages/Entity/Attachment/Delete.php:21
 msgid "We couldn't find the post."
-msgstr ""
+msgstr "Impossibile trovare il post."
 
 #: ./Idno/Pages/Entity/Delete.php:45
 msgid "We couldn't find the post to delete."
-msgstr ""
+msgstr "Non siamo riusciti a trovare il post da eliminare."
 
 #: ./Idno/Pages/Entity/View.php:125
 msgid "%s was deleted."
