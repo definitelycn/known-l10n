@@ -14,19 +14,19 @@ msgstr ""
 
 #: ./Idno/Caching/FilesystemCache.php:19
 msgid "No domain specified for cache"
-msgstr ""
+msgstr "Nenhum domínio especificado para cache"
 
 #: ./Idno/Common/Entity.php:692
 msgid "There was a problem syndicating."
-msgstr ""
+msgstr "Havia um problema de sindicância."
 
 #: ./Idno/Common/Entity.php:2346
 msgid "%s replied to your post!"
-msgstr ""
+msgstr "%s respondeu ao seu post!"
 
 #: ./Idno/Common/Entity.php:2348
 msgid "%s replied!"
-msgstr ""
+msgstr "%s respondeu!"
 
 #: ./Idno/Common/Page.php:397
 msgid "Invalid token."
