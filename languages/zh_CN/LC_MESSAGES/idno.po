@@ -32,7 +32,7 @@ msgstr "%s 回答！"
 
 #: ./Idno/Common/Page.php:397
 msgid "Invalid token."
-msgstr ""
+msgstr "權杖無效。"
 
 #: ./Idno/Common/Page.php:414
 #: ./templates/default/pages/500.tpl.php:6
