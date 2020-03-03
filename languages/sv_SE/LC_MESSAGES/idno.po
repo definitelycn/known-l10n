@@ -14,19 +14,19 @@ msgstr ""
 
 #: ./Idno/Caching/FilesystemCache.php:19
 msgid "No domain specified for cache"
-msgstr ""
+msgstr "Ingen domän har angetts för cache"
 
 #: ./Idno/Common/Entity.php:692
 msgid "There was a problem syndicating."
-msgstr ""
+msgstr "Det fanns ett problem syndicating."
 
 #: ./Idno/Common/Entity.php:2346
 msgid "%s replied to your post!"
-msgstr ""
+msgstr "%s svarade på ditt inlägg!"
 
 #: ./Idno/Common/Entity.php:2348
 msgid "%s replied!"
-msgstr ""
+msgstr "%s svarade!"
 
 #: ./Idno/Common/Page.php:397
 msgid "Invalid token."
