@@ -679,19 +679,20 @@ msgstr "URL mancante"
 
 #: ./Idno/Pages/Service/Web/ImageProxy.php:77
 msgid "There was a problem decoding the url"
-msgstr ""
+msgstr "Si è verificato un problema durante la decodifica dell'URL"
 
 #: ./Idno/Pages/Service/Web/ImageProxy.php:81
 msgid "No url specified"
-msgstr ""
+msgstr "Nessun URL specificato"
 
 #: ./Idno/Pages/Service/Web/ImageProxy.php:222
 msgid "Could not save temporary file"
-msgstr ""
+msgstr "Impossibile salvare il file temporaneo"
 
 #: ./Idno/Pages/Service/Web/ImageProxy.php:253
 msgid "Looks like something went wrong, image was zero bytes big!"
-msgstr ""
+msgstr "Sembra che qualcosa sia andato storto, l'immagine era zero byte di grandi dimensioni!"
+# Sembra che qualcosa sia andato storto, l'immagine era zero byte!
 
 #: ./Idno/Pages/Service/Web/UrlUnfurl.php:20
 msgid "You need to specify a working URL"
