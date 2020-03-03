@@ -1983,23 +1983,23 @@ msgstr "Deshabilitado"
 
 #: ./templates/default/admin/plugins/plugin.tpl.php:56
 msgid "Known Version"
-msgstr ""
+msgstr "Versión Known"
 
 #: ./templates/default/admin/plugins/plugin.tpl.php:67
 msgid "Known Build"
-msgstr ""
+msgstr "Construcción Known"
 
 #: ./templates/default/admin/plugins/plugin.tpl.php:78
 msgid "PHP Version"
-msgstr ""
+msgstr "Versión PHP"
 
 #: ./templates/default/admin/plugins/plugin.tpl.php:91
 msgid "Extensions"
-msgstr ""
+msgstr "Extensiones"
 
 #: ./templates/default/admin/plugins/plugin.tpl.php:134
 msgid "Disable"
-msgstr ""
+msgstr "Desactivar"
 
 #: ./templates/default/admin/plugins/plugin.tpl.php:147
 #: ./templates/default/admin/themes/theme.tpl.php:43
