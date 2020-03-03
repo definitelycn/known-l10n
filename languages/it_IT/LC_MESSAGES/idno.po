@@ -696,11 +696,12 @@ msgstr "Sembra che qualcosa sia andato storto, l'immagine era zero byte di grand
 
 #: ./Idno/Pages/Service/Web/UrlUnfurl.php:20
 msgid "You need to specify a working URL"
-msgstr ""
+msgstr "È necessario specificare un URL di lavoro"
 
 #: ./Idno/Pages/Service/Web/UrlUnfurl.php:69
 msgid "Url %s could not be unfurled"
-msgstr ""
+msgstr "Impossibile annullare il deperire dell'URL %s"
+# ?
 
 #: ./Idno/Pages/Session/CurrentUser.php:36
 msgid "The %s profile for %s"
