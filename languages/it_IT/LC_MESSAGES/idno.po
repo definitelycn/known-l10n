@@ -666,15 +666,16 @@ msgstr "Crea il tuo profilo"
 
 #: ./Idno/Pages/Search/User.php:23
 msgid "Invalid sort type %s"
-msgstr ""
+msgstr "Il tipo di ordinamento %s non è valido"
 
 #: ./Idno/Pages/Search/User.php:27
 msgid "Invalid sort order %s"
-msgstr ""
+msgstr "Ordinamento non valido %s"
+# L'ordinamento %s non è valido
 
 #: ./Idno/Pages/Service/Security/CSRFToken.php:16
 msgid "URL missing"
-msgstr ""
+msgstr "URL mancante"
 
 #: ./Idno/Pages/Service/Web/ImageProxy.php:77
 msgid "There was a problem decoding the url"
