@@ -43,11 +43,11 @@ msgstr "Επιχειρήθηκε ανακατεύθυνση σελίδας σε 
 
 #: ./Idno/Common/Page.php:569
 msgid "The page you were on timed out."
-msgstr ""
+msgstr "Έληξε το χρονικό όριο της σελίδας."
 
 #: ./Idno/Common/Page.php:583
 msgid "Couldn't say anything about execution, probably something went wrong"
-msgstr ""
+msgstr "Δεν μπορούσα να πω τίποτα για την εκτέλεση, μάλλον κάτι πήγε στραβά"
 
 #: ./Idno/Common/Page.php:741
 msgid "This content isn't here."
@@ -55,7 +55,7 @@ msgstr "Αυτό το περιεχόμενο δεν είναι εδώ."
 
 #: ./Idno/Common/Page.php:757
 msgid "This page can't be found."
-msgstr ""
+msgstr "Δεν είναι δυνατή η εύρεση αυτής της σελίδας."
 
 #: ./Idno/Common/Plugin.php:87
 msgid "Plugin %s doesn't have a version"
