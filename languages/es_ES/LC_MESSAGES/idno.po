@@ -2044,52 +2044,55 @@ msgstr ""
 
 #: ./templates/default/admin/users.tpl.php:9
 msgid "View the users registered for your site, and invite new users to join."
-msgstr ""
+msgstr "Vea los usuarios registrados en su sitio e invite a los nuevos usuarios a unirse."
 
 #: ./templates/default/admin/users.tpl.php:17
 msgid "Manage site users"
-msgstr ""
+msgstr "Administrar usuarios del sitio"
 
 #: ./templates/default/admin/users.tpl.php:20
 msgid "Your site has"
-msgstr ""
+msgstr "Su sitio tiene"
 
 #: ./templates/default/admin/users.tpl.php:21
 msgid "users"
-msgstr ""
+msgstr "usuarios"
 
 #: ./templates/default/admin/users.tpl.php:23
 msgid "user"
-msgstr ""
+msgstr "usuario"
 
 #: ./templates/default/admin/users.tpl.php:45
 msgid "Invite new users"
-msgstr ""
+msgstr "Invitar a nuevos usuarios"
 
 #: ./templates/default/admin/users.tpl.php:48
 msgid ""
 "To invite new users to the site, enter one or more email addresses below."
 msgstr ""
+"Para invitar a nuevos usuarios al sitio, introduzca una o más direcciones "
+"de correo electrónico a continuación."
 
 #: ./templates/default/admin/users.tpl.php:54
 msgid "Send invite"
-msgstr ""
+msgstr "Enviar invitación"
 
 #: ./templates/default/admin/users.tpl.php:111
 msgid "Invitations"
-msgstr ""
+msgstr "Invitaciones"
 
 #: ./templates/default/admin/users.tpl.php:130
 msgid "Sent"
-msgstr ""
+msgstr "Enviado"
 
 #: ./templates/default/admin/users.tpl.php:140
 msgid "Resend"
-msgstr ""
+msgstr "Reenviar"
+# Forward?
 
 #: ./templates/default/admin/users.tpl.php:140
 msgid "Are you sure? The user will receive a second email."
-msgstr ""
+msgstr "¿Estás seguro? El usuario recibirá un segundo correo electrónico."
 
 #: ./templates/default/admin/users.tpl.php:145
 #: ./templates/default/entity/User/edit.tpl.php:81
