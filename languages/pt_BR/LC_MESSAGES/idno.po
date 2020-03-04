@@ -61,7 +61,7 @@ msgstr "Esta página não pode ser encontrada."
 
 #: ./Idno/Common/Plugin.php:87
 msgid "Plugin %s doesn't have a version"
-msgstr ""
+msgstr "Plugin %s não tem uma versão"
 
 #: ./Idno/Core/AsynchronousQueue.php:61
 msgid "No event passed"
