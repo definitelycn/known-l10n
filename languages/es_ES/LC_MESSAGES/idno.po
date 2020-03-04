@@ -2024,6 +2024,7 @@ msgid ""
 "This page provides you with information and statistics about your Known "
 "site."
 msgstr ""
+"Esta página le proporciona información y estadísticas sobre su sitio Known."
 
 #: ./templates/default/admin/themes/theme.tpl.php:41
 msgid "(Selected)"
