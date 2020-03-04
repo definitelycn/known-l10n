@@ -783,7 +783,7 @@ msgstr ""
 
 #: ./templates/default/account/login.tpl.php:36
 msgid "New here? Register for an account."
-msgstr ""
+msgstr "Nuovo qui? Registrati per un account."
 
 #: ./templates/default/account/login.tpl.php:40
 msgid "Forgot your password?"
@@ -811,7 +811,7 @@ msgstr "Reimpostare la password"
 
 #: ./templates/default/account/password/reset.tpl.php:7
 msgid "To change your password, enter your new password below:"
-msgstr ""
+msgstr "Per modificare la password, inserisci la nuova password qui sotto:"
 
 #: ./templates/default/onboarding/register.tpl.php:19
 msgid "Your email address"
@@ -819,7 +819,7 @@ msgstr "Il tuo indirizzo email"
 
 #: ./templates/default/account/password/reset.tpl.php:17
 msgid "The address associated with your %s account."
-msgstr ""
+msgstr "Indirizzo associato all'account %s."
 
 #: ./templates/default/account/password/reset.tpl.php:23
 msgid "New password (7 characters or more)"
@@ -827,11 +827,11 @@ msgstr "Nuova password (7 caratteri o più)"
 
 #: ./templates/default/account/password/reset.tpl.php:29
 msgid "Retype password"
-msgstr ""
+msgstr "Ridigitare la password"
 
 #: ./templates/default/account/password/reset.tpl.php:30
 msgid "We ask you to enter the password twice to protect against typos."
-msgstr ""
+msgstr "Ti chiediamo di inserire la password due volte per proteggerti dagli errore di battitura."
 
 #: ./templates/default/account/password/sent.tpl.php:5
 msgid "Your password reset email has been sent"
