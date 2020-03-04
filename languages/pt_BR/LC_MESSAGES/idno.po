@@ -69,15 +69,15 @@ msgstr "Nenhum evento passou"
 
 #: ./Idno/Core/AsynchronousQueue.php:64
 msgid "Event passed is not a queued event, and so can't be dispatched"
-msgstr ""
+msgstr "Evento não é um evento fila, e por isso não pode ser despachado"
 
 #: ./Idno/Core/AsynchronousQueue.php:67
 msgid "Sorry, this event has already been dispatched (but not yet cleaned up)"
-msgstr ""
+msgstr "Desculpe, este evento já foi despachado (mas ainda não limpo)"
 
 #: ./Idno/Core/AsynchronousQueue.php:76
 msgid "Invalid user (%s) given for runAsContext, aborting"
-msgstr ""
+msgstr "Usuário inválido (%s) dado para runAsContext, abortando"
 
 #: ./Idno/Core/Config.php:268
 msgid "A social website powered by Known"
