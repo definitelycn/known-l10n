@@ -65,7 +65,7 @@ msgstr "Plugin %s não tem uma versão"
 
 #: ./Idno/Core/AsynchronousQueue.php:61
 msgid "No event passed"
-msgstr ""
+msgstr "Nenhum evento passou"
 
 #: ./Idno/Core/AsynchronousQueue.php:64
 msgid "Event passed is not a queued event, and so can't be dispatched"
