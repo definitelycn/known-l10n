@@ -2028,11 +2028,11 @@ msgstr ""
 
 #: ./templates/default/admin/themes/theme.tpl.php:41
 msgid "(Selected)"
-msgstr ""
+msgstr "(Seleccionado)"
 
 #: ./templates/default/admin/themes/theme.tpl.php:48
 msgid "by"
-msgstr ""
+msgstr "por"
 
 #: ./templates/default/admin/themes.tpl.php:7
 msgid ""
