@@ -2108,7 +2108,7 @@ msgstr "¿Estás seguro? El usuario no podrá registrarse."
 #: ./templates/default/admin/users.tpl.php:171
 #: ./templates/default/admin/users.tpl.php:180
 msgid "Block email addresses"
-msgstr ""
+msgstr "Bloquear direcciones de correo electrónico"
 
 #: ./templates/default/admin/users.tpl.php:174
 msgid ""
@@ -2116,19 +2116,23 @@ msgid ""
 "from registering on your site. Enter the email addresses you want to block "
 "below."
 msgstr ""
+"Al bloquear direcciones de correo electrónico, evitas que las personas que "
+"usan esas direcciones de correo electrónico se registren en tu sitio. "
+"Introduzca las direcciones de correo electrónico que desea bloquear a "
+"continuación."
 
 #: ./templates/default/admin/users.tpl.php:196
 msgid "Blocked email addresses"
-msgstr ""
+msgstr "Direcciones de correo electrónico bloqueadas"
 
 #: ./templates/default/admin/users.tpl.php:218
 msgid "Remove block"
-msgstr ""
+msgstr "Eliminar bloque"
 
 #: ./templates/default/admin/users.tpl.php:218
 #: ./templates/default/forms/components/usersearch/user.tpl.php:86
 msgid "Are you sure? The user will be able to log in and post again."
-msgstr ""
+msgstr "¿Estás seguro? El usuario podrá iniciar sesión y publicar de nuevo."
 
 #: ./templates/default/content/access.tpl.php:34
 msgid "Public"
