@@ -2158,7 +2158,7 @@ msgstr "Editar"
 
 #: ./templates/default/content/edit.tpl.php:9
 msgid "Are you sure you want to permanently delete this entry?"
-msgstr ""
+msgstr "¿Está seguro de que desea eliminar permanentemente esta entrada?"
 
 #: ./templates/default/content/end.tpl.php:26
 #: ./templates/default/content/feed/end.tpl.php:13
