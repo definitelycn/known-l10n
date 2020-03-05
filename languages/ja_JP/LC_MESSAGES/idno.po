@@ -71,23 +71,24 @@ msgstr "禁止"
 
 #: ./Idno/Common/Plugin.php:87
 msgid "Plugin %s doesn't have a version"
-msgstr ""
+msgstr "プラグイン %s にはバージョンがありません"
 
 #: ./Idno/Core/AsynchronousQueue.php:61
 msgid "No event passed"
-msgstr ""
+msgstr "イベントが渡されません"
 
 #: ./Idno/Core/AsynchronousQueue.php:64
 msgid "Event passed is not a queued event, and so can't be dispatched"
-msgstr ""
+msgstr "渡されたイベントはキューに入れられたイベントではないので、ディスパッチできません"
 
 #: ./Idno/Core/AsynchronousQueue.php:67
 msgid "Sorry, this event has already been dispatched (but not yet cleaned up)"
-msgstr ""
+msgstr "申し訳ありませんが、このイベントは既に送出されています(まだクリーンアップされていません)。"
 
 #: ./Idno/Core/AsynchronousQueue.php:76
 msgid "Invalid user (%s) given for runAsContext, aborting"
-msgstr ""
+msgstr "無効なユーザー (%s) が指定され、中止されています"
+# runAsContext?
 
 #: ./Idno/Core/Config.php:268
 msgid "A social website powered by Known"
