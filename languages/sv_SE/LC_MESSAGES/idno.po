@@ -82,47 +82,48 @@ msgstr "Ogiltig användare (%s) som ges för runAsContext, avbryta"
 
 #: ./Idno/Core/Config.php:268
 msgid "A social website powered by Known"
-msgstr ""
+msgstr "En social webbplats som drivs av Known"
 
 #: ./Idno/Core/Email.php:16
 msgid "Something went wrong and we couldn't create the email message to send."
-msgstr ""
+msgstr "Något gick fel och vi kunde inte skapa e-postmeddelandet att skicka."
 
 #: ./Idno/Core/JWT.php:82
 msgid "Identity token expired"
-msgstr ""
+msgstr "Identitetstoken har upphört"
 
 #: ./Idno/Core/JWT.php:86
 msgid "Identity token is not valid"
-msgstr ""
+msgstr "Identitetstoken är ogiltig"
 
 #: ./Idno/Core/Service.php:24
 msgid "Missing X-Known-Service-Signature, service call is not possible."
-msgstr ""
+msgstr "X-Known-Service-Signature saknas, servicesamtal är inte möjligt."
 
 #: ./Idno/Core/Service.php:27
 msgid "Sorry, signature doesn't match up."
-msgstr ""
+msgstr "Tyvärr, signaturen stämmer inte."
+# Tyvärr är signaturen inte korrekt.
 
 #: ./Idno/Core/Service.php:44
 msgid "Missing site secret"
-msgstr ""
+msgstr "Saknad plats hemlig"
 
 #: ./Idno/Core/Service.php:53
 msgid "Url not provided to token generation."
-msgstr ""
+msgstr "Url som inte tillhandahålls till tokengenerering."
 
 #: ./Idno/Core/Service.php:86
 msgid "Response from service endpoint was not json"
-msgstr ""
+msgstr "Svar från tjänstenslutpunkt var inte json"
 
 #: ./Idno/Core/Service.php:98
 msgid "No result from endpoint."
-msgstr ""
+msgstr "Inget resultat från slutpunkten."
 
 #: ./Idno/Core/Session.php:136
 msgid "Session funnybusiness: "
-msgstr ""
+msgstr "Session rolig verksamhet: "
 
 #: ./Idno/Core/Session.php:509
 #: ./Idno/Pages/Account/Register.php:64
@@ -131,6 +132,9 @@ msgid ""
 "Warning: Access credentials were sent over a non-secured connection! To "
 "disable this warning set disable_cleartext_warning in your config.ini"
 msgstr ""
+"Varning: Åtkomstautentiseringsuppgifter skickades via en icke-säker "
+"anslutning! Så här inaktiverar du den här varningsuppsättningen "
+"disable_cleartext_warning i config.ini"
 
 #: ./Idno/Core/Time.php:89
 msgid "hour"
