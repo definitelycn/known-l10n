@@ -2337,11 +2337,11 @@ msgstr "Seleccionar una imagen"
 
 #: ./templates/default/file/picker/image.tpl.php:29
 msgid "Upload this image"
-msgstr ""
+msgstr "Sube esta imagen"
 
 #: ./templates/default/file/picker/image.tpl.php:49
 msgid "Choose a different image"
-msgstr ""
+msgstr "Elija una imagen diferente"
 
 #: ./templates/default/following/add.tpl.php:3
 msgid "Add the address of a site to follow"
