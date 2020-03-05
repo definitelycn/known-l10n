@@ -2235,31 +2235,36 @@ msgstr "Dejar comentario"
 
 #: ./templates/default/entity/annotations/likes.tpl.php:24
 msgid "liked this post"
-msgstr ""
+msgstr "le gustó este post"
+# A Tom le gustó este post
+#: ./templates/default/entity/annotations/likes.tpl.php:24
+msgid "%s liked this post"
+msgstr "A %s le gustó este post"
 
 #: ./templates/default/entity/annotations/mentions.tpl.php:18
 msgid "Mentioned in"
-msgstr ""
+msgstr "Mencionado en"
 
 #: ./templates/default/entity/annotations/rsvps.tpl.php:38
 msgid "Attending"
-msgstr ""
+msgstr "Asistiendo"
+# Attend (Asistir)
 
 #: ./templates/default/entity/annotations/rsvps.tpl.php:41
 msgid "Maybe attending"
-msgstr ""
+msgstr "Tal vez asistiendo"
 
 #: ./templates/default/entity/annotations/rsvps.tpl.php:44
 msgid "Not attending"
-msgstr ""
+msgstr "No asistir"
 
 #: ./templates/default/entity/annotations/rsvps.tpl.php:47
 msgid "Other responses"
-msgstr ""
+msgstr "Otras respuestas"
 
 #: ./templates/default/entity/annotations/shares.tpl.php:21
 msgid "reshared this post"
-msgstr ""
+msgstr "reabaño este post"
 
 #: ./templates/default/entity/search.tpl.php:18
 msgid "Nothing found."
