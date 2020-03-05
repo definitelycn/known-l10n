@@ -2413,7 +2413,7 @@ msgstr "¿Estás seguro? Esto eliminará a este usuario y todo su contenido."
 
 #: ./templates/default/forms/input/image-file.tpl.php:58
 msgid "Are you sure you want to permanently delete this?"
-msgstr ""
+msgstr "¿Está seguro de que desea eliminar permanentemente esto?"
 
 #: ./templates/default/forms/input/image-file.tpl.php:75
 #: ./templates/default/forms/input/image-file.tpl.php:81
@@ -2432,11 +2432,11 @@ msgstr "Añadir foto"
 #: ./templates/default/forms/input/longtext.tpl.php:21
 #: ./templates/default/forms/input/richtext.tpl.php:21
 msgid "Share something brilliant..."
-msgstr ""
+msgstr "Comparte algo brillante..."
 
 #: ./templates/default/forms/input/richtext.tpl.php:49
 msgid "Please complete this field."
-msgstr ""
+msgstr "Por favor complete este campo."
 
 #: ./templates/default/forms/usersearch.tpl.php:24
 msgid "Search by name, email address, or username"
