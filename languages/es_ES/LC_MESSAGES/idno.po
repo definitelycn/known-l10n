@@ -2440,31 +2440,31 @@ msgstr "Por favor complete este campo."
 
 #: ./templates/default/forms/usersearch.tpl.php:24
 msgid "Search by name, email address, or username"
-msgstr ""
+msgstr "Buscar por nombre, dirección de correo electrónico o nombre de usuario"
 
 #: ./templates/default/forms/usersearch.tpl.php:79
 msgid "By creation date"
-msgstr ""
+msgstr "Por fecha de creación"
 
 #: ./templates/default/forms/usersearch.tpl.php:80
 msgid "By name"
-msgstr ""
+msgstr "Por nombre"
 
 #: ./templates/default/forms/usersearch.tpl.php:89
 msgid "Ascending"
-msgstr ""
+msgstr "Ascendente"
 
 #: ./templates/default/forms/usersearch.tpl.php:90
 msgid "Descending"
-msgstr ""
+msgstr "Descendente"
 
 #: ./templates/default/forms/usersearch.tpl.php:102
 msgid "Prev"
-msgstr ""
+msgstr "Anterior"
 
 #: ./templates/default/forms/usersearch.tpl.php:103
 msgid "Next"
-msgstr ""
+msgstr "Próximo"
 
 #: ./templates/default/onboarding/begin.tpl.php:8
 msgid "Known is your space for sharing content and discussing ideas."
