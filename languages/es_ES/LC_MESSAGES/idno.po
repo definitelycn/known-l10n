@@ -2492,12 +2492,14 @@ msgstr "¿Ya tienes una cuenta? Inicia sesión."
 
 #: ./templates/default/onboarding/connect.tpl.php:3
 msgid "Share to social"
-msgstr ""
+msgstr "Compartir en las redes sociales"
+# Share on social media
 
 #: ./templates/default/onboarding/connect.tpl.php:6
 msgid ""
 "Connect your accounts to easily share content with people across the web."
 msgstr ""
+"Conecta tus cuentas para compartir contenido fácilmente con personas de la web."
 
 #: ./templates/default/onboarding/connect.tpl.php:14
 msgid "Continue"
@@ -2505,11 +2507,11 @@ msgstr "Continuar"
 
 #: ./templates/default/onboarding/connect.tpl.php:19
 msgid "Don't worry, you can always connect these later."
-msgstr ""
+msgstr "No te preocupes, siempre puedes conectarlos más tarde."
 
 #: ./templates/default/onboarding/profile.tpl.php:16
 msgid "Add a photo of yourself"
-msgstr ""
+msgstr "Añade una foto de ti mismo"
 
 #: ./templates/default/onboarding/profile.tpl.php:23
 msgid "Ben Franklin"
@@ -2517,7 +2519,7 @@ msgstr ""
 
 #: ./templates/default/onboarding/profile.tpl.php:27
 msgid "Your short bio"
-msgstr ""
+msgstr "Tu breve biografía"
 
 #: ./templates/default/onboarding/profile.tpl.php:29
 msgid "I fly kites..."
@@ -2525,15 +2527,15 @@ msgstr "Vuelo cometas..."
 
 #: ./templates/default/onboarding/profile.tpl.php:34
 msgid "Your other websites"
-msgstr ""
+msgstr "Sus otros sitios web"
 
 #: ./templates/default/onboarding/profile.tpl.php:35
 msgid "(a blog, a portfolio, Twitter, Facebook, etc)"
-msgstr ""
+msgstr "(un blog, un portafolio, Twitter, Facebook, etc.)"
 
 #: ./templates/default/onboarding/profile.tpl.php:40
 msgid "Add another website"
-msgstr ""
+msgstr "Añadir otro sitio web"
 
 #: ./templates/default/onboarding/register.tpl.php:13
 msgid "Choose a username"
