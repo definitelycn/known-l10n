@@ -2268,11 +2268,11 @@ msgstr "reabaño este post"
 
 #: ./templates/default/entity/search.tpl.php:18
 msgid "Nothing found."
-msgstr ""
+msgstr "No se encontró nada."
 
 #: ./templates/default/entity/share.tpl.php:9
 msgid "This content can't be shared right now."
-msgstr ""
+msgstr "Este contenido no se puede compartir en este momento."
 
 #: ./templates/default/entity/User/edit.tpl.php:3
 msgid "Edit your profile"
