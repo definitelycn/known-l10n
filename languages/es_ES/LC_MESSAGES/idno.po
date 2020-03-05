@@ -2709,11 +2709,11 @@ msgstr "Configuración del sitio"
 
 #: ./templates/default/shell/pagination.tpl.php:28
 msgid "Newer"
-msgstr ""
+msgstr "Nuevos"
 
 #: ./templates/default/shell/pagination.tpl.php:29
 msgid "Older"
-msgstr ""
+msgstr "Mayor"
 
 #: ./templates/default/shell/toolbar/content/all.tpl.php:4
 msgid "All content"
@@ -2733,7 +2733,7 @@ msgstr "Perfil"
 
 #: ./templates/default/shell/toolbar/logged-in.tpl.php:49
 msgid "Leave feedback"
-msgstr ""
+msgstr "Dejar comentarios"
 
 #: ./templates/default/shell/toolbar/logged-in.tpl.php:49
 msgid "Feedback"
