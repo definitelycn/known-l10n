@@ -2547,25 +2547,29 @@ msgstr "(al menos 7 caracteres por favor)"
 
 #: ./templates/default/pages/403.tpl.php:7
 msgid "Click here to log in."
-msgstr ""
+msgstr "Haga clic aquí para iniciar sesión."
 
 #: ./templates/default/pages/403.tpl.php:18
 msgid "Hold on. You don't have access to this content."
-msgstr ""
+msgstr "Espera. No tiene acceso a este contenido."
 
 #: ./templates/default/pages/403.tpl.php:20
 msgid ""
 "It's nothing personal. You just don't have the right permissions to see "
 "what's here."
 msgstr ""
+"No es nada personal. Simplemente no tienes los permisos adecuados para "
+"ver lo que hay aquí."
 
 #: ./templates/default/pages/403.tpl.php:22
 msgid "Find something else to view on the <a href=\"%s\">%s homepage</a>."
 msgstr ""
+"Encuentra algo más que ver en la <a href=\"%s\">página de inicio de %s</a>."
 
 #: ./templates/default/pages/404.tpl.php:5
 msgid "Oops! We couldn't find it."
-msgstr ""
+msgstr "¡Vaya! No pudimos encontrarlo."
+# ?
 
 #: ./templates/default/pages/404.tpl.php:7
 msgid ""
@@ -2573,12 +2577,17 @@ msgid ""
 "deleted, or it doesn't exist. Or the robots ate it. That's always a "
 "possibility too."
 msgstr ""
+"Lo que sea que estabas buscando, no está aquí. Es posible que se haya "
+"movido, eliminado o no existe. O los robots se lo comieron. Eso siempre "
+"es una posibilidad también."
 
 #: ./templates/default/pages/404.tpl.php:8
 msgid ""
 "Maybe you'll find something interesting if you head back to the <a "
 "href=\"%s\">%s homepage</a>."
 msgstr ""
+"Tal vez encuentres algo interesante si vuelves a la <a "
+"href=\"%s\">página de inicio de %s</a>."
 
 #: ./templates/default/pages/410.tpl.php:6
 msgid "Sorry, this content isn't here anymore."
@@ -2601,14 +2610,17 @@ msgid ""
 "<a href=\"#\" onclick=\"window.history.back();\">Click here to try again</a> "
 "or <a href=\"%s\">click here to go back to the homepage</a>."
 msgstr ""
+"<a href=\"#\" onclick=\"window.history.back();\">Haga clic aquí para "
+"intentarlo de nuevo</a> o <a href=\"%s\">haga clic aquí para volver a "
+"la página de inicio</a>."
 
 #: ./templates/default/pages/500.tpl.php:19
 msgid "Click here to see the technical details."
-msgstr ""
+msgstr "Haga clic aquí para ver los detalles técnicos."
 
 #: ./templates/default/pages/500.tpl.php:32
 msgid "Oh no! Something went wrong."
-msgstr ""
+msgstr "¡No! Algo salió mal."
 
 #: ./templates/default/pages/home/nocontent.tpl.php:10
 msgid "We couldn't find anything that matches your search."
