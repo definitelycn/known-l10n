@@ -81,47 +81,48 @@ msgstr "Usuário inválido (%s) dado para runAsContext, abortando"
 
 #: ./Idno/Core/Config.php:268
 msgid "A social website powered by Known"
-msgstr ""
+msgstr "Um site social alimentado por Known"
 
 #: ./Idno/Core/Email.php:16
 msgid "Something went wrong and we couldn't create the email message to send."
-msgstr ""
+msgstr "Algo deu errado e não pudemos criar a mensagem de e-mail para enviar."
 
 #: ./Idno/Core/JWT.php:82
 msgid "Identity token expired"
-msgstr ""
+msgstr "Token de identidade expirado"
 
 #: ./Idno/Core/JWT.php:86
 msgid "Identity token is not valid"
-msgstr ""
+msgstr "Token de identidade não é válido"
 
 #: ./Idno/Core/Service.php:24
 msgid "Missing X-Known-Service-Signature, service call is not possible."
-msgstr ""
+msgstr "Faltando X-Known-Service-Signature, chamada de serviço não é possível."
 
 #: ./Idno/Core/Service.php:27
 msgid "Sorry, signature doesn't match up."
-msgstr ""
+msgstr "Desculpe, a assinatura não bate."
 
 #: ./Idno/Core/Service.php:44
 msgid "Missing site secret"
-msgstr ""
+msgstr "Segredo do local desaparecido"
+# Secret of the missing place
 
 #: ./Idno/Core/Service.php:53
 msgid "Url not provided to token generation."
-msgstr ""
+msgstr "Url não fornecida à geração de tokens."
 
 #: ./Idno/Core/Service.php:86
 msgid "Response from service endpoint was not json"
-msgstr ""
+msgstr "Resposta do ponto final do serviço não foi json"
 
 #: ./Idno/Core/Service.php:98
 msgid "No result from endpoint."
-msgstr ""
+msgstr "Nenhum resultado do ponto final."
 
 #: ./Idno/Core/Session.php:136
 msgid "Session funnybusiness: "
-msgstr ""
+msgstr "Negócio engraçado da sessão: "
 
 #: ./Idno/Core/Session.php:509
 #: ./Idno/Pages/Account/Register.php:64
@@ -130,6 +131,9 @@ msgid ""
 "Warning: Access credentials were sent over a non-secured connection! To "
 "disable this warning set disable_cleartext_warning in your config.ini"
 msgstr ""
+"Aviso: Credenciais de acesso foram enviadas por uma conexão não segura! "
+"Para desativar este conjunto de aviso disable_cleartext_warning em sua "
+"config.ini"
 
 #: ./Idno/Core/Time.php:89
 msgid "hour"
