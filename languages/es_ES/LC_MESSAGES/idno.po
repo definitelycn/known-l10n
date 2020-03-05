@@ -2745,7 +2745,7 @@ msgstr "Cerrar sesión"
 
 #: ./templates/default/shell/toolbar/main.tpl.php:1
 msgid "Skip to main content"
-msgstr ""
+msgstr "Saltar al contenido principal"
 
 #: ./templates/default/shell/toolbar/register.tpl.php:1
 msgid "Register"
@@ -2789,10 +2789,12 @@ msgid ""
 "If you have any questions at all, please don't hesitate to contact us by "
 "sending an email to %s"
 msgstr ""
+"Si tiene alguna pregunta, por favor no dude en ponerse en contacto con "
+"nosotros enviando un correo electrónico a %s"
 
 #: ./templates/email/shell.tpl.php:72
 msgid "Powered by"
-msgstr ""
+msgstr "Desarrollado por"
 
 #: ./templates/email-text/account/invite.tpl.php:21
 msgid "Hi there! Your friend *%s* has invited you to join %s"
@@ -2807,6 +2809,8 @@ msgid ""
 "Hi! We wanted to let you know that <strong>%s</strong> liked the post "
 "<strong>%s</strong>"
 msgstr ""
+"¡Hola! Queríamos hacerle saber que <strong>%s</strong> le gustó el post "
+"<strong>%s</strong>"
 
 #: ./templates/email/content/notification/like.tpl.php:11
 msgid "View post"
@@ -2814,7 +2818,7 @@ msgstr "Ver publicación"
 
 #: templates/email-text/content/notification/like.tpl.php:6
 msgid "Hi! We wanted to let you know that *%s* liked the post *%s*"
-msgstr ""
+msgstr "¡Hola! Queríamos hacerle saber que *%s* le gustó el post *%s*"
 
 #: ./templates/email-text/content/notification/like.tpl.php:9
 msgid "View post:"
