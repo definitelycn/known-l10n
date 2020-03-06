@@ -59,7 +59,8 @@ msgstr "Δεν είναι δυνατή η εύρεση αυτής της σελ�
 
 #: ./Idno/Common/Plugin.php:87
 msgid "Plugin %s doesn't have a version"
-msgstr ""
+msgstr "Η προσθήκη %s δεν έχει έκδοση"
+# Add %s does not have version
 
 #: ./Idno/Core/AsynchronousQueue.php:61
 msgid "No event passed"

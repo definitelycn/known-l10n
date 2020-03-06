@@ -63,7 +63,8 @@ msgstr "找不到此页面。"
 
 #: ./Idno/Common/Plugin.php:87
 msgid "Plugin %s doesn't have a version"
-msgstr ""
+msgstr "外掛程式 %s 沒有版本"
+# Plug-in %s no version
 
 #: ./Idno/Core/AsynchronousQueue.php:61
 msgid "No event passed"
