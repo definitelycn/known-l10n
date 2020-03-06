@@ -847,19 +847,19 @@ msgstr "Ti sei ricordato della password? Anche questo va bene. Puoi <a href=\"%s
 
 #: ./templates/default/account/password.tpl.php:9
 msgid "Forgot your password? Don't worry! It happens to the best of us."
-msgstr ""
+msgstr "Hai dimenticato la password? Non preoccuparti! Succede ai migliori di noi."
 
 #: ./templates/default/account/password.tpl.php:10
 msgid "Just enter the email address associated with your %s account below, and we'll send you a top secret link to your email account so that you can create a new password."
-msgstr ""
+msgstr "Basta inserire l'indirizzo e-mail associato al tuo account %s qui sotto, e ti invieremo un link top secret al tuo account e-mail in modo che tu possa creare una nuova password."
 
 #: ./templates/default/account/password.tpl.php:20
 msgid "me@awesome.com"
-msgstr ""
+msgstr "me@fantastico.it"
 
 #: ./templates/default/account/password.tpl.php:27
 msgid "Send password reset email"
-msgstr ""
+msgstr "Inviare un messaggio di posta elettronica di reimpostazione della password"
 
 #: ./templates/default/onboarding/register.tpl.php:3
 msgid "Hello there!"
