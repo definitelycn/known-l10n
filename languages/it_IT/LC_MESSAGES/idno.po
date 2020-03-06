@@ -1595,11 +1595,11 @@ msgstr "Clicca su Esporta Blog"
 
 #: ./templates/default/admin/logs.tpl.php:9
 msgid "This page provides you with captured PHP logs. These contain sensitive information, so be very careful how you disclose the information and to whom."
-msgstr ""
+msgstr "Questa pagina fornisce i registri PHP acquisiti. Questi contengono informazioni sensibili, quindi fai molta attenzione a come divulga le informazioni e a chi."
 
 #: ./templates/default/admin/logs.tpl.php:19
 msgid "Refresh..."
-msgstr ""
+msgstr "Aggiornare..."
 
 #: ./templates/default/admin/users.tpl.php:4
 msgid "Users"
