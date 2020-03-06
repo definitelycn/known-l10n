@@ -1615,7 +1615,7 @@ msgstr "Importazione"
 
 #: ./templates/default/admin/menu.tpl.php:13
 msgid "Captured Logs"
-msgstr ""
+msgstr "Registri acquisiti"
 
 #: ./templates/default/admin/menu.tpl.php:15
 msgid "About"
@@ -1631,15 +1631,15 @@ msgstr "Disabili"
 
 #: ./templates/default/admin/plugins/plugin.tpl.php:56
 msgid "Known Version"
-msgstr ""
+msgstr "Versione Known"
 
 #: ./templates/default/admin/plugins/plugin.tpl.php:67
 msgid "Known Build"
-msgstr ""
+msgstr "Costruire Known"
 
 #: ./templates/default/admin/plugins/plugin.tpl.php:78
 msgid "PHP Version"
-msgstr ""
+msgstr "Versione PHP"
 
 #: ./templates/default/admin/plugins/plugin.tpl.php:91
 msgid "Extensions"
