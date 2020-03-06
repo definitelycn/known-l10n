@@ -1759,20 +1759,25 @@ msgid ""
 "This page provides you with information and statistics about your Known "
 "site."
 msgstr ""
+"Αυτή η σελίδα σας παρέχει πληροφορίες και στατιστικά στοιχεία σχετικά με "
+"την τοποθεσία σας Known."
 
 #: ./templates/default/admin/themes/theme.tpl.php:41
 msgid "(Selected)"
-msgstr ""
+msgstr "(Επιλεγμένο)"
 
 #: ./templates/default/admin/themes/theme.tpl.php:48
 msgid "by"
-msgstr ""
+msgstr "Από"
 
 #: ./templates/default/admin/themes.tpl.php:7
 msgid ""
 "Themes allow you to change the way your site looks. The following themes are "
 "installed."
 msgstr ""
+"Τα θέματα σάς επιτρέπουν να αλλάξετε την εμφάνιση της τοποθεσίας σας. "
+"Εγκαθίστανται τα ακόλουθα θέματα"
+# Topics... ?
 
 #: ./templates/default/admin/users.tpl.php:9
 msgid "View the users registered for your site, and invite new users to join."
