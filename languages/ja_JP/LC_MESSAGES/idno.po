@@ -96,7 +96,8 @@ msgstr ""
 
 #: ./Idno/Core/Email.php:16
 msgid "Something went wrong and we couldn't create the email message to send."
-msgstr ""
+msgstr "何か問題が発生し、送信する電子メール メッセージを作成できませんでした。"
+# Something goes wrong and the e-mail message you want to send could not be created.
 
 #: ./Idno/Core/Service.php:24
 msgid "Missing X-Known-Service-Signature, service call is not possible."

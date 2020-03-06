@@ -84,6 +84,8 @@ msgstr ""
 #: ./Idno/Core/Email.php:16
 msgid "Something went wrong and we couldn't create the email message to send."
 msgstr ""
+"Κάτι πήγε στραβά και δεν μπορούσαμε να δημιουργήσουμε το μήνυμα ηλεκτρονικού "
+"ταχυδρομείου για να στείλετε."
 
 #: ./Idno/Core/JWT.php:82
 msgid "Identity token expired"

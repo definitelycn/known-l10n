@@ -87,7 +87,8 @@ msgstr ""
 
 #: ./Idno/Core/Email.php:16
 msgid "Something went wrong and we couldn't create the email message to send."
-msgstr ""
+msgstr "出現問題，無法創建要發送的電子郵件。"
+# There was a problem and you couldn't create an e-mail message to send.
 
 #: ./Idno/Core/Service.php:24
 msgid "Missing X-Known-Service-Signature, service call is not possible."
