@@ -165,10 +165,12 @@ msgid ""
 "Token was generated using an a cryptographically weak algorithm, this "
 "probably means your version of OpenSSL is broken or very old."
 msgstr ""
+"Token genererades med hjälp av en kryptografiskt svag algoritm, det "
+"betyder förmodligen att din version av OpenSSL är bruten eller mycket gammal."
 
 #: ./Idno/Core/Webservice.php:431
 msgid "Your version of PHP doesn't support CURLFile."
-msgstr ""
+msgstr "Din version av PHP stöder inte CURLFile."
 
 #: ./Idno/Data/Mongo.php:38
 msgid ""
