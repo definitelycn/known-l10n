@@ -101,27 +101,29 @@ msgstr "何か問題が発生し、送信する電子メール メッセージ�
 
 #: ./Idno/Core/Service.php:24
 msgid "Missing X-Known-Service-Signature, service call is not possible."
-msgstr ""
+msgstr "X-Known-Service-Signatureがありません。サービス呼び出しはできません。"
+# There is no X-Known-Service-Signature. Service calls are not allowed.
 
 #: ./Idno/Core/Service.php:27
 msgid "Sorry, signature doesn't match up."
-msgstr ""
+msgstr "申し訳ありませんが、署名が一致しません。"
 
 #: ./Idno/Core/Service.php:44
 msgid "Missing site secret"
-msgstr ""
+msgstr "サイトの秘密が見つかりません"
+# The site secret cannot be found
 
 #: ./Idno/Core/Service.php:53
 msgid "Url not provided to token generation."
-msgstr ""
+msgstr "URL はトークン生成に提供されていません。"
 
 #: ./Idno/Core/Service.php:86
 msgid "Response from service endpoint was not json"
-msgstr ""
+msgstr "サービス エンドポイントからの応答が json ではありませんでした"
 
 #: ./Idno/Core/Service.php:98
 msgid "No result from endpoint."
-msgstr ""
+msgstr "エンドポイントからの結果はありません。"
 
 #: ./Idno/Core/Session.php:136
 msgid "Session funnybusiness: "
