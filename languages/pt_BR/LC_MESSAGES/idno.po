@@ -165,10 +165,12 @@ msgid ""
 "Token was generated using an a cryptographically weak algorithm, this "
 "probably means your version of OpenSSL is broken or very old."
 msgstr ""
+"O Token foi gerado usando um algoritmo criptograficamente fraco, isso "
+"provavelmente significa que sua versão do OpenSSL está quebrada ou muito antiga."
 
 #: ./Idno/Core/Webservice.php:431
 msgid "Your version of PHP doesn't support CURLFile."
-msgstr ""
+msgstr "Sua versão do PHP não suporta CURLFile."
 
 #: ./Idno/Data/Mongo.php:38
 msgid ""
@@ -177,6 +179,9 @@ msgid ""
 "sure you have it installed and configured, e.g. by running \"pecl install "
 "mongodb;\""
 msgstr ""
+"Parece que você não tem o novo driver mongodb instalado (<a href=\"https://secure.php.net/manual/en/set.mongodb.php\">https://secure.php.net/manual/en/set.mongodb.php</a>)\n"
+"\n"
+"Certifique-se de tê-lo instalado e configurado, por exemplo, executando \"pecl install mongodb;\""
 
 #: ./Idno/Entities/GenericDataItem.php:43
 msgid "GenericDataItem classes must have a datatype label set."
