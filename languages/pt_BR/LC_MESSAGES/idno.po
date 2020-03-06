@@ -186,10 +186,12 @@ msgstr ""
 #: ./Idno/Entities/GenericDataItem.php:43
 msgid "GenericDataItem classes must have a datatype label set."
 msgstr ""
+"As classes GenericDataItem devem ter um conjunto de etiquetas de tipo de dados."
 
 #: ./Idno/Entities/Invitation.php:110
 msgid "You've been invited to join %s"
-msgstr ""
+msgstr "Você foi convidado para participar do %s"
+# You have been invited to participate in the %s
 
 #: ./Idno/Files/FileSystem.php:63
 msgid "There is no error, the file uploaded with success"
