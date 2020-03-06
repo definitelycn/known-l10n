@@ -915,15 +915,15 @@ msgstr "Crea account"
 
 #: ./templates/default/account/settings/feedback/confirm.tpl.php:5
 msgid "Message received!"
-msgstr ""
+msgstr "Messaggio ricevuto!"
 
 #: ./templates/default/account/settings/feedback/confirm.tpl.php:9
 msgid "Thanks for sending along your thoughts. We'll read them right away."
-msgstr ""
+msgstr "Grazie per aver mandato con te i tuoi pensieri. Li leggeremo subito."
 
 #: ./templates/default/account/settings/feedback/confirm.tpl.php:22
 msgid "Feedback is a gift. For more information about Known, <a href=\"https://withknown.com/\">please visit our homepage</a>"
-msgstr ""
+msgstr "Il feedback è un regalo. Per maggiori informazioni su Known, <a href=\"https://withknown.com/\">visita la nostra homepage</a>"
 
 #: ./templates/default/account/settings/feedback.tpl.php:5
 msgid "Share your feedback"
