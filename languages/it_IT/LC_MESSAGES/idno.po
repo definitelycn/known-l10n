@@ -835,15 +835,15 @@ msgstr "Ti chiediamo di inserire la password due volte per proteggerti dagli err
 
 #: ./templates/default/account/password/sent.tpl.php:5
 msgid "Your password reset email has been sent"
-msgstr ""
+msgstr "L'e-mail di reimpostazione della password è stata inviata"
 
 #: ./templates/default/account/password/sent.tpl.php:15
 msgid "Check your inbox! You'll find an email containing a special link that will help you reset your password."
-msgstr ""
+msgstr "Controlla la tua casella di posta! Troverai un'email contenente un link speciale che ti aiuterà a reimpostare la password."
 
 #: ./templates/default/account/password/sent.tpl.php:18
 msgid "Did you remember your password? That's okay too. You can <a href=\"%s\">click here to sign in.</a>"
-msgstr ""
+msgstr "Ti sei ricordato della password? Anche questo va bene. Puoi <a href=\"%s\">fare clic qui per accedere.</a>"
 
 #: ./templates/default/account/password.tpl.php:9
 msgid "Forgot your password? Don't worry! It happens to the best of us."
