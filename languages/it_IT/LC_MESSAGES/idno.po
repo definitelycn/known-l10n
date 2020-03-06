@@ -1661,15 +1661,15 @@ msgstr ""
 
 #: ./templates/default/admin/statistics.tpl.php:9
 msgid "This page provides you with information and statistics about your Known site."
-msgstr ""
+msgstr "Questa pagina fornisce informazioni e statistiche sul tuo sito Known."
 
 #: ./templates/default/admin/themes/theme.tpl.php:41
 msgid "(Selected)"
-msgstr ""
+msgstr "(Selezionato)"
 
 #: ./templates/default/admin/themes/theme.tpl.php:48
 msgid "by"
-msgstr ""
+msgstr "per"
 
 #: ./templates/default/admin/themes.tpl.php:7
 msgid "Themes allow you to change the way your site looks. The following themes are installed."
