@@ -138,27 +138,27 @@ msgstr ""
 
 #: ./Idno/Core/Time.php:89
 msgid "hour"
-msgstr ""
+msgstr "timme"
 
 #: ./Idno/Core/Time.php:91
 msgid "hours"
-msgstr ""
+msgstr "timmar"
 
 #: ./Idno/Core/Time.php:97
 msgid "minute"
-msgstr ""
+msgstr "minut"
 
 #: ./Idno/Core/Time.php:99
 msgid "minutes"
-msgstr ""
+msgstr "minuter"
 
 #: ./Idno/Core/Time.php:103
 msgid "ahead"
-msgstr ""
+msgstr "framåt"
 
 #: ./Idno/Core/Time.php:103
 msgid "behind"
-msgstr ""
+msgstr "efter"
 
 #: ./Idno/Core/TokenProvider.php:32
 msgid ""
