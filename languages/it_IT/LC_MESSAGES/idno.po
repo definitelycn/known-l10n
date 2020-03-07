@@ -2001,15 +2001,15 @@ msgstr "Bloccare"
 
 #: ./templates/default/forms/components/usersearch/user.tpl.php:88
 msgid "Are you sure? The user will be logged out and will no longer be able to log in or post."
-msgstr ""
+msgstr "Sei sicuro? L'utente verrà disconnesso e non sarà più in grado di accedere o pubblicare."
 
 #: ./templates/default/forms/components/usersearch/user.tpl.php:90
 msgid "Are you sure? This will delete this user and all their content."
-msgstr ""
+msgstr "Sei sicuro? Questo eliminerà questo utente e tutti i loro contenuti."
 
 #: ./templates/default/forms/input/image-file.tpl.php:58
 msgid "Are you sure you want to permanently delete this?"
-msgstr ""
+msgstr "Sei sicuro di voler eliminare definitivamente questo?"
 
 #: ./templates/default/onboarding/profile.tpl.php:65
 msgid "Choose different photo"
