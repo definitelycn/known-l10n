@@ -2090,19 +2090,19 @@ msgstr "Modifica il tuo profilo"
 
 #: ./templates/default/onboarding/connect.tpl.php:3
 msgid "Share to social"
-msgstr ""
+msgstr "Condividi sui social"
 
 #: ./templates/default/onboarding/connect.tpl.php:6
 msgid "Connect your accounts to easily share content with people across the web."
-msgstr ""
+msgstr "Connetti i tuoi account per condividere facilmente i contenuti con le persone sul Web."
 
 #: ./templates/default/onboarding/connect.tpl.php:14
 msgid "Continue"
-msgstr ""
+msgstr "Continuare"
 
 #: ./templates/default/onboarding/connect.tpl.php:19
 msgid "Don't worry, you can always connect these later."
-msgstr ""
+msgstr "Non preoccuparti, puoi sempre connetterli in un secondo momento."
 
 #: ./templates/default/onboarding/profile.tpl.php:16
 msgid "Add a photo of yourself"
