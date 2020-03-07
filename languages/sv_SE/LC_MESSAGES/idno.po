@@ -2440,11 +2440,11 @@ msgstr ""
 
 #: ./templates/default/robot/post.tpl.php:19
 msgid "Power down robots. I can take it from here."
-msgstr ""
+msgstr "Stäng av robotar. Jag kan ta över nu."
 
 #: ./templates/default/robot/wizard.tpl.php:7
 msgid "Check out my new @withknown site!"
-msgstr ""
+msgstr "Kolla in min nya @withknown webbplats!"
 
 #: ./templates/default/robot/wizard.tpl.php:9
 msgid ""
@@ -2452,16 +2452,22 @@ msgid ""
 "and <a href=\"%s\">Twitter</a> so your friends know about it?\n\nI bet "
 "you've got some great photos. <%s>Try posting one</a>!"
 msgstr ""
+"Det var en bra uppdatering. Varför inte <%s>dela din nya webbplats på "
+"Facebook</a> och <a href=\"%s\">Twitter</a> så att dina vänner vet om det?\n"
+"\n"
+"Jag slår vad om att du har några bra bilder. <%s>Försök publicera en</a>!"
 
 #: ./templates/default/robot/wizard.tpl.php:20
 msgid ""
 "Welcome to your new Known site! I'm Aleph, your very own welcome robot. "
 "Let's get started by <%s>adding your first status update</a>!"
 msgstr ""
+"Välkommen till din nya Known-sida! Jag är Aleph, din egen välkomstrobot. "
+"Låt oss komma igång med att <%s>lägga till din första statusuppdatering</a>!"
 
 #: ./templates/default/robot/wizard.tpl.php:28
 msgid "Beep!"
-msgstr ""
+msgstr "Pip!"
 
 #: ./templates/default/robot/wizard.tpl.php:34
 msgid "Zeep!"
@@ -2469,19 +2475,23 @@ msgstr ""
 
 #: ./templates/default/robot/wizard.tpl.php:40
 msgid "Beep boop!"
-msgstr ""
+msgstr "Pip boop!"
 
 #: ./templates/default/robot/wizard.tpl.php:47
 msgid ""
 "Beepity boop! That was a great picture. Did you see that you can also <a "
 "href=\"{{userurl}}/edit\">update your profile</a>?"
 msgstr ""
+"Boopity pip! Det var en bra bild. Har du sett att du också kan <a "
+"href=\"{{userurl}}/edit\">uppdatera din profil</a>?"
 
 #: ./templates/default/robot/wizard.tpl.php:52
 msgid ""
 "Boopity beep! Did you see that you can also <a "
 "href=\"{{userurl}}/edit\">update your profile</a>?"
 msgstr ""
+"Beepity boop! Har du sett att du också kan <a "
+"href=\"{{userurl}}/edit\">uppdatera din profil</a>?"
 
 #: ./templates/default/robot/wizard.tpl.php:65
 msgid ""
@@ -2492,6 +2502,12 @@ msgid ""
 "href=\"{{baseurl}}account/settings/feedback/\">send a message to my human "
 "creators</a>."
 msgstr ""
+"01011001 01101111 00100000 01111001 01101111 00100000 01111001 01101111 "
+"\n\nDet är så du säger hej där jag kommer ifrån. Jag ville påminna er om "
+"att du också kan <a href=\"{{baseurl}}admin/themes/\">ändra temat för din "
+"webbplats</a>. Om du har feedback kan du <a "
+"href=\"{{baseurl}}account/settings/feedback/\">skicka ett meddelande till "
+"mina mänskliga skapare</a>."
 
 #: ./templates/default/settings-shell/nav.tpl.php:6
 #: ./templates/default/shell/toolbar/main.tpl.php:7
