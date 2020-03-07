@@ -2025,11 +2025,11 @@ msgstr "Aggiungi una foto"
 
 #: ./templates/default/forms/input/longtext.tpl.php:21
 msgid "Share something brilliant..."
-msgstr ""
+msgstr "Condividi qualcosa di brillante..."
 
 #: ./templates/default/forms/input/richtext.tpl.php:49
 msgid "Please complete this field."
-msgstr ""
+msgstr "Compilare questo campo."
 
 #: ./templates/default/forms/usersearch.tpl.php:24
 msgid "Search by name, email address, or username"
