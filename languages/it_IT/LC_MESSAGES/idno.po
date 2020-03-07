@@ -1943,23 +1943,23 @@ msgstr "Scegliere un'immagine diversa"
 
 #: ./templates/default/following/add.tpl.php:3
 msgid "Add the address of a site to follow"
-msgstr ""
+msgstr "Aggiungere l'indirizzo di un sito da seguire"
 
 #: ./templates/default/following/confirm.tpl.php:7
 msgid "Follow"
-msgstr ""
+msgstr "Seguire"
 
 #: ./templates/default/following/confirm.tpl.php:12
 msgid "Here's the latest content."
-msgstr ""
+msgstr "Ecco i contenuti più recenti."
 
 #: ./templates/default/following/home.tpl.php:13
 msgid "Follow another site"
-msgstr ""
+msgstr "Segui un altro sito"
 
 #: ./templates/default/following/home.tpl.php:31
 msgid "You're not following anyone yet."
-msgstr ""
+msgstr "Non stai ancora seguendo nessuno."
 
 #: ./templates/default/forms/components/usersearch/user.tpl.php:27
 msgid "Joined"
