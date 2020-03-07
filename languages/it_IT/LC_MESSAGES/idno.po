@@ -2013,15 +2013,15 @@ msgstr "Sei sicuro di voler eliminare definitivamente questo?"
 
 #: ./templates/default/onboarding/profile.tpl.php:65
 msgid "Choose different photo"
-msgstr ""
+msgstr "Scegli una foto diverse"
 
 #: ./templates/default/forms/input/image-file.tpl.php:78
 msgid "Select a photo"
-msgstr ""
+msgstr "Selezionare una foto"
 
 #: ./templates/default/forms/input/image-file.tpl.php:83
 msgid "Add photo"
-msgstr ""
+msgstr "Aggiungi una foto"
 
 #: ./templates/default/forms/input/longtext.tpl.php:21
 msgid "Share something brilliant..."
