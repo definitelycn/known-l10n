@@ -1775,7 +1775,7 @@ msgstr "Editar"
 
 #: ./templates/default/content/edit.tpl.php:9
 msgid "Are you sure you want to permanently delete this entry?"
-msgstr ""
+msgstr "Sei sicuro di voler eliminare definitivamente questa voce?"
 
 #: ./templates/default/content/end.tpl.php:26
 msgid "published this"
@@ -1811,7 +1811,7 @@ msgstr "è piaciuto"
 
 #: ./templates/default/content/notification/mention.tpl.php:5
 msgid "mentioned"
-msgstr ""
+msgstr "ha menzionato"
 
 #: ./templates/default/content/notification/reply.tpl.php:5
 msgid "replied to"
@@ -1826,7 +1826,7 @@ msgstr "Risposta"
 
 #: ./templates/default/content/notification/rsvp.tpl.php:5
 msgid "RSVPed to"
-msgstr ""
+msgstr "RSVPed a"
 
 #: ./templates/default/content/notification/share.tpl.php:5
 msgid "shared"
@@ -1834,7 +1834,7 @@ msgstr "ha condiviso"
 
 #: ./templates/default/content/unfurl.tpl.php:11
 msgid "Refresh preview"
-msgstr ""
+msgstr "Aggiorna anteprima"
 
 #: ./templates/default/content/unfurl.tpl.php:12
 msgid "Remove preview"
