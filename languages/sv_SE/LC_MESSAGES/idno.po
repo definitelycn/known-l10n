@@ -2554,11 +2554,12 @@ msgstr ""
 #: ./templates/email/account/invite.tpl.php:2
 #: ./templates/email-text/account/invite.tpl.php:1
 msgid "Join us!"
-msgstr ""
+msgstr "Följ med oss!"
+# Come with us!
 
 #: ./templates/email/account/invite.tpl.php:6
 msgid "Hi there! Your friend <strong>%s</strong> has invited you to join <%s>"
-msgstr ""
+msgstr "Hej! Din vän <strong>%s</strong> bjöd in dig att gå med <%s>"
 
 #: ./templates/email/account/invite.tpl.php:8
 #: ./templates/email-text/account/invite.tpl.php:23
@@ -2566,15 +2567,17 @@ msgid ""
 "You can use this space to publish your stories, share things that interest "
 "you, and discuss things that matter."
 msgstr ""
+"Du kan använda det här utrymmet för att publicera dina berättelser, dela "
+"saker du bryr dig om och diskutera saker som är viktiga."
 
 #: ./templates/email/account/invite.tpl.php:10
 msgid "Get started with <strong>%s</strong> by setting up your account"
-msgstr ""
+msgstr "Kom igång med <strong>%s</strong> genom att konfigurera ditt konto"
 
 #: ./templates/email/account/invite.tpl.php:13
 #: ./templates/email-text/account/invite.tpl.php:28
 msgid "Sign up now"
-msgstr ""
+msgstr "Registrera dig nu"
 
 #: ./templates/email/account/invite.tpl.php:16
 #: ./templates/email-text/account/invite.tpl.php:31
@@ -2582,6 +2585,8 @@ msgid ""
 "If you have any questions at all, please don't hesitate to contact us by "
 "sending an email to %s"
 msgstr ""
+"Om du har några frågor alls, tveka inte att kontakta oss genom att skicka "
+"ett mail till %s"
 
 #: ./templates/email/account/password.tpl.php:6
 #: ./templates/email-text/account/password.tpl.php:14
@@ -2643,15 +2648,15 @@ msgstr ""
 
 #: ./templates/email/shell.tpl.php:72
 msgid "Powered by"
-msgstr ""
+msgstr "Styrt av"
 
 #: ./templates/email-text/account/invite.tpl.php:21
 msgid "Hi there! Your friend *%s* has invited you to join %s"
-msgstr ""
+msgstr "Hej! Din vän *%s* bjöd in dig att gå med %s"
 
 #: ./templates/email-text/account/invite.tpl.php:26
 msgid "Get started with *%s* by setting up your account"
-msgstr ""
+msgstr "Kom igång med *%s* genom att konfigurera ditt konto"
 
 #: ./templates/email-text/content/notification/like.tpl.php:6
 msgid "Hi! We wanted to let you know that *%s* liked the post *%s*"
