@@ -1931,15 +1931,15 @@ msgstr "Clicca qui per inserire le informazioni del tuo profilo."
 
 #: ./templates/default/file/picker/image.tpl.php:19
 msgid "Select an image"
-msgstr ""
+msgstr "Selezionare un'immagine"
 
 #: ./templates/default/file/picker/image.tpl.php:29
 msgid "Upload this image"
-msgstr ""
+msgstr "Carica questa immagine"
 
 #: ./templates/default/file/picker/image.tpl.php:49
 msgid "Choose a different image"
-msgstr ""
+msgstr "Scegliere un'immagine diversa"
 
 #: ./templates/default/following/add.tpl.php:3
 msgid "Add the address of a site to follow"
