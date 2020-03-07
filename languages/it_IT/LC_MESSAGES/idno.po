@@ -1963,19 +1963,20 @@ msgstr "Non stai ancora seguendo nessuno."
 
 #: ./templates/default/forms/components/usersearch/user.tpl.php:27
 msgid "Joined"
-msgstr ""
+msgstr "Unito"
+# United?
 
 #: ./templates/default/forms/components/usersearch/user.tpl.php:35
 msgid "Last update posted"
-msgstr ""
+msgstr "Ultimo aggiornamento pubblicato"
 
 #: ./templates/default/forms/components/usersearch/user.tpl.php:57
 msgid "Remote member"
-msgstr ""
+msgstr "Membro remoto"
 
 #: ./templates/default/forms/components/usersearch/user.tpl.php:62
 msgid "Administrator"
-msgstr ""
+msgstr "Amministratore"
 
 #: ./templates/default/forms/components/usersearch/user.tpl.php:65
 msgid "Remove rights"
