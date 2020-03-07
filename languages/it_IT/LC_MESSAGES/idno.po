@@ -1731,19 +1731,19 @@ msgstr "Rimuovere"
 
 #: ./templates/default/admin/users.tpl.php:145
 msgid "Are you sure? The user won't be able to register."
-msgstr ""
+msgstr "Sei sicuro? L'utente non sarà in grado di registrarsi."
 
 #: ./templates/default/admin/users.tpl.php:171
 msgid "Block email addresses"
-msgstr ""
+msgstr "Bloccare gli indirizzi e-mail"
 
 #: ./templates/default/admin/users.tpl.php:174
 msgid "By blocking email addresses, you prevent people using those email addresses from registering on your site. Enter the email addresses you want to block below."
-msgstr ""
+msgstr "Bloccando gli indirizzi email, impedisci alle persone che utilizzano tali indirizzi e-mail di registrarsi sul tuo sito. Inserisci gli indirizzi email che desideri bloccare di seguito."
 
 #: ./templates/default/admin/users.tpl.php:196
 msgid "Blocked email addresses"
-msgstr ""
+msgstr "Indirizzi e-mail bloccati"
 
 #: ./templates/default/admin/users.tpl.php:218
 msgid "Remove block"
@@ -1751,7 +1751,7 @@ msgstr "Rimuovi blocco"
 
 #: ./templates/default/admin/users.tpl.php:218
 msgid "Are you sure? The user will be able to log in and post again."
-msgstr ""
+msgstr "Sei sicuro? L'utente sarà in grado di accedere e pubblicare di nuovo."
 
 #: ./templates/default/content/access.tpl.php:34
 msgid "Public"
