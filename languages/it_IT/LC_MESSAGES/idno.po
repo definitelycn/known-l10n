@@ -1842,11 +1842,11 @@ msgstr "Rimuovi anteprima"
 
 #: ./templates/default/entity/annotations/comment/main.tpl.php:16
 msgid "Add a comment ..."
-msgstr ""
+msgstr "Aggiungi un commento..."
 
 #: ./templates/default/entity/annotations/comment/main.tpl.php:21
 msgid "Leave Comment"
-msgstr ""
+msgstr "Lascia commento"
 
 #: ./templates/default/entity/annotations/likes.tpl.php:24
 msgid "liked this post"
