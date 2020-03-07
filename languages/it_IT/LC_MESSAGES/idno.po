@@ -1854,23 +1854,23 @@ msgstr "è piaciuto questo articolo"
 
 #: ./templates/default/entity/annotations/mentions.tpl.php:18
 msgid "Mentioned in"
-msgstr ""
+msgstr "Menzionato in"
 
 #: ./templates/default/entity/annotations/rsvps.tpl.php:38
 msgid "Attending"
-msgstr ""
+msgstr "Frequentando"
 
 #: ./templates/default/entity/annotations/rsvps.tpl.php:41
 msgid "Maybe attending"
-msgstr ""
+msgstr "Forse frequentando"
 
 #: ./templates/default/entity/annotations/rsvps.tpl.php:44
 msgid "Not attending"
-msgstr ""
+msgstr "Non frequentando"
 
 #: ./templates/default/entity/annotations/rsvps.tpl.php:47
 msgid "Other responses"
-msgstr ""
+msgstr "Altre risposte"
 
 #: ./templates/default/entity/annotations/shares.tpl.php:21
 msgid "reshared this post"
