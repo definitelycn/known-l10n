@@ -1878,11 +1878,12 @@ msgstr "ha ricondiviso questo articulo"
 
 #: ./templates/default/entity/search.tpl.php:18
 msgid "Nothing found."
-msgstr ""
+msgstr "Non ha trovato niente."
+# He didn't find anything.
 
 #: ./templates/default/entity/share.tpl.php:9
 msgid "This content can't be shared right now."
-msgstr ""
+msgstr "Questo contenuto non può essere condiviso in questo momento."
 
 #: ./templates/default/entity/User/edit.tpl.php:6
 msgid "Your profile is how other users see you across the site. It's up to you how much or how little information you choose to provide."
