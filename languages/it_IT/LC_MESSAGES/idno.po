@@ -2151,11 +2151,11 @@ msgstr "Aspettare. Non hai accesso a questo contenuto."
 
 #: ./templates/default/pages/403.tpl.php:20
 msgid "It's nothing personal. You just don't have the right permissions to see what's here."
-msgstr ""
+msgstr "Non è niente di personale. È solo che non hai le autorizzazioni giuste per vedere cosa c'è qui."
 
 #: ./templates/default/pages/403.tpl.php:22
 msgid "Find something else to view on the <a href=\"%s\">%s homepage</a>."
-msgstr ""
+msgstr "Trova qualcos'altro da visualizzare nella <a href=\"%s\">home page di %s</a>."
 
 #: ./templates/default/pages/404.tpl.php:5
 msgid "Oops! We couldn't find it."
@@ -2164,11 +2164,11 @@ msgstr "Oops! Impossibile trovare questo contenuto."
 
 #: ./templates/default/pages/404.tpl.php:7
 msgid "Whatever you were looking for, it's not here. It might have been moved, deleted, or it doesn't exist. Or the robots ate it. That's always a possibility too."
-msgstr ""
+msgstr "Qualunque cosa tu stessi cercando, non è qui. Potrebbe essere stato spostato, eliminato o non esiste. O i robot l'hanno mangiato. Anche questa è una possibilità."
 
 #: ./templates/default/pages/404.tpl.php:8
 msgid "Maybe you'll find something interesting if you head back to the <a href=\"%s\">%s homepage</a>."
-msgstr ""
+msgstr "Forse troverai qualcosa di interessante se torni alla <a href=\"%s\">home page di %s</a>."
 
 #: ./templates/default/pages/410.tpl.php:6
 msgid "Sorry, this content isn't here anymore."
@@ -2176,19 +2176,19 @@ msgstr "Spiacenti, questo contenuto non è più qui."
 
 #: ./templates/default/pages/410.tpl.php:8
 msgid "You may be wondering where it went, but we can't tell you. It's a secret."
-msgstr ""
+msgstr "Forse ti starai chiedendo dove sia andata, ma non possiamo dirtelo. È un segreto."
 
 #: ./templates/default/pages/410.tpl.php:10
 msgid "Maybe you'd like to head back to the <a href=\"%s\">%s homepage</a> instead."
-msgstr ""
+msgstr "Forse ti piacerebbe tornare alla <a href=\"%s\">home page di %s</a> invece."
 
 #: ./templates/default/pages/500.tpl.php:15
 msgid "<a href=\"#\" onclick=\"window.history.back();\">Click here to try again</a> or <a href=\"%s\">click here to go back to the homepage</a>."
-msgstr ""
+msgstr "<a href=\"#\" onclick=\"window.history.back();\">Clicca qui per riprovare</a> o <a href=\"%s\">clicca qui per tornare alla home page</a>."
 
 #: ./templates/default/pages/500.tpl.php:19
 msgid "Click here to see the technical details."
-msgstr ""
+msgstr "Clicca qui per vedere i dettagli tecnici."
 
 #: ./templates/default/pages/500.tpl.php:32
 msgid "Oh no! Something went wrong."
@@ -2196,7 +2196,7 @@ msgstr "Oh no! Qualcosa è andato storto."
 
 #: ./templates/default/pages/home/nocontent.tpl.php:10
 msgid "We couldn't find anything that matches your search."
-msgstr ""
+msgstr "Non abbiamo trovato nulla che corrisponda alla tua ricerca."
 
 #: ./templates/default/settings-shell/nav.tpl.php:6
 msgid "Toggle navigation"
