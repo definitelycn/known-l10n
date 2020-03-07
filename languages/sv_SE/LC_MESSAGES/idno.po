@@ -179,14 +179,19 @@ msgid ""
 "sure you have it installed and configured, e.g. by running \"pecl install "
 "mongodb;\""
 msgstr ""
+"Det ser ut som du inte har den nya mongodb föraren installerad (<a "
+"href=\"https://secure.php.net/manual/en/set.mongodb.php\">https://secure."
+"php.net/manual/en/set.mongodb.php</a>)\n\n"
+"Se till att du har den installerad och konfigurerad, ex. genom att "
+"köra \"pecl install mongodb;\""
 
 #: ./Idno/Entities/GenericDataItem.php:43
 msgid "GenericDataItem classes must have a datatype label set."
-msgstr ""
+msgstr "GenericDataItem-klasser måste ha en etikettuppsättning för datatyp."
 
 #: ./Idno/Entities/Invitation.php:110
 msgid "You've been invited to join %s"
-msgstr ""
+msgstr "Du har blivit inbjuden att gå med i %s"
 
 #: ./Idno/Files/FileSystem.php:63
 msgid "There is no error, the file uploaded with success"
