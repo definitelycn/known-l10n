@@ -1677,51 +1677,53 @@ msgstr "I temi consentono di modificare l'aspetto del sito. Sono installati i se
 
 #: ./templates/default/admin/users.tpl.php:9
 msgid "View the users registered for your site, and invite new users to join."
-msgstr ""
+msgstr "Visualizzare gli utenti registrati per il sito e invitare nuovi utenti a partecipare."
 
 #: ./templates/default/admin/users.tpl.php:17
 msgid "Manage site users"
-msgstr ""
+msgstr "Gestire gli utenti del sito"
 
 #: ./templates/default/admin/users.tpl.php:20
 msgid "Your site has"
-msgstr ""
+msgstr "Il tuo sito ha"
 
 #: ./templates/default/admin/users.tpl.php:21
 msgid "users"
-msgstr ""
+msgstr "utenti"
 
 #: ./templates/default/admin/users.tpl.php:23
 msgid "user"
-msgstr ""
+msgstr "utente"
 
 #: ./templates/default/admin/users.tpl.php:45
 msgid "Invite new users"
-msgstr ""
+msgstr "Invitare nuovi utenti"
 
 #: ./templates/default/admin/users.tpl.php:48
 msgid "To invite new users to the site, enter one or more email addresses below."
-msgstr ""
+msgstr "Per invitare nuovi utenti al sito, inserisci uno o più indirizzi email di seguito."
 
 #: ./templates/default/admin/users.tpl.php:54
 msgid "Send invite"
-msgstr ""
+msgstr "Invia invito"
 
 #: ./templates/default/admin/users.tpl.php:111
 msgid "Invitations"
-msgstr ""
+msgstr "Inviti"
 
 #: ./templates/default/admin/users.tpl.php:130
 msgid "Sent"
-msgstr ""
+msgstr "Inviato"
 
 #: ./templates/default/admin/users.tpl.php:140
 msgid "Resend"
-msgstr ""
+msgstr "Invia di nuovo"
+# Send again
+# Inviare (Send)
 
 #: ./templates/default/admin/users.tpl.php:140
 msgid "Are you sure? The user will receive a second email."
-msgstr ""
+msgstr "Sei sicuro? L'utente riceverà una seconda e-mail."
 
 #: ./templates/default/entity/User/edit.tpl.php:81
 msgid "Remove"
