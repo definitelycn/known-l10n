@@ -2292,11 +2292,11 @@ msgstr "Bip boop!"
 
 #: ./templates/default/robot/wizard.tpl.php:47
 msgid "Beepity boop! That was a great picture. Did you see that you can also <a href=\"{{userurl}}/edit\">update your profile</a>?"
-msgstr ""
+msgstr "Beepity boop! È stata un'ottima foto. Hai visto che puoi anche <a href=\"{{userurl}}/edit\">aggiornare il tuo profilo</a>?"
 
 #: ./templates/default/robot/wizard.tpl.php:52
 msgid "Boopity beep! Did you see that you can also <a href=\"{{userurl}}/edit\">update your profile</a>?"
-msgstr ""
+msgstr "Boopity beep! Hai visto che puoi anche <a href=\"{{userurl}}/edit\">aggiornare il tuo profilo</a>?"
 
 #: ./templates/default/robot/wizard.tpl.php:65
 msgid ""
@@ -2304,46 +2304,49 @@ msgid ""
 "\n"
 "That's how you say hello where I come from. I wanted to remind you that you can also <a href=\"{{baseurl}}admin/themes/\">change the theme of your site</a>. If you ever have feedback, you can <a href=\"{{baseurl}}account/settings/feedback/\">send a message to my human creators</a>."
 msgstr ""
+"01011001 01101111 00100000 01111001 01101111 00100000 01111001 01101111 \n"
+"\n"
+"È così che dici ciao da dove vengo io. Volevo ricordarti che puoi anche <a href=\"{{baseurl}}admin/themes/\">cambiare il tema del tuo sito</a>. Se avete un feedback, è possibile <a href=\"{{baseurl}}account/settings/feedback/\">inviare un messaggio ai miei creatori umani</a>."
 
 #: ./templates/email-text/content/notification/like.tpl.php:8
 msgid "View post:"
-msgstr ""
+msgstr "Visualizza post:"
 
 #: ./templates/email-text/account/invite.tpl.php:1
 msgid "Join us!"
-msgstr ""
+msgstr "Unisciti a noi!"
 
 #: ./templates/email-text/account/invite.tpl.php:21
 msgid "Hi there! Your friend *%s* has invited you to join %s"
-msgstr ""
+msgstr "Ehilà! Il tuo amico *%s* ti ha invitato a unirti a %s"
 
 #: ./templates/email-text/account/invite.tpl.php:23
 msgid "You can use this space to publish your stories, share things that interest you, and discuss things that matter."
-msgstr ""
+msgstr "Puoi usare questo spazio per pubblicare le tue storie, condividere cose che ti interessano e discutere di cose che contano."
 
 #: ./templates/email-text/account/invite.tpl.php:26
 msgid "Get started with *%s* by setting up your account"
-msgstr ""
+msgstr "Inizia a utilizzare *%s* configurando il tuo account"
 
 #: ./templates/email-text/account/invite.tpl.php:28
 msgid "Sign up now"
-msgstr ""
+msgstr "Registrati ora"
 
 #: ./templates/email-text/account/invite.tpl.php:31
 msgid "If you have any questions at all, please don't hesitate to contact us by sending an email to %s"
-msgstr ""
+msgstr "Se avete domande a tutti, non esitate a contattarci inviando una e-mail a %s"
 
 #: ./templates/email/shell.tpl.php:72
 msgid "Powered by"
-msgstr ""
+msgstr "Promosso da"
 
 #: ./templates/email/account/invite.tpl.php:6
 msgid "Hi there! Your friend <strong>%s</strong> has invited you to join <%s>"
-msgstr ""
+msgstr "Ehilà! Il tuo amico <strong>%s</strong> ti ha invitato a unirti a <%s>"
 
 #: ./templates/email/account/invite.tpl.php:10
 msgid "Get started with <strong>%s</strong> by setting up your account"
-msgstr ""
+msgstr "Inizia a utilizzare <strong>%s</strong> configurando il tuo account"
 
 #: ./known.php:110
 msgid "Returns the current Known version as defined in version.known"
