@@ -2200,7 +2200,7 @@ msgstr "Non abbiamo trovato nulla che corrisponda alla tua ricerca."
 
 #: ./templates/default/settings-shell/nav.tpl.php:6
 msgid "Toggle navigation"
-msgstr ""
+msgstr "Attiva/disattiva navigazione"
 
 #: ./templates/default/settings-shell/toolbar/logged-in.tpl.php:18
 msgid "Site Configuration"
@@ -2242,7 +2242,7 @@ msgstr "Registro"
 
 #: ./templates/default/shell/toolbar/main.tpl.php:1
 msgid "Skip to main content"
-msgstr ""
+msgstr "Passare al contenuto principale"
 
 #: ./templates/default/shell/toolbar/logged-in.tpl.php:16
 msgid "Profile"
@@ -2250,7 +2250,7 @@ msgstr "Profilo"
 
 #: ./templates/default/shell/toolbar/logged-in.tpl.php:49
 msgid "Leave feedback"
-msgstr ""
+msgstr "Lascia un feedback"
 
 #: ./templates/default/shell/toolbar/logged-in.tpl.php:49
 msgid "Feedback"
