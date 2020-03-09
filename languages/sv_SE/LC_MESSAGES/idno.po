@@ -518,27 +518,37 @@ msgid ""
 "version!<br /> <a href=\"https://github.com/idno/Known\" "
 "target=\"_blank\">Update now.</a>"
 msgstr ""
+"Din version av Klown ligger bakom den senaste versionen från Github "
+"(%s - %s). Om du har problem kanske du vill prova att uppdatera till den "
+"senaste versionen!<br /> <a href=\"https://github.com/idno/Known\" "
+"target=\"_blank\">Uppdatering nu.</a>"
+
 
 #: ./Idno/Pages/Admin/Diagnostics.php:97
 msgid ""
 "You appear to be running directly from a git checkout. While this is fine, "
 "you might find a pre-packaged version of Known more stable."
 msgstr ""
+"Du verkar springa direkt från en git-utcheckning. Även om detta är bra, "
+"kan du hitta en färdigförpackad version av Known mer stabil."
 
 #: ./Idno/Pages/Admin/Diagnostics.php:160
 msgid "We can't read data from %s - please check permissions and try again."
 msgstr ""
+"Vi kan inte läsa data från %s - kontrollera behörigheter och försök igen."
 
 #: ./Idno/Pages/Admin/Diagnostics.php:165
 msgid ""
 "We can't write data to %s - please check it is writable by your web server "
 "user."
 msgstr ""
+"Vi kan inte skriva data till %s - kontrollera att det är skrivbart av din "
+"webbserveranvändare."
 
 #: ./Idno/Pages/Admin/Diagnostics.php:170
 #: ./Idno/Pages/Admin/Diagnostics.php:175
 msgid "The upload path %s either doesn't exist or isn't a directory."
-msgstr ""
+msgstr "Överföringssökvägen %s finns antingen inte eller inte är en katalog."
 
 #: ./Idno/Pages/Admin/Email.php:17
 #: ./templates/default/account/settings/following/mf2user.tpl.php:73
