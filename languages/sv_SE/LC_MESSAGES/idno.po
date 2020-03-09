@@ -233,17 +233,17 @@ msgstr "En PHP-tillägg stoppade filuppladdningen."
 #: ./Idno/Files/LocalFileSystem.php:86
 #: ./Idno/Files/LocalFileSystem.php:137
 msgid "There was a problem storing the file data."
-msgstr ""
+msgstr "Det gick inte att lagra fildata."
 
 #: ./Idno/Files/LocalFileSystem.php:89
 #: ./Idno/Files/LocalFileSystem.php:141
 msgid "There was a problem saving the file's metadata"
-msgstr ""
+msgstr "Det gick inte att spara filens metadata"
 
 #: ./Idno/Files/LocalFileSystem.php:98
 #: ./Idno/Files/LocalFileSystem.php:150
 msgid "Something went wrong saving your file."
-msgstr ""
+msgstr "Något gick fel när du sparade filen."
 
 #: ./Idno/Files/LocalFileSystem.php:100
 #: ./Idno/Files/LocalFileSystem.php:152
@@ -251,6 +251,8 @@ msgid ""
 "Check that your upload directory is writeable by the web server and try "
 "again."
 msgstr ""
+"Kontrollera att uppladdningskatalogen kan skrivas av webbservern och försök "
+"igen."
 
 #: ./Idno/Pages/Account/Export.php:20
 #: ./templates/default/account/menu.tpl.php:11
