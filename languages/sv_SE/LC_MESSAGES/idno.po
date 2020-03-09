@@ -558,15 +558,15 @@ msgstr "E-post"
 
 #: ./Idno/Pages/Admin/EmailTest.php:21
 msgid "Test email from %s!"
-msgstr ""
+msgstr "Testa e-post från %s!"
 
 #: ./Idno/Pages/Admin/EmailTest.php:26
 msgid "Test email sent to %s"
-msgstr ""
+msgstr "Testa e-post som skickas till %s"
 
 #: ./Idno/Pages/Admin/EmailTest.php:28
 msgid "There was a problem sending a test message to %s."
-msgstr ""
+msgstr "Det gick inte att skicka ett testmeddelande till %s."
 
 #: ./Idno/Pages/Admin/Export.php:17
 msgid "Export data"
