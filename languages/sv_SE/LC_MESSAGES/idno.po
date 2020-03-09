@@ -304,48 +304,49 @@ msgstr "Tyvärr matchar dina lösenord antingen inte, eller är för svaga"
 
 #: ./Idno/Pages/Account/Register.php:27
 msgid "This site is closed to new users."
-msgstr ""
+msgstr "Den här webbplatsen är stängd för nya användare."
 
 #: ./Idno/Pages/Account/Register.php:31
 #: ./Idno/Pages/Account/Register.php:69
 msgid "Your invitation doesn't seem to be valid, or has expired."
-msgstr ""
+msgstr "Din inbjudan verkar inte vara giltig eller har gått ut."
+# Din inbjudan verkar inte vara giltig eller har upphört att gälla.
 
 #: ./Idno/Pages/Account/Register.php:39
 #: ./Idno/Pages/Account/Register.php:47
 msgid "Create a new account"
-msgstr ""
+msgstr "Skapa ett nytt konto"
 
 #: ./Idno/Pages/Account/Register.php:80
 #: ./Idno/Pages/Admin/Users.php:143
 msgid "Please enter a username and email address."
-msgstr ""
+msgstr "Ange ett användarnamn och en e-postadress."
 
 #: ./Idno/Pages/Account/Register.php:134
 #: ./Idno/Pages/Admin/Users.php:162
 msgid "Please create a username."
-msgstr ""
+msgstr "Skapa ett användarnamn."
 
 #: ./Idno/Pages/Account/Register.php:137
 #: ./Idno/Pages/Admin/Users.php:165
 msgid "Your username is too long."
-msgstr ""
+msgstr "Ditt användarnamn är för långt."
 
 #: ./Idno/Pages/Account/Register.php:140
 msgid "Usernames can only have letters, numbers and underscores."
-msgstr ""
+msgstr "Användarnamn kan bara ha bokstäver, siffror och understreck."
 
 #: ./Idno/Pages/Account/Register.php:143
 #: ./Idno/Pages/Admin/Users.php:168
 msgid "Usernames can't contain a slash %s character."
-msgstr ""
+msgstr "Användarnamn får inte innehålla ett snedstreck %s-tecken."
 
 #: ./Idno/Pages/Account/Register.php:146
 #: ./Idno/Pages/Admin/Users.php:171
 msgid ""
 "Unfortunately, someone is already using that username. Please choose "
 "another."
-msgstr ""
+msgstr "Tyvärr är någon redan använder det användarnamnet. Välj en annan."
 
 #: ./Idno/Pages/Account/Register.php:149
 #: ./Idno/Pages/Admin/Users.php:174
@@ -353,27 +354,34 @@ msgid ""
 "Hey, it looks like there's already an account with that email address. Did "
 "you forget your login?"
 msgstr ""
+"Det ser ut som om det redan finns ett konto med den e-postadressen. Har du "
+"glömt din inloggning?"
 
 #: ./Idno/Pages/Account/Register.php:152
 msgid ""
 "Please check that your passwords match and that your password is at least 7 "
 "characters long."
 msgstr ""
+"Kontrollera att dina lösenord matchar och att ditt lösenord är minst 7 "
+"tecken långt."
 
 #: ./Idno/Pages/Account/Register.php:156
 #: ./Idno/Pages/Admin/Users.php:178
 msgid "That doesn't seem like it's a valid email address."
-msgstr ""
+msgstr "Det verkar inte som om det är en giltig e-postadress."
 
 #: ./Idno/Pages/Account/Register.php:160
 msgid ""
 "You've registered! You're ready to get started. Why not add a post to say "
 "hello?"
 msgstr ""
+"Du har registrerat dig! Du är redo att komma igång. Varför inte lägga till "
+"ett inlägg för att säga hej?"
 
 #: ./Idno/Pages/Account/Register.php:164
 msgid "We couldn't register you."
-msgstr ""
+msgstr "Vi kunde inte registrera dig."
+# ?
 
 #: ./Idno/Pages/Account/Settings/FeedbackConfirm.php:17
 msgid "Thank you for your feedback!"
