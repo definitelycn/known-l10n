@@ -570,7 +570,7 @@ msgstr "Det gick inte att skicka ett testmeddelande till %s."
 
 #: ./Idno/Pages/Admin/Export.php:17
 msgid "Export data"
-msgstr ""
+msgstr "Exportera data"
 
 #: ./Idno/Pages/Admin/Homepage.php:25
 #: ./templates/default/admin/menu.tpl.php:6
@@ -579,7 +579,8 @@ msgstr "Hemsida"
 
 #: ./Idno/Pages/Admin/Homepage.php:42
 msgid "The default homepage content types were saved."
-msgstr ""
+msgstr "Standardtyperna för startstartinnehåll har sparats."
+# The default start-up content types have been saved.
 
 #: ./Idno/Pages/Admin/Home.php:21
 msgid "Administration"
