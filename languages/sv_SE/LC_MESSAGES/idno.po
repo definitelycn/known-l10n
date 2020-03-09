@@ -257,45 +257,50 @@ msgstr ""
 #: ./Idno/Pages/Account/Export.php:20
 #: ./templates/default/account/menu.tpl.php:11
 msgid "Export Data"
-msgstr ""
+msgstr "Exportera data"
 
 #: ./Idno/Pages/Account/Notifications.php:36
 #: ./templates/default/account/notifications.tpl.php:4
 #: ./templates/default/settings-shell/toolbar/logged-in.tpl.php:4
 #: ./templates/default/shell/toolbar/logged-in.tpl.php:17
 msgid "Notifications"
-msgstr ""
+msgstr "Meddelanden"
 
 #: ./Idno/Pages/Account/Password.php:26
 msgid "Password recovery email sent"
-msgstr ""
+msgstr "E-post för återställning av lösenord skickas"
 
 #: ./Idno/Pages/Account/Password.php:29
 msgid "Recover password"
-msgstr ""
+msgstr "Återställa lösenord"
 
 #: ./Idno/Pages/Account/Password.php:63
 msgid "Oh no! We couldn't find an account associated with that email address."
 msgstr ""
+"Åh nej! Vi kunde inte hitta ett konto som är kopplat till den e-postadressen."
 
 #: ./Idno/Pages/Account/Password/Reset.php:27
 #: ./templates/default/account/password/reset.tpl.php:37
 msgid "Reset password"
-msgstr ""
+msgstr "Återställ lösenord"
 
 #: ./Idno/Pages/Account/Password/Reset.php:35
 msgid ""
 "The password reset code wasn't valid. They expire after three hours, so you "
 "might need to try again."
 msgstr ""
+"Koden för återställning av lösenord var ogiltig. De går ut efter tre timmar, "
+"så du kan behöva försöka igen."
+# The password reset code was invalid. They go out after three hours, so you
+# may have to try again.
 
 #: ./Idno/Pages/Account/Password/Reset.php:58
 msgid "Your password was reset!"
-msgstr ""
+msgstr "Ditt lösenord återställdes!"
 
 #: ./Idno/Pages/Account/Password/Reset.php:64
 msgid "Sorry, your passwords either don't match, or are too weak"
-msgstr ""
+msgstr "Tyvärr matchar dina lösenord antingen inte, eller är för svaga"
 
 #: ./Idno/Pages/Account/Register.php:27
 msgid "This site is closed to new users."
