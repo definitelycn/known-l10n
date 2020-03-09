@@ -470,7 +470,7 @@ msgstr "Kontoinställningar"
 
 #: ./Idno/Pages/Account/Settings.php:50
 msgid "Someone is already using %s as their email address."
-msgstr ""
+msgstr "Någon använder redan %s som sin e-postadress."
 
 #: ./Idno/Pages/Account/Settings.php:56
 msgid "Your password has been updated."
@@ -488,7 +488,7 @@ msgstr "Dina uppgifter har sparats."
 #: ./templates/default/account/menu.tpl.php:8
 #: ./templates/default/account/settings/tools.tpl.php:9
 msgid "Tools and Apps"
-msgstr ""
+msgstr "Verktyg och appar"
 
 #: ./Idno/Pages/Admin/About.php:20
 #: ./templates/default/admin/about.tpl.php:5
@@ -498,18 +498,18 @@ msgstr "Om Known"
 #: ./Idno/Pages/Admin/Dependencies.php:20
 #: ./templates/default/admin/dependencies.tpl.php:4
 msgid "Dependencies"
-msgstr ""
+msgstr "Beroenden"
 
 #: ./Idno/Pages/Admin/Diagnostics.php:36
 #: ./templates/default/admin/diagnostics.tpl.php:45
 msgid "Basic checks on installation discovered no problems."
-msgstr ""
+msgstr "Grundläggande kontroller av installationen upptäckte inga problem."
 
 #: ./Idno/Pages/Admin/Diagnostics.php:56
 #: ./templates/default/admin/diagnostics.tpl.php:4
 #: ./templates/default/admin/menu.tpl.php:11
 msgid "Diagnostics"
-msgstr ""
+msgstr "Diagnostik"
 
 #: ./Idno/Pages/Admin/Diagnostics.php:78
 msgid ""
