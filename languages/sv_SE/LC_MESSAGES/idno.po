@@ -453,19 +453,20 @@ msgstr "Inget UUID, försök igen!"
 
 #: ./Idno/Pages/Account/Settings/Following.php:20
 msgid "Following settings"
-msgstr ""
+msgstr "Inställningar för följande"
+# Settings for following
 
 #: ./Idno/Pages/Account/Settings/Notifications.php:20
 msgid "Notification settings"
-msgstr ""
+msgstr "Inställningar för meddelande"
 
 #: ./Idno/Pages/Account/Settings/Notifications.php:39
 msgid "Your notification preferences were saved."
-msgstr ""
+msgstr "Dina meddelandeinställningar har sparats."
 
 #: ./Idno/Pages/Account/Settings.php:20
 msgid "Account settings"
-msgstr ""
+msgstr "Kontoinställningar"
 
 #: ./Idno/Pages/Account/Settings.php:50
 msgid "Someone is already using %s as their email address."
@@ -473,15 +474,15 @@ msgstr ""
 
 #: ./Idno/Pages/Account/Settings.php:56
 msgid "Your password has been updated."
-msgstr ""
+msgstr "Ditt lösenord har uppdaterats."
 
 #: ./Idno/Pages/Account/Settings.php:59
 msgid "Sorry, your password is too weak"
-msgstr ""
+msgstr "Tyvärr är ditt lösenord för svagt"
 
 #: ./Idno/Pages/Account/Settings.php:66
 msgid "Your details were saved."
-msgstr ""
+msgstr "Dina uppgifter har sparats."
 
 #: ./Idno/Pages/Account/Settings/Tools.php:26
 #: ./templates/default/account/menu.tpl.php:8
@@ -681,7 +682,7 @@ msgstr ""
 
 #: ./Idno/Pages/Admin/Users.php:141
 msgid "Please make sure your passwords match and aren't empty."
-msgstr ""
+msgstr "Kontrollera att dina lösenord stämmer överens och inte är tomma."
 
 #: ./Idno/Pages/Admin/Users.php:182
 msgid "User %s was created. You may wish to email them to let them know."
@@ -817,7 +818,7 @@ msgstr ""
 
 #: ./Idno/Pages/Session/Login.php:67
 msgid "Oops! It looks like your password isn't correct. Please try again."
-msgstr ""
+msgstr "Oj! Det ser ut som om ditt lösenord inte är korrekt. Försök igen."
 
 #: ./Idno/Pages/Session/Login.php:72
 msgid ""
@@ -906,7 +907,7 @@ msgstr ""
 #: ./templates/default/account/login.tpl.php:17
 #: ./templates/default/account/settings.tpl.php:55
 msgid "Password"
-msgstr ""
+msgstr "Lösenord"
 
 #: ./templates/default/account/login.tpl.php:36
 msgid "New here? Register for an account."
@@ -916,7 +917,7 @@ msgstr ""
 #: ./templates/email/account/password.tpl.php:2
 #: ./templates/email-text/account/password.tpl.php:1
 msgid "Forgot your password?"
-msgstr ""
+msgstr "Glömt ditt lösenord?"
 
 #: ./templates/default/account/menu.tpl.php:3
 msgid "Settings"
@@ -939,11 +940,11 @@ msgstr ""
 #: ./templates/default/account/password/reset.tpl.php:5
 #: ./templates/default/account/password.tpl.php:6
 msgid "Reset your password"
-msgstr ""
+msgstr "Återställa lösenordet"
 
 #: ./templates/default/account/password/reset.tpl.php:7
 msgid "To change your password, enter your new password below:"
-msgstr ""
+msgstr "Om du vill ändra ditt lösenord anger du ditt nya lösenord nedan:"
 
 #: ./templates/default/account/password/reset.tpl.php:16
 #: ./templates/default/account/password.tpl.php:18
@@ -960,35 +961,39 @@ msgstr ""
 
 #: ./templates/default/account/password/reset.tpl.php:23
 msgid "New password (7 characters or more)"
-msgstr ""
+msgstr "Nytt lösenord (7 tecken eller fler)"
 
 #: ./templates/default/account/password/reset.tpl.php:29
 msgid "Retype password"
-msgstr ""
+msgstr "Skriv om lösenord"
 
 #: ./templates/default/account/password/reset.tpl.php:30
 msgid "We ask you to enter the password twice to protect against typos."
-msgstr ""
+msgstr "Vi ber dig att ange lösenord två gånger för att skydda mot stavfel."
 
 #: ./templates/default/account/password/sent.tpl.php:5
 msgid "Your password reset email has been sent"
-msgstr ""
+msgstr "Din e-postaddress för återställning av lösenord har skickats"
 
 #: ./templates/default/account/password/sent.tpl.php:15
 msgid ""
 "Check your inbox! You'll find an email containing a special link that will "
 "help you reset your password."
 msgstr ""
+"Kolla inkorgen! Du hittar ett e-postmeddelande som innehåller en särskild "
+"länk som hjälper dig att återställa ditt lösenord."
 
 #: ./templates/default/account/password/sent.tpl.php:18
 msgid ""
 "Did you remember your password? That's okay too. You can <a "
 "href=\"%s\">click here to sign in.</a>"
 msgstr ""
+"Kom du ihåg ditt lösenord? Det är också okej. Du kan <a "
+"href=\"%s\">klicka här för att logga in.</a>"
 
 #: ./templates/default/account/password.tpl.php:9
 msgid "Forgot your password? Don't worry! It happens to the best of us."
-msgstr ""
+msgstr "Glömt ditt lösenord? Var inte orolig! Det händer de bästa av oss."
 
 #: ./templates/default/account/password.tpl.php:10
 msgid ""
@@ -996,6 +1001,9 @@ msgid ""
 "we'll send you a top secret link to your email account so that you can "
 "create a new password."
 msgstr ""
+"Ange bara den e-postadress som är kopplad till ditt %s-konto nedan, så "
+"skickar vi en topphemlig länk till ditt e-postkonto så att du kan skapa "
+"ett nytt lösenord."
 
 #: ./templates/default/account/password.tpl.php:20
 msgid "me@awesome.com"
@@ -1003,7 +1011,7 @@ msgstr ""
 
 #: ./templates/default/account/password.tpl.php:27
 msgid "Send password reset email"
-msgstr ""
+msgstr "Skicka e-post för återställning av lösenord"
 
 #: ./templates/default/account/register.tpl.php:5
 #: ./templates/default/onboarding/register.tpl.php:3
@@ -1044,7 +1052,7 @@ msgstr ""
 #: ./templates/default/account/register.tpl.php:33
 #: ./templates/default/onboarding/register.tpl.php:25
 msgid "Create a password"
-msgstr ""
+msgstr "Skapa ett lösenord"
 
 #: ./templates/default/account/register.tpl.php:34
 msgid "At least 7 characters please."
@@ -1053,12 +1061,12 @@ msgstr ""
 #: ./templates/default/account/register.tpl.php:37
 #: ./templates/default/account/register.tpl.php:44
 msgid "secret-password"
-msgstr ""
+msgstr "hemligt lösenord"
 
 #: ./templates/default/account/register.tpl.php:42
 #: ./templates/default/onboarding/register.tpl.php:33
 msgid "Your password again"
-msgstr ""
+msgstr "Ditt lösenord igen"
 
 #: ./templates/default/account/register.tpl.php:49
 msgid "Create Account"
@@ -1262,7 +1270,7 @@ msgstr ""
 #: ./templates/default/settings-shell/toolbar/logged-in.tpl.php:13
 #: ./templates/default/shell/toolbar/logged-in.tpl.php:19
 msgid "Account Settings"
-msgstr ""
+msgstr "Kontoinställningar"
 
 #: ./templates/default/account/settings.tpl.php:14
 msgid ""
@@ -1276,7 +1284,7 @@ msgstr ""
 
 #: ./templates/default/account/settings.tpl.php:51
 msgid "Your password"
-msgstr ""
+msgstr "Ditt lösenord"
 
 #: ./templates/default/account/settings.tpl.php:58
 msgid "Leave this blank if you don't want to change it."
@@ -1420,11 +1428,11 @@ msgstr ""
 #: ./templates/default/admin/email.tpl.php:76
 #: ./templates/default/admin/email.tpl.php:79
 msgid "SMTP password"
-msgstr ""
+msgstr "SMTP-lösenord"
 
 #: ./templates/default/admin/email.tpl.php:84
 msgid "If your mail server needs a password, enter it here."
-msgstr ""
+msgstr "Om din e-postserver behöver ett lösenord anger du det här."
 
 #: ./templates/default/admin/email.tpl.php:91
 #: ./templates/default/admin/email.tpl.php:94
@@ -2630,12 +2638,12 @@ msgstr ""
 #: ./templates/email/account/password.tpl.php:6
 #: ./templates/email-text/account/password.tpl.php:14
 msgid "We heard you forgot your password. Don't worry. It happens to the best of us."
-msgstr ""
+msgstr "Vi hörde att du glömt ditt lösenord. Var inte orolig. Det händer de bästa av oss."
 
 #: ./templates/email/account/password.tpl.php:8
 #: ./templates/email-text/account/password.tpl.php:17
 msgid "You can reset your password by clicking the link below (or copy and paste it into your browser)."
-msgstr ""
+msgstr "Du kan återställa lösenordet genom att klicka på länken nedan (eller kopiera och klistra in det i din webbläsare)."
 
 #: ./templates/email/content/notification/like.tpl.php:7
 msgid ""
