@@ -385,16 +385,16 @@ msgstr "Vi kunde inte registrera dig."
 
 #: ./Idno/Pages/Account/Settings/FeedbackConfirm.php:17
 msgid "Thank you for your feedback!"
-msgstr ""
+msgstr "Tack för din feedback!"
 
 #: ./Idno/Pages/Account/Settings/Feedback.php:19
 #: ./templates/default/account/settings/feedback.tpl.php:37
 msgid "Send feedback"
-msgstr ""
+msgstr "Skicka feedback"
 
 #: ./Idno/Pages/Account/Settings/Feedback.php:42
 msgid "Thanks! We received your feedback."
-msgstr ""
+msgstr "Tack! Vi fick din feedback."
 
 #: ./Idno/Pages/Account/Settings/Following/Bookmarklet.php:37
 msgid ""
@@ -487,7 +487,7 @@ msgstr ""
 #: ./Idno/Pages/Admin/About.php:20
 #: ./templates/default/admin/about.tpl.php:5
 msgid "About Known"
-msgstr ""
+msgstr "Om Known"
 
 #: ./Idno/Pages/Admin/Dependencies.php:20
 #: ./templates/default/admin/dependencies.tpl.php:4
@@ -538,7 +538,7 @@ msgstr ""
 #: ./templates/default/account/settings/following/mf2user.tpl.php:73
 #: ./templates/default/admin/menu.tpl.php:7
 msgid "Email"
-msgstr ""
+msgstr "E-post"
 
 #: ./Idno/Pages/Admin/EmailTest.php:21
 msgid "Test email from %s!"
@@ -559,7 +559,7 @@ msgstr ""
 #: ./Idno/Pages/Admin/Homepage.php:25
 #: ./templates/default/admin/menu.tpl.php:6
 msgid "Homepage"
-msgstr ""
+msgstr "Hemsida"
 
 #: ./Idno/Pages/Admin/Homepage.php:42
 msgid "The default homepage content types were saved."
@@ -2643,7 +2643,7 @@ msgstr ""
 #: ./templates/email/content/notification/rsvp.tpl.php:20
 #: ./templates/email/content/notification/share.tpl.php:10
 msgid "View post"
-msgstr ""
+msgstr "Visa inlägg"
 
 #: ./templates/email/content/notification/mention.tpl.php:13
 #: ./templates/email-text/content/notification/mention.tpl.php:6
@@ -2701,7 +2701,7 @@ msgstr ""
 #: ./templates/email-text/content/notification/rsvp.tpl.php:16
 #: ./templates/email-text/content/notification/share.tpl.php:8
 msgid "View post:"
-msgstr ""
+msgstr "Visa inlägg:"
 
 #: ./known.php:110
 msgid "Returns the current Known version as defined in version.known"
