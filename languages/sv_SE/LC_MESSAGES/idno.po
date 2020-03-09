@@ -402,6 +402,9 @@ msgid ""
 "their profile in <a "
 "href=\"http://microformats.org/wiki/microformats-2\">Microformats</a>?"
 msgstr ""
+"Tyvärr, kunde inte hitta några användare på den sidan, kanske de behöver "
+"märka upp sin profil i <a "
+"href=\"http://microformats.org/wiki/microformats-2\">Microformats</a>?"
 
 #: ./Idno/Pages/Account/Settings/Following/Bookmarklet.php:51
 msgid ""
@@ -409,42 +412,44 @@ msgid ""
 "href=\"http://microformats.org/wiki/microformats-2\">Microformats</a> "
 "markup... doing my best with what I have!"
 msgstr ""
+"Sidan innehöll inga <a href=\"http://microformats.org/wiki/microformats-2\">"
+"Mikroformat</a> markeringar... gör mitt bästa med vad jag har!"
 
 #: ./Idno/Pages/Account/Settings/Following/Bookmarklet.php:60
 msgid "Found users"
-msgstr ""
+msgstr "Hittade användare"
 
 #: ./Idno/Pages/Account/Settings/Following/Bookmarklet.php:64
 msgid "Sorry, there was a problem parsing the page!"
-msgstr ""
+msgstr "Tyvärr var det ett problem att tolka sidan!"
 
 #: ./Idno/Pages/Account/Settings/Following/Bookmarklet.php:66
 msgid "Sorry, %s could not be retrieved!"
-msgstr ""
+msgstr "Tyvärr kunde %s inte hämtas!"
 
 #: ./Idno/Pages/Account/Settings/Following/Bookmarklet.php:149
 msgid "There was a problem saving the new remote user."
-msgstr ""
+msgstr "Det gick inte att spara den nya fjärranvändaren."
 
 #: ./Idno/Pages/Account/Settings/Following/Bookmarklet.php:170
 msgid "You are now following %s, would you like to subscribe to their feed?"
-msgstr ""
+msgstr "Du följer nu %s, vill du prenumerera på deras flöde?"
 
 #: ./Idno/Pages/Account/Settings/Following/Bookmarklet.php:175
 msgid "You are now following %s"
-msgstr ""
+msgstr "Du följer nu %s"
 
 #: ./Idno/Pages/Account/Settings/Following/Bookmarklet.php:180
 msgid "You're already following %s"
-msgstr ""
+msgstr "Du följer redan %s"
 
 #: ./Idno/Pages/Account/Settings/Following/Bookmarklet.php:183
 msgid "Sorry, that user doesn't exist!"
-msgstr ""
+msgstr "Tyvärr, den användaren existerar inte!"
 
 #: ./Idno/Pages/Account/Settings/Following/Bookmarklet.php:185
 msgid "No UUID, please try that again!"
-msgstr ""
+msgstr "Inget UUID, försök igen!"
 
 #: ./Idno/Pages/Account/Settings/Following.php:20
 msgid "Following settings"
@@ -1908,11 +1913,11 @@ msgstr ""
 
 #: ./templates/default/admin/users.tpl.php:21
 msgid "users"
-msgstr ""
+msgstr "användare"
 
 #: ./templates/default/admin/users.tpl.php:23
 msgid "user"
-msgstr ""
+msgstr "användaren"
 
 #: ./templates/default/admin/users.tpl.php
 msgid "Your site has <strong>1</strong> user"
@@ -2221,7 +2226,7 @@ msgstr ""
 
 #: ./templates/default/forms/components/usersearch/user.tpl.php:57
 msgid "Remote member"
-msgstr ""
+msgstr "Fjärrmedlem"
 
 #: ./templates/default/forms/components/usersearch/user.tpl.php:62
 msgid "Administrator"
