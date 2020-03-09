@@ -2693,6 +2693,7 @@ msgstr ""
 #: ./known.php:110
 msgid "Returns the current Known version as defined in version.known"
 msgstr ""
+"Returnerar den aktuella Known-versionen enligt definitionen i version.known"
 
 #: ./known.php:118
 msgid ""
@@ -2700,3 +2701,6 @@ msgid ""
 "%s). If you're having problems, you may want to try updating to the latest "
 "version.\nUpdate now: https://github.com/idno/Known\n"
 msgstr ""
+"VARNING: Din version av Klown ligger bakom den senaste versionen från Github "
+"(%s - %s). Om du har problem kanske du vill prova att uppdatera till den "
+"senaste versionen.\nUppdatering nu: https://github.com/idno/Known\n"
