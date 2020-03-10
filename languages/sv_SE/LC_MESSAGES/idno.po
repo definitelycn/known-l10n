@@ -588,41 +588,42 @@ msgstr ""
 
 #: ./Idno/Pages/Admin/Import.php:18
 msgid "Import data"
-msgstr ""
+msgstr "Importera data"
 
 #: ./Idno/Pages/Admin/Import.php:33
 msgid "You need to upload an import file to continue."
-msgstr ""
+msgstr "Du måste ladda upp en importfil för att kunna fortsätta."
 
 #: ./Idno/Pages/Admin/Import.php:35
 msgid "We couldn't open the file you uploaded. Please try again."
-msgstr ""
+msgstr "Vi kunde inte öppna filen du laddade upp. Försök igen."
 
 #: ./Idno/Pages/Admin/Import.php:37
 msgid "Your import has started. We'll email you when it's done."
-msgstr ""
+msgstr "Importen har påbörjats. Vi skickar e-post till dig när det är klart."
 
 #: ./Idno/Pages/Admin/Logs.php:19
 #: ./templates/default/admin/logs.tpl.php:4
 msgid "Log capture"
-msgstr ""
+msgstr "Fångade loggar"
+# Captured logs
 
 #: ./Idno/Pages/Admin/Plugins.php:23
 #: ./templates/default/admin/menu.tpl.php:3
 #: ./templates/default/admin/plugins/plugin.tpl.php:106
 #: ./templates/default/admin/plugins.tpl.php:5
 msgid "Plugins"
-msgstr ""
+msgstr "Insticks"
 
 #: ./Idno/Pages/Admin/Plugins.php:44
 #: ./Idno/Pages/Admin/Plugins.php:49
 msgid "The plugin was enabled."
-msgstr ""
+msgstr "Insticksprogrammet var aktiverat."
 
 #: ./Idno/Pages/Admin/Plugins.php:58
 #: ./Idno/Pages/Admin/Plugins.php:63
 msgid "The plugin was disabled."
-msgstr ""
+msgstr "Insticksprogrammet var inaktiverat."
 
 #: ./Idno/Pages/Admin/Statistics.php:16
 msgid ""
