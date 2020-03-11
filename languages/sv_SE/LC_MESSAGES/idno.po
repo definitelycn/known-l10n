@@ -796,20 +796,20 @@ msgstr "URL saknas"
 #: ./Idno/Pages/Service/Web/ImageProxy.php:77
 #: ./Idno/Pages/Service/Web/ImageProxy.php:267
 msgid "There was a problem decoding the url"
-msgstr ""
+msgstr "Det uppstod ett problem med att avkoda webbadressen"
 
 #: ./Idno/Pages/Service/Web/ImageProxy.php:81
 #: ./Idno/Pages/Service/Web/ImageProxy.php:271
 msgid "No url specified"
-msgstr ""
+msgstr "Ingen url har angetts"
 
 #: ./Idno/Pages/Service/Web/ImageProxy.php:222
 msgid "Could not save temporary file"
-msgstr ""
+msgstr "Det gick inte att spara temporär fil"
 
 #: ./Idno/Pages/Service/Web/ImageProxy.php:253
 msgid "Looks like something went wrong, image was zero bytes big!"
-msgstr ""
+msgstr "Ser ut som något gick fel, bilden var noll byte stora!"
 
 #: ./Idno/Pages/Service/Web/UrlUnfurl.php:20
 #: ./Idno/Pages/Service/Web/UrlUnfurl.php:47
