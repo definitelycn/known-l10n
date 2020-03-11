@@ -783,15 +783,15 @@ msgstr "Skapa din profil"
 
 #: ./Idno/Pages/Search/User.php:23
 msgid "Invalid sort type %s"
-msgstr ""
+msgstr "Ogiltig sorteringstyp %s"
 
 #: ./Idno/Pages/Search/User.php:27
 msgid "Invalid sort order %s"
-msgstr ""
+msgstr "Ogiltig sorteringsordning %s"
 
 #: ./Idno/Pages/Service/Security/CSRFToken.php:16
 msgid "URL missing"
-msgstr ""
+msgstr "URL saknas"
 
 #: ./Idno/Pages/Service/Web/ImageProxy.php:77
 #: ./Idno/Pages/Service/Web/ImageProxy.php:267
