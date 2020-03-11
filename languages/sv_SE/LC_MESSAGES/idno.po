@@ -770,16 +770,16 @@ msgstr "Följande"
 
 #: ./Idno/Pages/Onboarding/Begin.php:23
 msgid "Welcome to Known"
-msgstr ""
+msgstr "Välkommen till Known"
 
 #: ./Idno/Pages/Onboarding/Connect.php:25
 msgid "Connect some networks"
-msgstr ""
+msgstr "Ansluta vissa nätverk"
 
 #: ./Idno/Pages/Onboarding/Profile.php:22
 #: ./templates/default/onboarding/profile.tpl.php:3
 msgid "Create your profile"
-msgstr ""
+msgstr "Skapa din profil"
 
 #: ./Idno/Pages/Search/User.php:23
 msgid "Invalid sort type %s"
