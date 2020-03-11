@@ -642,11 +642,11 @@ msgstr "Statistik"
 #: ./templates/default/admin/menu.tpl.php:4
 #: ./templates/default/admin/themes.tpl.php:4
 msgid "Themes"
-msgstr ""
+msgstr "Teman"
 
 #: ./Idno/Pages/Admin/Themes.php:52
 msgid "The theme was enabled."
-msgstr ""
+msgstr "Temat aktiverades."
 
 #: ./Idno/Pages/Admin/Users.php:32
 msgid "User Management"
