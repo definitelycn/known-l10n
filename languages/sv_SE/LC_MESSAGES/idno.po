@@ -852,16 +852,16 @@ msgstr "Du har loggat ut. Vi ses snart!"
 
 #: ./Idno/Pages/User/Edit.php:30
 msgid "Edit profile: %s"
-msgstr ""
+msgstr "Redigera profil: %s"
 
 #: ./Idno/Pages/Webmentions/Endpoint.php:19
 msgid "Webmention endpoint"
-msgstr ""
+msgstr "Slutpunkt för webbomnämnande"
 
 #: ./Idno/Stats/Timer.php:39
 #: ./Idno/Stats/TotalTimer.php:44
 msgid "Timer %s has not been started."
-msgstr ""
+msgstr "Timern %s har inte startats."
 
 #: ./templates/default/account/export.tpl.php:8
 msgid "Export your data"
