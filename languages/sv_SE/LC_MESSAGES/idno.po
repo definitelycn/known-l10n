@@ -831,7 +831,8 @@ msgstr "%s-profilen för %s"
 #: ./templates/default/account/login.tpl.php:21
 #: ./templates/default/shell/toolbar/login.tpl.php:3
 msgid "Sign in"
-msgstr ""
+msgstr "Logga in"
+# ?
 
 #: ./Idno/Pages/Session/Login.php:67
 msgid "Oops! It looks like your password isn't correct. Please try again."
@@ -842,10 +843,12 @@ msgid ""
 "Oops! We couldn't find your username or email address. Please check you "
 "typed it correctly and try again."
 msgstr ""
+"Oj! Vi hittade inte ditt användarnamn eller din e-postadress. Kontrollera "
+"att du skrev det korrekt och försök igen."
 
 #: ./Idno/Pages/Session/Logout.php:24
 msgid "You've signed out. See you soon!"
-msgstr ""
+msgstr "Du har loggat ut. Vi ses snart!"
 
 #: ./Idno/Pages/User/Edit.php:30
 msgid "Edit profile: %s"
