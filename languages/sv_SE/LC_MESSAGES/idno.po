@@ -814,16 +814,17 @@ msgstr "Ser ut som något gick fel, bilden var noll byte stora!"
 #: ./Idno/Pages/Service/Web/UrlUnfurl.php:20
 #: ./Idno/Pages/Service/Web/UrlUnfurl.php:47
 msgid "You need to specify a working URL"
-msgstr ""
+msgstr "Du måste ange en fungerande WEBBADRESS"
 
 #: ./Idno/Pages/Service/Web/UrlUnfurl.php:69
 msgid "Url %s could not be unfurled"
-msgstr ""
+msgstr "Url %s kunde inte tolkas"
+# Url %s could not be parsed
 
 #: ./Idno/Pages/Session/CurrentUser.php:36
 #: ./Idno/Pages/User/View.php:72
 msgid "The %s profile for %s"
-msgstr ""
+msgstr "%s-profilen för %s"
 
 #: ./Idno/Pages/Session/Login.php:42
 #: ./templates/default/account/login.tpl.php:7
