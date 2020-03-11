@@ -650,23 +650,23 @@ msgstr "Temat aktiverades."
 
 #: ./Idno/Pages/Admin/Users.php:32
 msgid "User Management"
-msgstr ""
+msgstr "Användarhantering"
 
 #: ./Idno/Pages/Admin/Users.php:50
 msgid "%s was given administration rights."
-msgstr ""
+msgstr "%s fick administrativa rättigheter."
 
 #: ./Idno/Pages/Admin/Users.php:58
 msgid "%s was stripped of their administration rights."
-msgstr ""
+msgstr "%s fråntogs sina administrativa rättigheter."
 
 #: ./Idno/Pages/Admin/Users.php:65
 msgid "%s was removed from your site."
-msgstr ""
+msgstr "%s togs bort från webbplatsen."
 
 #: ./Idno/Pages/Admin/Users.php:91
 msgid "%d invitations were sent."
-msgstr ""
+msgstr "%d inbjudningar skickades."
 
 #: ./Idno/Pages/Admin/Users.php:93
 msgid "Your invitation was sent."
