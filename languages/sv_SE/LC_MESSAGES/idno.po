@@ -745,11 +745,11 @@ msgstr "%s har tagits bort."
 
 #: ./Idno/Pages/Entity/Withdraw.php:48
 msgid "We removed copies on all the syndicated sites."
-msgstr ""
+msgstr "Vi tog bort kopior på alla syndikerade webbplatser."
 
 #: ./Idno/Pages/File/Picker.php:57
 msgid "You can only upload images."
-msgstr ""
+msgstr "Du kan bara ladda upp bilder."
 
 #: ./Idno/Pages/Following/Add.php:23
 msgid "We couldn't find a feed at that site."
