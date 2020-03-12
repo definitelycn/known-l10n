@@ -936,7 +936,7 @@ msgstr "Lösenord"
 
 #: ./templates/default/account/login.tpl.php:36
 msgid "New here? Register for an account."
-msgstr ""
+msgstr "Är du ny här? Registrera dig för ett konto."
 
 #: ./templates/default/account/login.tpl.php:40
 #: ./templates/email/account/password.tpl.php:2
@@ -946,21 +946,21 @@ msgstr "Glömt ditt lösenord?"
 
 #: ./templates/default/account/menu.tpl.php:3
 msgid "Settings"
-msgstr ""
+msgstr "Inställningar"
 
 #: ./templates/default/account/menu.tpl.php:6
 #: ./templates/default/account/settings/notifications.tpl.php:12
 msgid "Email notifications"
-msgstr ""
+msgstr "E-postmeddelanden"
 
 #: ./templates/default/account/notifications.tpl.php:6
 msgid ""
 "The notifications screen shows you who has interacted with your content."
-msgstr ""
+msgstr "På meddelandeskärmen visas vem som har interagerat med ditt innehåll."
 
 #: ./templates/default/account/notifications.tpl.php:25
 msgid "You don't have any notifications yet. But we love you anyway!"
-msgstr ""
+msgstr "Du har inga aviseringar ännu. Men vi älskar dig ändå!"
 
 #: ./templates/default/account/password/reset.tpl.php:5
 #: ./templates/default/account/password.tpl.php:6
@@ -978,11 +978,11 @@ msgstr "Om du vill ändra ditt lösenord anger du ditt nya lösenord nedan:"
 #: ./templates/default/account/settings.tpl.php:42
 #: ./templates/default/onboarding/register.tpl.php:19
 msgid "Your email address"
-msgstr ""
+msgstr "Din e-postadress"
 
 #: ./templates/default/account/password/reset.tpl.php:17
 msgid "The address associated with your %s account."
-msgstr ""
+msgstr "Adressen som är kopplad till ditt %s-konto."
 
 #: ./templates/default/account/password/reset.tpl.php:23
 msgid "New password (7 characters or more)"
@@ -1032,7 +1032,7 @@ msgstr ""
 
 #: ./templates/default/account/password.tpl.php:20
 msgid "me@awesome.com"
-msgstr ""
+msgstr "mig@toppen.se"
 
 #: ./templates/default/account/password.tpl.php:27
 msgid "Send password reset email"
