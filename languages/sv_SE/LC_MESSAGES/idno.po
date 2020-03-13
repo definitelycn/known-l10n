@@ -1294,21 +1294,23 @@ msgstr ""
 
 #: ./templates/default/account/settings/tools.tpl.php:65
 msgid "Your API key"
-msgstr ""
+msgstr "Din API-nyckel"
 
 #: ./templates/default/account/settings/tools.tpl.php:70
 msgid "Click to show"
-msgstr ""
+msgstr "Klicka för att visa"
 
 #: ./templates/default/account/settings/tools.tpl.php:76
 msgid "Revoke"
-msgstr ""
+msgstr "Återkalla"
 
 #: ./templates/default/account/settings/tools.tpl.php:76
 msgid ""
 "Revoking this key will mean you must update any applications that use this "
 "key!"
 msgstr ""
+"Återkalla denna nyckel innebär att du måste uppdatera alla program som "
+"använder denna nyckel!"
 
 #: ./templates/default/account/settings.tpl.php:9
 #: ./templates/default/settings-shell/toolbar/logged-in.tpl.php:13
