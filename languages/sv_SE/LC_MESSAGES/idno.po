@@ -1171,17 +1171,20 @@ msgstr "Profil-URL"
 
 #: ./templates/default/account/settings/following.tpl.php:5
 msgid "Following..."
-msgstr ""
+msgstr "Följande..."
 
 #: ./templates/default/account/settings/following.tpl.php:11
 msgid ""
 "Manage your subscriptions here. These users can also be given access to "
 "private content you produce on your site."
 msgstr ""
+"Hantera dina prenumerationer här. Dessa användare kan också få tillgång "
+"till privat innehåll som du producerar på din webbplats."
 
 #: ./templates/default/account/settings/following.tpl.php:16
 msgid "Use this bookmarklet to make it easy to add new friends."
 msgstr ""
+"Använd den här bokmärket för att göra det enkelt att lägga till nya vänner."
 
 #: ./templates/default/account/settings/notifications.tpl.php:17
 msgid ""
