@@ -1151,23 +1151,23 @@ msgstr "Låt oss veta vad du tycker."
 #: ./templates/default/account/settings/following/bookmarklet.tpl.php:3
 #: ./templates/default/account/settings/following/mf2user.tpl.php:105
 msgid "Add as friend..."
-msgstr ""
+msgstr "Lägg till som vän..."
 
 #: ./templates/default/account/settings/following/mf2user.tpl.php:55
 msgid "Name"
-msgstr ""
+msgstr "Namn"
 
 #: ./templates/default/account/settings/following/mf2user.tpl.php:64
 msgid "Nickname"
-msgstr ""
+msgstr "Smeknamn"
 
 #: ./templates/default/account/settings/following/mf2user.tpl.php:67
 msgid "Handle (for your reference)"
-msgstr ""
+msgstr "Handtag (för din referens)"
 
 #: ./templates/default/account/settings/following/mf2user.tpl.php:82
 msgid "Profile URL"
-msgstr ""
+msgstr "Profil-URL"
 
 #: ./templates/default/account/settings/following.tpl.php:5
 msgid "Following..."
