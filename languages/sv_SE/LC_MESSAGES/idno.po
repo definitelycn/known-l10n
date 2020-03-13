@@ -1101,17 +1101,19 @@ msgstr "Skapa konto"
 
 #: ./templates/default/account/settings/feedback/confirm.tpl.php:5
 msgid "Message received!"
-msgstr ""
+msgstr "Emot meddelande!"
 
 #: ./templates/default/account/settings/feedback/confirm.tpl.php:9
 msgid "Thanks for sending along your thoughts. We'll read them right away."
-msgstr ""
+msgstr "Tack för att skicka längs dina tankar. Vi läser dem direkt."
 
 #: ./templates/default/account/settings/feedback/confirm.tpl.php:22
 msgid ""
 "Feedback is a gift. For more information about Known, <a "
 "href=\"https://withknown.com/\">please visit our homepage</a>"
 msgstr ""
+"Feedback är en gåva. Mer information om Known finns på <a "
+"href=\"https://withknown.com/\">, besök vår hemsida</a>"
 
 #: ./templates/default/account/settings/feedback.tpl.php:5
 msgid "Share your feedback"
