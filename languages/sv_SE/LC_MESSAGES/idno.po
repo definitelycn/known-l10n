@@ -1231,28 +1231,32 @@ msgstr "Spara inställningar"
 
 #: ./templates/default/account/settings/tools.tpl.php:13
 msgid "Bookmarklet"
-msgstr ""
+msgstr "Bokmärket"
 
 #: ./templates/default/account/settings/tools.tpl.php:22
 msgid ""
 "The Known bookmarklet is the best way to save links, reply to posts, and "
 "share articles."
 msgstr ""
+"Known-bokmärket är det bästa sättet att spara länkar, svara på inlägg och "
+"dela artiklar."
 
 #: ./templates/default/account/settings/tools.tpl.php:23
 msgid ""
 "Just drag the bookmarklet button below into your browser's Bookmark Bar."
-msgstr ""
+msgstr "Dra bara bokmärket knappen nedan i webbläsarens Bokmärke Bar."
 
 #: ./templates/default/account/settings/tools.tpl.php:42
 msgid "Don't see a bookmarks bar?"
-msgstr ""
+msgstr "Ser du ingen bokmärkesbar?"
 
 #: ./templates/default/account/settings/tools.tpl.php:45
 msgid ""
 "Sometimes web browsers have their bookmarked links bar hidden by default. "
 "Here's how to reveal it:"
 msgstr ""
+"Ibland webbläsare har sina bokmärkta länkar bar dolda som standard. "
+"Så här avslöjar du det:"
 
 #: ./templates/default/account/settings/tools.tpl.php:47
 msgid "Chrome"
