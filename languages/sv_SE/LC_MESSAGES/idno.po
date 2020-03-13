@@ -1041,12 +1041,12 @@ msgstr "Skicka e-post för återställning av lösenord"
 #: ./templates/default/account/register.tpl.php:5
 #: ./templates/default/onboarding/register.tpl.php:3
 msgid "Hello there!"
-msgstr ""
+msgstr "Hej där!"
 
 #: ./templates/default/account/register.tpl.php:7
 #: ./templates/default/onboarding/register.tpl.php:5
 msgid "Create a new account to get started."
-msgstr ""
+msgstr "Skapa ett nytt konto för att komma igång."
 
 #: ./templates/default/account/register.tpl.php:14
 #: ./templates/default/account/settings.tpl.php:27
@@ -1054,21 +1054,23 @@ msgstr ""
 #: ./templates/default/entity/User/edit.tpl.php:37
 #: ./templates/default/onboarding/profile.tpl.php:22
 msgid "Your name"
-msgstr ""
+msgstr "Ditt namn"
 
 #: ./templates/default/account/register.tpl.php:16
 msgid "Henri Matisse"
-msgstr ""
+msgstr "Charlotta Cederström"
 
 #: ./templates/default/account/register.tpl.php:20
 msgid "Choose a handle"
-msgstr ""
+msgstr "Välj ett handtag"
 
 #: ./templates/default/account/register.tpl.php:21
 msgid ""
 "Handles identify you throughout the site. Something simple is best: for "
 "example, <em>janedoe</em>."
 msgstr ""
+"Handtag identifierar dig på hela webbplatsen. Något enkelt är bäst: till "
+"exempel, <em>ulf</em>."
 
 #: ./templates/default/account/register.tpl.php:23
 msgid "username"
