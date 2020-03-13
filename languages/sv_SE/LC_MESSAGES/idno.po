@@ -1214,18 +1214,20 @@ msgstr "Aldrig"
 
 #: ./templates/default/account/settings/notifications.tpl.php:63
 msgid "Ignored Domains"
-msgstr ""
+msgstr "Ignorerade domäner"
 
 #: ./templates/default/account/settings/notifications.tpl.php:64
 msgid ""
 "Do not send notifications for interactions originating from these domains "
 "(one domain per line)"
 msgstr ""
+"Skicka inte meddelanden för interaktioner som kommer från dessa domäner "
+"(en domän per rad)"
 
 #: ./templates/default/account/settings/notifications.tpl.php:75
 #: ./templates/default/admin/email.tpl.php:142
 msgid "Save settings"
-msgstr ""
+msgstr "Spara inställningar"
 
 #: ./templates/default/account/settings/tools.tpl.php:13
 msgid "Bookmarklet"
