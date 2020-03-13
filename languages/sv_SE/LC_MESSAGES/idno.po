@@ -1191,23 +1191,26 @@ msgid ""
 "Set how you'd like to be notified when someone stars or comments on your "
 "content."
 msgstr ""
+"Ange hur du vill bli meddelad när någon publicerar stjärnor eller kommentarer "
+"om ditt innehåll."
+# "Ange hur du vill bli meddelad när någon spelar stjärnor eller kommentarer om ditt innehåll."
 
 #: ./templates/default/account/settings/notifications.tpl.php:26
 msgid "Send email notifications"
-msgstr ""
+msgstr "Skicka e-postmeddelanden"
 
 #: ./templates/default/account/settings/notifications.tpl.php:34
 msgid "Whenever someone interacts with my content"
-msgstr ""
+msgstr "När någon interagerar med mitt innehåll"
 
 #: ./templates/default/account/settings/notifications.tpl.php:44
 msgid "Only when someone comments on my content"
-msgstr ""
+msgstr "Bara när någon kommenterar mitt innehåll"
 
 #: ./templates/default/account/settings/notifications.tpl.php:54
 #: ./templates/default/forms/components/usersearch/user.tpl.php:45
 msgid "Never"
-msgstr ""
+msgstr "Aldrig"
 
 #: ./templates/default/account/settings/notifications.tpl.php:63
 msgid "Ignored Domains"
@@ -2072,17 +2075,18 @@ msgstr ""
 
 #: ./templates/default/content/end.tpl.php:55
 msgid "Star this!"
-msgstr ""
+msgstr "Favorit här!"
+# Spela det här! (?)
 
 #: ./templates/default/content/end.tpl.php:61
 #: ./templates/default/content/feed/end.tpl.php:28
 msgid "star"
-msgstr ""
+msgstr "stjärniga"
 
 #: ./templates/default/content/end.tpl.php:64
 #: ./templates/default/content/feed/end.tpl.php:30
 msgid "stars"
-msgstr ""
+msgstr "stjärnor"
 
 #: ./templates/default/content/end.tpl.php:95
 #: ./templates/default/content/feed/end.tpl.php:48
