@@ -1323,10 +1323,12 @@ msgid ""
 "Change your user account settings here. You may also want to <a "
 "href=\"%s\">edit your profile</a>."
 msgstr ""
+"Ändra inställningarna för ditt användarkonto här. Du kanske också "
+"vill <a href=\"%s\">redigera din profil</a>."
 
 #: ./templates/default/account/settings.tpl.php:45
 msgid "Site notifications will be sent here."
-msgstr ""
+msgstr "Webbplatsmeddelanden skickas hit."
 
 #: ./templates/default/account/settings.tpl.php:51
 msgid "Your password"
@@ -1334,24 +1336,24 @@ msgstr "Ditt lösenord"
 
 #: ./templates/default/account/settings.tpl.php:58
 msgid "Leave this blank if you don't want to change it."
-msgstr ""
+msgstr "Lämna det här tomt om du inte vill ändra den."
 
 #: ./templates/default/account/settings.tpl.php:64
 msgid "Your timezone"
-msgstr ""
+msgstr "Din tidszon"
 
 #: ./templates/default/account/settings.tpl.php:73
 msgid "Timezone"
-msgstr ""
+msgstr "Tidszon"
 
 #: ./templates/default/account/settings.tpl.php:78
 msgid "Specify your timezone."
-msgstr ""
+msgstr "Ange tidszonen."
 
 #: ./templates/default/account/settings.tpl.php:83
 #: ./templates/default/admin/home.tpl.php:281
 msgid "Save updates"
-msgstr ""
+msgstr "Spara uppdateringar"
 
 #: ./templates/default/admin/about.tpl.php:15
 #: ./templates/default/admin/import.tpl.php:24
