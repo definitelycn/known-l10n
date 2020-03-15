@@ -1362,11 +1362,11 @@ msgstr ""
 
 #: ./templates/default/admin/about.tpl.php:15
 msgid "is a social publishing platform for groups and individuals."
-msgstr ""
+msgstr "är en social publiceringsplattform för grupper och privatpersoner."
 
 #: ./templates/default/admin/about.tpl.php:17
 msgid "Open source project details"
-msgstr ""
+msgstr "Information om projekt med öppen källkod"
 
 #: ./templates/default/admin/about.tpl.php:20
 msgid "Version: %s+%s"
@@ -1376,11 +1376,11 @@ msgstr ""
 #: ./templates/default/admin/dependencies/idno.tpl.php:2
 #: ./templates/default/admin/dependencies/php.tpl.php:2
 msgid "%s installed"
-msgstr ""
+msgstr "%s installerat"
 
 #: ./templates/default/admin/dependencies/plugin.tpl.php:30
 msgid "(v%s required)"
-msgstr ""
+msgstr "(v%s krävs)"
 
 #: ./templates/default/admin/dependencies.tpl.php:8
 msgid ""
