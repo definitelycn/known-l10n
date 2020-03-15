@@ -1421,15 +1421,18 @@ msgid ""
 "This page provides you with information that may help you or others diagnose "
 "any problems you may be experiencing with your Known install."
 msgstr ""
-""
+"Den här sidan ger dig information som kan hjälpa dig eller andra att "
+"diagnostisera eventuella problem som du kan uppleva med din "
+"Known-installation."
 
 #: ./templates/default/admin/diagnostics.tpl.php:57
 msgid "Generate detailed report"
-msgstr ""
+msgstr "Generera detaljerad rapport"
 
 #: ./templates/default/admin/diagnostics.tpl.php:66
 msgid "Generating..."
-msgstr ""
+msgstr "Generera..."
+# ?
 
 #: ./templates/default/admin/email.tpl.php:5
 msgid "Email settings"
