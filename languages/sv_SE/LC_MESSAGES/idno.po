@@ -1436,7 +1436,7 @@ msgstr "Generera..."
 
 #: ./templates/default/admin/email.tpl.php:5
 msgid "Email settings"
-msgstr ""
+msgstr "Inställningar för e-post"
 
 #: ./templates/default/admin/email.tpl.php:9
 msgid ""
@@ -1445,26 +1445,34 @@ msgid ""
 "email using an external provider - enter the new SMTP settings below. You "
 "can also <a href=\"%s\">change your notification settings</a>."
 msgstr ""
+"Known försöker skicka e-post med serverns standarde-postinställningar. Om "
+"du vill att det ska göra något annat , till exempel om du vill skicka "
+"e-post med hjälp av en extern leverantör , ange de nya SMTP-inställningarna "
+"nedan. Du kan också <a href=\"%s\">ändra dina meddelandeinställningar</a>."
 
 #: ./templates/default/admin/email.tpl.php:20
 msgid ""
 "Fill in the site email address if you would like your site to send email."
 msgstr ""
+"Fyll i webbplatsens e-postadress om du vill att din webbplats ska skicka "
+"e-post."
 
 #: ./templates/default/admin/email.tpl.php:26
 #: ./templates/default/admin/email.tpl.php:29
 msgid "Site email address"
-msgstr ""
+msgstr "Webbplats e-postadress"
 
 #: ./templates/default/admin/email.tpl.php:33
 msgid "This is the address that every notification will be sent from."
-msgstr ""
+msgstr "Detta är den adress som varje meddelande kommer att skickas från."
 
 #: ./templates/default/admin/email.tpl.php:40
 msgid ""
 "You can often leave the following settings blank. However, you may wish to "
 "set them if you're using a third-party service to send email."
 msgstr ""
+"Du kan ofta lämna följande inställningar tomma. Du kanske vill ställa in "
+"dem om du använder en tjänst från tredje part för att skicka e-post."
 
 #: ./templates/default/admin/email.tpl.php:48
 #: ./templates/default/admin/email.tpl.php:51

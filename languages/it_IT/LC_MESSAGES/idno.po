@@ -1190,7 +1190,7 @@ msgstr "Impostazioni e-mail"
 
 #: ./templates/default/admin/email.tpl.php:9
 msgid "Known tries to send email using your server's default email settings. If you'd like it to do something else - for example, if you'd like to send email using an external provider - enter the new SMTP settings below. You can also <a href=\"%s\">change your notification settings</a>."
-msgstr "Knoln tenta di inviare e-mail utilizzando le impostazioni e-mail predefinite del server. Se vuoi che eseri qualcos'altro, ad esempio se desideri inviare email utilizzando un provider esterno, inserisci le nuove impostazioni SMTP di seguito. È inoltre possibile <a href=\"%s\">modificare le impostazioni di notifica</a>."
+msgstr "Known tenta di inviare e-mail utilizzando le impostazioni e-mail predefinite del server. Se vuoi che eseri qualcos'altro, ad esempio se desideri inviare email utilizzando un provider esterno, inserisci le nuove impostazioni SMTP di seguito. È inoltre possibile <a href=\"%s\">modificare le impostazioni di notifica</a>."
 
 #: ./templates/default/admin/email.tpl.php:20
 msgid "Fill in the site email address if you would like your site to send email."
