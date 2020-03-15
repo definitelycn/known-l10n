@@ -1389,6 +1389,10 @@ msgid ""
 "need help installing any required packages, ask your web host or system "
 "administrator."
 msgstr ""
+"Följande är systemkomponenter som krävs för att Known ska kunna köras helt. "
+"Det är värt att kontrollera att de alla är installerade. Om du behöver "
+"hjälp med att installera några nödvändiga paket ber du ditt webbhotell "
+"eller systemadministratör."
 
 #: ./templates/default/admin/dependencies.tpl.php:17
 msgid "PHP"
@@ -1396,11 +1400,11 @@ msgstr ""
 
 #: ./templates/default/admin/dependencies.tpl.php:19
 msgid "Version %s or greater"
-msgstr ""
+msgstr "Version %s eller mer"
 
 #: ./templates/default/admin/dependencies.tpl.php:27
 msgid "PHP extensions required"
-msgstr ""
+msgstr "PHP förlängningar krävs"
 
 #: ./templates/default/admin/dependencies.tpl.php:28
 msgid ""
@@ -1408,12 +1412,16 @@ msgid ""
 "database storage, webmentions, etc. Click an extension name to learn more "
 "about it, including installation instructions."
 msgstr ""
+"Dessa utökar hur PHP fungerar, och krävs för funktionalitet som "
+"databaslagring, webmentions, etc. Klicka på ett tillägg namn om "
+"du vill veta mer om det, inklusive installationsinstruktioner."
 
 #: ./templates/default/admin/diagnostics.tpl.php:9
 msgid ""
 "This page provides you with information that may help you or others diagnose "
 "any problems you may be experiencing with your Known install."
 msgstr ""
+""
 
 #: ./templates/default/admin/diagnostics.tpl.php:57
 msgid "Generate detailed report"
