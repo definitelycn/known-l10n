@@ -1554,7 +1554,7 @@ msgstr "Arkivera om dina data"
 
 #: ./templates/default/admin/export/generate.tpl.php:5
 msgid "Create archive"
-msgstr ""
+msgstr "Skapa arkiv"
 
 #: ./templates/default/admin/export/generate.tpl.php:18
 msgid ""
@@ -1562,20 +1562,25 @@ msgid ""
 "it's working. Once the export file is complete, this page will update, and "
 "you'll be able to download the archive right here."
 msgstr ""
+"Det kan ta ett tag att generera ditt arkiv. Du kan lämna den här sidan "
+"medan den fungerar. När exportfilen är klar uppdateras den här sidan och "
+"du kan hämta arkivet här."
 
 #: ./templates/default/admin/export.tpl.php:9
 msgid "Export content"
-msgstr ""
+msgstr "Exportera innehåll"
 
 #: ./templates/default/admin/export.tpl.php:17
 msgid ""
 "Export your published Known content as an RSS file. You can import this file "
 "into Known or WordPress."
 msgstr ""
+"Exportera ditt publicerade Known-innehåll som en RSS-fil. Du kan importera "
+"filen till Known eller WordPress."
 
 #: ./templates/default/admin/export.tpl.php:20
 msgid "Generate RSS file"
-msgstr ""
+msgstr "Generera RSS-fil"
 
 #: ./templates/default/admin/export.tpl.php:35
 msgid ""
