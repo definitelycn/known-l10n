@@ -1587,16 +1587,18 @@ msgid ""
 "Some platforms may assume that your content should be displayed publicly. To "
 "protect your privacy, you may wish to only download your public content."
 msgstr ""
+"Vissa plattformar kan anta att ditt innehåll ska visas offentligt. För att "
+"skydda din integritet kan du bara vilja ladda ner ditt offentliga innehåll."
 
 #: ./templates/default/admin/export.tpl.php:39
 msgid "Download file"
-msgstr ""
+msgstr "Ladda ner fil"
 
 #: ./templates/default/admin/export/wait.tpl.php:4
 msgid ""
 "An archive of your data is being created. Please check again in a few "
 "minutes."
-msgstr ""
+msgstr "Ett arkiv med dina data skapas. Vänligen checka igen om några minuter."
 
 #: ./templates/default/admin/home/description.tpl.php:2
 #: ./templates/default/admin/menu.tpl.php:2
