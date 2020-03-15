@@ -1603,13 +1603,16 @@ msgstr "Ett arkiv med dina data skapas. Vänligen checka igen om några minuter.
 #: ./templates/default/admin/home/description.tpl.php:2
 #: ./templates/default/admin/menu.tpl.php:2
 msgid "Site configuration"
-msgstr ""
+msgstr "Platskonfiguration"
 
 #: ./templates/default/admin/home/description.tpl.php:6
 msgid ""
 "On this page you can change the basic settings for your site, like the site "
 "name and the number of posts visible on each page."
 msgstr ""
+"På den här sidan kan du ändra de grundläggande inställningarna för din "
+"webbplats, till exempel webbplatsnamnet och antalet inlägg som visas "
+"på varje sida."
 
 #: ./templates/default/admin/homepage.tpl.php:6
 msgid "Homepage content"
