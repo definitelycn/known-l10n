@@ -1520,19 +1520,21 @@ msgstr "Välj ja om du använder säkra inloggningar på e-postservern."
 
 #: ./templates/default/admin/email.tpl.php:157
 msgid "Send a test message to"
-msgstr ""
+msgstr "Skicka ett testmeddelande till"
 
 #: ./templates/default/admin/email.tpl.php:160
 msgid "To address"
-msgstr ""
+msgstr "Adress till"
 
 #: ./templates/default/admin/email.tpl.php:164
 msgid "Check your email settings by sending a test email."
 msgstr ""
+"Kontrollera dina e-postinställningar genom att skicka ett "
+"teste-postmeddelande."
 
 #: ./templates/default/admin/email.tpl.php:170
 msgid "Test settings"
-msgstr ""
+msgstr "Testa inställningar"
 
 #: ./templates/default/admin/export/download.tpl.php:2
 msgid "Download your data"
