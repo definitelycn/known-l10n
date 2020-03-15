@@ -1504,19 +1504,19 @@ msgstr "Om din e-postserver behöver ett lösenord anger du det här."
 #: ./templates/default/admin/email.tpl.php:91
 #: ./templates/default/admin/email.tpl.php:94
 msgid "SMTP port"
-msgstr ""
+msgstr "SMTP-port"
 
 #: ./templates/default/admin/email.tpl.php:107
 msgid "This is normally 25 or 587."
-msgstr ""
+msgstr "Detta är normalt 25 eller 587."
 
 #: ./templates/default/admin/email.tpl.php:114
 msgid "Secure connection"
-msgstr ""
+msgstr "Säker anslutning"
 
 #: ./templates/default/admin/email.tpl.php:135
 msgid "Select yes if you use secure logins to your mail server."
-msgstr ""
+msgstr "Välj ja om du använder säkra inloggningar på e-postservern."
 
 #: ./templates/default/admin/email.tpl.php:157
 msgid "Send a test message to"
