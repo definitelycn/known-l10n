@@ -1616,7 +1616,8 @@ msgstr ""
 
 #: ./templates/default/admin/homepage.tpl.php:6
 msgid "Homepage content"
-msgstr ""
+msgstr "Startsida innehåll"
+# Heminnehåll
 
 #: ./templates/default/admin/homepage.tpl.php:11
 msgid ""
@@ -1624,22 +1625,26 @@ msgid ""
 "default, all published content appears on the main page. If you want to hide "
 "some content types from the main page, you can turn them off below."
 msgstr ""
+"Här kan du välja vilket innehåll besökarna ser på din hemsida. Som "
+"standard visas allt publicerat innehåll på huvudsidan. Om du vill dölja "
+"vissa innehållstyper från huvudsidan kan du inaktivera dem nedan."
 
 #: ./templates/default/admin/homepage.tpl.php:16
 msgid "Turn off content types to hide them from the homepage of your site."
 msgstr ""
+"Inaktivera innehållstyper för att dölja dem från webbplatsens startsida."
 
 #: ./templates/default/admin/homepage.tpl.php:45
 msgid "On"
-msgstr ""
+msgstr "På"
 
 #: ./templates/default/admin/homepage.tpl.php:46
 msgid "Off"
-msgstr ""
+msgstr "Av"
 
 #: ./templates/default/admin/homepage.tpl.php:109
 msgid "Save"
-msgstr ""
+msgstr "Spara"
 
 #: ./templates/default/admin/home.tpl.php:15
 msgid "Site Details"
