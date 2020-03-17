@@ -1920,10 +1920,13 @@ msgid ""
 "information, so be very careful how you disclose the information and to "
 "whom."
 msgstr ""
+"Denna sida ger dig fångade PHP-loggar. Dessa innehåller känslig "
+"information, så var mycket försiktig hur du lämnar ut informationen "
+"och till vem."
 
 #: ./templates/default/admin/logs.tpl.php:19
 msgid "Refresh..."
-msgstr ""
+msgstr "Uppdatera..."
 
 #: ./templates/default/admin/menu.tpl.php:8
 #: ./templates/default/admin/users.tpl.php:4
