@@ -1648,130 +1648,141 @@ msgstr "Spara"
 
 #: ./templates/default/admin/home.tpl.php:15
 msgid "Site Details"
-msgstr ""
+msgstr "Information om webbplatsen"
 
 #: ./templates/default/admin/home.tpl.php:20
 #: ./templates/default/admin/home.tpl.php:23
 msgid "Site name"
-msgstr ""
+msgstr "Webbplatsens namn"
 
 #: ./templates/default/admin/home.tpl.php:27
 msgid "Give your site a name!"
-msgstr ""
+msgstr "Ge din webbplats ett namn!"
 
 #: ./templates/default/admin/home.tpl.php:35
 msgid "Site summary"
-msgstr ""
+msgstr "Sammanfattning av webbplatsen"
 
 #: ./templates/default/admin/home.tpl.php:38
 msgid "Site description"
-msgstr ""
+msgstr "Beskrivning av webbplatsen"
 
 #: ./templates/default/admin/home.tpl.php:42
 msgid "What's your site about?"
-msgstr ""
+msgstr "Vad handlar din webbplats om?"
 
 #: ./templates/default/admin/home.tpl.php:50
 #: ./templates/default/admin/home.tpl.php:53
 msgid "Homepage title"
-msgstr ""
+msgstr "Titel på startsida"
 
 #: ./templates/default/admin/home.tpl.php:57
 msgid ""
 "What should the browser display as the title on your homepage?<br>By default "
 "this is just your site title."
 msgstr ""
+"Vad ska webbläsaren visa som titel på din hemsida? <br>Som standard är detta "
+"bara din webbplats titel."
 
 #: ./templates/default/admin/home.tpl.php:65
 msgid "Items per page"
-msgstr ""
+msgstr "Objekt per sida"
 
 #: ./templates/default/admin/home.tpl.php:71
 msgid "This is the number of content posts displayed on each page."
-msgstr ""
+msgstr "Det här är antalet innehållsinlägg som visas på varje sida."
 
 #: ./templates/default/admin/home.tpl.php:79
 msgid "Single user"
-msgstr ""
+msgstr "Enda användare"
+# En användare
 
 #: ./templates/default/admin/home.tpl.php:90
 msgid ""
 "Is this a single-user site? If so, your profile information will be shown at "
 "the top of the homepage."
 msgstr ""
+"Är detta en enda användare webbplats? Om så är fallet visas din "
+"profilinformation högst upp på hemsidan."
 
 #: ./templates/default/admin/home.tpl.php:101
 msgid "Permalink Structure"
-msgstr ""
+msgstr "Permalänkstruktur"
 
 #: ./templates/default/admin/home.tpl.php:118
 msgid "How permalinks for individual posts are constructed."
-msgstr ""
+msgstr "Hur permalänkar för enskilda artiklar konstrueras."
 
 #: ./templates/default/admin/home.tpl.php:130
 msgid "Registration and privacy"
-msgstr ""
+msgstr "Registrering och sekretess"
+# Registration and confidentiality
 
 #: ./templates/default/admin/home.tpl.php:138
 msgid "Allow registration"
-msgstr ""
+msgstr "Tillåt registrering"
 
 #: ./templates/default/admin/home.tpl.php:148
 msgid "Allow registration if you want others to sign up for your site."
 msgstr ""
+"Tillåt registrering om du vill att andra ska registrera dig för din webbplats."
 
 #: ./templates/default/admin/home.tpl.php:161
 msgid "Make site private"
-msgstr ""
+msgstr "Gör webbplatsen privat"
 
 #: ./templates/default/admin/home.tpl.php:170
 msgid "Content on a private site is only visible if you're logged in."
-msgstr ""
+msgstr "Innehållet på en privat webbplats visas bara om du är inloggad."
 
 #: ./templates/default/admin/home.tpl.php:188
 msgid "Per-post privacy"
-msgstr ""
+msgstr "Sekretess per post"
+# Privacy by mail?
 
 #: ./templates/default/admin/home.tpl.php:199
 msgid "Show per-post privacy settings."
-msgstr ""
+msgstr "Visa sekretessinställningarna per inlägg."
 
 #: ./templates/default/admin/home.tpl.php:215
 msgid "Technical Settings"
-msgstr ""
+msgstr "Tekniska inställningar"
 
 #: ./templates/default/admin/home.tpl.php:223
 msgid "PubSubHubbub hub"
-msgstr ""
+msgstr "PubSubHubbub-hubb"
 
 #: ./templates/default/admin/home.tpl.php:226
 msgid "PubSubHubbub hub address"
-msgstr ""
+msgstr "PubSubHubbub-hubbadress"
 
 #: ./templates/default/admin/home.tpl.php:230
 msgid "You can probably leave this as is."
-msgstr ""
+msgstr "Du kan nog lämna det här som det är."
 
 #: ./templates/default/admin/home.tpl.php:231
 msgid "Learn more about PuSH"
-msgstr ""
+msgstr "Läs mer om PuSH"
+# WebSub
 
 #: ./templates/default/admin/home.tpl.php:241
 msgid "Avatar as icon"
-msgstr ""
+msgstr "Avatar som ikon"
 
 #: ./templates/default/admin/home.tpl.php:252
 msgid "This uses members' avatar images as the site favicon."
-msgstr ""
+msgstr "Detta använder medlemmarnas avatar bilder som webbplatsen favicon."
 
 #: ./templates/default/admin/home.tpl.php:260
 msgid "Include permalinks"
-msgstr ""
+msgstr "Inkludera permalänkar"
 
 #: ./templates/default/admin/home.tpl.php:269
 msgid ""
 "Always add a link back to your site when you syndicate to external networks."
 msgstr ""
+"Lägg alltid till en länk tillbaka till din webbplats när du syndikat till "
+"externa nätverk."
 
 #: ./templates/default/admin/import.tpl.php:9
 msgid "Import content"
