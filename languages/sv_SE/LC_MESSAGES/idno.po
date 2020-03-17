@@ -1989,12 +1989,18 @@ msgid ""
 "change the way Known behaves. To enable or disable a plugin, just click its "
 "enable or disable button."
 msgstr ""
+"Plugins kan du lägga till funktioner på din webbplats. Dessa inkluderar nya "
+"typer av innehåll, alternativ för att syndikera innehåll till olika "
+"webbplatser och funktioner för att ändra hur Known beter sig. Om du vill "
+"aktivera eller inaktivera en plugin klickar du bara på dess aktivera eller "
+"inaktivera knappen."
 
 #: ./templates/default/admin/statistics.tpl.php:9
 msgid ""
 "This page provides you with information and statistics about your Known "
 "site."
 msgstr ""
+"På den här sidan finns information och statistik om din Known-webbplats."
 
 #: ./templates/default/admin/themes/theme.tpl.php:41
 msgid "(Selected)"
