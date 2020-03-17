@@ -2020,14 +2020,16 @@ msgstr ""
 #: ./templates/default/admin/users.tpl.php:9
 msgid "View the users registered for your site, and invite new users to join."
 msgstr ""
+"Visa de användare som är registrerade för din webbplats och bjud in nya "
+"användare att gå med."
 
 #: ./templates/default/admin/users.tpl.php:17
 msgid "Manage site users"
-msgstr ""
+msgstr "Hantera webbplatsanvändare"
 
 #: ./templates/default/admin/users.tpl.php:20
 msgid "Your site has"
-msgstr ""
+msgstr "Din webbplats har"
 
 #: ./templates/default/admin/users.tpl.php:21
 msgid "users"
