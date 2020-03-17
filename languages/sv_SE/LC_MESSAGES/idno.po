@@ -518,7 +518,7 @@ msgid ""
 "version!<br /> <a href=\"https://github.com/idno/Known\" "
 "target=\"_blank\">Update now.</a>"
 msgstr ""
-"Din version av Klown ligger bakom den senaste versionen från Github "
+"Din version av Known ligger bakom den senaste versionen från Github "
 "(%s - %s). Om du har problem kanske du vill prova att uppdatera till den "
 "senaste versionen!<br /> <a href=\"https://github.com/idno/Known\" "
 "target=\"_blank\">Uppdatering nu.</a>"
@@ -1802,28 +1802,29 @@ msgstr "Ladda upp en Known RSS-exportfil och förvandla den till Known-inlägg."
 
 #: ./templates/default/admin/import.tpl.php:28
 msgid "How do I get my Known RSS file?"
-msgstr ""
+msgstr "Hur får jag min Known RSS-fil?"
 
 #: ./templates/default/admin/import.tpl.php:32
 msgid "To get your Known RSS file"
-msgstr ""
+msgstr "Få din Known RSS-fil"
+# Get your ...
 
 #: ./templates/default/admin/import.tpl.php:35
 msgid "Log into your Known site"
-msgstr ""
+msgstr "Logga in på din Known-webbplats"
 
 #: ./templates/default/admin/import.tpl.php:36
 msgid "Click on Site Configuration"
-msgstr ""
+msgstr "Klicka på Webbplatskonfiguration"
 
 #: ./templates/default/admin/import.tpl.php:37
 #: ./templates/default/admin/import.tpl.php:77
 msgid "Click on Export"
-msgstr ""
+msgstr "Klicka på Exportera"
 
 #: ./templates/default/admin/import.tpl.php:38
 msgid "Download your RSS file"
-msgstr ""
+msgstr "Ladda ner din RSS-fil"
 
 #: ./templates/default/admin/import.tpl.php:44
 msgid "Select Known export file"
@@ -1845,15 +1846,15 @@ msgstr ""
 
 #: ./templates/default/admin/import.tpl.php:68
 msgid "How do I get my WordPress XML file?"
-msgstr ""
+msgstr "Hur får jag min WordPress XML-fil?"
 
 #: ./templates/default/admin/import.tpl.php:72
 msgid "To get your WordPress XML file"
-msgstr ""
+msgstr "Få din WordPress XML-fil"
 
 #: ./templates/default/admin/import.tpl.php:75
 msgid "Log into your WordPress site"
-msgstr ""
+msgstr "Logga in på din WordPress-webbplats"
 
 #: ./templates/default/admin/import.tpl.php:76
 msgid "Click on Tools"
@@ -1885,15 +1886,15 @@ msgstr ""
 
 #: ./templates/default/admin/import.tpl.php:108
 msgid "How do I get my Blogger XML file?"
-msgstr ""
+msgstr "Hur får jag min Blogger XML-fil?"
 
 #: ./templates/default/admin/import.tpl.php:112
 msgid "To get your Blogger XML file"
-msgstr ""
+msgstr "Få din Blogger XML-fil"
 
 #: ./templates/default/admin/import.tpl.php:115
 msgid "Log into Blogger, and click on your blog title"
-msgstr ""
+msgstr "Logga in Blogger, och klicka på din blogg titel"
 
 #: ./templates/default/admin/import.tpl.php:116
 msgid "Click on Settings"
@@ -2825,6 +2826,6 @@ msgid ""
 "%s). If you're having problems, you may want to try updating to the latest "
 "version.\nUpdate now: https://github.com/idno/Known\n"
 msgstr ""
-"VARNING: Din version av Klown ligger bakom den senaste versionen från Github "
+"VARNING: Din version av Known ligger bakom den senaste versionen från Github "
 "(%s - %s). Om du har problem kanske du vill prova att uppdatera till den "
 "senaste versionen.\nUppdatering nu: https://github.com/idno/Known\n"
