@@ -2004,17 +2004,18 @@ msgstr ""
 
 #: ./templates/default/admin/themes/theme.tpl.php:41
 msgid "(Selected)"
-msgstr ""
+msgstr "(Vald)"
 
 #: ./templates/default/admin/themes/theme.tpl.php:48
 msgid "by"
-msgstr ""
+msgstr "av"
 
 #: ./templates/default/admin/themes.tpl.php:7
 msgid ""
 "Themes allow you to change the way your site looks. The following themes are "
 "installed."
 msgstr ""
+"Med teman kan du ändra hur webbplatsen ser ut. Följande teman installeras."
 
 #: ./templates/default/admin/users.tpl.php:9
 msgid "View the users registered for your site, and invite new users to join."
