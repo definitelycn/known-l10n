@@ -1951,11 +1951,11 @@ msgstr "Om"
 
 #: ./templates/default/admin/plugins/plugin.tpl.php:35
 msgid "Enabled"
-msgstr ""
+msgstr "Aktiverat"
 
 #: ./templates/default/admin/plugins/plugin.tpl.php:37
 msgid "Disabled"
-msgstr ""
+msgstr "Inaktiverad"
 
 #: ./templates/default/admin/plugins/plugin.tpl.php:56
 msgid "Known Version"
@@ -1963,7 +1963,7 @@ msgstr ""
 
 #: ./templates/default/admin/plugins/plugin.tpl.php:67
 msgid "Known Build"
-msgstr ""
+msgstr "Known Bygga"
 
 #: ./templates/default/admin/plugins/plugin.tpl.php:78
 msgid "PHP Version"
@@ -1971,16 +1971,16 @@ msgstr ""
 
 #: ./templates/default/admin/plugins/plugin.tpl.php:91
 msgid "Extensions"
-msgstr ""
+msgstr "Tillägg"
 
 #: ./templates/default/admin/plugins/plugin.tpl.php:134
 msgid "Disable"
-msgstr ""
+msgstr "Inaktivera"
 
 #: ./templates/default/admin/plugins/plugin.tpl.php:147
 #: ./templates/default/admin/themes/theme.tpl.php:43
 msgid "Enable"
-msgstr ""
+msgstr "Aktivera"
 
 #: ./templates/default/admin/plugins.tpl.php:9
 msgid ""
