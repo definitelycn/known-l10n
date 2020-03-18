@@ -2049,33 +2049,35 @@ msgstr "Din webbplats har <strong>%s</strong> användare"
 
 #: ./templates/default/admin/users.tpl.php:45
 msgid "Invite new users"
-msgstr ""
+msgstr "Bjud in nya användare"
 
 #: ./templates/default/admin/users.tpl.php:48
 msgid ""
 "To invite new users to the site, enter one or more email addresses below."
 msgstr ""
+"Om du vill bjuda in nya användare till webbplatsen anger du en eller flera "
+"e-postadresser nedan."
 
 #: ./templates/default/admin/users.tpl.php:54
 msgid "Send invite"
-msgstr ""
+msgstr "Skicka inbjudan"
 
 #: ./templates/default/admin/users.tpl.php:95
 #: ./templates/default/following/add.tpl.php:5
 msgid "Add"
-msgstr ""
+msgstr "Lägga"
 
 #: ./templates/default/admin/users.tpl.php:111
 msgid "Invitations"
-msgstr ""
+msgstr "Inbjudningar"
 
 #: ./templates/default/admin/users.tpl.php:130
 msgid "Sent"
-msgstr ""
+msgstr "Skickas"
 
 #: ./templates/default/admin/users.tpl.php:140
 msgid "Resend"
-msgstr ""
+msgstr "Skicka igen"
 
 #: ./templates/default/admin/users.tpl.php:140
 msgid "Are you sure? The user will receive a second email."
