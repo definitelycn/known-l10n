@@ -2041,11 +2041,11 @@ msgstr "användaren"
 
 #: ./templates/default/admin/users.tpl.php
 msgid "Your site has <strong>1</strong> user"
-msgstr ""
+msgstr "Din webbplats har <strong>1</strong> användaren"
 
 #: ./templates/default/admin/users.tpl.php
 msgid "Your site has <strong>%s</strong> users"
-msgstr ""
+msgstr "Din webbplats har <strong>%s</strong> användare"
 
 #: ./templates/default/admin/users.tpl.php:45
 msgid "Invite new users"
