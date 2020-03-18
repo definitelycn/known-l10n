@@ -2184,27 +2184,27 @@ msgstr "Även på"
 
 #: ./templates/default/content/notification/like.tpl.php:5
 msgid "liked"
-msgstr ""
+msgstr "gillade"
 
 #: ./templates/default/content/notification/mention.tpl.php:5
 msgid "mentioned"
-msgstr ""
+msgstr "nämnde"
 
 #: ./templates/default/content/notification/reply.tpl.php:5
 msgid "replied to"
-msgstr ""
+msgstr "svarade på"
 
 #: ./templates/default/content/notification/reply.tpl.php:7
 msgid "Reply"
-msgstr ""
+msgstr "Svar"
 
 #: ./templates/default/content/notification/rsvp.tpl.php:5
 msgid "RSVPed to"
-msgstr ""
+msgstr "RSVPed till"
 
 #: ./templates/default/content/notification/share.tpl.php:5
 msgid "shared"
-msgstr ""
+msgstr "har delat"
 
 #: ./templates/default/content/unfurl.tpl.php:11
 msgid "Refresh preview"
