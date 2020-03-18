@@ -2081,23 +2081,23 @@ msgstr "Skicka igen"
 
 #: ./templates/default/admin/users.tpl.php:140
 msgid "Are you sure? The user will receive a second email."
-msgstr ""
+msgstr "Är du säker? Användaren får ett andra e-postmeddelande."
 
 #: ./templates/default/admin/users.tpl.php:145
 #: ./templates/default/entity/User/edit.tpl.php:81
 #: ./templates/default/entity/User/edit.tpl.php:97
 #: ./templates/default/entity/User/edit.tpl.php:130
 msgid "Remove"
-msgstr ""
+msgstr "Ta bort"
 
 #: ./templates/default/admin/users.tpl.php:145
 msgid "Are you sure? The user won't be able to register."
-msgstr ""
+msgstr "Är du säker? Användaren kan inte registrera sig."
 
 #: ./templates/default/admin/users.tpl.php:171
 #: ./templates/default/admin/users.tpl.php:180
 msgid "Block email addresses"
-msgstr ""
+msgstr "Blockera e-postadresser"
 
 #: ./templates/default/admin/users.tpl.php:174
 msgid ""
@@ -2105,19 +2105,22 @@ msgid ""
 "from registering on your site. Enter the email addresses you want to block "
 "below."
 msgstr ""
+"Genom att blockera e-postadresser hindrar du personer som använder dessa "
+"e-postadresser från att registrera sig på din webbplats. Ange de "
+"e-postadresser som du vill blockera nedan."
 
 #: ./templates/default/admin/users.tpl.php:196
 msgid "Blocked email addresses"
-msgstr ""
+msgstr "Blockerade e-postadresser"
 
 #: ./templates/default/admin/users.tpl.php:218
 msgid "Remove block"
-msgstr ""
+msgstr "Ta bort block"
 
 #: ./templates/default/admin/users.tpl.php:218
 #: ./templates/default/forms/components/usersearch/user.tpl.php:86
 msgid "Are you sure? The user will be able to log in and post again."
-msgstr ""
+msgstr "Är du säker? Användaren kommer att kunna logga in och skriva igen."
 
 #: ./templates/default/content/access.tpl.php:34
 msgid "Public"
