@@ -2124,29 +2124,29 @@ msgstr "Är du säker? Användaren kommer att kunna logga in och skriva igen."
 
 #: ./templates/default/content/access.tpl.php:34
 msgid "Public"
-msgstr ""
+msgstr "Offentliga"
 
 #: ./templates/default/content/access.tpl.php:36
 msgid "Members only"
-msgstr ""
+msgstr "Endast medlemmar"
 
 #: ./templates/default/content/access.tpl.php:38
 msgid "Private"
-msgstr ""
+msgstr "Privat"
 
 #: ./templates/default/content/annotation/edit.tpl.php:5
 #: ./templates/default/content/edit.tpl.php:9
 #: ./templates/default/forms/components/usersearch/user.tpl.php:90
 msgid "Delete"
-msgstr ""
+msgstr "Ta bort"
 
 #: ./templates/default/content/edit.tpl.php:8
 msgid "Edit"
-msgstr ""
+msgstr "Redigera"
 
 #: ./templates/default/content/edit.tpl.php:9
 msgid "Are you sure you want to permanently delete this entry?"
-msgstr ""
+msgstr "Vill du ta bort posten permanent?"
 
 #: ./templates/default/content/end.tpl.php:26
 #: ./templates/default/content/feed/end.tpl.php:13
