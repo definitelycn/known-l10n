@@ -2208,11 +2208,11 @@ msgstr "har delat"
 
 #: ./templates/default/content/unfurl.tpl.php:11
 msgid "Refresh preview"
-msgstr ""
+msgstr "Förhandsgranska uppdatering"
 
 #: ./templates/default/content/unfurl.tpl.php:12
 msgid "Remove preview"
-msgstr ""
+msgstr "Ta bort förhandsgranskning"
 
 #: ./templates/default/entity/annotations/comment/main.tpl.php:16
 msgid "Add a comment ..."
