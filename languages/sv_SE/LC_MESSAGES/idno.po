@@ -2151,7 +2151,7 @@ msgstr "Vill du ta bort posten permanent?"
 #: ./templates/default/content/end.tpl.php:26
 #: ./templates/default/content/feed/end.tpl.php:13
 msgid "published this"
-msgstr ""
+msgstr "publicerade denna"
 
 #: ./templates/default/content/end.tpl.php:55
 msgid "Star this!"
@@ -2171,16 +2171,16 @@ msgstr "stjärnor"
 #: ./templates/default/content/end.tpl.php:95
 #: ./templates/default/content/feed/end.tpl.php:48
 msgid "comment"
-msgstr ""
+msgstr "kommentar"
 
 #: ./templates/default/content/end.tpl.php:97
 #: ./templates/default/content/feed/end.tpl.php:50
 msgid "comments"
-msgstr ""
+msgstr "kommentarer"
 
 #: ./templates/default/content/feed/end.tpl.php:106
 msgid "Also on"
-msgstr ""
+msgstr "Även på"
 
 #: ./templates/default/content/notification/like.tpl.php:5
 msgid "liked"
