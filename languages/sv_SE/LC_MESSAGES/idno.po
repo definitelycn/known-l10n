@@ -2350,11 +2350,13 @@ msgstr "Du följer ingen än."
 
 #: ./templates/default/forms/components/usersearch/user.tpl.php:27
 msgid "Joined"
-msgstr ""
+msgstr "Gick"
+# Went?
 
 #: ./templates/default/forms/components/usersearch/user.tpl.php:35
 msgid "Last update posted"
-msgstr ""
+msgstr "Senaste uppdatering bokförd"
+# Senaste uppdateringen har bokförts
 
 #: ./templates/default/forms/components/usersearch/user.tpl.php:57
 msgid "Remote member"
@@ -2362,37 +2364,39 @@ msgstr "Fjärrmedlem"
 
 #: ./templates/default/forms/components/usersearch/user.tpl.php:62
 msgid "Administrator"
-msgstr ""
+msgstr "Administratör"
 
 #: ./templates/default/forms/components/usersearch/user.tpl.php:65
 msgid "Remove rights"
-msgstr ""
+msgstr "Ta bort rättigheter"
 
 #: ./templates/default/forms/components/usersearch/user.tpl.php:71
 msgid "Standard member"
-msgstr ""
+msgstr "Standardmedlem"
 
 #: ./templates/default/forms/components/usersearch/user.tpl.php:72
 msgid "Make admin"
-msgstr ""
+msgstr "Gör administratör"
 
 #: ./templates/default/forms/components/usersearch/user.tpl.php:86
 msgid "Clear"
-msgstr ""
+msgstr "Tydlig"
 
 #: ./templates/default/forms/components/usersearch/user.tpl.php:88
 msgid "Block"
-msgstr ""
+msgstr "Blockera"
 
 #: ./templates/default/forms/components/usersearch/user.tpl.php:88
 msgid ""
 "Are you sure? The user will be logged out and will no longer be able to log "
 "in or post."
 msgstr ""
+"Är du säker? Användaren kommer att loggas ut och kommer inte längre att "
+"kunna logga in eller bokföra."
 
 #: ./templates/default/forms/components/usersearch/user.tpl.php:90
 msgid "Are you sure? This will delete this user and all their content."
-msgstr ""
+msgstr "Är du säker? Detta tar bort den här användaren och allt deras innehåll."
 
 #: ./templates/default/forms/input/image-file.tpl.php:58
 msgid "Are you sure you want to permanently delete this?"
