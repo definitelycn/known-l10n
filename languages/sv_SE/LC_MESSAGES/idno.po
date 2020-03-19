@@ -2329,23 +2329,24 @@ msgstr "Välj en annan bild"
 
 #: ./templates/default/following/add.tpl.php:3
 msgid "Add the address of a site to follow"
-msgstr ""
+msgstr "Lägg till adressen till en webbplats som ska följas"
+# Lägg till adressen till en webbplats för att följa
 
 #: ./templates/default/following/confirm.tpl.php:7
 msgid "Follow"
-msgstr ""
+msgstr "Följa"
 
 #: ./templates/default/following/confirm.tpl.php:12
 msgid "Here's the latest content."
-msgstr ""
+msgstr "Här är det senaste innehållet."
 
 #: ./templates/default/following/home.tpl.php:13
 msgid "Follow another site"
-msgstr ""
+msgstr "Följ en annan webbplats"
 
 #: ./templates/default/following/home.tpl.php:31
 msgid "You're not following anyone yet."
-msgstr ""
+msgstr "Du följer ingen än."
 
 #: ./templates/default/forms/components/usersearch/user.tpl.php:27
 msgid "Joined"
