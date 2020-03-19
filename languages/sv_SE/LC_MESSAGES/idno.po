@@ -2253,11 +2253,11 @@ msgstr "har delat det här inlägget på en tid"
 
 #: ./templates/default/entity/search.tpl.php:18
 msgid "Nothing found."
-msgstr ""
+msgstr "Inget hittades."
 
 #: ./templates/default/entity/share.tpl.php:9
 msgid "This content can't be shared right now."
-msgstr ""
+msgstr "Det går inte att dela det här innehållet just nu."
 
 #: ./templates/default/entity/User/edit.tpl.php:3
 msgid "Edit your profile"
