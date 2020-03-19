@@ -2428,31 +2428,31 @@ msgstr "Fyll i det här fältet."
 
 #: ./templates/default/forms/usersearch.tpl.php:24
 msgid "Search by name, email address, or username"
-msgstr ""
+msgstr "Sök efter namn, e-postadress eller användarnamn"
 
 #: ./templates/default/forms/usersearch.tpl.php:79
 msgid "By creation date"
-msgstr ""
+msgstr "Efter skapandedatum"
 
 #: ./templates/default/forms/usersearch.tpl.php:80
 msgid "By name"
-msgstr ""
+msgstr "Efter namn"
 
 #: ./templates/default/forms/usersearch.tpl.php:89
 msgid "Ascending"
-msgstr ""
+msgstr "Stigande"
 
 #: ./templates/default/forms/usersearch.tpl.php:90
 msgid "Descending"
-msgstr ""
+msgstr "Fallande"
 
 #: ./templates/default/forms/usersearch.tpl.php:102
 msgid "Prev"
-msgstr ""
+msgstr "Tidigare"
 
 #: ./templates/default/forms/usersearch.tpl.php:103
 msgid "Next"
-msgstr ""
+msgstr "Nästa"
 
 #: ./templates/default/onboarding/begin.tpl.php:8
 msgid "Known is your space for sharing content and discussing ideas."
