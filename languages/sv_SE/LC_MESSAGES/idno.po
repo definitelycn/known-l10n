@@ -2261,41 +2261,43 @@ msgstr "Det går inte att dela det här innehållet just nu."
 
 #: ./templates/default/entity/User/edit.tpl.php:3
 msgid "Edit your profile"
-msgstr ""
+msgstr "Redigera din profil"
 
 #: ./templates/default/entity/User/edit.tpl.php:6
 msgid ""
 "Your profile is how other users see you across the site. It's up to you how "
 "much or how little information you choose to provide."
 msgstr ""
+"Din profil är hur andra användare ser dig på webbplatsen. Det är upp till "
+"dig hur mycket eller hur lite information du väljer att ge."
 
 #: ./templates/default/entity/User/edit.tpl.php:23
 msgid "Select a user picture"
-msgstr ""
+msgstr "Välj en användarbild"
 
 #: ./templates/default/entity/User/edit.tpl.php:49
 msgid "About you"
-msgstr ""
+msgstr "Om dig"
 
 #: ./templates/default/entity/User/edit.tpl.php:59
 msgid "Your websites"
-msgstr ""
+msgstr "Dina webbplatser"
 
 #: ./templates/default/entity/User/edit.tpl.php:60
 msgid "Other places on the web where people can find you."
-msgstr ""
+msgstr "Andra platser på webben där människor kan hitta dig."
 
 #: ./templates/default/entity/User/edit.tpl.php:105
 msgid "Add more"
-msgstr ""
+msgstr "Lägg till fler"
 
 #: ./templates/default/entity/User/edit.tpl.php:112
 msgid "Cancel"
-msgstr ""
+msgstr "Avbryt"
 
 #: ./templates/default/entity/User/edit.tpl.php:113
 msgid "Save Changes"
-msgstr ""
+msgstr "Spara ändringar"
 
 #: ./templates/default/entity/User.tpl.php:35
 msgid "Edit profile"
