@@ -2301,29 +2301,31 @@ msgstr "Spara ändringar"
 
 #: ./templates/default/entity/User.tpl.php:35
 msgid "Edit profile"
-msgstr ""
+msgstr "Redigera profil"
 
 #: ./templates/default/entity/User.tpl.php:61
 msgid ""
 "A profile helps you describe yourself to other people on the site and on the "
 "web. You haven't described yourself yet."
 msgstr ""
+"En profil hjälper dig att beskriva dig själv för andra personer på "
+"webbplatsen och på webben. Du har inte beskrivit dig själv än."
 
 #: ./templates/default/entity/User.tpl.php:62
 msgid "Click here to fill in your profile information."
-msgstr ""
+msgstr "Klicka här för att fylla i din profilinformation."
 
 #: ./templates/default/file/picker/image.tpl.php:19
 msgid "Select an image"
-msgstr ""
+msgstr "Markera en bild"
 
 #: ./templates/default/file/picker/image.tpl.php:29
 msgid "Upload this image"
-msgstr ""
+msgstr "Ladda upp den här bilden"
 
 #: ./templates/default/file/picker/image.tpl.php:49
 msgid "Choose a different image"
-msgstr ""
+msgstr "Välj en annan bild"
 
 #: ./templates/default/following/add.tpl.php:3
 msgid "Add the address of a site to follow"
