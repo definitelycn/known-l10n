@@ -2224,31 +2224,32 @@ msgstr "Lämna kommentar"
 
 #: ./templates/default/entity/annotations/likes.tpl.php:24
 msgid "liked this post"
-msgstr ""
+msgstr "gillade det här inlägget"
 
 #: ./templates/default/entity/annotations/mentions.tpl.php:18
 msgid "Mentioned in"
-msgstr ""
+msgstr "Nämns i"
 
 #: ./templates/default/entity/annotations/rsvps.tpl.php:38
 msgid "Attending"
-msgstr ""
+msgstr "Deltar"
 
 #: ./templates/default/entity/annotations/rsvps.tpl.php:41
 msgid "Maybe attending"
-msgstr ""
+msgstr "Kanske deltar"
 
 #: ./templates/default/entity/annotations/rsvps.tpl.php:44
 msgid "Not attending"
-msgstr ""
+msgstr "Deltar inte"
 
 #: ./templates/default/entity/annotations/rsvps.tpl.php:47
 msgid "Other responses"
-msgstr ""
+msgstr "Andra svar"
 
 #: ./templates/default/entity/annotations/shares.tpl.php:21
 msgid "reshared this post"
-msgstr ""
+msgstr "har delat det här inlägget på en tid"
+# has shared this post for some time?
 
 #: ./templates/default/entity/search.tpl.php:18
 msgid "Nothing found."
