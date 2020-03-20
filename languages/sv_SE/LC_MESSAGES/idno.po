@@ -2476,24 +2476,25 @@ msgstr "Kom igång"
 
 #: ./templates/default/onboarding/begin.tpl.php:42
 msgid "Already have an account? Sign in."
-msgstr ""
+msgstr "Har du redan ett konto? Logga in."
 
 #: ./templates/default/onboarding/connect.tpl.php:3
 msgid "Share to social"
-msgstr ""
+msgstr "Dela till sociala"
 
 #: ./templates/default/onboarding/connect.tpl.php:6
 msgid ""
 "Connect your accounts to easily share content with people across the web."
 msgstr ""
+"Anslut dina konton för att enkelt dela innehåll med personer på webben."
 
 #: ./templates/default/onboarding/connect.tpl.php:14
 msgid "Continue"
-msgstr ""
+msgstr "Fortsätta"
 
 #: ./templates/default/onboarding/connect.tpl.php:19
 msgid "Don't worry, you can always connect these later."
-msgstr ""
+msgstr "Oroa dig inte, du kan alltid ansluta dessa senare."
 
 #: ./templates/default/onboarding/profile.tpl.php:16
 msgid "Add a photo of yourself"
