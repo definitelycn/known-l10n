@@ -2456,23 +2456,23 @@ msgstr "Nästa"
 
 #: ./templates/default/onboarding/begin.tpl.php:8
 msgid "Known is your space for sharing content and discussing ideas."
-msgstr ""
+msgstr "Known är ditt utrymme för att dela innehåll och diskutera idéer."
 
 #: ./templates/default/onboarding/begin.tpl.php:13
 msgid "Take a picture"
-msgstr ""
+msgstr "Ta en bild"
 
 #: ./templates/default/onboarding/begin.tpl.php:17
 msgid "Share a message"
-msgstr ""
+msgstr "Dela ett meddelande"
 
 #: ./templates/default/onboarding/begin.tpl.php:21
 msgid "Save your location"
-msgstr ""
+msgstr "Spara din plats"
 
 #: ./templates/default/onboarding/begin.tpl.php:34
 msgid "Get started"
-msgstr ""
+msgstr "Kom igång"
 
 #: ./templates/default/onboarding/begin.tpl.php:42
 msgid "Already have an account? Sign in."
