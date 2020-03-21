@@ -2518,19 +2518,19 @@ msgstr "Dina andra webbplatser"
 
 #: ./templates/default/onboarding/profile.tpl.php:35
 msgid "(a blog, a portfolio, Twitter, Facebook, etc)"
-msgstr ""
+msgstr "(en blogg, en portfölj, Twitter, Facebook, etc)"
 
 #: ./templates/default/onboarding/profile.tpl.php:40
 msgid "Add another website"
-msgstr ""
+msgstr "Lägga till en annan webbplats"
 
 #: ./templates/default/onboarding/register.tpl.php:13
 msgid "Choose a username"
-msgstr ""
+msgstr "Välj ett användarnamn"
 
 #: ./templates/default/onboarding/register.tpl.php:26
 msgid "(at least 7 characters please)"
-msgstr ""
+msgstr "(minst 7 tecken tack)"
 
 #: ./templates/default/pages/403.tpl.php:7
 msgid "Click here to log in."
