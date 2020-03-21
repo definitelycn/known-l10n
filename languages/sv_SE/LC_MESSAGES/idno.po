@@ -2554,7 +2554,7 @@ msgstr "Hitta något annat att visa på <a href=\"%s\">%s hemsida</a>."
 
 #: ./templates/default/pages/404.tpl.php:5
 msgid "Oops! We couldn't find it."
-msgstr ""
+msgstr "Oj! Vi kunde inte hitta den."
 
 #: ./templates/default/pages/404.tpl.php:7
 msgid ""
@@ -2562,12 +2562,17 @@ msgid ""
 "deleted, or it doesn't exist. Or the robots ate it. That's always a "
 "possibility too."
 msgstr ""
+"Vad du än letade efter, så är det inte här. Det kan ha flyttats, tagits "
+"bort eller så finns det inte. Eller så åt robotarna upp den. Det är "
+"alltid en möjlighet också."
 
 #: ./templates/default/pages/404.tpl.php:8
 msgid ""
 "Maybe you'll find something interesting if you head back to the <a "
 "href=\"%s\">%s homepage</a>."
 msgstr ""
+"Kanske hittar du något intressant om du går tillbaka till <a href=\""
+"%s\">%s hemsida</a>."
 
 #: ./templates/default/pages/410.tpl.php:6
 msgid "Sorry, this content isn't here anymore."
