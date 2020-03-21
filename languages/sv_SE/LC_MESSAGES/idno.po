@@ -2534,21 +2534,23 @@ msgstr "(minst 7 tecken tack)"
 
 #: ./templates/default/pages/403.tpl.php:7
 msgid "Click here to log in."
-msgstr ""
+msgstr "Klicka här för att logga in."
 
 #: ./templates/default/pages/403.tpl.php:18
 msgid "Hold on. You don't have access to this content."
-msgstr ""
+msgstr "Vänta. Du har inte tillgång till det här innehållet."
 
 #: ./templates/default/pages/403.tpl.php:20
 msgid ""
 "It's nothing personal. You just don't have the right permissions to see "
 "what's here."
 msgstr ""
+"Det är inget personligt. Du har bara inte rätt behörighet att se vad som "
+"finns här."
 
 #: ./templates/default/pages/403.tpl.php:22
 msgid "Find something else to view on the <a href=\"%s\">%s homepage</a>."
-msgstr ""
+msgstr "Hitta något annat att visa på <a href=\"%s\">%s hemsida</a>."
 
 #: ./templates/default/pages/404.tpl.php:5
 msgid "Oops! We couldn't find it."
