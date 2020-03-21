@@ -2680,12 +2680,12 @@ msgstr ""
 #: ./templates/default/settings-shell/nav.tpl.php:6
 #: ./templates/default/shell/toolbar/main.tpl.php:7
 msgid "Toggle navigation"
-msgstr ""
+msgstr "Växla navigering"
 
 #: ./templates/default/settings-shell/toolbar/logged-in.tpl.php:18
 #: ./templates/default/shell/toolbar/logged-in.tpl.php:21
 msgid "Site Configuration"
-msgstr ""
+msgstr "Webbplatskonfiguration"
 
 #: ./templates/default/shell/pagination.tpl.php:28
 msgid "Newer"
@@ -2709,11 +2709,11 @@ msgstr "Filtrera innehåll"
 
 #: ./templates/default/shell/toolbar/logged-in.tpl.php:16
 msgid "Profile"
-msgstr ""
+msgstr "Profil"
 
 #: ./templates/default/shell/toolbar/logged-in.tpl.php:49
 msgid "Leave feedback"
-msgstr ""
+msgstr "Lämna feedback"
 
 #: ./templates/default/shell/toolbar/logged-in.tpl.php:49
 msgid "Feedback"
@@ -2721,19 +2721,19 @@ msgstr ""
 
 #: ./templates/default/shell/toolbar/logout.tpl.php:1
 msgid "Sign out"
-msgstr ""
+msgstr "Logga ut"
 
 #: ./templates/default/shell/toolbar/main.tpl.php:1
 msgid "Skip to main content"
-msgstr ""
+msgstr "Gå till huvudinnehållet"
 
 #: ./templates/default/shell/toolbar/register.tpl.php:1
 msgid "Register"
-msgstr ""
+msgstr "Registrera dig"
 
 #: ./templates/default/shell/toolbar/search.tpl.php:17
 msgid "Search"
-msgstr ""
+msgstr "Sök"
 
 #: ./templates/email/account/invite.tpl.php:2
 #: ./templates/email-text/account/invite.tpl.php:1
