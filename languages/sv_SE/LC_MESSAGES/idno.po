@@ -2787,6 +2787,8 @@ msgid ""
 "Hi! We wanted to let you know that <strong>%s</strong> liked the post "
 "<strong>%s</strong>"
 msgstr ""
+"Hej! Vi ville låta dig veta att <strong>%s</strong> gillade inlägget "
+"<strong>%s</strong>"
 
 #: ./templates/email/content/notification/like.tpl.php:11
 #: ./templates/email/content/notification/reply.tpl.php:22
@@ -2844,7 +2846,7 @@ msgstr "Kom igång med *%s* genom att konfigurera ditt konto"
 
 #: ./templates/email-text/content/notification/like.tpl.php:6
 msgid "Hi! We wanted to let you know that *%s* liked the post *%s*"
-msgstr ""
+msgstr "Hej! Vi ville låta dig veta att *%s* gillade inlägget *%s*"
 
 #: ./templates/email-text/content/notification/like.tpl.php:9
 #: ./templates/email-text/content/notification/reply.tpl.php:20
