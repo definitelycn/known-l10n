@@ -2593,18 +2593,21 @@ msgid ""
 "<a href=\"#\" onclick=\"window.history.back();\">Click here to try again</a> "
 "or <a href=\"%s\">click here to go back to the homepage</a>."
 msgstr ""
+"<a href=\"#\" onclick=\"window.history.back();\">Klicka här för att försöka "
+"igen</a> eller <a "
+"href=\"%s\">klicka här för att gå tillbaka till hemsidan</a>."
 
 #: ./templates/default/pages/500.tpl.php:19
 msgid "Click here to see the technical details."
-msgstr ""
+msgstr "Klicka här för att se de tekniska detaljerna."
 
 #: ./templates/default/pages/500.tpl.php:32
 msgid "Oh no! Something went wrong."
-msgstr ""
+msgstr "Åh nej! Något gick fel."
 
 #: ./templates/default/pages/home/nocontent.tpl.php:10
 msgid "We couldn't find anything that matches your search."
-msgstr ""
+msgstr "Vi hittade inget som matchar din sökning."
 
 #: ./templates/default/robot/post.tpl.php:19
 msgid "Power down robots. I can take it from here."
