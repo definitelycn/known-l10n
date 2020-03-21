@@ -2689,11 +2689,11 @@ msgstr ""
 
 #: ./templates/default/shell/pagination.tpl.php:28
 msgid "Newer"
-msgstr ""
+msgstr "Nyare"
 
 #: ./templates/default/shell/pagination.tpl.php:29
 msgid "Older"
-msgstr ""
+msgstr "Äldre"
 
 #: ./templates/default/shell/toolbar/content/all.tpl.php:4
 msgid "All content"
