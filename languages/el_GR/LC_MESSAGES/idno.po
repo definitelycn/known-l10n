@@ -386,15 +386,15 @@ msgstr "Δεν μπορέσαμε να σε καταχωρήσουν."
 
 #: ./Idno/Pages/Account/Settings/FeedbackConfirm.php:17
 msgid "Thank you for your feedback!"
-msgstr ""
+msgstr "Σας ευχαριστούμε για τα σχόλιά σας!"
 
 #: ./Idno/Pages/Account/Settings/Feedback.php:19
 msgid "Send feedback"
-msgstr ""
+msgstr "Αποστολή σχολίων"
 
 #: ./Idno/Pages/Account/Settings/Feedback.php:42
 msgid "Thanks! We received your feedback."
-msgstr ""
+msgstr "Ευχαριστώ! Λάβαμε τα σχόλιά σας."
 
 #: ./Idno/Pages/Account/Settings/Following/Bookmarklet.php:37
 msgid ""
