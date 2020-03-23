@@ -239,21 +239,24 @@ msgstr "Μια επέκταση PHP σταμάτησε  φορτώσετε."
 
 #: ./Idno/Files/LocalFileSystem.php:86
 msgid "There was a problem storing the file data."
-msgstr ""
+msgstr "Παρουσιάστηκε πρόβλημα κατά την αποθήκευση των δεδομένων του αρχείου."
 
 #: ./Idno/Files/LocalFileSystem.php:89
 msgid "There was a problem saving the file's metadata"
 msgstr ""
+"Παρουσιάστηκε πρόβλημα κατά την αποθήκευση των μετα-δεδομένων του αρχείου"
 
 #: ./Idno/Files/LocalFileSystem.php:98
 msgid "Something went wrong saving your file."
-msgstr ""
+msgstr "Κάτι πήγε στραβά αποθηκεύοντας το αρχείο σας."
 
 #: ./Idno/Files/LocalFileSystem.php:100
 msgid ""
 "Check that your upload directory is writeable by the web server and try "
 "again."
 msgstr ""
+"Βεβαιωθείτε ότι ο κατάλογος αποστολής είναι εγγράψιμος από το διακομιστή "
+"web και προσπαθήστε ξανά."
 
 #: ./Idno/Pages/Account/Export.php:20
 msgid "Export Data"
