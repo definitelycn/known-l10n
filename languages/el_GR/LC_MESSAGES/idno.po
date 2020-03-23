@@ -183,14 +183,19 @@ msgid ""
 "sure you have it installed and configured, e.g. by running \"pecl install "
 "mongodb;\""
 msgstr ""
+"Φαίνεται ότι δεν έχετε εγκαταστήσει το νέο πρόγραμμα οδήγησης mongodb (<a "
+"href=\"https://secure.php.net/manual/en/set.mongodb.php\"</a>https://secure.php.net/manual/en/set.mongodb.php</a>)\n"
+"\n"
+"Βεβαιωθείτε ότι έχετε εγκαταστήσει και ρυθμίσει τις παραμέτρους του, π.χ. "
+"εκτελώντας \"pecl install mongodb;\""
 
 #: ./Idno/Entities/GenericDataItem.php:43
 msgid "GenericDataItem classes must have a datatype label set."
-msgstr ""
+msgstr "Οι GenericDataItem πρέπει να έχουν ένα σύνολο ετικετών τύπου δεδομένων."
 
 #: ./Idno/Entities/Invitation.php:110
 msgid "You've been invited to join %s"
-msgstr ""
+msgstr "Έχετε προσκληθεί να συμμετάσχετε %s"
 
 #: ./Idno/Files/FileSystem.php:63
 msgid "There is no error, the file uploaded with success"
