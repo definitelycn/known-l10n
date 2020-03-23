@@ -507,6 +507,10 @@ msgid ""
 "version!<br /> <a href=\"https://github.com/idno/Known\" "
 "target=\"_blank\">Update now.</a>"
 msgstr ""
+"Η κατασκευή του Known βρίσκεται πίσω από την πιο πρόσφατη έκδοση από το "
+"Github (%s - %s). Εάν αντιμετωπίζετε προβλήματα, ίσως θελήσετε να "
+"δοκιμάσετε να ενημερώσετε την πιο πρόσφατη έκδοση!<br />"
+" <a href=\"https://github.com/idno/Known\" target=\"_blank\">Ενημέρωση τώρα.</a>"
 
 #: ./Idno/Pages/Admin/Diagnostics.php:97
 msgid ""
@@ -2622,8 +2626,12 @@ msgstr ""
 
 #: ./known.php:110
 msgid "Returns the current Known version as defined in version.known"
-msgstr ""
+msgstr "Επιστρέφει την τρέχουσα Known έκδοση όπως ορίζεται στην version.known"
 
 #: ./known.php:118
 msgid "WARNING: Your build of Known is behind the latest version from Github (%s - %s). If you're having problems, you may want to try updating to the latest version.\nUpdate now: https://github.com/idno/Known\n"
 msgstr ""
+"ΠΡΟΕΙΔΟΠΟΙΗΣΗ: Η κατασκευή του Known βρίσκεται πίσω από την πιο πρόσφατη "
+"έκδοση από το Github (%s - %s). Εάν αντιμετωπίζετε προβλήματα, ίσως "
+"θελήσετε να δοκιμάσετε να ενημερώσετε την πιο πρόσφατη έκδοση.\n"
+"Ενημέρωση τώρα: https://github.com/idno/Known\n"
