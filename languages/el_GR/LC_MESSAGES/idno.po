@@ -64,19 +64,22 @@ msgstr "Η προσθήκη %s δεν έχει έκδοση"
 
 #: ./Idno/Core/AsynchronousQueue.php:61
 msgid "No event passed"
-msgstr ""
+msgstr "Δεν πέρασε κανένα περιστατικό."
 
 #: ./Idno/Core/AsynchronousQueue.php:64
 msgid "Event passed is not a queued event, and so can't be dispatched"
 msgstr ""
+"Το συμβάν που μεταβιβάστηκε δεν είναι συμβάν σε ουρά και επομένως δεν "
+"είναι δυνατή η αποστολή"
 
 #: ./Idno/Core/AsynchronousQueue.php:67
 msgid "Sorry, this event has already been dispatched (but not yet cleaned up)"
-msgstr ""
+msgstr "Λυπούμαστε, αυτό το συμβάν έχει ήδη αποσταλεί "
+"(αλλά δεν έχει ακόμη καθαριστεί)"
 
 #: ./Idno/Core/AsynchronousQueue.php:76
 msgid "Invalid user (%s) given for runAsContext, aborting"
-msgstr ""
+msgstr "Ο χρήστης (%s) δεν είναι έγκυρος για runAsContext, ματαίωση"
 
 #: ./Idno/Core/Config.php:268
 msgid "A social website powered by Known"
