@@ -83,7 +83,7 @@ msgstr "Ο χρήστης (%s) δεν είναι έγκυρος για runAsCont
 
 #: ./Idno/Core/Config.php:268
 msgid "A social website powered by Known"
-msgstr ""
+msgstr "Μια κοινωνική ιστοσελίδα που τροφοδοτείται από Known"
 
 #: ./Idno/Core/Email.php:16
 msgid "Something went wrong and we couldn't create the email message to send."
@@ -93,11 +93,11 @@ msgstr ""
 
 #: ./Idno/Core/JWT.php:82
 msgid "Identity token expired"
-msgstr ""
+msgstr "Έληξε το διακριτικό ταυτότητας"
 
 #: ./Idno/Core/JWT.php:86
 msgid "Identity token is not valid"
-msgstr ""
+msgstr "Το διακριτικό ταυτότητας δεν είναι έγκυρο"
 
 #: ./Idno/Core/Service.php:24
 msgid "Missing X-Known-Service-Signature, service call is not possible."
