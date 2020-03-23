@@ -199,37 +199,43 @@ msgstr "Έχετε προσκληθεί να συμμετάσχετε %s"
 
 #: ./Idno/Files/FileSystem.php:63
 msgid "There is no error, the file uploaded with success"
-msgstr ""
+msgstr "Δεν υπάρχει κανένα σφάλμα, το αρχείο φορτώθηκε με επιτυχία"
+# No error, file loaded successfully
 
 #: ./Idno/Files/FileSystem.php:64
 msgid "The uploaded file exceeds the upload_max_filesize directive in php.ini"
 msgstr ""
+"Το μεταφορτωμένο αρχείο υπερβαίνει την upload_max_filesize οδηγία ς στο php.ini"
 
 #: ./Idno/Files/FileSystem.php:65
 msgid ""
 "The uploaded file exceeds the MAX_FILE_SIZE directive that was specified in "
 "the HTML form"
 msgstr ""
+"Το αρχείο που έχει αποσταλεί υπερβαίνει την MAX_FILE_SIZE οδηγία που "
+"καθορίστηκε στη φόρμα HTML"
 
 #: ./Idno/Files/FileSystem.php:66
 msgid "The uploaded file was only partially uploaded"
-msgstr ""
+msgstr "Το αρχείο που έχει αποσταλεί φορτώθηκε μόνο εν μέρει"
 
 #: ./Idno/Files/FileSystem.php:67
 msgid "No file was uploaded"
-msgstr ""
+msgstr "Δεν έχει αποσταλεί αρχείο"
+# No file sent
 
 #: ./Idno/Files/FileSystem.php:68
 msgid "Missing a temporary folder"
-msgstr ""
+msgstr "Λείπει ένας προσωρινός φάκελος"
 
 #: ./Idno/Files/FileSystem.php:69
 msgid "Failed to write file to disk."
-msgstr ""
+msgstr "Απέτυχε η εγγραφή του αρχείου στο δίσκο."
 
 #: ./Idno/Files/FileSystem.php:70
 msgid "A PHP extension stopped the file upload."
-msgstr ""
+msgstr "Μια επέκταση PHP σταμάτησε  φορτώσετε."
+# A PHP extension stopped upload.
 
 #: ./Idno/Files/LocalFileSystem.php:86
 msgid "There was a problem storing the file data."
