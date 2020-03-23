@@ -339,35 +339,46 @@ msgstr ""
 #: ./Idno/Pages/Account/Register.php:143
 #: ./Idno/Pages/Admin/Users.php:168
 msgid "Usernames can't contain a slash %s character."
-msgstr ""
+msgstr "Τα ονόματα χρήστη δεν είναι δυνατό να περιέχουν χαρακτήρα %s."
 
 #: ./Idno/Pages/Account/Register.php:146
 msgid ""
 "Unfortunately, someone is already using that username. Please choose "
 "another."
 msgstr ""
+"Δυστυχώς, κάποιος χρησιμοποιεί ήδη αυτό το όνομα χρήστη. "
+"Παρακαλώ επιλέξτε ένα άλλο."
 
 #: ./Idno/Pages/Account/Register.php:149
 msgid ""
 "Hey, it looks like there's already an account with that email address. Did "
 "you forget your login?"
 msgstr ""
+"Φαίνεται ότι υπάρχει ήδη ένας λογαριασμός με αυτή τη διεύθυνση "
+"ηλεκτρονικού ταχυδρομείου. Ξέχασες τη σύνδεσή σου;"
+# … Have you forgotten your connection?
 
 #: ./Idno/Pages/Account/Register.php:152
 msgid ""
 "Please check that your passwords match and that your password is at least 7 "
 "characters long."
 msgstr ""
+"Βεβαιωθείτε ότι οι κωδικοί πρόσβασής σας ταιριάζουν και ότι ο κωδικός "
+"πρόσβασής σας έχει μήκος τουλάχιστον 7 χαρακτήρων."
 
 #: ./Idno/Pages/Account/Register.php:156
 msgid "That doesn't seem like it's a valid email address."
 msgstr ""
+"Αυτό δεν φαίνεται σαν να είναι μια έγκυρη διεύθυνση ηλεκτρονικού ταχυδρομείου."
 
 #: ./Idno/Pages/Account/Register.php:160
 msgid ""
 "You've registered! You're ready to get started. Why not add a post to say "
 "hello?"
 msgstr ""
+"Είστε εγγεγραμμένοι! Είσαι έτοιμος να ξεκινήσεις. Γιατί να μην προσθέσετε "
+"μια θέση για να πω γεια;"
+# You’re registered! …
 
 #: ./Idno/Pages/Account/Register.php:164
 msgid "We couldn't register you."
