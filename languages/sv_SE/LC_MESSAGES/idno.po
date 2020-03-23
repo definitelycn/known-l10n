@@ -2831,12 +2831,12 @@ msgstr "%s delade %s."
 #: ./templates/email/content/notification/reply.tpl.php:7
 #: ./templates/email-text/content/notification/reply.tpl.php:6
 msgid "Hi! We wanted to let you know that %s replied to the post %s."
-msgstr ""
+msgstr "Hej! Vi ville att du skulle veta att %s svarade på inlägget %s."
 
 #: ./templates/email/content/notification/reply.tpl.php:10
 #: ./templates/email-text/content/notification/reply.tpl.php:10
 msgid "Here's what they said:"
-msgstr ""
+msgstr "Här är vad de sa:"
 
 #: ./templates/email/shell.tpl.php:72
 msgid "Powered by"
