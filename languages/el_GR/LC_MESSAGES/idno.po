@@ -270,32 +270,40 @@ msgstr "Ειδοποιήσεις"
 #: ./Idno/Pages/Account/Password.php:26
 msgid "Password recovery email sent"
 msgstr ""
+"Μήνυμα ηλεκτρονικού ταχυδρομείου ανάκτησης κωδικού πρόσβασης που στάλθηκε"
 
 #: ./Idno/Pages/Account/Password.php:29
 msgid "Recover password"
-msgstr ""
+msgstr "Ανάκτηση κωδικού πρόσβασης"
 
 #: ./Idno/Pages/Account/Password.php:63
 msgid "Oh no! We couldn't find an account associated with that email address."
 msgstr ""
+"Ω, όχι! Δεν ήταν δυνατή η εύρεση λογαριασμού που σχετίζεται με αυτήν τη "
+"διεύθυνση ηλεκτρονικού ταχυδρομείου."
 
 #: ./Idno/Pages/Account/Password/Reset.php:27
 msgid "Reset password"
-msgstr ""
+msgstr "Επαναφορά κωδικού πρόσβασης"
 
 #: ./Idno/Pages/Account/Password/Reset.php:35
 msgid ""
 "The password reset code wasn't valid. They expire after three hours, so you "
 "might need to try again."
 msgstr ""
+"Ο κωδικός επαναφοράς κωδικού πρόσβασης δεν ήταν έγκυρος. Λήγουν μετά από "
+"τρεις ώρες, οπότε ίσως χρειαστεί να προσπαθήσετε ξανά."
 
 #: ./Idno/Pages/Account/Password/Reset.php:58
 msgid "Your password was reset!"
-msgstr ""
+msgstr "Ο κωδικός πρόσβασής σας επανήλθε!"
+# Your password is back!
 
 #: ./Idno/Pages/Account/Password/Reset.php:64
 msgid "Sorry, your passwords either don't match, or are too weak"
 msgstr ""
+"Λυπούμαστε, οι κωδικοί πρόσβασής σας είτε δεν ταιριάζουν είτε "
+"είναι πολύ αδύναμοι"
 
 #: ./Idno/Pages/Account/Register.php:27
 msgid "This site is closed to new users."
