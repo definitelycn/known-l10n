@@ -448,7 +448,8 @@ msgstr ""
 
 #: ./Idno/Pages/Account/Settings/Following.php:20
 msgid "Following settings"
-msgstr ""
+msgstr "Ρυθμίσεις για την παρακολούθηση"
+# Settings for monitoring
 
 #: ./Idno/Pages/Account/Settings/Notifications.php:20
 msgid "Notification settings"
@@ -456,7 +457,8 @@ msgstr "Ρυθμίσεις ειδοποιήσεων"
 
 #: ./Idno/Pages/Account/Settings/Notifications.php:39
 msgid "Your notification preferences were saved."
-msgstr ""
+msgstr "Οι προτιμήσεις ειδοποιήσεων αποθηκεύτηκαν."
+# Notification preferences saved
 
 #: ./Idno/Pages/Account/Settings.php:20
 msgid "Account settings"
