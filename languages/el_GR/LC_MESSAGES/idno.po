@@ -508,7 +508,8 @@ msgstr "Εξαρτήσεις"
 
 #: ./Idno/Pages/Admin/Diagnostics.php:36
 msgid "Basic checks on installation discovered no problems."
-msgstr ""
+msgstr "Οι βασικοί έλεγχοι στην εγκατάσταση δεν ανακάλυψαν προβλήματα."
+# Basic checks on the facility did not discover any problems.
 
 #: ./Idno/Pages/Admin/Diagnostics.php:56
 #: ./templates/default/admin/diagnostics.tpl.php:4
@@ -533,20 +534,27 @@ msgid ""
 "You appear to be running directly from a git checkout. While this is fine, "
 "you might find a pre-packaged version of Known more stable."
 msgstr ""
+"Φαίνεται ότι τρέχεις απευθείας από ένα καρτ-άουτ. Ενώ αυτό είναι μια χαρά, "
+"μπορείτε να βρείτε μια προσυσκευασμένη έκδοση του Known πιο σταθερή."
 
 #: ./Idno/Pages/Admin/Diagnostics.php:160
 msgid "We can't read data from %s - please check permissions and try again."
 msgstr ""
+"Δεν είναι δυνατή η ανάγνωση δεδομένων από το %s - ελέγξτε τα δικαιώματα "
+"και προσπαθήστε ξανά."
 
 #: ./Idno/Pages/Admin/Diagnostics.php:165
 msgid ""
 "We can't write data to %s - please check it is writable by your web server "
 "user."
 msgstr ""
+"Δεν μπορούμε να γράψουμε δεδομένα στο %s - ελέγξτε ότι είναι εγγράψιμο από "
+"το χρήστη του διακομιστή web."
 
 #: ./Idno/Pages/Admin/Diagnostics.php:170
 msgid "The upload path %s either doesn't exist or isn't a directory."
-msgstr ""
+msgstr "Η διαδρομή αποστολής %s είτε δεν υπάρχει είτε δεν είναι κατάλογος."
+# The shipped path … ?
 
 #: ./Idno/Pages/Admin/Email.php:17
 msgid "Email"
