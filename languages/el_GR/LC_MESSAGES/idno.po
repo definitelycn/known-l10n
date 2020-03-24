@@ -579,15 +579,15 @@ msgstr "Εξαγωγή δεδομένων"
 
 #: ./Idno/Pages/Admin/Homepage.php:25
 msgid "Homepage"
-msgstr ""
+msgstr "Αρχική σελίδα"
 
 #: ./Idno/Pages/Admin/Homepage.php:42
 msgid "The default homepage content types were saved."
-msgstr ""
+msgstr "Οι προεπιλεγμένοι τύποι περιεχομένου αρχικής σελίδας αποθηκεύτηκαν."
 
 #: ./Idno/Pages/Admin/Home.php:21
 msgid "Administration"
-msgstr ""
+msgstr "Διοίκηση"
 
 #: ./Idno/Pages/Admin/Import.php:18
 msgid "Import data"
