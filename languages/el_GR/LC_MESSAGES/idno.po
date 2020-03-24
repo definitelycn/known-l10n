@@ -629,18 +629,24 @@ msgid ""
 "Something went wrong, either no statistics were returned or it wasn't in the "
 "correct format."
 msgstr ""
+"Κάτι πήγε στραβά, είτε δεν στατιστικά στοιχεία επιστράφηκαν ή δεν ήταν στη "
+"σωστή μορφή."
 
 #: ./Idno/Pages/Admin/Statistics.php:27
 msgid "Statistics"
-msgstr ""
+msgstr "Στατιστικές"
 
 #: ./Idno/Pages/Admin/Themes.php:22
 msgid "Themes"
 msgstr ""
+# Issues
+# Θέματα
 
 #: ./Idno/Pages/Admin/Themes.php:52
 msgid "The theme was enabled."
 msgstr ""
+# The subject was on
+# Το θέμα ήταν ενεργοποιημένο.
 
 #: ./Idno/Pages/Admin/Users.php:32
 msgid "User Management"
