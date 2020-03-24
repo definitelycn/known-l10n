@@ -595,19 +595,21 @@ msgstr "Εισαγωγή δεδομένων"
 
 #: ./Idno/Pages/Admin/Import.php:33
 msgid "You need to upload an import file to continue."
-msgstr ""
+msgstr "Πρέπει να αποστείλετε ένα αρχείο εισαγωγής για να συνεχίσετε."
 
 #: ./Idno/Pages/Admin/Import.php:35
 msgid "We couldn't open the file you uploaded. Please try again."
-msgstr ""
+msgstr "Δεν μπορέσαμε να ανοίξουμε το αρχείο που ανεβάσατε. Προσπαθήστε ξανά."
 
 #: ./Idno/Pages/Admin/Import.php:37
 msgid "Your import has started. We'll email you when it's done."
-msgstr ""
+msgstr "Η εισαγωγή σας έχει ξεκινήσει. Θα σου τηλεφωνήσουμε όταν τελειώσει."
+# Your import has begun. We'll call you when it's over.
 
 #: ./Idno/Pages/Admin/Logs.php:19
 msgid "Log capture"
-msgstr ""
+msgstr "Καταγραφή καταγραφής"
+# Log recording
 
 #: ./Idno/Pages/Admin/Plugins.php:23
 msgid "Plugins"
