@@ -402,49 +402,62 @@ msgid ""
 "their profile in <a "
 "href=\"http://microformats.org/wiki/microformats-2\">Microformats</a>?"
 msgstr ""
+"Λυπούμαστε, δεν μπόρεσαν να βρουν χρήστες σε αυτήν τη σελίδα, ίσως "
+"χρειαστεί να επισημάνουν το προφίλ τους σε <a "
+"href=\"http://microformats.org/wiki/microformats2\">Microformats</a>;"
 
+# Μικρομορφότητες
 #: ./Idno/Pages/Account/Settings/Following/Bookmarklet.php:51
 msgid ""
 "Page did not contain any <a "
 "href=\"http://microformats.org/wiki/microformats-2\">Microformats</a> "
 "markup... doing my best with what I have!"
 msgstr ""
+"Η σελίδα δεν περιείχε <a "
+"href=\"http://microformats.org/wiki/microformats2\">Microformats</a> "
+"σήμανση... κάνει το καλύτερό μου με αυτό που έχω!"
+# The page did not contain <a href="http://microformats.org/wiki/microformats-2">Microformats</a> mark... do my best with what I have!
 
 #: ./Idno/Pages/Account/Settings/Following/Bookmarklet.php:60
 msgid "Found users"
-msgstr ""
+msgstr "Βρέθηκαν χρήστες"
 
 #: ./Idno/Pages/Account/Settings/Following/Bookmarklet.php:64
 msgid "Sorry, there was a problem parsing the page!"
-msgstr ""
+msgstr "Λυπούμαστε, υπήρχε ένα πρόβλημα ανάλυση της σελίδας!"
+# Sorry, there was a page analysis issue!
 
 #: ./Idno/Pages/Account/Settings/Following/Bookmarklet.php:66
 msgid "Sorry, %s could not be retrieved!"
-msgstr ""
+msgstr "Λυπούμαστε, δεν ήταν δυνατή η ανάκτηση του %s!"
 
 #: ./Idno/Pages/Account/Settings/Following/Bookmarklet.php:149
 msgid "There was a problem saving the new remote user."
 msgstr ""
+"Παρουσιάστηκε πρόβλημα κατά την αποθήκευση του νέου απομακρυσμένου χρήστη."
 
 #: ./Idno/Pages/Account/Settings/Following/Bookmarklet.php:170
 msgid "You are now following %s, would you like to subscribe to their feed?"
-msgstr ""
+msgstr "Ακολουθείτε τώρα %s, θέλετε να εγγραφείτε στη ροή τους;"
+# You are now following %s, do you want to subscribe to their feed?
 
 #: ./Idno/Pages/Account/Settings/Following/Bookmarklet.php:175
 msgid "You are now following %s"
-msgstr ""
+msgstr "Τώρα ακολουθείτε το %s"
 
 #: ./Idno/Pages/Account/Settings/Following/Bookmarklet.php:180
 msgid "You're already following %s"
-msgstr ""
+msgstr "Ακολουθείτε ήδη %s"
 
 #: ./Idno/Pages/Account/Settings/Following/Bookmarklet.php:183
 msgid "Sorry, that user doesn't exist!"
-msgstr ""
+msgstr "Λυπούμαστε, αυτός ο χρήστης δεν υπάρχει!"
+# Sorry, this user does not exist!
 
 #: ./Idno/Pages/Account/Settings/Following/Bookmarklet.php:185
 msgid "No UUID, please try that again!"
-msgstr ""
+msgstr "Δεν UUID, δοκιμάστε ότι και πάλι!"
+# No UUID, try that again!
 
 #: ./Idno/Pages/Account/Settings/Following.php:20
 msgid "Following settings"
