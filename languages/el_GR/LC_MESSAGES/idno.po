@@ -480,22 +480,23 @@ msgstr "Ρυθμίσεις λογαριασμού"
 #: ./Idno/Pages/Account/Settings.php:50
 msgid "Someone is already using %s as their email address."
 msgstr ""
+"Κάποιος χρησιμοποιεί ήδη το %s ως διεύθυνση ηλεκτρονικού ταχυδρομείου του."
 
 #: ./Idno/Pages/Account/Settings.php:56
 msgid "Your password has been updated."
-msgstr ""
+msgstr "Ο κωδικός πρόσβασής σας έχει ενημερωθεί."
 
 #: ./Idno/Pages/Account/Settings.php:59
 msgid "Sorry, your password is too weak"
-msgstr ""
+msgstr "Λυπούμαστε, ο κωδικός πρόσβασής σας είναι πολύ αδύναμος"
 
 #: ./Idno/Pages/Account/Settings.php:66
 msgid "Your details were saved."
-msgstr ""
+msgstr "Τα στοιχεία σου αποθηκεύτηκαν."
 
 #: ./Idno/Pages/Account/Settings/Tools.php:26
 msgid "Tools and Apps"
-msgstr ""
+msgstr "Εργαλεία και εφαρμογές"
 
 #: ./Idno/Pages/Admin/About.php:20
 msgid "About Known"
