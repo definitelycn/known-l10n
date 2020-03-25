@@ -712,23 +712,25 @@ msgstr ""
 
 #: ./Idno/Pages/Admin/Users.php:205
 msgid "%d emails were blocked."
-msgstr ""
+msgstr "%d διευθύνσεις ηλεκτρονικού ταχυδρομείου απέκλεισαν."
 
 #: ./Idno/Pages/Admin/Users.php:207
 msgid "The email address was blocked."
-msgstr ""
+msgstr "Η διεύθυνση ηλεκτρονικού ταχυδρομείου αποκλείστηκε."
 
 #: ./Idno/Pages/Admin/Users.php:209
 msgid "No email addresses were found."
-msgstr ""
+msgstr "Δεν βρέθηκαν διευθύνσεις ηλεκτρονικού ταχυδρομείου."
 
 #: ./Idno/Pages/Admin/Users.php:230
 msgid "%d emails were unblocked."
-msgstr ""
+msgstr " διευθύνσεις ηλεκτρονικού ταχυδρομείου εκκαθαρίστηκαν."
+# %d email addresses were cleared.
 
 #: ./Idno/Pages/Admin/Users.php:232
 msgid "The email address was unblocked."
-msgstr ""
+msgstr "Η διεύθυνση ηλεκτρονικού ταχυδρομείου απαλλάχθηκε."
+# The email address was exonerated
 
 #: ./Idno/Pages/Annotation/Delete.php:42
 msgid "The annotation was deleted."
