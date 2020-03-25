@@ -897,10 +897,13 @@ msgid ""
 "publicly. In order to protect your privacy, you may wish to just download "
 "your public posts."
 msgstr ""
+"Πλατφόρμες όπως το WordPress μπορεί να υποθέσει ότι όλες οι θέσεις σας θα "
+"πρέπει να εμφανίζεται δημοσίως. Για να προστατεύσετε το απόρρητό σας, "
+"μπορεί να θέλετε να κατεβάσετε τις δημόσιες δημοσιεύσεις σας."
 
 #: ./templates/default/account/export.tpl.php:38
 msgid "Download RSS Feed"
-msgstr ""
+msgstr "Λήψη τροφοδοσίας RSS"
 
 #: ./templates/default/account/login.tpl.php:4
 msgid "Welcome back!"
