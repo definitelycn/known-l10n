@@ -837,6 +837,7 @@ msgstr "Είσοδος"
 #: ./Idno/Pages/Session/Login.php:67
 msgid "Oops! It looks like your password isn't correct. Please try again."
 msgstr ""
+"Ωχ! Φαίνεται ότι ο κωδικός πρόσβασής σας δεν είναι σωστός. Προσπαθήστε ξανά."
 
 #: ./Idno/Pages/Session/Login.php:72
 msgid ""
@@ -848,7 +849,7 @@ msgstr ""
 
 #: ./Idno/Pages/Session/Logout.php:24
 msgid "You've signed out. See you soon!"
-msgstr ""
+msgstr "Έχετε υπογράψει. Τα λέμε σύντομα!"
 
 #: ./Idno/Pages/User/Edit.php:30
 msgid "Edit profile: %s"
@@ -856,11 +857,12 @@ msgstr "Επεξεργασία προφίλ: %s"
 
 #: ./Idno/Pages/Webmentions/Endpoint.php:19
 msgid "Webmention endpoint"
-msgstr ""
+msgstr "Τελικό σημείο αναφοράς web"
+# Web Endpoint
 
 #: ./Idno/Stats/Timer.php:39
 msgid "Timer %s has not been started."
-msgstr ""
+msgstr "Το χρονόμετρο %s δεν έχει ξεκινήσει."
 
 #: ./templates/default/account/export.tpl.php:8
 msgid "Export your data"
