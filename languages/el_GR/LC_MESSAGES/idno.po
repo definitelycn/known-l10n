@@ -677,21 +677,23 @@ msgstr "Η πρόσκλησή σου στάλθηκε."
 
 #: ./Idno/Pages/Admin/Users.php:95
 msgid "Something went wrong and we couldn't send emails to your recipients."
-msgstr ""
+msgstr "Κάτι πήγε στραβά και δεν μπορούσαμε να στείλουμε μηνύματα ηλεκτρονικού ταχυδρομείου στους παραλήπτες σας."
 
 #: ./Idno/Pages/Admin/Users.php:97
 msgid ""
 "No email addresses were found or all the people you invited are already "
 "members of this site."
 msgstr ""
+"Δεν βρέθηκαν διευθύνσεις ηλεκτρονικού ταχυδρομείου ή όλα τα άτομα που "
+"προσκαλέσατε είναι ήδη μέλη αυτής της τοποθεσίας."
 
 #: ./Idno/Pages/Admin/Users.php:105
 msgid "The invitation was removed."
-msgstr ""
+msgstr "Η πρόσκληση καταργήθηκε."
 
 #: ./Idno/Pages/Admin/Users.php:119
 msgid "The invitation was resent."
-msgstr ""
+msgstr "Η πρόσκληση στάλθηκε ξανά."
 
 #: ./Idno/Pages/Admin/Users.php:128
 msgid "You can't add any more users to your site."
