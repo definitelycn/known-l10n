@@ -757,23 +757,24 @@ msgstr "Αφαιρέσαμε αντίγραφα σε όλες τις κοινο�
 
 #: ./Idno/Pages/File/Picker.php:57
 msgid "You can only upload images."
-msgstr ""
+msgstr "Μπορείτε να ανεβάσετε μόνο εικόνες."
 
 #: ./Idno/Pages/Following/Add.php:23
 msgid "We couldn't find a feed at that site."
-msgstr ""
+msgstr "Δεν μπορέσαμε να βρούμε τροφή σε εκείνο το σημείο."
+# We couldn’t find food at that point (?)
 
 #: ./Idno/Pages/Following/Confirm.php:24
 msgid "Subscribe to %s"
-msgstr ""
+msgstr "Εγγραφή στο %s"
 
 #: ./Idno/Pages/Following/Confirm.php:50
 msgid "You're following %s!"
-msgstr ""
+msgstr "Ακολουθείς το %s!"
 
 #: ./Idno/Pages/Following/Home.php:17
 msgid "Following"
-msgstr ""
+msgstr "Ακόλουθο"
 
 #: ./Idno/Pages/Onboarding/Begin.php:23
 msgid "Welcome to Known"
