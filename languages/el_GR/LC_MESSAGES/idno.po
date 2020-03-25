@@ -866,7 +866,7 @@ msgstr "Το χρονόμετρο %s δεν έχει ξεκινήσει."
 
 #: ./templates/default/account/export.tpl.php:8
 msgid "Export your data"
-msgstr ""
+msgstr "Εξαγωγή των δεδομένων σας"
 
 #: ./templates/default/account/export.tpl.php:19
 msgid ""
@@ -874,6 +874,9 @@ msgid ""
 "This file is suitable for importing into content management systems like "
 "WordPress, or another Known site."
 msgstr ""
+"Μπορείτε να κατεβάσετε μια έκδοση RSS από ό, τι έχετε δημοσιεύτηκε σε αυτό "
+"το site. Αυτό το αρχείο είναι κατάλληλο για εισαγωγή σε συστήματα "
+"διαχείρισης περιεχομένου όπως το WordPress, ή σε άλλη τοποθεσία Known."
 
 #: ./templates/default/account/export.tpl.php:24
 #: ./templates/default/admin/export.tpl.php:25
@@ -882,11 +885,11 @@ msgstr "Να συμπεριληφθούν ιδιωτικές αναρτήσει�
 
 #: ./templates/default/account/export.tpl.php:28
 msgid "Yes"
-msgstr ""
+msgstr "Ναι"
 
 #: ./templates/default/account/export.tpl.php:29
 msgid "No"
-msgstr ""
+msgstr "Όχι"
 
 #: ./templates/default/account/export.tpl.php:34
 msgid ""
