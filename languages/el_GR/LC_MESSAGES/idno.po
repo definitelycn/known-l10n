@@ -734,25 +734,26 @@ msgstr "Η διεύθυνση ηλεκτρονικού ταχυδρομείου 
 
 #: ./Idno/Pages/Annotation/Delete.php:42
 msgid "The annotation was deleted."
-msgstr ""
+msgstr "Το σχόλιο διαγράφηκε."
 
 #: ./Idno/Pages/Entity/Attachment/Delete.php:21
 msgid "We couldn't find the post."
-msgstr ""
+msgstr "Δεν μπορέσαμε να βρούμε το ταχυδρομείο."
+# We couldn’t find the mail (?)
 
 #: ./Idno/Pages/Entity/Delete.php:45
 msgid "We couldn't find the post to delete."
-msgstr ""
+msgstr "Δεν μπορέσαμε να βρούμε τη δημοσίευση για διαγραφή."
 
 #: ./Idno/Pages/Entity/Delete.php:52
 #: ./Idno/Pages/Entity/View.php:125
 #: ./Idno/Pages/User/View.php:103
 msgid "%s was deleted."
-msgstr ""
+msgstr "Το %s διαγράφηκε."
 
 #: ./Idno/Pages/Entity/Withdraw.php:48
 msgid "We removed copies on all the syndicated sites."
-msgstr ""
+msgstr "Αφαιρέσαμε αντίγραφα σε όλες τις κοινοπρακτικές ιστοσελίδες."
 
 #: ./Idno/Pages/File/Picker.php:57
 msgid "You can only upload images."
