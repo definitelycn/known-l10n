@@ -946,11 +946,13 @@ msgstr "Δεν έχετε ακόμα ειδοποιήσεις. Αλλά σ' αγ
 
 #: ./templates/default/account/password/reset.tpl.php:5
 msgid "Reset your password"
-msgstr ""
+msgstr "Επαναφορά του κωδικού πρόσβασής σας"
 
 #: ./templates/default/account/password/reset.tpl.php:7
 msgid "To change your password, enter your new password below:"
 msgstr ""
+"Για να αλλάξετε τον κωδικό πρόσβασής σας, πληκτρολογήστε τον νέο "
+"κωδικό πρόσβασης παρακάτω:"
 
 #: ./templates/default/account/password/reset.tpl.php:16
 msgid "Your email address"
@@ -966,11 +968,13 @@ msgstr "Νέος κωδικός πρόσβασης (7 χαρακτήρες ή π
 
 #: ./templates/default/account/password/reset.tpl.php:29
 msgid "Retype password"
-msgstr ""
+msgstr "Πληκτρολογήστε ξανά τον κωδικό πρόσβασης"
 
 #: ./templates/default/account/password/reset.tpl.php:30
 msgid "We ask you to enter the password twice to protect against typos."
 msgstr ""
+"Σας ζητάμε να εισαγάγετε τον κωδικό πρόσβασης δύο φορές για προστασία "
+"από τυπογραφικά λάθη."
 
 #: ./templates/default/account/password/sent.tpl.php:5
 msgid "Your password reset email has been sent"
