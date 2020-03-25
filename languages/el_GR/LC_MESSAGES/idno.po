@@ -778,15 +778,15 @@ msgstr "Ακόλουθο"
 
 #: ./Idno/Pages/Onboarding/Begin.php:23
 msgid "Welcome to Known"
-msgstr ""
+msgstr "Καλώς ήρθατε στο Known"
 
 #: ./Idno/Pages/Onboarding/Connect.php:25
 msgid "Connect some networks"
-msgstr ""
+msgstr "Σύνδεση ορισμένων δικτύων"
 
 #: ./Idno/Pages/Onboarding/Profile.php:22
 msgid "Create your profile"
-msgstr ""
+msgstr "Δημιουργήστε το προφίλ σας"
 
 #: ./Idno/Pages/Search/User.php:23
 msgid "Invalid sort type %s"
