@@ -790,15 +790,15 @@ msgstr "Δημιουργήστε το προφίλ σας"
 
 #: ./Idno/Pages/Search/User.php:23
 msgid "Invalid sort type %s"
-msgstr ""
+msgstr "Ο τύπος ταξινόμησης %s δεν είναι έγκυρος"
 
 #: ./Idno/Pages/Search/User.php:27
 msgid "Invalid sort order %s"
-msgstr ""
+msgstr "Η σειρά ταξινόμησης %s δεν είναι έγκυρη"
 
 #: ./Idno/Pages/Service/Security/CSRFToken.php:16
 msgid "URL missing"
-msgstr ""
+msgstr "Η διεύθυνση URL λείπει"
 
 #: ./Idno/Pages/Service/Web/ImageProxy.php:77
 msgid "There was a problem decoding the url"
