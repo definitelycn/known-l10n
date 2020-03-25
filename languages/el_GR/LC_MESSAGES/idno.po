@@ -818,15 +818,17 @@ msgstr "Μοιάζει κάτι πήγε στραβά, η εικόνα ήταν 
 
 #: ./Idno/Pages/Service/Web/UrlUnfurl.php:20
 msgid "You need to specify a working URL"
-msgstr ""
+msgstr "Πρέπει να καθορίσετε μια διεύθυνση URL εργασίας"
+# You must specify a task URL
 
 #: ./Idno/Pages/Service/Web/UrlUnfurl.php:69
 msgid "Url %s could not be unfurled"
-msgstr ""
+msgstr "Δεν ήταν δυνατή η αποτύπωσή της διεύθυνσης URL %s"
+# URL %s could not be captured
 
 #: ./Idno/Pages/Session/CurrentUser.php:36
 msgid "The %s profile for %s"
-msgstr ""
+msgstr "Το προφίλ %s για το %s"
 
 #: ./Idno/Pages/Session/Login.php:42
 msgid "Sign in"
