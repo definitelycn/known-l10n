@@ -802,19 +802,19 @@ msgstr "Η διεύθυνση URL λείπει"
 
 #: ./Idno/Pages/Service/Web/ImageProxy.php:77
 msgid "There was a problem decoding the url"
-msgstr ""
+msgstr "Παρουσιάστηκε πρόβλημα κατά την αποκωδικοποίηση της διεύθυνσης URL"
 
 #: ./Idno/Pages/Service/Web/ImageProxy.php:81
 msgid "No url specified"
-msgstr ""
+msgstr "Δεν έχει καθοριστεί διεύθυνση URL"
 
 #: ./Idno/Pages/Service/Web/ImageProxy.php:222
 msgid "Could not save temporary file"
-msgstr ""
+msgstr "Δεν ήταν δυνατή η αποθήκευση προσωρινού αρχείου"
 
 #: ./Idno/Pages/Service/Web/ImageProxy.php:253
 msgid "Looks like something went wrong, image was zero bytes big!"
-msgstr ""
+msgstr "Μοιάζει κάτι πήγε στραβά, η εικόνα ήταν μηδέν bytes μεγάλο!"
 
 #: ./Idno/Pages/Service/Web/UrlUnfurl.php:20
 msgid "You need to specify a working URL"
