@@ -937,10 +937,12 @@ msgstr "Ειδοποιήσεις ηλεκτρονικού ταχυδρομείο
 msgid ""
 "The notifications screen shows you who has interacted with your content."
 msgstr ""
+"Η οθόνη ειδοποιήσεων σάς δείχνει ποιος έχει αλληλεπιδράσει με το "
+"περιεχόμενό σας."
 
 #: ./templates/default/account/notifications.tpl.php:25
 msgid "You don't have any notifications yet. But we love you anyway!"
-msgstr ""
+msgstr "Δεν έχετε ακόμα ειδοποιήσεις. Αλλά σ' αγαπάμε έτσι κι αλλιώς!"
 
 #: ./templates/default/account/password/reset.tpl.php:5
 msgid "Reset your password"
