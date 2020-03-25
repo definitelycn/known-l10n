@@ -697,15 +697,18 @@ msgstr "Η πρόσκληση στάλθηκε ξανά."
 
 #: ./Idno/Pages/Admin/Users.php:128
 msgid "You can't add any more users to your site."
-msgstr ""
+msgstr "Δεν μπορείτε να προσθέσετε άλλους χρήστες στην τοποθεσία σας."
 
 #: ./Idno/Pages/Admin/Users.php:141
 msgid "Please make sure your passwords match and aren't empty."
 msgstr ""
+"Βεβαιωθείτε ότι οι κωδικοί πρόσβασής σας ταιριάζουν και δεν είναι άδειοι."
 
 #: ./Idno/Pages/Admin/Users.php:182
 msgid "User %s was created. You may wish to email them to let them know."
 msgstr ""
+"Δημιουργήθηκε ο χρήστης %s. Μπορεί να θέλετε να τους στείλετε μήνυμα με "
+"το ηλεκτρονικό ταχυδρομείο για να τους ενημερώσετε."
 
 #: ./Idno/Pages/Admin/Users.php:205
 msgid "%d emails were blocked."
