@@ -919,7 +919,7 @@ msgstr "Κωδικό πρόσβασης"
 
 #: ./templates/default/account/login.tpl.php:36
 msgid "New here? Register for an account."
-msgstr ""
+msgstr "Καινούργιος εδώ; Εγγραφείτε για ένα λογαριασμό."
 
 #: ./templates/default/account/login.tpl.php:40
 msgid "Forgot your password?"
@@ -931,7 +931,7 @@ msgstr "Ρυθμίσεις"
 
 #: ./templates/default/account/menu.tpl.php:6
 msgid "Email notifications"
-msgstr ""
+msgstr "Ειδοποιήσεις ηλεκτρονικού ταχυδρομείου"
 
 #: ./templates/default/account/notifications.tpl.php:6
 msgid ""
