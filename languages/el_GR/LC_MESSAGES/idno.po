@@ -1082,17 +1082,21 @@ msgstr "Δημιουργία λογαριασμού"
 
 #: ./templates/default/account/settings/feedback/confirm.tpl.php:5
 msgid "Message received!"
-msgstr ""
+msgstr "Το μήνυμα ελήφθη!"
 
 #: ./templates/default/account/settings/feedback/confirm.tpl.php:9
 msgid "Thanks for sending along your thoughts. We'll read them right away."
 msgstr ""
+"Ευχαριστώ για την αποστολή μαζί τις σκέψεις σας. Θα τα διαβάσουμε αμέσως."
 
 #: ./templates/default/account/settings/feedback/confirm.tpl.php:22
 msgid ""
 "Feedback is a gift. For more information about Known, <a "
 "href=\"https://withknown.com/\">please visit our homepage</a>"
 msgstr ""
+"Ανατροφοδότηση είναι ένα δώρο. Για περισσότερες πληροφορίες "
+"σχετικά με το Known, <a href=\"https://withknown.com/\">επισκεφθείτε "
+"την αρχική μας σελίδα</a>"
 
 #: ./templates/default/account/settings/feedback.tpl.php:5
 msgid "Share your feedback"
