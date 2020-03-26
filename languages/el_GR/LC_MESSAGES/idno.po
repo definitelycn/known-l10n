@@ -1001,6 +1001,8 @@ msgstr ""
 #: ./templates/default/account/password.tpl.php:9
 msgid "Forgot your password? Don't worry! It happens to the best of us."
 msgstr ""
+"Ξέχασες τον κωδικό σου; Μην ανησυχείς γι' αυτό. Συμβαίνει στους "
+"καλύτερους από εμάς."
 
 #: ./templates/default/account/password.tpl.php:10
 msgid ""
@@ -1008,14 +1010,18 @@ msgid ""
 "we'll send you a top secret link to your email account so that you can "
 "create a new password."
 msgstr ""
+"Απλώς πληκτρολογήστε τη διεύθυνση ηλεκτρονικού ταχυδρομείου που "
+"σχετίζεται με το λογαριασμό %s παρακάτω και θα σας στείλουμε έναν άκρως "
+"απόρρητο σύνδεσμο προς το λογαριασμό ηλεκτρονικού ταχυδρομείου σας, ώστε "
+"να μπορείτε να δημιουργήσετε έναν νέο κωδικό πρόσβασης."
 
 #: ./templates/default/account/password.tpl.php:20
 msgid "me@awesome.com"
-msgstr ""
+msgstr "me@Τρομερό.ελ"
 
 #: ./templates/default/account/password.tpl.php:27
 msgid "Send password reset email"
-msgstr ""
+msgstr "Αποστολή ηλεκτρονικού ταχυδρομείου επαναφοράς κωδικού πρόσβασης"
 
 #: ./templates/default/account/register.tpl.php:5
 msgid "Hello there!"
