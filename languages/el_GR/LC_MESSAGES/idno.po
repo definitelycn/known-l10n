@@ -1222,21 +1222,29 @@ msgid ""
 "The Known bookmarklet is the best way to save links, reply to posts, and "
 "share articles."
 msgstr ""
+"Το bookmarklet Known είναι ο καλύτερος τρόπος για να αποθηκεύσετε "
+"συνδέσμους, να απαντήσετε σε δημοσιεύσεις και να μοιραστείτε άρθρα."
 
 #: ./templates/default/account/settings/tools.tpl.php:23
 msgid ""
 "Just drag the bookmarklet button below into your browser's Bookmark Bar."
 msgstr ""
+"Απλώς σύρετε το κουμπί bookmarklet παρακάτω στη γραμμή σελιδοδεικτών "
+"του προγράμματος περιήγησής σας."
+# ?
 
 #: ./templates/default/account/settings/tools.tpl.php:42
 msgid "Don't see a bookmarks bar?"
-msgstr ""
+msgstr "Δεν βλέπετε γραμμή σελιδοδεικτών;"
 
 #: ./templates/default/account/settings/tools.tpl.php:45
 msgid ""
 "Sometimes web browsers have their bookmarked links bar hidden by default. "
 "Here's how to reveal it:"
 msgstr ""
+"Μερικές φορές τα προγράμματα περιήγησης web έχουν σελιδοδείκτη γραμμή "
+"συνδέσεις τους κρυμμένο από προεπιλογή. "
+"Δείτε πώς μπορείτε να το αποκαλύψετε:"
 
 #: ./templates/default/account/settings/tools.tpl.php:47
 msgid "Chrome"
