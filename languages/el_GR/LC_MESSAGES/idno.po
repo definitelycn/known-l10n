@@ -1315,22 +1315,24 @@ msgid ""
 "Change your user account settings here. You may also want to <a "
 "href=\"%s\">edit your profile</a>."
 msgstr ""
+"Αλλάξτε τις ρυθμίσεις του λογαριασμού χρήστη εδώ. Μπορεί επίσης να θέλετε "
+"να <a href=\"%s\">επεξεργασία του προφίλ σας</a>."
 
 #: ./templates/default/account/settings.tpl.php:45
 msgid "Site notifications will be sent here."
-msgstr ""
+msgstr "Οι ειδοποιήσεις της ιστοσελίδας θα αποστέλλονται εδώ."
 
 #: ./templates/default/account/settings.tpl.php:51
 msgid "Your password"
-msgstr ""
+msgstr "Ο κωδικός πρόσβασής σας"
 
 #: ./templates/default/account/settings.tpl.php:58
 msgid "Leave this blank if you don't want to change it."
-msgstr ""
+msgstr "Αφήστε το κενό αν δεν θέλετε να το αλλάξετε."
 
 #: ./templates/default/account/settings.tpl.php:64
 msgid "Your timezone"
-msgstr ""
+msgstr "Η ζώνη ώρας σας"
 
 #: ./templates/default/account/settings.tpl.php:73
 msgid "Timezone"
@@ -1339,7 +1341,7 @@ msgstr "Ζώνη ώρας"
 
 #: ./templates/default/account/settings.tpl.php:78
 msgid "Specify your timezone."
-msgstr ""
+msgstr "Καθορίστε τη ζώνη ώρας σας."
 
 #: ./templates/default/account/settings.tpl.php:83
 msgid "Save updates"
