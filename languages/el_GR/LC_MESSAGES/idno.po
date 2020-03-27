@@ -2416,10 +2416,14 @@ msgid ""
 "It's nothing personal. You just don't have the right permissions to see "
 "what's here."
 msgstr ""
+"Δεν είναι κάτι προσωπικό. Απλά δεν έχεις τα κατάλληλα δικαιώματα για να "
+"δεις τι υπάρχει εδώ."
+# … right rights …
 
 #: ./templates/default/pages/403.tpl.php:22
 msgid "Find something else to view on the <a href=\"%s\">%s homepage</a>."
 msgstr ""
+"Βρείτε κάτι άλλο για προβολή στην αρχική σελίδα του <a href=\"%s\">%s</a>."
 
 #: ./templates/default/pages/404.tpl.php:5
 msgid "Oops! We couldn't find it."
