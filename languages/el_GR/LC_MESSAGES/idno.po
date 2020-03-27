@@ -1135,23 +1135,23 @@ msgstr "Πείτε μας τη γνώμη σας."
 
 #: ./templates/default/account/settings/following/bookmarklet.tpl.php:3
 msgid "Add as friend..."
-msgstr ""
+msgstr "Προσθήκη ως φίλου..."
 
 #: ./templates/default/account/settings/following/mf2user.tpl.php:55
 msgid "Name"
-msgstr ""
+msgstr "Όνομα"
 
 #: ./templates/default/account/settings/following/mf2user.tpl.php:64
 msgid "Nickname"
-msgstr ""
+msgstr "Ψευδώνυμο"
 
 #: ./templates/default/account/settings/following/mf2user.tpl.php:67
 msgid "Handle (for your reference)"
-msgstr ""
+msgstr "Λαβή (για την αναφορά σας)"
 
 #: ./templates/default/account/settings/following/mf2user.tpl.php:82
 msgid "Profile URL"
-msgstr ""
+msgstr "Διεύθυνση URL προφίλ"
 
 #: ./templates/default/account/settings/following.tpl.php:5
 msgid "Following..."
