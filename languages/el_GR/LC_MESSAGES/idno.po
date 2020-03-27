@@ -1262,14 +1262,17 @@ msgstr ""
 #: ./templates/default/account/settings/tools.tpl.php:48
 msgid "Select <em>View</em>, then <em>Toolbars</em>, and make sure"
 msgstr ""
+"Επιλέξτε <em>Προβολή</em>, στη συνέχεια <em>Γραμμές εργαλείων</em> "
+"και βεβαιωθείτε ότι"
 
 #: ./templates/default/account/settings/tools.tpl.php:49
 msgid "Bookmarks Toolbar"
-msgstr ""
+msgstr "Γραμμής σελιδοδεικτών"
 
 #: ./templates/default/account/settings/tools.tpl.php:49
 msgid "is checked."
-msgstr ""
+msgstr "ελέγχεται"
+# ?
 
 #: ./templates/default/account/settings/tools.tpl.php:50
 msgid "Internet Explorer"
