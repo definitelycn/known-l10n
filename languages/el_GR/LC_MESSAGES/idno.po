@@ -1155,17 +1155,23 @@ msgstr "Διεύθυνση URL προφίλ"
 
 #: ./templates/default/account/settings/following.tpl.php:5
 msgid "Following..."
-msgstr ""
+msgstr "Ακόλουθο..."
 
 #: ./templates/default/account/settings/following.tpl.php:11
 msgid ""
 "Manage your subscriptions here. These users can also be given access to "
 "private content you produce on your site."
 msgstr ""
+"Διαχειριστείτε τις συνδρομές σας εδώ. Σε αυτούς τους χρήστες μπορεί "
+"επίσης να δοθεί πρόσβαση σε ιδιωτικό περιεχόμενο που παράγετε στον "
+"ιστότοπό σας."
 
 #: ./templates/default/account/settings/following.tpl.php:16
 msgid "Use this bookmarklet to make it easy to add new friends."
 msgstr ""
+"Χρησιμοποιήστε αυτό το σελιδοδείκτη για να διευκολύνετε την προσθήκη "
+"νέων φίλων."
+# Bookmark
 
 #: ./templates/default/account/settings/notifications.tpl.php:17
 msgid ""
