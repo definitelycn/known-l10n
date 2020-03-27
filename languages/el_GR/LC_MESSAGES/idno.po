@@ -1100,7 +1100,7 @@ msgstr ""
 
 #: ./templates/default/account/settings/feedback.tpl.php:5
 msgid "Share your feedback"
-msgstr ""
+msgstr "Μοιραστείτε τα σχόλιά σας"
 
 #: ./templates/default/account/settings/feedback.tpl.php:9
 msgid ""
@@ -1108,26 +1108,30 @@ msgid ""
 "thoughts, suggestions, or ideas. We will personally read all of your "
 "feedback."
 msgstr ""
+"Θέλετε να μοιραστείτε κάτι με την ομάδα Known; Θα θέλαμε να διαβάσουμε "
+"τις σκέψεις, τις προτάσεις ή τις ιδέες σας. Θα διαβάσουμε προσωπικά "
+"όλα τα σχόλιά σας."
 
 #: ./templates/default/account/settings/feedback.tpl.php:21
 msgid "From"
-msgstr ""
+msgstr "Από"
 
 #: ./templates/default/account/settings/feedback.tpl.php:26
 msgid "To"
-msgstr ""
+msgstr "Προς"
 
 #: ./templates/default/account/settings/feedback.tpl.php:29
 msgid "Subject"
-msgstr ""
+msgstr "Θέμα"
+# Theme
 
 #: ./templates/default/account/settings/feedback.tpl.php:29
 msgid "Feedback for the Known team"
-msgstr ""
+msgstr "Ανατροφοδότηση για την ομάδα Known"
 
 #: ./templates/default/account/settings/feedback.tpl.php:32
 msgid "Let us know what you think."
-msgstr ""
+msgstr "Πείτε μας τη γνώμη σας."
 
 #: ./templates/default/account/settings/following/bookmarklet.tpl.php:3
 msgid "Add as friend..."
