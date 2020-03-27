@@ -1282,24 +1282,29 @@ msgstr ""
 msgid ""
 "Select <em>Tools</em>, then make sure <em>Favorites Bar</em> is checked."
 msgstr ""
+"Επιλέξτε <em>Εργαλεία</em> και, στη συνέχεια, βεβαιωθείτε ότι έχει "
+"ενεργοποιηθεί <em>Γραμμή αγαπημένων </em>."
+# … is enabled.
 
 #: ./templates/default/account/settings/tools.tpl.php:65
 msgid "Your API key"
-msgstr ""
+msgstr "Το κλειδί API"
 
 #: ./templates/default/account/settings/tools.tpl.php:70
 msgid "Click to show"
-msgstr ""
+msgstr "Κάντε κλικ για να εμφανίσετε"
 
 #: ./templates/default/account/settings/tools.tpl.php:76
 msgid "Revoke"
-msgstr ""
+msgstr "Ανακαλέσει"
 
 #: ./templates/default/account/settings/tools.tpl.php:76
 msgid ""
 "Revoking this key will mean you must update any applications that use this "
 "key!"
 msgstr ""
+"Η ανάκληση αυτού του κλειδιού θα σημάνει ότι πρέπει να ενημερώσετε "
+"οποιεσδήποτε εφαρμογές που χρησιμοποιούν αυτό το κλειδί!"
 
 #: ./templates/default/account/settings.tpl.php:9
 msgid "Account Settings"
