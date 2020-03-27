@@ -307,11 +307,11 @@ msgstr ""
 
 #: ./Idno/Pages/Account/Register.php:27
 msgid "This site is closed to new users."
-msgstr ""
+msgstr "Αυτή η τοποθεσία είναι κλειστή για νέους χρήστες."
 
 #: ./Idno/Pages/Account/Register.php:31
 msgid "Your invitation doesn't seem to be valid, or has expired."
-msgstr ""
+msgstr "Η πρόσκλησή σας δεν φαίνεται να είναι έγκυρη ή έχει λήξει."
 
 #: ./Idno/Pages/Account/Register.php:39
 msgid "Create a new account"
