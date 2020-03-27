@@ -1178,36 +1178,40 @@ msgid ""
 "Set how you'd like to be notified when someone stars or comments on your "
 "content."
 msgstr ""
+"Ορίστε τον τρόπο με τον οποίο θέλετε να ειδοποιείστε όταν κάποιος "
+"πρωταγωνιστεί ή σχολιάζει το περιεχόμενό σας."
 
 #: ./templates/default/account/settings/notifications.tpl.php:26
 msgid "Send email notifications"
-msgstr ""
+msgstr "Αποστολή ειδοποιήσεων μέσω ηλεκτρονικού ταχυδρομείου"
 
 #: ./templates/default/account/settings/notifications.tpl.php:34
 msgid "Whenever someone interacts with my content"
-msgstr ""
+msgstr "Κάθε φορά που κάποιος αλληλεπιδρά με το περιεχόμενό μου"
 
 #: ./templates/default/account/settings/notifications.tpl.php:44
 msgid "Only when someone comments on my content"
-msgstr ""
+msgstr "Μόνο όταν κάποιος σχολιάζει το περιεχόμενό μου"
 
 #: ./templates/default/account/settings/notifications.tpl.php:54
 msgid "Never"
-msgstr ""
+msgstr "Ποτέ"
 
 #: ./templates/default/account/settings/notifications.tpl.php:63
 msgid "Ignored Domains"
-msgstr ""
+msgstr "Τομείς που παραβλέφθηκαν"
+# Sectors ignored
 
 #: ./templates/default/account/settings/notifications.tpl.php:64
 msgid ""
 "Do not send notifications for interactions originating from these domains "
 "(one domain per line)"
-msgstr ""
+msgstr "Μην στέλνετε ειδοποιήσεις για επικοινωνίες που προέρχονται από "
+"αυτούς τους τομείς (ένας τομέας ανά γραμμή)"
 
 #: ./templates/default/account/settings/notifications.tpl.php:75
 msgid "Save settings"
-msgstr ""
+msgstr "Αποθήκευση ρυθμίσεων"
 
 #: ./templates/default/account/settings/tools.tpl.php:13
 msgid "Bookmarklet"
