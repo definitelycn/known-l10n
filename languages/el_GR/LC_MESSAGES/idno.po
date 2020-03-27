@@ -1378,6 +1378,10 @@ msgid ""
 "need help installing any required packages, ask your web host or system "
 "administrator."
 msgstr ""
+"Ακολουθούν στοιχεία συστήματος που απαιτούνται για την πλήρη εκτέλεση του "
+"Known to. Αξίζει να ελέγξετε για να βεβαιωθείτε ότι είναι όλα εγκατεστημένα. "
+"Εάν χρειάζεστε βοήθεια για την εγκατάσταση των απαιτούμενων πακέτων, ρωτήστε "
+"τον κεντρικό υπολογιστή web ή το διαχειριστή του συστήματός σας."
 
 #: ./templates/default/admin/dependencies.tpl.php:17
 msgid "PHP"
@@ -1385,11 +1389,11 @@ msgstr ""
 
 #: ./templates/default/admin/dependencies.tpl.php:19
 msgid "Version %s or greater"
-msgstr ""
+msgstr "Έκδοση %s ή μεγαλύτερη"
 
 #: ./templates/default/admin/dependencies.tpl.php:27
 msgid "PHP extensions required"
-msgstr ""
+msgstr "PHP επεκτάσεις που απαιτούνται"
 
 #: ./templates/default/admin/dependencies.tpl.php:28
 msgid ""
@@ -1397,6 +1401,10 @@ msgid ""
 "database storage, webmentions, etc. Click an extension name to learn more "
 "about it, including installation instructions."
 msgstr ""
+"Αυτά επεκτείνουν τον τρόπο λειτουργίας της PHP και απαιτούνται για "
+"λειτουργικότητα όπως η αποθήκευση βάσεων δεδομένων, οι αναφορές σε "
+"webmentions κ.λπ. Κάντε κλικ σε ένα όνομα επέκτασης για να μάθετε "
+"περισσότερα σχετικά με αυτό, συμπεριλαμβανομένων των οδηγιών εγκατάστασης."
 
 #: ./templates/default/admin/diagnostics.tpl.php:9
 msgid ""
