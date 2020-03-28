@@ -1411,14 +1411,18 @@ msgid ""
 "This page provides you with information that may help you or others diagnose "
 "any problems you may be experiencing with your Known install."
 msgstr ""
+"Αυτή η σελίδα σας παρέχει πληροφορίες που μπορεί να σας βοηθήσουν εσάς ή "
+"άλλους να διαγνώσετε τυχόν προβλήματα που ενδέχεται να αντιμετωπίζετε με "
+"την εγκατάσταση Known."
 
 #: ./templates/default/admin/diagnostics.tpl.php:57
 msgid "Generate detailed report"
-msgstr ""
+msgstr "Δημιουργία λεπτομερούς αναφοράς"
 
 #: ./templates/default/admin/diagnostics.tpl.php:66
 msgid "Generating..."
-msgstr ""
+msgstr "Δημιουργία..."
+# Create...
 
 #: ./templates/default/admin/email.tpl.php:5
 msgid "Email settings"
