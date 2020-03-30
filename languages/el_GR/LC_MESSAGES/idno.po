@@ -1426,7 +1426,7 @@ msgstr "Δημιουργία..."
 
 #: ./templates/default/admin/email.tpl.php:5
 msgid "Email settings"
-msgstr ""
+msgstr "Ρυθμίσεις ηλεκτρονικού ταχυδρομείου"
 
 #: ./templates/default/admin/email.tpl.php:9
 msgid ""
@@ -1435,19 +1435,30 @@ msgid ""
 "email using an external provider - enter the new SMTP settings below. You "
 "can also <a href=\"%s\">change your notification settings</a>."
 msgstr ""
+"Το Klown προσπαθεί να στείλει μηνύματα ηλεκτρονικού ταχυδρομείου "
+"χρησιμοποιώντας τις προεπιλεγμένες ρυθμίσεις ηλεκτρονικού ταχυδρομείου "
+"του διακομιστή σας. Αν θέλετε να κάνει κάτι άλλο - για παράδειγμα, αν "
+"θέλετε να στείλετε μήνυμα ηλεκτρονικού ταχυδρομείου χρησιμοποιώντας μια "
+"εξωτερική υπηρεσία παροχής - πληκτρολογήστε τις νέες ρυθμίσεις SMTP "
+"παρακάτω. Μπορείτε επίσης να <a href=\"%s\">να αλλάξετε τις ρυθμίσεις "
+"ειδοποιήσεων</a>."
 
 #: ./templates/default/admin/email.tpl.php:20
 msgid ""
 "Fill in the site email address if you would like your site to send email."
 msgstr ""
+"Συμπληρώστε τη διεύθυνση ηλεκτρονικού ταχυδρομείου της ιστοσελίδας, αν "
+"θέλετε το site σας να στείλει ηλεκτρονικού ταχυδρομείου."
+# ηλεκτρονικού ταχυδρομείου
+# Ηλεκτρονικού ταχυδρομείου
 
 #: ./templates/default/admin/email.tpl.php:26
 msgid "Site email address"
-msgstr ""
+msgstr "Διεύθυνση ηλεκτρονικού ταχυδρομείου τοποθεσίας"
 
 #: ./templates/default/admin/email.tpl.php:33
 msgid "This is the address that every notification will be sent from."
-msgstr ""
+msgstr "Αυτή είναι η διεύθυνση από την οποία θα αποστέλλεται κάθε ειδοποίηση."
 
 #: ./templates/default/admin/email.tpl.php:40
 msgid ""
