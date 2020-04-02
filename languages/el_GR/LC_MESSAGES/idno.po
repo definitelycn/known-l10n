@@ -1465,14 +1465,17 @@ msgid ""
 "You can often leave the following settings blank. However, you may wish to "
 "set them if you're using a third-party service to send email."
 msgstr ""
+"Συχνά μπορείτε να αφήσετε κενές τις ακόλουθες ρυθμίσεις. Ωστόσο, μπορεί να "
+"θέλετε να τα ορίσετε αν χρησιμοποιείτε μια υπηρεσία τρίτου μέρους για την "
+"αποστολή μηνυμάτων ηλεκτρονικού ταχυδρομείου."
 
 #: ./templates/default/admin/email.tpl.php:48
 msgid "SMTP host"
-msgstr ""
+msgstr "Κεντρικός υπολογιστής SMTP"
 
 #: ./templates/default/admin/email.tpl.php:55
 msgid "This is the address of the server that will send email for you."
-msgstr ""
+msgstr "Αυτή είναι η διεύθυνση του διακομιστή που θα στείλει email για εσάς."
 
 #: ./templates/default/admin/email.tpl.php:62
 msgid "SMTP username"
