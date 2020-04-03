@@ -1479,19 +1479,23 @@ msgstr "Αυτή είναι η διεύθυνση του διακομιστή π
 
 #: ./templates/default/admin/email.tpl.php:62
 msgid "SMTP username"
-msgstr ""
+msgstr "Όνομα χρήστη SMTP"
 
 #: ./templates/default/admin/email.tpl.php:69
 msgid "If your mail server needs a username, enter it here."
 msgstr ""
+"Εάν ο διακομιστής αλληλογραφίας σας χρειάζεται ένα όνομα χρήστη, "
+"πληκτρολογήστε το εδώ."
 
 #: ./templates/default/admin/email.tpl.php:76
 msgid "SMTP password"
-msgstr ""
+msgstr "Κωδικός πρόσβασης SMTP"
 
 #: ./templates/default/admin/email.tpl.php:84
 msgid "If your mail server needs a password, enter it here."
 msgstr ""
+"Εάν ο διακομιστής αλληλογραφίας σας χρειάζεται έναν κωδικό πρόσβασης, "
+"πληκτρολογήστε τον εδώ."
 
 #: ./templates/default/admin/email.tpl.php:91
 msgid "SMTP port"
