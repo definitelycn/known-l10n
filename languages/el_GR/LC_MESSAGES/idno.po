@@ -1599,10 +1599,13 @@ msgid ""
 "On this page you can change the basic settings for your site, like the site "
 "name and the number of posts visible on each page."
 msgstr ""
+"Σε αυτή τη σελίδα μπορείτε να αλλάξετε τις βασικές ρυθμίσεις για την "
+"τοποθεσία σας, όπως το όνομα της τοποθεσίας και τον αριθμό των καταχωρήσεων "
+"που είναι ορατές σε κάθε σελίδα."
 
 #: ./templates/default/admin/homepage.tpl.php:6
 msgid "Homepage content"
-msgstr ""
+msgstr "Περιεχόμενο αρχικής σελίδας"
 
 #: ./templates/default/admin/homepage.tpl.php:11
 msgid ""
@@ -1610,22 +1613,30 @@ msgid ""
 "default, all published content appears on the main page. If you want to hide "
 "some content types from the main page, you can turn them off below."
 msgstr ""
+"Εδώ μπορείτε να επιλέξετε το περιεχόμενο που βλέπουν οι επισκέπτες στην "
+"αρχική σελίδα της τοποθεσίας σας. Από προεπιλογή, όλο το δημοσιευμένο "
+"περιεχόμενο εμφανίζεται στην κύρια σελίδα. Εάν θέλετε να αποκρύψετε "
+"ορισμένους τύπους περιεχομένου από την κύρια σελίδα, μπορείτε να τους "
+"απενεργοποιήσετε παρακάτω."
 
 #: ./templates/default/admin/homepage.tpl.php:16
 msgid "Turn off content types to hide them from the homepage of your site."
 msgstr ""
+"Απενεργοποιήστε τους τύπους περιεχομένου για να τους αποκρύψετε από την "
+"αρχική σελίδα της τοποθεσίας σας."
 
 #: ./templates/default/admin/homepage.tpl.php:45
 msgid "On"
-msgstr ""
+msgstr "Στις"
 
 #: ./templates/default/admin/homepage.tpl.php:46
 msgid "Off"
-msgstr ""
+msgstr "Από"
+# From (?)
 
 #: ./templates/default/admin/homepage.tpl.php:109
 msgid "Save"
-msgstr ""
+msgstr "Αποθήκευση"
 
 #: ./templates/default/admin/home.tpl.php:15
 msgid "Site Details"
