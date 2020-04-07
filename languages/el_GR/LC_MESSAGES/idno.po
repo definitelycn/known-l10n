@@ -1507,27 +1507,31 @@ msgstr "Αυτό είναι συνήθως 25 ή 587."
 
 #: ./templates/default/admin/email.tpl.php:114
 msgid "Secure connection"
-msgstr ""
+msgstr "Ασφαλής σύνδεση"
 
 #: ./templates/default/admin/email.tpl.php:135
 msgid "Select yes if you use secure logins to your mail server."
 msgstr ""
+"Επιλέξτε ναι εάν χρησιμοποιείτε ασφαλείς συνδέσεις στο διακομιστή "
+"αλληλογραφίας σας."
 
 #: ./templates/default/admin/email.tpl.php:157
 msgid "Send a test message to"
-msgstr ""
+msgstr "Αποστολή δοκιμαστικού μηνύματος στο"
 
 #: ./templates/default/admin/email.tpl.php:160
 msgid "To address"
-msgstr ""
+msgstr "Για να απευθύνετε διεύθυνση"
 
 #: ./templates/default/admin/email.tpl.php:164
 msgid "Check your email settings by sending a test email."
 msgstr ""
+"Ελέγξτε τις ρυθμίσεις ηλεκτρονικού ταχυδρομείου στέλνοντας ένα "
+"δοκιμαστικό μήνυμα ηλεκτρονικού ταχυδρομείου."
 
 #: ./templates/default/admin/email.tpl.php:170
 msgid "Test settings"
-msgstr ""
+msgstr "Ρυθμίσεις δοκιμής"
 
 #: ./templates/default/admin/export/download.tpl.php:2
 msgid "Download your data"
