@@ -1499,11 +1499,11 @@ msgstr ""
 
 #: ./templates/default/admin/email.tpl.php:91
 msgid "SMTP port"
-msgstr ""
+msgstr "Θύρα SMTP"
 
 #: ./templates/default/admin/email.tpl.php:107
 msgid "This is normally 25 or 587."
-msgstr ""
+msgstr "Αυτό είναι συνήθως 25 ή 587."
 
 #: ./templates/default/admin/email.tpl.php:114
 msgid "Secure connection"
