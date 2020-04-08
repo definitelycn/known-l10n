@@ -2769,7 +2769,7 @@ msgstr ""
 #: ./templates/email/content/notification/reply.tpl.php:10
 #: ./templates/email-text/content/notification/reply.tpl.php:10
 msgid "Here's what they said:"
-msgstr ""
+msgstr "Εδώ είναι αυτό που είπαν:"
 
 #: ./templates/email/shell.tpl.php:72
 msgid "Powered by"
@@ -2789,7 +2789,7 @@ msgstr ""
 
 #: ./templates/email-text/content/notification/like.tpl.php:9
 msgid "View post:"
-msgstr ""
+msgstr "Προβολή δημοσίευσης:"
 
 #: ./known.php:110
 msgid "Returns the current Known version as defined in version.known"
