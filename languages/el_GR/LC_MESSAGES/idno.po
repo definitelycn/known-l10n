@@ -2674,7 +2674,7 @@ msgstr "Αποσυνδεθείτε"
 
 #: ./templates/default/shell/toolbar/main.tpl.php:1
 msgid "Skip to main content"
-msgstr ""
+msgstr "Μετάβαση στο κύριο περιεχόμενο"
 
 #: ./templates/default/shell/toolbar/register.tpl.php:1
 msgid "Register"
@@ -2692,6 +2692,7 @@ msgstr "Ελάτε μαζί μας!"
 #: ./templates/email/account/invite.tpl.php:6
 msgid "Hi there! Your friend <strong>%s</strong> has invited you to join <%s>"
 msgstr ""
+"Γεια σου! Ο φίλος σας <strong>%s</strong> σας προσκάλεσε να συμμετάσχετε <%s>"
 
 #: ./templates/email/account/invite.tpl.php:8
 msgid ""
@@ -2734,7 +2735,7 @@ msgstr ""
 #: ./templates/email/content/notification/rsvp.tpl.php:20
 #: ./templates/email/content/notification/share.tpl.php:10
 msgid "View post"
-msgstr ""
+msgstr "Προβολή δημοσίευσης"
 
 #: ./templates/email/content/notification/mention.tpl.php:13
 #: ./templates/email-text/content/notification/mention.tpl.php:6
@@ -2777,7 +2778,7 @@ msgstr ""
 
 #: ./templates/email-text/account/invite.tpl.php:21
 msgid "Hi there! Your friend *%s* has invited you to join %s"
-msgstr ""
+msgstr "Γεια σου! Ο φίλος σας *%s* σας προσκάλεσε να συμμετάσχετε %s"
 
 #: ./templates/email-text/account/invite.tpl.php:26
 msgid "Get started with *%s* by setting up your account"
