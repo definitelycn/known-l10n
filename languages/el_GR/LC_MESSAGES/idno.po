@@ -2723,12 +2723,12 @@ msgstr ""
 #: ./templates/email/account/password.tpl.php:6
 #: ./templates/email-text/account/password.tpl.php:14
 msgid "We heard you forgot your password. Don't worry. It happens to the best of us."
-msgstr ""
+msgstr "Ακούσαμε ότι ξέχασες τον κωδικό σου. Μην ανησυχείς. Συμβαίνει στους καλύτερους από εμάς."
 
 #: ./templates/email/account/password.tpl.php:8
 #: ./templates/email-text/account/password.tpl.php:17
 msgid "You can reset your password by clicking the link below (or copy and paste it into your browser)."
-msgstr ""
+msgstr "Μπορείτε να επαναφέρετε τον κωδικό πρόσβασής σας κάνοντας κλικ στον παρακάτω σύνδεσμο (ή να τον αντιγράψετε και να τον επικολλήσετε στο πρόγραμμα περιήγησής σας)."
 
 #: ./templates/email/content/notification/like.tpl.php:7
 msgid ""
