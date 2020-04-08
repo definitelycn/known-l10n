@@ -2761,23 +2761,24 @@ msgstr "Γεια σου! Θέλαμε να σας ενημερώσουμε ότ�
 
 #: ./templates/email/content/notification/preheader/like.tpl.php:6
 msgid "%s liked %s."
-msgstr ""
+msgstr "%s άρεσε %s."
 
 #: ./templates/email/content/notification/preheader/mention.tpl.php:6
 msgid "%s mentioned you on %s."
-msgstr ""
+msgstr "Το %s σας ανέφερε στο %s."
 
 #: ./templates/email/content/notification/preheader/reply.tpl.php:6
 msgid "%s replied to %s."
-msgstr ""
+msgstr "Το %s απάντησε στο %s."
 
 #: ./templates/email/content/notification/preheader/rsvp.tpl.php:6
 msgid "%s RSVPed %s."
 msgstr ""
+# ?
 
 #: ./templates/email/content/notification/preheader/share.tpl.php:6
 msgid "%s shared %s."
-msgstr ""
+msgstr "%s κοινόχρηστο %s."
 
 #: ./templates/email/content/notification/reply.tpl.php:7
 #: ./templates/email-text/content/notification/reply.tpl.php:6
@@ -2793,7 +2794,8 @@ msgstr "Εδώ είναι αυτό που είπαν:"
 
 #: ./templates/email/shell.tpl.php:72
 msgid "Powered by"
-msgstr ""
+msgstr "Υποστηρίζεται από"
+# Supported by
 
 #: ./templates/email-text/account/invite.tpl.php:21
 msgid "Hi there! Your friend *%s* has invited you to join %s"
