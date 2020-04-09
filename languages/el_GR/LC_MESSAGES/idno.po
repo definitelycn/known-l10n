@@ -1678,21 +1678,25 @@ msgstr "Τι είναι το τοποθεσίας σας περίπου;"
 
 #: ./templates/default/admin/home.tpl.php:50
 msgid "Homepage title"
-msgstr ""
+msgstr "Τίτλος αρχικής σελίδας"
 
 #: ./templates/default/admin/home.tpl.php:57
 msgid ""
 "What should the browser display as the title on your homepage?<br>By default "
 "this is just your site title."
 msgstr ""
+"Τι πρέπει να εμφανίζεται το πρόγραμμα περιήγησης ως τίτλος στην αρχική "
+"σελίδα σας; <br>Από προεπιλογή αυτό είναι μόνο ο τίτλος της τοποθεσίας σας."
 
 #: ./templates/default/admin/home.tpl.php:65
 msgid "Items per page"
-msgstr ""
+msgstr "Στοιχεία ανά σελίδα"
 
 #: ./templates/default/admin/home.tpl.php:71
 msgid "This is the number of content posts displayed on each page."
 msgstr ""
+"Αυτός είναι ο αριθμός των καταχωρήσεων περιεχομένου που εμφανίζονται "
+"σε κάθε σελίδα."
 
 #: ./templates/default/admin/home.tpl.php:79
 msgid "Single user"
