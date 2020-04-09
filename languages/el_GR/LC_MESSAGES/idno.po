@@ -1700,21 +1700,24 @@ msgstr ""
 
 #: ./templates/default/admin/home.tpl.php:79
 msgid "Single user"
-msgstr ""
+msgstr "Ένας μεμονωμένος χρήστης"
 
 #: ./templates/default/admin/home.tpl.php:90
 msgid ""
 "Is this a single-user site? If so, your profile information will be shown at "
 "the top of the homepage."
 msgstr ""
+"Αυτή είναι μια τοποθεσία ενός χρήστη; Σε αυτήν την περίπτωση, οι πληροφορίες "
+"του προφίλ σας θα εμφανίζονται στο επάνω μέρος της αρχικής σελίδας."
+# Is this a user's site? …
 
 #: ./templates/default/admin/home.tpl.php:101
 msgid "Permalink Structure"
-msgstr ""
+msgstr "Μόνιμη δομή συνδέσεων"
 
 #: ./templates/default/admin/home.tpl.php:118
 msgid "How permalinks for individual posts are constructed."
-msgstr ""
+msgstr "Πώς δημιουργούνται οι μόνιμοι σύνδεσμοι για μεμονωμένες θέσεις."
 
 #: ./templates/default/admin/home.tpl.php:130
 msgid "Registration and privacy"
