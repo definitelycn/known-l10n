@@ -1775,20 +1775,26 @@ msgstr "Μάθετε περισσότερα για το PuSH"
 
 #: ./templates/default/admin/home.tpl.php:241
 msgid "Avatar as icon"
-msgstr ""
+msgstr "Avatar ως εικονίδιο"
+# ?
 
 #: ./templates/default/admin/home.tpl.php:252
 msgid "This uses members' avatar images as the site favicon."
-msgstr ""
+msgstr "Αυτό χρησιμοποιεί τις εικόνες avatar των μελών ως favicon site."
+# ?
 
 #: ./templates/default/admin/home.tpl.php:260
 msgid "Include permalinks"
-msgstr ""
+msgstr "Συμπερίληψη μόνιμων συνδέσεων"
+# Persistent connections
 
 #: ./templates/default/admin/home.tpl.php:269
 msgid ""
 "Always add a link back to your site when you syndicate to external networks."
 msgstr ""
+"Να προσθέτετε πάντα μια σύνδεση στην τοποθεσία σας όταν συνδικαλίζεστε "
+"σε εξωτερικά δίκτυα."
+# Always add a connection to your site when you join external networks.
 
 #: ./templates/default/admin/import.tpl.php:9
 msgid "Import content"
