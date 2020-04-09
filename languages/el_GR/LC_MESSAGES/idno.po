@@ -1599,6 +1599,8 @@ msgid ""
 "An archive of your data is being created. Please check again in a few "
 "minutes."
 msgstr ""
+"Δημιουργείται ένα αρχείο των δεδομένων σας. Παρακαλώ ελέγξτε ξανά σε "
+"λίγα λεπτά."
 
 #: ./templates/default/admin/home/description.tpl.php:2
 msgid "Site configuration"
@@ -1650,15 +1652,17 @@ msgstr "Αποθήκευση"
 
 #: ./templates/default/admin/home.tpl.php:15
 msgid "Site Details"
-msgstr ""
+msgstr "Λεπτομέρειες τοποθεσίας"
+# Location Details
 
 #: ./templates/default/admin/home.tpl.php:20
 msgid "Site name"
-msgstr ""
+msgstr "Όνομα τοποθεσίας"
 
 #: ./templates/default/admin/home.tpl.php:27
 msgid "Give your site a name!"
-msgstr ""
+msgstr "Δώστε στο site σας ένα όνομα!"
+# ?
 
 #: ./templates/default/admin/home.tpl.php:35
 msgid "Site summary"
