@@ -1744,31 +1744,34 @@ msgstr ""
 
 #: ./templates/default/admin/home.tpl.php:188
 msgid "Per-post privacy"
-msgstr ""
+msgstr "Προστασία προσωπικών δεδομένων ανά δημοσίευση"
+# Privacy by publication
 
 #: ./templates/default/admin/home.tpl.php:199
 msgid "Show per-post privacy settings."
-msgstr ""
+msgstr "Εμφάνιση ρυθμίσεων απορρήτου ανά δημοσίευση."
 
 #: ./templates/default/admin/home.tpl.php:215
 msgid "Technical Settings"
-msgstr ""
+msgstr "Τεχνικές ρυθμίσεις"
+# Technical arrangements
 
 #: ./templates/default/admin/home.tpl.php:223
 msgid "PubSubHubbub hub"
-msgstr ""
+msgstr "Κόμβος PubSubHubbub"
+# Node
 
 #: ./templates/default/admin/home.tpl.php:226
 msgid "PubSubHubbub hub address"
-msgstr ""
+msgstr "Διεύθυνση διανομέα PubSubHubbub"
 
 #: ./templates/default/admin/home.tpl.php:230
 msgid "You can probably leave this as is."
-msgstr ""
+msgstr "Μπορείς να το αφήσεις ως έχει."
 
 #: ./templates/default/admin/home.tpl.php:231
 msgid "Learn more about PuSH"
-msgstr ""
+msgstr "Μάθετε περισσότερα για το PuSH"
 
 #: ./templates/default/admin/home.tpl.php:241
 msgid "Avatar as icon"
