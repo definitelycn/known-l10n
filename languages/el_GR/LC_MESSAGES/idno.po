@@ -1721,23 +1721,26 @@ msgstr "Πώς δημιουργούνται οι μόνιμοι σύνδεσμο
 
 #: ./templates/default/admin/home.tpl.php:130
 msgid "Registration and privacy"
-msgstr ""
+msgstr "Εγγραφή και προστασία της ιδιωτικής ζωής"
 
 #: ./templates/default/admin/home.tpl.php:138
 msgid "Allow registration"
-msgstr ""
+msgstr "Να επιτρέπεται η εγγραφή"
+# Allow recording
 
 #: ./templates/default/admin/home.tpl.php:148
 msgid "Allow registration if you want others to sign up for your site."
-msgstr ""
+msgstr "Επιτρέψτε την εγγραφή αν θέλετε οι άλλοι να εγγραφούν για το site σας."
 
 #: ./templates/default/admin/home.tpl.php:161
 msgid "Make site private"
-msgstr ""
+msgstr "Κάντε την τοποθεσία ιδιωτική"
 
 #: ./templates/default/admin/home.tpl.php:170
 msgid "Content on a private site is only visible if you're logged in."
 msgstr ""
+"Το περιεχόμενο σε μια ιδιωτική τοποθεσία είναι ορατό μόνο αν είστε "
+"συνδεδεμένοι."
 
 #: ./templates/default/admin/home.tpl.php:188
 msgid "Per-post privacy"
