@@ -1661,20 +1661,20 @@ msgstr "Όνομα τοποθεσίας"
 
 #: ./templates/default/admin/home.tpl.php:27
 msgid "Give your site a name!"
-msgstr "Δώστε στο site σας ένα όνομα!"
-# ?
+msgstr "Δώστε στο τοποθεσίας σας ένα όνομα!"
+# location?
 
 #: ./templates/default/admin/home.tpl.php:35
 msgid "Site summary"
-msgstr ""
+msgstr "Σύνοψη τοποθεσίας"
 
 #: ./templates/default/admin/home.tpl.php:38
 msgid "Site description"
-msgstr ""
+msgstr "Περιγραφή τοποθεσίας"
 
 #: ./templates/default/admin/home.tpl.php:42
 msgid "What's your site about?"
-msgstr ""
+msgstr "Τι είναι το τοποθεσίας σας περίπου;"
 
 #: ./templates/default/admin/home.tpl.php:50
 msgid "Homepage title"
