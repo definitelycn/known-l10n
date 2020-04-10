@@ -1866,27 +1866,27 @@ msgstr "Για να λάβετε το αρχείο XML WordPress"
 
 #: ./templates/default/admin/import.tpl.php:75
 msgid "Log into your WordPress site"
-msgstr ""
+msgstr "Συνδεθείτε στο WordPress τοποθεσίας σας"
 
 #: ./templates/default/admin/import.tpl.php:76
 msgid "Click on Tools"
-msgstr ""
+msgstr "Κάντε κλικ στο Εργαλεία"
 
 #: ./templates/default/admin/import.tpl.php:78
 msgid "Click to export posts"
-msgstr ""
+msgstr "Κάντε κλικ για να εξαγάγετε καταχωρήσεις"
 
 #: ./templates/default/admin/import.tpl.php:79
 msgid "Click"
-msgstr ""
+msgstr "Κάντε κλικ στο κουμπί"
 
 #: ./templates/default/admin/import.tpl.php:79
 msgid "Download Export File"
-msgstr ""
+msgstr "Λήψη αρχείου εξαγωγής"
 
 #: ./templates/default/admin/import.tpl.php:85
 msgid "Select WordPress export file"
-msgstr ""
+msgstr "Επιλέξτε αρχείο εξαγωγής WordPress"
 
 #: ./templates/default/admin/import.tpl.php:105
 msgid "Blogger"
