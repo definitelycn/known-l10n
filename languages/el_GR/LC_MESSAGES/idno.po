@@ -1826,27 +1826,27 @@ msgstr "Για να λάβετε το αρχείο Known RSS"
 
 #: ./templates/default/admin/import.tpl.php:35
 msgid "Log into your Known site"
-msgstr ""
+msgstr "Συνδεθείτε στην τοποθεσία Known"
 
 #: ./templates/default/admin/import.tpl.php:36
 msgid "Click on Site Configuration"
-msgstr ""
+msgstr "Κάντε κλικ στο Ρυθμίσεις τοποθεσίας"
 
 #: ./templates/default/admin/import.tpl.php:37
 msgid "Click on Export"
-msgstr ""
+msgstr "Κάντε κλικ στο Εξαγωγή"
 
 #: ./templates/default/admin/import.tpl.php:38
 msgid "Download your RSS file"
-msgstr ""
+msgstr "Λήψη του αρχείου RSS"
 
 #: ./templates/default/admin/import.tpl.php:44
 msgid "Select Known export file"
-msgstr ""
+msgstr "Επιλογή αρχείου εξαγωγής Known"
 
 #: ./templates/default/admin/import.tpl.php:50
 msgid "Import your data"
-msgstr ""
+msgstr "Εισαγωγή των δεδομένων σας"
 
 #: ./templates/default/admin/import.tpl.php:64
 msgid "WordPress"
