@@ -1906,23 +1906,24 @@ msgstr "Για να λάβετε το αρχείο XML Blogger"
 
 #: ./templates/default/admin/import.tpl.php:115
 msgid "Log into Blogger, and click on your blog title"
-msgstr ""
+msgstr "Συνδεθείτε στο Blogger, και κάντε κλικ στον τίτλο του blog σας"
 
 #: ./templates/default/admin/import.tpl.php:116
 msgid "Click on Settings"
-msgstr ""
+msgstr "Κάντε κλικ στις Ρυθμίσεις"
 
 #: ./templates/default/admin/import.tpl.php:117
 msgid "Click on Other"
-msgstr ""
+msgstr "Κάντε κλικ στο Άλλο"
 
 #: ./templates/default/admin/import.tpl.php:118
 msgid "Click on Export Posts at the top of your page"
-msgstr ""
+msgstr "Κάντε κλικ στο Εξαγωγή Θέσεις στο πάνω μέρος της σελίδας σας"
 
 #: ./templates/default/admin/import.tpl.php:119
 msgid "Click on Export Blog"
-msgstr ""
+msgstr "Κάντε κλικ στην επιλογή Εξαγωγή ιστολογίου"
+# Κάντε κλικ στο Εξαγωγή Blog
 
 #: ./templates/default/admin/logs.tpl.php:9
 msgid ""
