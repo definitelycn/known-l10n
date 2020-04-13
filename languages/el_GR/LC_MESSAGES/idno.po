@@ -1953,7 +1953,8 @@ msgstr "Εισαγωγή"
 
 #: ./templates/default/admin/menu.tpl.php:13
 msgid "Captured Logs"
-msgstr ""
+msgstr "Αρχεία καταγραφής που έχουν καταγραφεί"
+# looong…
 
 #: ./templates/default/admin/menu.tpl.php:15
 msgid "About"
@@ -1971,15 +1972,15 @@ msgstr "Απενεργοποιημένη"
 
 #: ./templates/default/admin/plugins/plugin.tpl.php:56
 msgid "Known Version"
-msgstr ""
+msgstr "Known Έκδοση"
 
 #: ./templates/default/admin/plugins/plugin.tpl.php:67
 msgid "Known Build"
-msgstr ""
+msgstr "Known Κατασκευή"
 
 #: ./templates/default/admin/plugins/plugin.tpl.php:78
 msgid "PHP Version"
-msgstr ""
+msgstr "PHP Έκδοση"
 
 #: ./templates/default/admin/plugins/plugin.tpl.php:91
 msgid "Extensions"
