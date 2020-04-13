@@ -2054,37 +2054,41 @@ msgstr "χρήστη"
 
 #: ./templates/default/admin/users.tpl.php:45
 msgid "Invite new users"
-msgstr ""
+msgstr "Πρόσκληση νέων χρηστών"
 
 #: ./templates/default/admin/users.tpl.php:48
 msgid ""
 "To invite new users to the site, enter one or more email addresses below."
 msgstr ""
+"Για να προσκαλέσετε νέους χρήστες στην τοποθεσία, πληκτρολογήστε μία ή "
+"περισσότερες διευθύνσεις ηλεκτρονικού ταχυδρομείου παρακάτω."
 
 #: ./templates/default/admin/users.tpl.php:54
 msgid "Send invite"
-msgstr ""
+msgstr "Αποστολή πρόσκλησης"
 
 #: ./templates/default/admin/users.tpl.php:95
 #: ./templates/default/following/add.tpl.php:5
 msgid "Add"
-msgstr ""
+msgstr "Προσθέσετε"
 
 #: ./templates/default/admin/users.tpl.php:111
 msgid "Invitations"
-msgstr ""
+msgstr "Προσκλήσεις"
 
 #: ./templates/default/admin/users.tpl.php:130
 msgid "Sent"
-msgstr ""
+msgstr "Αποστέλλονται"
 
 #: ./templates/default/admin/users.tpl.php:140
 msgid "Resend"
-msgstr ""
+msgstr "Ξαναστείλετε"
 
 #: ./templates/default/admin/users.tpl.php:140
 msgid "Are you sure? The user will receive a second email."
 msgstr ""
+"Είσαι σίγουρος; Ο χρήστης θα λάβει ένα δεύτερο μήνυμα "
+"ηλεκτρονικού ταχυδρομείου."
 
 #: ./templates/default/admin/users.tpl.php:145
 msgid "Remove"
