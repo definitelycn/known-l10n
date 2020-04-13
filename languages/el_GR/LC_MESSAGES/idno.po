@@ -1931,10 +1931,13 @@ msgid ""
 "information, so be very careful how you disclose the information and to "
 "whom."
 msgstr ""
+"Αυτή η σελίδα σας παρέχει συλλαμβάνονται PHP αρχεία καταγραφής. Αυτά "
+"περιέχουν ευαίσθητες πληροφορίες, οπότε να είστε πολύ προσεκτικοί πώς "
+"θα αποκαλύψει τις πληροφορίες και σε ποιον."
 
 #: ./templates/default/admin/logs.tpl.php:19
 msgid "Refresh..."
-msgstr ""
+msgstr "Ανανέωση..."
 
 #: ./templates/default/admin/menu.tpl.php:8
 msgid "Users"
