@@ -2149,7 +2149,7 @@ msgstr "Επεξεργασία"
 
 #: ./templates/default/content/edit.tpl.php:9
 msgid "Are you sure you want to permanently delete this entry?"
-msgstr ""
+msgstr "Είστε βέβαιοι ότι θέλετε να διαγράψετε οριστικά αυτήν την καταχώρηση;"
 
 #: ./templates/default/content/end.tpl.php:26
 msgid "published this"
@@ -2157,7 +2157,7 @@ msgstr "δημοσίευσε την παρούσα"
 
 #: ./templates/default/content/end.tpl.php:55
 msgid "Star this!"
-msgstr ""
+msgstr "Αστέρι αυτό!"
 
 #: ./templates/default/content/end.tpl.php:61
 msgid "star"
