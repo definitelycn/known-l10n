@@ -2096,11 +2096,11 @@ msgstr "Καταργήσετε"
 
 #: ./templates/default/admin/users.tpl.php:145
 msgid "Are you sure? The user won't be able to register."
-msgstr ""
+msgstr "Είσαι σίγουρος; Ο χρήστης δεν θα μπορεί να εγγραφεί."
 
 #: ./templates/default/admin/users.tpl.php:171
 msgid "Block email addresses"
-msgstr ""
+msgstr "Αποκλεισμός διευθύνσεων ηλεκτρονικού ταχυδρομείου"
 
 #: ./templates/default/admin/users.tpl.php:174
 msgid ""
@@ -2108,18 +2108,24 @@ msgid ""
 "from registering on your site. Enter the email addresses you want to block "
 "below."
 msgstr ""
+"Αποκλείοντας τις διευθύνσεις ηλεκτρονικού ταχυδρομείου, εμποδίζετε τα άτομα "
+"που χρησιμοποιούν αυτές τις διευθύνσεις ηλεκτρονικού ταχυδρομείου να "
+"εγγραφούν στον ιστότοπό σας. Εισαγάγετε τις διευθύνσεις ηλεκτρονικού "
+"ταχυδρομείου που θέλετε να αποκλείσετε παρακάτω."
 
 #: ./templates/default/admin/users.tpl.php:196
 msgid "Blocked email addresses"
-msgstr ""
+msgstr "Αποκλεισμένες διευθύνσεις ηλεκτρονικού ταχυδρομείου"
 
 #: ./templates/default/admin/users.tpl.php:218
 msgid "Remove block"
-msgstr ""
+msgstr "Κατάργηση μπλοκ"
 
 #: ./templates/default/admin/users.tpl.php:218
 msgid "Are you sure? The user will be able to log in and post again."
 msgstr ""
+"Είσαι σίγουρος; Ο χρήστης θα είναι σε θέση να συνδεθεί και να "
+"ταχυδρομήσει πάλι."
 
 #: ./templates/default/content/access.tpl.php:34
 msgid "Public"
