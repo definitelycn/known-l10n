@@ -2177,23 +2177,25 @@ msgstr "σχόλια"
 
 #: ./templates/default/content/feed/end.tpl.php:106
 msgid "Also on"
-msgstr ""
+msgstr "Επίσης, στις"
+# Also, in the
 
 #: ./templates/default/content/notification/like.tpl.php:5
 msgid "liked"
-msgstr ""
+msgstr "άρεσε"
 
 #: ./templates/default/content/notification/mention.tpl.php:5
 msgid "mentioned"
-msgstr ""
+msgstr "μεσιτεθένιο"
+# Refers: Αναφέρεται αναφέρεται
 
 #: ./templates/default/content/notification/reply.tpl.php:5
 msgid "replied to"
-msgstr ""
+msgstr "απάντησε σε"
 
 #: ./templates/default/content/notification/reply.tpl.php:7
 msgid "Reply"
-msgstr ""
+msgstr "Reply"
 
 #: ./templates/default/content/notification/rsvp.tpl.php:5
 msgid "RSVPed to"
@@ -2201,7 +2203,7 @@ msgstr ""
 
 #: ./templates/default/content/notification/share.tpl.php:5
 msgid "shared"
-msgstr ""
+msgstr "κοινόχρηστο"
 
 #: ./templates/default/content/unfurl.tpl.php:11
 msgid "Refresh preview"
@@ -2824,6 +2826,7 @@ msgstr "Το %s σας ανέφερε στο %s."
 #: ./templates/email/content/notification/preheader/reply.tpl.php:6
 msgid "%s replied to %s."
 msgstr "Το %s απάντησε στο %s."
+# απάντησε σε
 
 #: ./templates/email/content/notification/preheader/rsvp.tpl.php:6
 msgid "%s RSVPed %s."
