@@ -2129,15 +2129,15 @@ msgstr ""
 
 #: ./templates/default/content/access.tpl.php:34
 msgid "Public"
-msgstr ""
+msgstr "Δημόσια"
 
 #: ./templates/default/content/access.tpl.php:36
 msgid "Members only"
-msgstr ""
+msgstr "Μόνο μέλη"
 
 #: ./templates/default/content/access.tpl.php:38
 msgid "Private"
-msgstr ""
+msgstr "Ιδιωτικό"
 
 #: ./templates/default/content/annotation/edit.tpl.php:5
 msgid "Delete"
