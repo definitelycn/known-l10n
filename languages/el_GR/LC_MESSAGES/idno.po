@@ -2275,31 +2275,32 @@ msgstr ""
 
 #: ./templates/default/entity/User/edit.tpl.php:23
 msgid "Select a user picture"
-msgstr ""
+msgstr "Επιλογή εικόνας χρήστη"
 
 #: ./templates/default/entity/User/edit.tpl.php:49
 msgid "About you"
-msgstr ""
+msgstr "Σχετικά με εσάς"
 
 #: ./templates/default/entity/User/edit.tpl.php:59
 msgid "Your websites"
-msgstr ""
+msgstr "Οι ιστότοποί σας"
+# Your sites
 
 #: ./templates/default/entity/User/edit.tpl.php:60
 msgid "Other places on the web where people can find you."
-msgstr ""
+msgstr "Άλλα μέρη στο διαδίκτυο όπου οι άνθρωποι μπορούν να σας βρουν."
 
 #: ./templates/default/entity/User/edit.tpl.php:105
 msgid "Add more"
-msgstr ""
+msgstr "Προσθήκη περισσότερων"
 
 #: ./templates/default/entity/User/edit.tpl.php:112
 msgid "Cancel"
-msgstr ""
+msgstr "Ακυρώσετε"
 
 #: ./templates/default/entity/User/edit.tpl.php:113
 msgid "Save Changes"
-msgstr ""
+msgstr "Αποθήκευση αλλαγών"
 
 #: ./templates/default/entity/User.tpl.php:35
 msgid "Edit profile"
@@ -2315,7 +2316,7 @@ msgstr ""
 
 #: ./templates/default/entity/User.tpl.php:62
 msgid "Click here to fill in your profile information."
-msgstr ""
+msgstr "Κάντε κλικ εδώ για να συμπληρώσετε τα στοιχεία του προφίλ σας."
 
 #: ./templates/default/file/picker/image.tpl.php:19
 msgid "Select an image"
