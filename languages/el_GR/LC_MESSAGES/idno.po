@@ -2247,7 +2247,9 @@ msgstr ""
 
 #: ./templates/default/entity/annotations/shares.tpl.php:21
 msgid "reshared this post"
-msgstr ""
+msgstr "κοινοποίησε αυτή τη δημοσίευση"
+# %s shared this post
+# Ο %s κοινοποίησε αυτή τη δημοσίευση
 
 #: ./templates/default/entity/search.tpl.php:18
 msgid "Nothing found."
@@ -2255,7 +2257,8 @@ msgstr ""
 
 #: ./templates/default/entity/share.tpl.php:9
 msgid "This content can't be shared right now."
-msgstr ""
+msgstr "Δεν είναι δυνατή η κοινή χρήση αυτού του περιεχομένου αυτήν τη στιγμή."
+# This content cannot be shared at this time.
 
 #: ./templates/default/entity/User/edit.tpl.php:3
 msgid "Edit your profile"
