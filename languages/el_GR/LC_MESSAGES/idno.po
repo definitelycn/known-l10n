@@ -2223,27 +2223,31 @@ msgstr "Αφήστε σχόλιο"
 
 #: ./templates/default/entity/annotations/likes.tpl.php:24
 msgid "liked this post"
-msgstr ""
+msgstr "άρεσε αυτή η θέση"
 
 #: ./templates/default/entity/annotations/mentions.tpl.php:18
 msgid "Mentioned in"
-msgstr ""
+msgstr "Αναφέρεται στο"
+# It refers to the
 
 #: ./templates/default/entity/annotations/rsvps.tpl.php:38
 msgid "Attending"
-msgstr ""
+msgstr "Παρακολουθούν"
+# Monitor
 
 #: ./templates/default/entity/annotations/rsvps.tpl.php:41
 msgid "Maybe attending"
-msgstr ""
+msgstr "Ίσως φοιτούν"
+# Maybe they’re studying
 
 #: ./templates/default/entity/annotations/rsvps.tpl.php:44
 msgid "Not attending"
-msgstr ""
+msgstr "Δεν παρευρίσκονται"
+# They are not attending
 
 #: ./templates/default/entity/annotations/rsvps.tpl.php:47
 msgid "Other responses"
-msgstr ""
+msgstr "Άλλες απαντήσεις"
 
 #: ./templates/default/entity/annotations/shares.tpl.php:21
 msgid "reshared this post"
@@ -2839,7 +2843,8 @@ msgstr ""
 
 #: ./templates/email/content/notification/preheader/share.tpl.php:6
 msgid "%s shared %s."
-msgstr "%s κοινόχρηστο %s."
+msgstr "Το %s κοινόχρηστο %s."
+# Ο χρήστης Ben κοινόχρηστα %s.
 
 #: ./templates/email/content/notification/reply.tpl.php:7
 #: ./templates/email-text/content/notification/reply.tpl.php:6
