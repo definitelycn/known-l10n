@@ -2257,7 +2257,8 @@ msgstr "κοινοποίησε αυτή τη δημοσίευση"
 
 #: ./templates/default/entity/search.tpl.php:18
 msgid "Nothing found."
-msgstr ""
+msgstr "Δεν βρέθηκε τίποτα."
+# Nothing’s been found.
 
 #: ./templates/default/entity/share.tpl.php:9
 msgid "This content can't be shared right now."
@@ -2324,15 +2325,18 @@ msgstr "Κάντε κλικ εδώ για να συμπληρώσετε τα σ�
 
 #: ./templates/default/file/picker/image.tpl.php:19
 msgid "Select an image"
-msgstr ""
+msgstr "Επιλογή εικόνας"
+# Select picture
 
 #: ./templates/default/file/picker/image.tpl.php:29
 msgid "Upload this image"
-msgstr ""
+msgstr "Αποστολή αυτής της εικόνας"
+# Send this image
 
 #: ./templates/default/file/picker/image.tpl.php:49
 msgid "Choose a different image"
-msgstr ""
+msgstr "Επιλογή διαφορετικής εικόνας"
+# Select a different picture
 
 #: ./templates/default/following/add.tpl.php:3
 msgid "Add the address of a site to follow"
