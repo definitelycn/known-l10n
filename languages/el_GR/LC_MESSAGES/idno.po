@@ -2340,23 +2340,25 @@ msgstr "Επιλογή διαφορετικής εικόνας"
 
 #: ./templates/default/following/add.tpl.php:3
 msgid "Add the address of a site to follow"
-msgstr ""
+msgstr "Προσθήκη της διεύθυνσης μιας τοποθεσίας που θα ακολουθήσει"
 
 #: ./templates/default/following/confirm.tpl.php:7
 msgid "Follow"
-msgstr ""
+msgstr "Ακολουθήστε"
+# Follow these
 
 #: ./templates/default/following/confirm.tpl.php:12
 msgid "Here's the latest content."
-msgstr ""
+msgstr "Εδώ είναι το πιο πρόσφατο περιεχόμενο."
 
 #: ./templates/default/following/home.tpl.php:13
 msgid "Follow another site"
-msgstr ""
+msgstr "Παρακολούθηση άλλης τοποθεσίας"
+# Track another site
 
 #: ./templates/default/following/home.tpl.php:31
 msgid "You're not following anyone yet."
-msgstr ""
+msgstr "Δεν θα ακολουθήσεις κανέναν ακόμα."
 
 #: ./templates/default/forms/components/usersearch/user.tpl.php:27
 msgid "Joined"
