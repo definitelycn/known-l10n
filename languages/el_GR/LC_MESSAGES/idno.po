@@ -2370,7 +2370,7 @@ msgstr "Τελευταία ενημέρωση δημοσιεύτηκε"
 
 #: ./templates/default/forms/components/usersearch/user.tpl.php:57
 msgid "Remote member"
-msgstr ""
+msgstr "Απομακρυσμένο μέλος"
 
 #: ./templates/default/forms/components/usersearch/user.tpl.php:62
 msgid "Administrator"
@@ -2378,7 +2378,8 @@ msgstr "Διαχειριστή"
 
 #: ./templates/default/forms/components/usersearch/user.tpl.php:65
 msgid "Remove rights"
-msgstr ""
+msgstr "Κατάργηση δικαιωμάτων"
+# Remove permissions
 
 #: ./templates/default/forms/components/usersearch/user.tpl.php:71
 msgid "Standard member"
