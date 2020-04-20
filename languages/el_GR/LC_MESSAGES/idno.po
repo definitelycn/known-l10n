@@ -2412,20 +2412,24 @@ msgstr "Είσαι σίγουρος? Αυτό θα διαγράψει αυτόν
 
 #: ./templates/default/forms/input/image-file.tpl.php:58
 msgid "Are you sure you want to permanently delete this?"
-msgstr ""
+msgstr "Είστε βέβαιοι ότι θέλετε να το διαγράψετε οριστικά;"
+# Are you sure you want to permanently delete it?
 
 #: ./templates/default/forms/input/image-file.tpl.php:75
 msgid "Choose different photo"
-msgstr ""
+msgstr "Επιλογή διαφορετικής φωτογραφίας"
+# Select a …
 
 #: ./templates/default/forms/input/image-file.tpl.php:78
 msgid "Select a photo"
-msgstr ""
+msgstr "Επιλογή φωτογραφίας"
 
 #: ./templates/default/forms/input/image-file.tpl.php:83
 msgid "Add photo"
-msgstr ""
+msgstr "Προσθήκη φωτογραφίας"
+# Add a …
 
+#: ./templates/default/forms/input/richtext.tpl.php:21
 #: ./templates/default/forms/input/longtext.tpl.php:21
 msgid "Share something brilliant..."
 msgstr ""
