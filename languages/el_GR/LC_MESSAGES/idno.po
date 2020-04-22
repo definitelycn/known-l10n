@@ -2440,31 +2440,31 @@ msgstr "Παρακαλώ συμπληρώστε αυτό το πεδίο."
 
 #: ./templates/default/forms/usersearch.tpl.php:24
 msgid "Search by name, email address, or username"
-msgstr ""
+msgstr "Αναζήτηση με όνομα, διεύθυνση ηλεκτρονικού ταχυδρομείου ή όνομα χρήστη"
 
 #: ./templates/default/forms/usersearch.tpl.php:79
 msgid "By creation date"
-msgstr ""
+msgstr "Κατά ημερομηνία δημιουργίας"
 
 #: ./templates/default/forms/usersearch.tpl.php:80
 msgid "By name"
-msgstr ""
+msgstr "Κατά όνομα"
 
 #: ./templates/default/forms/usersearch.tpl.php:89
 msgid "Ascending"
-msgstr ""
+msgstr "Αύξουσα"
 
 #: ./templates/default/forms/usersearch.tpl.php:90
 msgid "Descending"
-msgstr ""
+msgstr "Φθίνουσα"
 
 #: ./templates/default/forms/usersearch.tpl.php:102
 msgid "Prev"
-msgstr ""
+msgstr "Παλαιότερες"
 
 #: ./templates/default/forms/usersearch.tpl.php:103
 msgid "Next"
-msgstr ""
+msgstr "Επόμενη"
 
 #: ./templates/default/onboarding/begin.tpl.php:8
 msgid "Known is your space for sharing content and discussing ideas."
