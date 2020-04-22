@@ -2469,26 +2469,31 @@ msgstr "Επόμενη"
 #: ./templates/default/onboarding/begin.tpl.php:8
 msgid "Known is your space for sharing content and discussing ideas."
 msgstr ""
+"Known είναι ο χώρος σας για την ανταλλαγή περιεχομένου και τη συζήτηση ιδεών."
+# Known is your place for sharing content and discussing ideas.
 
 #: ./templates/default/onboarding/begin.tpl.php:13
 msgid "Take a picture"
-msgstr ""
+msgstr "Λήψη φωτογραφίας"
+# Take a photo
 
 #: ./templates/default/onboarding/begin.tpl.php:17
 msgid "Share a message"
-msgstr ""
+msgstr "Κοινή χρήση μηνύματος"
 
 #: ./templates/default/onboarding/begin.tpl.php:21
 msgid "Save your location"
-msgstr ""
+msgstr "Αποθήκευση της τοποθεσίας σας"
 
 #: ./templates/default/onboarding/begin.tpl.php:34
 msgid "Get started"
-msgstr ""
+msgstr "Ξεκινήσετε"
+# Start
 
 #: ./templates/default/onboarding/begin.tpl.php:42
 msgid "Already have an account? Sign in."
-msgstr ""
+msgstr "Έχετε ήδη λογαριασμό; Είσοδος."
+# Do you already have an account? Entrance.
 
 #: ./templates/default/onboarding/connect.tpl.php:3
 msgid "Share to social"
