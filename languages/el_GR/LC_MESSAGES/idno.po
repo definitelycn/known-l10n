@@ -2522,7 +2522,7 @@ msgstr "Προσθήκη φωτογραφίας του εαυτού σας"
 
 #: ./templates/default/onboarding/profile.tpl.php:23
 msgid "Ben Franklin"
-msgstr ""
+msgstr "Αρχιμήδης"
 
 #: ./templates/default/onboarding/profile.tpl.php:27
 msgid "Your short bio"
@@ -2531,7 +2531,7 @@ msgstr "Σύντομη βιο σας"
 
 #: ./templates/default/onboarding/profile.tpl.php:29
 msgid "I fly kites..."
-msgstr ""
+msgstr "Μου αρέσουν τα λουτρά."
 
 #: ./templates/default/onboarding/profile.tpl.php:34
 msgid "Your other websites"
