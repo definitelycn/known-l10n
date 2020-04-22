@@ -2518,7 +2518,7 @@ msgstr "Μην ανησυχείτε, μπορείτε πάντα να συνδέ
 
 #: ./templates/default/onboarding/profile.tpl.php:16
 msgid "Add a photo of yourself"
-msgstr ""
+msgstr "Προσθήκη φωτογραφίας του εαυτού σας"
 
 #: ./templates/default/onboarding/profile.tpl.php:23
 msgid "Ben Franklin"
@@ -2526,7 +2526,8 @@ msgstr ""
 
 #: ./templates/default/onboarding/profile.tpl.php:27
 msgid "Your short bio"
-msgstr ""
+msgstr "Σύντομη βιο σας"
+# Brief your bio
 
 #: ./templates/default/onboarding/profile.tpl.php:29
 msgid "I fly kites..."
@@ -2534,15 +2535,15 @@ msgstr ""
 
 #: ./templates/default/onboarding/profile.tpl.php:34
 msgid "Your other websites"
-msgstr ""
+msgstr "Οι άλλες ιστοσελίδες σας"
 
 #: ./templates/default/onboarding/profile.tpl.php:35
 msgid "(a blog, a portfolio, Twitter, Facebook, etc)"
-msgstr ""
+msgstr "(ένα blog, ένα χαρτοφυλάκιο, Twitter, Facebook, κλπ)"
 
 #: ./templates/default/onboarding/profile.tpl.php:40
 msgid "Add another website"
-msgstr ""
+msgstr "Προσθήκη άλλης τοποθεσίας Web"
 
 #: ./templates/default/onboarding/register.tpl.php:13
 msgid "Choose a username"
