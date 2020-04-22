@@ -2497,12 +2497,15 @@ msgstr "Έχετε ήδη λογαριασμό; Είσοδος."
 
 #: ./templates/default/onboarding/connect.tpl.php:3
 msgid "Share to social"
-msgstr ""
+msgstr "Κοινή χρήση σε κοινωνικές"
+# Sharing on social media
 
 #: ./templates/default/onboarding/connect.tpl.php:6
 msgid ""
 "Connect your accounts to easily share content with people across the web."
 msgstr ""
+"Συνδέστε τους λογαριασμούς σας για να κάνετε εύκολη κοινή χρήση "
+"περιεχομένου με άτομα σε όλο τον ιστό."
 
 #: ./templates/default/onboarding/connect.tpl.php:14
 msgid "Continue"
@@ -2510,7 +2513,8 @@ msgstr "Συνεχίσει"
 
 #: ./templates/default/onboarding/connect.tpl.php:19
 msgid "Don't worry, you can always connect these later."
-msgstr ""
+msgstr "Μην ανησυχείτε, μπορείτε πάντα να συνδέσετε αυτά αργότερα."
+# Don't worry, you can always plug these in later.
 
 #: ./templates/default/onboarding/profile.tpl.php:16
 msgid "Add a photo of yourself"
