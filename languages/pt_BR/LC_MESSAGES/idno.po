@@ -258,7 +258,7 @@ msgstr ""
 #: ./Idno/Pages/Account/Export.php:20
 #: ./templates/default/account/menu.tpl.php:11
 msgid "Export Data"
-msgstr ""
+msgstr "Dados de exportação"
 
 #: ./Idno/Pages/Account/Notifications.php:36
 #: ./templates/default/account/notifications.tpl.php:4
@@ -269,15 +269,17 @@ msgstr "Notificações"
 
 #: ./Idno/Pages/Account/Password.php:26
 msgid "Password recovery email sent"
-msgstr ""
+msgstr "E-mail de recuperação de senha enviado"
 
 #: ./Idno/Pages/Account/Password.php:29
 msgid "Recover password"
-msgstr ""
+msgstr "Recuperar senha"
 
 #: ./Idno/Pages/Account/Password.php:63
 msgid "Oh no! We couldn't find an account associated with that email address."
 msgstr ""
+"Ah, não! Não conseguimos encontrar uma conta associada a esse "
+"endereço de e-mail."
 
 #: ./Idno/Pages/Account/Password/Reset.php:27
 #: ./templates/default/account/password/reset.tpl.php:37
