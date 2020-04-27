@@ -284,21 +284,23 @@ msgstr ""
 #: ./Idno/Pages/Account/Password/Reset.php:27
 #: ./templates/default/account/password/reset.tpl.php:37
 msgid "Reset password"
-msgstr ""
+msgstr "Redefinir senha"
 
 #: ./Idno/Pages/Account/Password/Reset.php:35
 msgid ""
 "The password reset code wasn't valid. They expire after three hours, so you "
 "might need to try again."
 msgstr ""
+"O código de redefinição de senha não era válido. Eles expiram depois de "
+"três horas, então você pode precisar tentar novamente."
 
 #: ./Idno/Pages/Account/Password/Reset.php:58
 msgid "Your password was reset!"
-msgstr ""
+msgstr "Sua senha foi redefinida!"
 
 #: ./Idno/Pages/Account/Password/Reset.php:64
 msgid "Sorry, your passwords either don't match, or are too weak"
-msgstr ""
+msgstr "Desculpe, suas senhas não combinam, ou são muito fracas."
 
 #: ./Idno/Pages/Account/Register.php:27
 msgid "This site is closed to new users."
