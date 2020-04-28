@@ -459,15 +459,15 @@ msgstr "Sem UUID, por favor tente isso de novo!"
 
 #: ./Idno/Pages/Account/Settings/Following.php:20
 msgid "Following settings"
-msgstr ""
+msgstr "Configurações de seguindo"
 
 #: ./Idno/Pages/Account/Settings/Notifications.php:20
 msgid "Notification settings"
-msgstr ""
+msgstr "Configurações de notificação"
 
 #: ./Idno/Pages/Account/Settings/Notifications.php:39
 msgid "Your notification preferences were saved."
-msgstr ""
+msgstr "Suas preferências de notificação foram salvas."
 
 #: ./Idno/Pages/Account/Settings.php:20
 msgid "Account settings"
