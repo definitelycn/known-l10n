@@ -403,6 +403,11 @@ msgid ""
 "their profile in <a "
 "href=\"http://microformats.org/wiki/microformats-2\">Microformats</a>?"
 msgstr ""
+"Desculpe, não foi possível encontrar nenhum usuário nessa página, talvez "
+"eles precisem marcar seu perfil em <a "
+"href=\"http://microformats.org/wiki/microformats-2\">Microformats</a>?"
+# Sorry, we couldn't find any users on this page, they might need to tag
+# their profile at Microformats
 
 #: ./Idno/Pages/Account/Settings/Following/Bookmarklet.php:51
 msgid ""
@@ -410,42 +415,47 @@ msgid ""
 "href=\"http://microformats.org/wiki/microformats-2\">Microformats</a> "
 "markup... doing my best with what I have!"
 msgstr ""
+"A página não continha nenhum <a "
+"href=\"http://microformats.org/wiki/microformats-2\">Microformatos</a> "
+"marcação... fazendo o meu melhor com o que eu tenho!"
+# -marcação ?
 
 #: ./Idno/Pages/Account/Settings/Following/Bookmarklet.php:60
 msgid "Found users"
-msgstr ""
+msgstr "Usuários encontrados"
 
 #: ./Idno/Pages/Account/Settings/Following/Bookmarklet.php:64
 msgid "Sorry, there was a problem parsing the page!"
-msgstr ""
+msgstr "Desculpe, houve um problema em analisar a página!"
 
 #: ./Idno/Pages/Account/Settings/Following/Bookmarklet.php:66
 msgid "Sorry, %s could not be retrieved!"
-msgstr ""
+msgstr "Desculpe, %s não pôde ser recuperado!"
 
 #: ./Idno/Pages/Account/Settings/Following/Bookmarklet.php:149
 msgid "There was a problem saving the new remote user."
-msgstr ""
+msgstr "Houve um problema em salvar o novo usuário remoto."
 
 #: ./Idno/Pages/Account/Settings/Following/Bookmarklet.php:170
 msgid "You are now following %s, would you like to subscribe to their feed?"
-msgstr ""
+msgstr "Você está agora seguindo %s, gostaria de se inscrever no feed deles?"
+# Are you now following %s, would you like to subscribe to their feed?
 
 #: ./Idno/Pages/Account/Settings/Following/Bookmarklet.php:175
 msgid "You are now following %s"
-msgstr ""
+msgstr "Agora você está seguindo %s"
 
 #: ./Idno/Pages/Account/Settings/Following/Bookmarklet.php:180
 msgid "You're already following %s"
-msgstr ""
+msgstr "Você já está seguindo %s"
 
 #: ./Idno/Pages/Account/Settings/Following/Bookmarklet.php:183
 msgid "Sorry, that user doesn't exist!"
-msgstr ""
+msgstr "Desculpe, esse usuário não existe!"
 
 #: ./Idno/Pages/Account/Settings/Following/Bookmarklet.php:185
 msgid "No UUID, please try that again!"
-msgstr ""
+msgstr "Sem UUID, por favor tente isso de novo!"
 
 #: ./Idno/Pages/Account/Settings/Following.php:20
 msgid "Following settings"
