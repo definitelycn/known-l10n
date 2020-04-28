@@ -304,41 +304,42 @@ msgstr "Desculpe, suas senhas não combinam, ou são muito fracas."
 
 #: ./Idno/Pages/Account/Register.php:27
 msgid "This site is closed to new users."
-msgstr ""
+msgstr "Este site está fechado para novos usuários."
 
 #: ./Idno/Pages/Account/Register.php:31
 #: ./Idno/Pages/Account/Register.php:69
 msgid "Your invitation doesn't seem to be valid, or has expired."
-msgstr ""
+msgstr "Seu convite não parece ser válido, ou expirou."
+# Your invitation does not appear to be valid, or has expired.
 
 #: ./Idno/Pages/Account/Register.php:39
 #: ./Idno/Pages/Account/Register.php:47
 msgid "Create a new account"
-msgstr ""
+msgstr "Criar uma nova conta"
 
 #: ./Idno/Pages/Account/Register.php:80
 #: ./Idno/Pages/Admin/Users.php:143
 msgid "Please enter a username and email address."
-msgstr ""
+msgstr "Digite um nome de usuário e endereço de e-mail."
 
 #: ./Idno/Pages/Account/Register.php:134
 #: ./Idno/Pages/Admin/Users.php:162
 msgid "Please create a username."
-msgstr ""
+msgstr "Por favor, crie um nome de usuário."
 
 #: ./Idno/Pages/Account/Register.php:137
 #: ./Idno/Pages/Admin/Users.php:165
 msgid "Your username is too long."
-msgstr ""
+msgstr "Seu nome de usuário é muito longo."
 
 #: ./Idno/Pages/Account/Register.php:140
 msgid "Usernames can only have letters, numbers and underscores."
-msgstr ""
+msgstr "Os nomes de usuário só podem ter letras, números e sublinhados."
 
 #: ./Idno/Pages/Account/Register.php:143
 #: ./Idno/Pages/Admin/Users.php:168
 msgid "Usernames can't contain a slash %s character."
-msgstr ""
+msgstr "Os nomes de usuário não podem conter um caractere de barra %s."
 
 #: ./Idno/Pages/Account/Register.php:146
 #: ./Idno/Pages/Admin/Users.php:171
@@ -346,6 +347,8 @@ msgid ""
 "Unfortunately, someone is already using that username. Please choose "
 "another."
 msgstr ""
+"Infelizmente, alguém já está usando esse nome de usuário. Por favor, "
+"escolha outro."
 
 #: ./Idno/Pages/Account/Register.php:149
 #: ./Idno/Pages/Admin/Users.php:174
@@ -353,27 +356,33 @@ msgid ""
 "Hey, it looks like there's already an account with that email address. Did "
 "you forget your login?"
 msgstr ""
+"Ei, parece que já há uma conta com esse endereço de e-mail. "
+"Esqueceu seu login?"
 
 #: ./Idno/Pages/Account/Register.php:152
 msgid ""
 "Please check that your passwords match and that your password is at least 7 "
 "characters long."
 msgstr ""
+"Verifique se suas senhas batem e se sua senha tem pelo menos 7 caracteres."
 
 #: ./Idno/Pages/Account/Register.php:156
 #: ./Idno/Pages/Admin/Users.php:178
 msgid "That doesn't seem like it's a valid email address."
-msgstr ""
+msgstr "Isso não parece ser um endereço de e-mail válido."
 
 #: ./Idno/Pages/Account/Register.php:160
 msgid ""
 "You've registered! You're ready to get started. Why not add a post to say "
 "hello?"
 msgstr ""
+"Você se registrou! Você está pronto para começar. Por que não adicionar "
+"um post para dizer olá?"
 
 #: ./Idno/Pages/Account/Register.php:164
 msgid "We couldn't register you."
-msgstr ""
+msgstr "Não pudemos registrá-lo."
+# We couldn't register it.
 
 #: ./Idno/Pages/Account/Settings/FeedbackConfirm.php:17
 msgid "Thank you for your feedback!"
