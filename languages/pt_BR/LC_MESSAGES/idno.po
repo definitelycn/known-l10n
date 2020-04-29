@@ -694,40 +694,43 @@ msgstr "O convite foi removido."
 
 #: ./Idno/Pages/Admin/Users.php:119
 msgid "The invitation was resent."
-msgstr ""
+msgstr "O convite foi enviado novamente."
 
 #: ./Idno/Pages/Admin/Users.php:128
 msgid "You can't add any more users to your site."
-msgstr ""
+msgstr "Você não pode adicionar mais usuários ao seu site."
 
 #: ./Idno/Pages/Admin/Users.php:141
 msgid "Please make sure your passwords match and aren't empty."
 msgstr ""
+"Por favor, certifique-se de que suas senhas correspondem e não estão vazias."
 
 #: ./Idno/Pages/Admin/Users.php:182
 msgid "User %s was created. You may wish to email them to let them know."
 msgstr ""
+"O usuário %s foi criado. Você pode querer enviar um e-mail para "
+"eles para avisá-los."
 
 #: ./Idno/Pages/Admin/Users.php:205
 msgid "%d emails were blocked."
-msgstr ""
+msgstr "%d endereços de e-mail foram bloqueados."
 
 #: ./Idno/Pages/Admin/Users.php:207
 msgid "The email address was blocked."
-msgstr ""
+msgstr "O endereço de e-mail foi bloqueado."
 
 #: ./Idno/Pages/Admin/Users.php:209
 #: ./Idno/Pages/Admin/Users.php:234
 msgid "No email addresses were found."
-msgstr ""
+msgstr "Nenhum endereço de e-mail foi encontrado."
 
 #: ./Idno/Pages/Admin/Users.php:230
 msgid "%d emails were unblocked."
-msgstr ""
+msgstr "%d endereços de e-mail foram desbloqueados."
 
 #: ./Idno/Pages/Admin/Users.php:232
 msgid "The email address was unblocked."
-msgstr ""
+msgstr "O endereço de e-mail foi desbloqueado."
 
 #: ./Idno/Pages/Annotation/Delete.php:42
 msgid "The annotation was deleted."
