@@ -734,21 +734,22 @@ msgstr "O endereço de e-mail foi desbloqueado."
 
 #: ./Idno/Pages/Annotation/Delete.php:42
 msgid "The annotation was deleted."
-msgstr ""
+msgstr "A anotação foi apagada."
+# The note has been erased.
 
 #: ./Idno/Pages/Entity/Attachment/Delete.php:21
 msgid "We couldn't find the post."
-msgstr ""
+msgstr "Não conseguimos achar o posto."
 
 #: ./Idno/Pages/Entity/Delete.php:45
 msgid "We couldn't find the post to delete."
-msgstr ""
+msgstr "Não conseguimos encontrar o post para apagar."
 
 #: ./Idno/Pages/Entity/Delete.php:52
 #: ./Idno/Pages/Entity/View.php:125
 #: ./Idno/Pages/User/View.php:103
 msgid "%s was deleted."
-msgstr ""
+msgstr "%s foi excluído."
 
 #: ./Idno/Pages/Entity/Withdraw.php:48
 msgid "We removed copies on all the syndicated sites."
