@@ -753,11 +753,12 @@ msgstr "%s foi excluído."
 
 #: ./Idno/Pages/Entity/Withdraw.php:48
 msgid "We removed copies on all the syndicated sites."
-msgstr ""
+msgstr "Removemos cópias em todos os sites sindicalizados."
+# We remove copies on all syndicated sites.
 
 #: ./Idno/Pages/File/Picker.php:57
 msgid "You can only upload images."
-msgstr ""
+msgstr "Você só pode carregar imagens."
 
 #: ./Idno/Pages/Following/Add.php:23
 msgid "We couldn't find a feed at that site."
