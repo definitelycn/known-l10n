@@ -646,49 +646,51 @@ msgstr "Estatísticas"
 #: ./templates/default/admin/menu.tpl.php:4
 #: ./templates/default/admin/themes.tpl.php:4
 msgid "Themes"
-msgstr ""
+msgstr "Temas"
 
 #: ./Idno/Pages/Admin/Themes.php:52
 msgid "The theme was enabled."
-msgstr ""
+msgstr "O tema foi habilitado."
 
 #: ./Idno/Pages/Admin/Users.php:32
 msgid "User Management"
-msgstr ""
+msgstr "Gestão de Usuários"
 
 #: ./Idno/Pages/Admin/Users.php:50
 msgid "%s was given administration rights."
-msgstr ""
+msgstr "%s foi dado direitos de administração."
 
 #: ./Idno/Pages/Admin/Users.php:58
 msgid "%s was stripped of their administration rights."
-msgstr ""
+msgstr "%s foi destituído de seus direitos de administração."
 
 #: ./Idno/Pages/Admin/Users.php:65
 msgid "%s was removed from your site."
-msgstr ""
+msgstr "%s foi removido do seu site."
 
 #: ./Idno/Pages/Admin/Users.php:91
 msgid "%d invitations were sent."
-msgstr ""
+msgstr "%d convites foram enviados."
 
 #: ./Idno/Pages/Admin/Users.php:93
 msgid "Your invitation was sent."
-msgstr ""
+msgstr "Seu convite foi enviado."
 
 #: ./Idno/Pages/Admin/Users.php:95
 msgid "Something went wrong and we couldn't send emails to your recipients."
-msgstr ""
+msgstr "Algo deu errado e não pudemos enviar e-mails para seus destinatários."
 
 #: ./Idno/Pages/Admin/Users.php:97
 msgid ""
 "No email addresses were found or all the people you invited are already "
 "members of this site."
 msgstr ""
+"Nenhum endereço de e-mail foi encontrado ou todas as pessoas que você "
+"convidou já são membros deste site."
 
 #: ./Idno/Pages/Admin/Users.php:105
 msgid "The invitation was removed."
-msgstr ""
+msgstr "O convite foi removido."
 
 #: ./Idno/Pages/Admin/Users.php:119
 msgid "The invitation was resent."
