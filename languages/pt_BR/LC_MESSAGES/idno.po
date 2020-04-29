@@ -622,23 +622,25 @@ msgstr ""
 #: ./Idno/Pages/Admin/Plugins.php:44
 #: ./Idno/Pages/Admin/Plugins.php:49
 msgid "The plugin was enabled."
-msgstr ""
+msgstr "O plugin foi ativado."
 
 #: ./Idno/Pages/Admin/Plugins.php:58
 #: ./Idno/Pages/Admin/Plugins.php:63
 msgid "The plugin was disabled."
-msgstr ""
+msgstr "O plugin estava desativado."
 
 #: ./Idno/Pages/Admin/Statistics.php:16
 msgid ""
 "Something went wrong, either no statistics were returned or it wasn't in the "
 "correct format."
 msgstr ""
+"Algo deu errado, ou nenhuma estatística foi devolvida ou não estava "
+"no formato correto."
 
 #: ./Idno/Pages/Admin/Statistics.php:27
 #: ./templates/default/admin/statistics.tpl.php:4
 msgid "Statistics"
-msgstr ""
+msgstr "Estatísticas"
 
 #: ./Idno/Pages/Admin/Themes.php:22
 #: ./templates/default/admin/menu.tpl.php:4
