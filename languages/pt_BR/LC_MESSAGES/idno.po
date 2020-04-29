@@ -559,19 +559,19 @@ msgstr "O caminho de upload %s ou não existe ou não é um diretório."
 #: ./templates/default/account/settings/following/mf2user.tpl.php:73
 #: ./templates/default/admin/menu.tpl.php:7
 msgid "Email"
-msgstr ""
+msgstr "Correio eletrónico"
 
 #: ./Idno/Pages/Admin/EmailTest.php:21
 msgid "Test email from %s!"
-msgstr ""
+msgstr "Teste e-mail de %s!"
 
 #: ./Idno/Pages/Admin/EmailTest.php:26
 msgid "Test email sent to %s"
-msgstr ""
+msgstr "E-mail de teste enviado para %s"
 
 #: ./Idno/Pages/Admin/EmailTest.php:28
 msgid "There was a problem sending a test message to %s."
-msgstr ""
+msgstr "Houve um problema em enviar uma mensagem de teste para %s."
 
 #: ./Idno/Pages/Admin/Export.php:17
 msgid "Export data"
