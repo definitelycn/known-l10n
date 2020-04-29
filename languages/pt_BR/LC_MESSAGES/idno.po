@@ -498,23 +498,23 @@ msgstr "Ferramentas e Aplicativos"
 #: ./Idno/Pages/Admin/About.php:20
 #: ./templates/default/admin/about.tpl.php:5
 msgid "About Known"
-msgstr ""
+msgstr "Sobre Known"
 
 #: ./Idno/Pages/Admin/Dependencies.php:20
 #: ./templates/default/admin/dependencies.tpl.php:4
 msgid "Dependencies"
-msgstr ""
+msgstr "Dependências"
 
 #: ./Idno/Pages/Admin/Diagnostics.php:36
 #: ./templates/default/admin/diagnostics.tpl.php:45
 msgid "Basic checks on installation discovered no problems."
-msgstr ""
+msgstr "Verificações básicas na instalação não descobriram problemas."
 
 #: ./Idno/Pages/Admin/Diagnostics.php:56
 #: ./templates/default/admin/diagnostics.tpl.php:4
 #: ./templates/default/admin/menu.tpl.php:11
 msgid "Diagnostics"
-msgstr ""
+msgstr "Diagnóstico"
 
 #: ./Idno/Pages/Admin/Diagnostics.php:78
 msgid ""
@@ -523,27 +523,37 @@ msgid ""
 "version!<br /> <a href=\"https://github.com/idno/Known\" "
 "target=\"_blank\">Update now.</a>"
 msgstr ""
+"Sua compilação do Known está por trás da versão mais recente do Github "
+"(%s - %s). Se você está tendo problemas, você pode tentar atualizar para "
+"a versão mais recente!<br /> <a href=\"https://github.com/idno/Known\" "
+"target=\"_blank\">Atualização agora.</a>"
 
 #: ./Idno/Pages/Admin/Diagnostics.php:97
 msgid ""
 "You appear to be running directly from a git checkout. While this is fine, "
 "you might find a pre-packaged version of Known more stable."
 msgstr ""
+"Você parece estar correndo diretamente de um checkout git. Enquanto isso é "
+"bom, você pode encontrar uma versão pré-embalada de Known mais estável."
 
 #: ./Idno/Pages/Admin/Diagnostics.php:160
 msgid "We can't read data from %s - please check permissions and try again."
 msgstr ""
+"Não podemos ler dados de %s - por favor, verifique as permissões e tente "
+"novamente."
 
 #: ./Idno/Pages/Admin/Diagnostics.php:165
 msgid ""
 "We can't write data to %s - please check it is writable by your web server "
 "user."
 msgstr ""
+"Não podemos gravar dados para %s - por favor, verifique se ele é gravável "
+"pelo seu usuário do servidor web."
 
 #: ./Idno/Pages/Admin/Diagnostics.php:170
 #: ./Idno/Pages/Admin/Diagnostics.php:175
 msgid "The upload path %s either doesn't exist or isn't a directory."
-msgstr ""
+msgstr "O caminho de upload %s ou não existe ou não é um diretório."
 
 #: ./Idno/Pages/Admin/Email.php:17
 #: ./templates/default/account/settings/following/mf2user.tpl.php:73
