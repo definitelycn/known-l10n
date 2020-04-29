@@ -575,20 +575,20 @@ msgstr "Houve um problema em enviar uma mensagem de teste para %s."
 
 #: ./Idno/Pages/Admin/Export.php:17
 msgid "Export data"
-msgstr ""
+msgstr "Dados de exportação"
 
 #: ./Idno/Pages/Admin/Homepage.php:25
 #: ./templates/default/admin/menu.tpl.php:6
 msgid "Homepage"
-msgstr ""
+msgstr "Página inicial"
 
 #: ./Idno/Pages/Admin/Homepage.php:42
 msgid "The default homepage content types were saved."
-msgstr ""
+msgstr "Os tipos de conteúdo da página inicial padrão foram salvos."
 
 #: ./Idno/Pages/Admin/Home.php:21
 msgid "Administration"
-msgstr ""
+msgstr "Administração"
 
 #: ./Idno/Pages/Admin/Import.php:18
 msgid "Import data"
