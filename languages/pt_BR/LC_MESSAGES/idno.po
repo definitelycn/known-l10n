@@ -796,15 +796,15 @@ msgstr "Crie seu perfil"
 
 #: ./Idno/Pages/Search/User.php:23
 msgid "Invalid sort type %s"
-msgstr ""
+msgstr "Tipo de ordem inválido %s"
 
 #: ./Idno/Pages/Search/User.php:27
 msgid "Invalid sort order %s"
-msgstr ""
+msgstr "Ordem de classificação inválida %s"
 
 #: ./Idno/Pages/Service/Security/CSRFToken.php:16
 msgid "URL missing"
-msgstr ""
+msgstr "URL ausente"
 
 #: ./Idno/Pages/Service/Web/ImageProxy.php:77
 #: ./Idno/Pages/Service/Web/ImageProxy.php:267
