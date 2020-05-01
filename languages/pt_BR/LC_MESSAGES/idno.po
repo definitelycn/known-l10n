@@ -827,16 +827,17 @@ msgstr "Parece que algo deu errado, a imagem era zero bytes grande!"
 #: ./Idno/Pages/Service/Web/UrlUnfurl.php:20
 #: ./Idno/Pages/Service/Web/UrlUnfurl.php:47
 msgid "You need to specify a working URL"
-msgstr ""
+msgstr "Você precisa especificar uma URL em funcionamento"
 
 #: ./Idno/Pages/Service/Web/UrlUnfurl.php:69
 msgid "Url %s could not be unfurled"
-msgstr ""
+msgstr "Url %s não poderia ser desenrolado"
+# … unrolled
 
 #: ./Idno/Pages/Session/CurrentUser.php:36
 #: ./Idno/Pages/User/View.php:72
 msgid "The %s profile for %s"
-msgstr ""
+msgstr "O perfil %s para %s"
 
 #: ./Idno/Pages/Session/Login.php:42
 #: ./templates/default/account/login.tpl.php:7
