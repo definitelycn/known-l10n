@@ -880,7 +880,7 @@ msgstr "O temporizador %s ainda não foi iniciado."
 
 #: ./templates/default/account/export.tpl.php:8
 msgid "Export your data"
-msgstr ""
+msgstr "Exportar seus dados"
 
 #: ./templates/default/account/export.tpl.php:19
 msgid ""
@@ -888,11 +888,14 @@ msgid ""
 "This file is suitable for importing into content management systems like "
 "WordPress, or another Known site."
 msgstr ""
+"Você pode baixar uma versão RSS de tudo que você postou neste site. Este "
+"arquivo é adequado para importar em sistemas de gerenciamento de conteúdo "
+"como WordPress, ou outro site Known."
 
 #: ./templates/default/account/export.tpl.php:24
 #: ./templates/default/admin/export.tpl.php:25
 msgid "Include private posts?"
-msgstr ""
+msgstr "Incluir posts privados?"
 
 #: ./templates/default/account/export.tpl.php:28
 #: ./templates/default/admin/email.tpl.php:121
@@ -906,7 +909,7 @@ msgstr ""
 #: ./templates/default/admin/home.tpl.php:264
 #: ./templates/default/forms/components/usersearch/user.tpl.php:67
 msgid "Yes"
-msgstr ""
+msgstr "Sim"
 
 #: ./templates/default/account/export.tpl.php:29
 #: ./templates/default/admin/email.tpl.php:120
@@ -918,7 +921,7 @@ msgstr ""
 #: ./templates/default/admin/home.tpl.php:247
 #: ./templates/default/admin/home.tpl.php:265
 msgid "No"
-msgstr ""
+msgstr "Não"
 
 #: ./templates/default/account/export.tpl.php:34
 msgid ""
@@ -926,10 +929,13 @@ msgid ""
 "publicly. In order to protect your privacy, you may wish to just download "
 "your public posts."
 msgstr ""
+"Plataformas como o WordPress podem assumir que todas as suas postagens "
+"devem ser exibidas publicamente. Para proteger sua privacidade, você pode "
+"querer apenas baixar suas postagens públicas."
 
 #: ./templates/default/account/export.tpl.php:38
 msgid "Download RSS Feed"
-msgstr ""
+msgstr "Baixar rss feed"
 
 #: ./templates/default/account/login.tpl.php:4
 msgid "Welcome back!"
@@ -2208,7 +2214,8 @@ msgstr ""
 
 #: ./templates/default/entity/User.tpl.php:35
 msgid "Edit profile"
-msgstr ""
+msgstr "Editar perfil"
+#Perfil de edição: %s
 
 #: ./templates/default/entity/User.tpl.php:61
 msgid ""
