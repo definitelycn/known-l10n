@@ -939,26 +939,26 @@ msgstr "Baixar rss feed"
 
 #: ./templates/default/account/login.tpl.php:4
 msgid "Welcome back!"
-msgstr ""
+msgstr "Bem-vindo de volta!"
 
 #: ./templates/default/account/login.tpl.php:14
 msgid "Your email address or username"
-msgstr ""
+msgstr "Seu endereço de e-mail ou nome de usuário"
 
 #: ./templates/default/account/login.tpl.php:17
 #: ./templates/default/account/settings.tpl.php:55
 msgid "Password"
-msgstr ""
+msgstr "Senha"
 
 #: ./templates/default/account/login.tpl.php:36
 msgid "New here? Register for an account."
-msgstr ""
+msgstr "Novo aqui? Registre-se para uma conta."
 
 #: ./templates/default/account/login.tpl.php:40
 #: ./templates/email/account/password.tpl.php:2
 #: ./templates/email-text/account/password.tpl.php:1
 msgid "Forgot your password?"
-msgstr ""
+msgstr "Esqueceu sua senha?"
 
 #: ./templates/default/account/menu.tpl.php:3
 msgid "Settings"
