@@ -849,17 +849,20 @@ msgstr "Entrar"
 
 #: ./Idno/Pages/Session/Login.php:67
 msgid "Oops! It looks like your password isn't correct. Please try again."
-msgstr ""
+msgstr "Oops! Parece que sua senha não está correta. Por favor, tente de novo."
 
 #: ./Idno/Pages/Session/Login.php:72
 msgid ""
 "Oops! We couldn't find your username or email address. Please check you "
 "typed it correctly and try again."
 msgstr ""
+"Oops! Não conseguimos encontrar seu nome de usuário ou endereço de e-mail. "
+"Por favor, verifique se digitou corretamente e tente novamente."
 
 #: ./Idno/Pages/Session/Logout.php:24
 msgid "You've signed out. See you soon!"
-msgstr ""
+msgstr "Você saiu. Te vejo depois!"
+# You're out. I'll see you later!
 
 #: ./Idno/Pages/User/Edit.php:30
 msgid "Edit profile: %s"
