@@ -1016,19 +1016,23 @@ msgstr ""
 
 #: ./templates/default/account/password/sent.tpl.php:5
 msgid "Your password reset email has been sent"
-msgstr ""
+msgstr "Seu e-mail de redefinição de senha foi enviado"
 
 #: ./templates/default/account/password/sent.tpl.php:15
 msgid ""
 "Check your inbox! You'll find an email containing a special link that will "
 "help you reset your password."
 msgstr ""
+"Verifique sua caixa de entrada! Você encontrará um e-mail contendo um link "
+"especial que o ajudará a redefinir sua senha."
 
 #: ./templates/default/account/password/sent.tpl.php:18
 msgid ""
 "Did you remember your password? That's okay too. You can <a "
 "href=\"%s\">click here to sign in.</a>"
 msgstr ""
+"Você se lembrou de sua senha? Tudo bem também. Você pode <a "
+"href=\"%s\">clique aqui para fazer login.</a>"
 
 #: ./templates/default/account/password.tpl.php:9
 msgid "Forgot your password? Don't worry! It happens to the best of us."
