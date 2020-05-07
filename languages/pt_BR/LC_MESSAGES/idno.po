@@ -1121,17 +1121,19 @@ msgstr "Criar conta"
 
 #: ./templates/default/account/settings/feedback/confirm.tpl.php:5
 msgid "Message received!"
-msgstr ""
+msgstr "Mensagem recebida!"
 
 #: ./templates/default/account/settings/feedback/confirm.tpl.php:9
 msgid "Thanks for sending along your thoughts. We'll read them right away."
-msgstr ""
+msgstr "Obrigado por enviar seus pensamentos. Vamos lê-los imediatamente."
 
 #: ./templates/default/account/settings/feedback/confirm.tpl.php:22
 msgid ""
 "Feedback is a gift. For more information about Known, <a "
 "href=\"https://withknown.com/\">please visit our homepage</a>"
 msgstr ""
+"Feedback é um presente. Para obter mais informações sobre o "
+"Known, <a href=\"https://withknown.com/\">visite nossa página inicial</a>"
 
 #: ./templates/default/account/settings/feedback.tpl.php:5
 msgid "Share your feedback"
