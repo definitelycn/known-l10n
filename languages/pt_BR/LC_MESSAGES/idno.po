@@ -1082,14 +1082,14 @@ msgstr "Joao de Brito"
 
 #: ./templates/default/account/register.tpl.php:20
 msgid "Choose a handle"
-msgstr "Escolha uma alça"
+msgstr "Escolha uma identificador"
 
 #: ./templates/default/account/register.tpl.php:21
 msgid ""
 "Handles identify you throughout the site. Something simple is best: for "
 "example, <em>janedoe</em>."
 msgstr ""
-"Alças identificá-lo em todo o site. Algo simples é melhor: por exemplo, "
+"Identificadoress identificá-lo em todo o site. Algo simples é melhor: por exemplo, "
 "<em>patricia</em>"
 
 #: ./templates/default/account/register.tpl.php:23
@@ -1173,23 +1173,23 @@ msgstr "Deixe-nos saber o que você pensa."
 #: ./templates/default/account/settings/following/bookmarklet.tpl.php:3
 #: ./templates/default/account/settings/following/mf2user.tpl.php:105
 msgid "Add as friend..."
-msgstr ""
+msgstr "Adicione como amigo..."
 
 #: ./templates/default/account/settings/following/mf2user.tpl.php:55
 msgid "Name"
-msgstr ""
+msgstr "Nome"
 
 #: ./templates/default/account/settings/following/mf2user.tpl.php:64
 msgid "Nickname"
-msgstr ""
+msgstr "Alcunha"
 
 #: ./templates/default/account/settings/following/mf2user.tpl.php:67
 msgid "Handle (for your reference)"
-msgstr ""
+msgstr "Identificador (para sua referência)"
 
 #: ./templates/default/account/settings/following/mf2user.tpl.php:82
 msgid "Profile URL"
-msgstr ""
+msgstr "URL do perfil"
 
 #: ./templates/default/account/settings/following.tpl.php:5
 msgid "Following..."
