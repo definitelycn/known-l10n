@@ -2767,7 +2767,7 @@ msgstr ""
 
 #: ./known.php:110
 msgid "Returns the current Known version as defined in version.known"
-msgstr ""
+msgstr "Retorna a versão atual do Known como definida em version.known"
 
 #: ./known.php:118
 msgid ""
@@ -2775,3 +2775,5 @@ msgid ""
 "%s). If you're having problems, you may want to try updating to the latest "
 "version.\nUpdate now: https://github.com/idno/Known\n"
 msgstr ""
+"AVISO: Sua compilação do Known está por trás da versão mais recente do Github (%s - %s). Se você está tendo problemas, você pode querer tentar atualizar para a versão mais recente.\n"
+"Atualizar agora: https://github.com/idno/Known\n"
