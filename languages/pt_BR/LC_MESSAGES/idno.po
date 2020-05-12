@@ -1214,38 +1214,42 @@ msgid ""
 "Set how you'd like to be notified when someone stars or comments on your "
 "content."
 msgstr ""
+"Defina como você gostaria de ser notificado quando alguém estrelar ou "
+"comentar sobre seu conteúdo."
 
 #: ./templates/default/account/settings/notifications.tpl.php:26
 msgid "Send email notifications"
-msgstr ""
+msgstr "Enviar notificações por e-mail"
 
 #: ./templates/default/account/settings/notifications.tpl.php:34
 msgid "Whenever someone interacts with my content"
-msgstr ""
+msgstr "Sempre que alguém interage com meu conteúdo"
 
 #: ./templates/default/account/settings/notifications.tpl.php:44
 msgid "Only when someone comments on my content"
-msgstr ""
+msgstr "Só quando alguém comenta meu conteúdo"
 
 #: ./templates/default/account/settings/notifications.tpl.php:54
 #: ./templates/default/forms/components/usersearch/user.tpl.php:45
 msgid "Never"
-msgstr ""
+msgstr "Nunca"
 
 #: ./templates/default/account/settings/notifications.tpl.php:63
 msgid "Ignored Domains"
-msgstr ""
+msgstr "Domínios ignorados"
 
 #: ./templates/default/account/settings/notifications.tpl.php:64
 msgid ""
 "Do not send notifications for interactions originating from these domains "
 "(one domain per line)"
 msgstr ""
+"Não envie notificações para interações originárias desses domínios "
+"(um domínio por linha)"
 
 #: ./templates/default/account/settings/notifications.tpl.php:75
 #: ./templates/default/admin/email.tpl.php:142
 msgid "Save settings"
-msgstr ""
+msgstr "Salvar configurações"
 
 #: ./templates/default/account/settings/tools.tpl.php:13
 msgid "Bookmarklet"
