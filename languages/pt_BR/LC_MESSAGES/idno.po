@@ -1260,21 +1260,27 @@ msgid ""
 "The Known bookmarklet is the best way to save links, reply to posts, and "
 "share articles."
 msgstr ""
+"O marcador Known é a melhor maneira de salvar links, responder a postagens "
+"e compartilhar artigos."
 
 #: ./templates/default/account/settings/tools.tpl.php:23
 msgid ""
 "Just drag the bookmarklet button below into your browser's Bookmark Bar."
 msgstr ""
+"Basta arrastar o botão de marcador abaixo na barra de marcadores do seu "
+"navegador."
 
 #: ./templates/default/account/settings/tools.tpl.php:42
 msgid "Don't see a bookmarks bar?"
-msgstr ""
+msgstr "Não vê uma barra de marcadores?"
 
 #: ./templates/default/account/settings/tools.tpl.php:45
 msgid ""
 "Sometimes web browsers have their bookmarked links bar hidden by default. "
 "Here's how to reveal it:"
 msgstr ""
+"Às vezes, os navegadores da Web têm sua barra de links marcada ocultada "
+"por padrão. Veja como revelá-lo:"
 
 #: ./templates/default/account/settings/tools.tpl.php:47
 msgid "Chrome"
