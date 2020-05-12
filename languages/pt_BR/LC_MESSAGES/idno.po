@@ -1344,35 +1344,37 @@ msgid ""
 "Change your user account settings here. You may also want to <a "
 "href=\"%s\">edit your profile</a>."
 msgstr ""
+"Altere as configurações da sua conta de usuário aqui. Você também "
+"pode querer <a href=\"%s\">editar seu perfil</a>."
 
 #: ./templates/default/account/settings.tpl.php:45
 msgid "Site notifications will be sent here."
-msgstr ""
+msgstr "As notificações do site serão enviadas aqui."
 
 #: ./templates/default/account/settings.tpl.php:51
 msgid "Your password"
-msgstr ""
+msgstr "Sua senha"
 
 #: ./templates/default/account/settings.tpl.php:58
 msgid "Leave this blank if you don't want to change it."
-msgstr ""
+msgstr "Deixe isso em branco se não quiser mudá-lo."
 
 #: ./templates/default/account/settings.tpl.php:64
 msgid "Your timezone"
-msgstr ""
+msgstr "Seu fuso horário"
 
 #: ./templates/default/account/settings.tpl.php:73
 msgid "Timezone"
-msgstr ""
+msgstr "Fuso horário"
 
 #: ./templates/default/account/settings.tpl.php:78
 msgid "Specify your timezone."
-msgstr ""
+msgstr "Especifique seu fuso horário."
 
 #: ./templates/default/account/settings.tpl.php:83
 #: ./templates/default/admin/home.tpl.php:281
 msgid "Save updates"
-msgstr ""
+msgstr "Salvar atualizações"
 
 #: ./templates/default/admin/about.tpl.php:15
 #: ./templates/default/admin/import.tpl.php:24
