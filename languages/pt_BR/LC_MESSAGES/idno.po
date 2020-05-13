@@ -1450,14 +1450,17 @@ msgid ""
 "This page provides you with information that may help you or others diagnose "
 "any problems you may be experiencing with your Known install."
 msgstr ""
+"Esta página fornece informações que podem ajudá-lo ou outros a diagnosticar "
+"quaisquer problemas que você possa estar enfrentando com sua instalação "
+"do Known."
 
 #: ./templates/default/admin/diagnostics.tpl.php:57
 msgid "Generate detailed report"
-msgstr ""
+msgstr "Gerar relatório detalhado"
 
 #: ./templates/default/admin/diagnostics.tpl.php:66
 msgid "Generating..."
-msgstr ""
+msgstr "Gerando..."
 
 #: ./templates/default/admin/email.tpl.php:5
 msgid "Email settings"
