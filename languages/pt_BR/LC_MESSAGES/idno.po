@@ -1404,11 +1404,11 @@ msgstr "Versão: %s+%s"
 #: ./templates/default/admin/dependencies/idno.tpl.php:2
 #: ./templates/default/admin/dependencies/php.tpl.php:2
 msgid "%s installed"
-msgstr ""
+msgstr "%s instalado"
 
 #: ./templates/default/admin/dependencies/plugin.tpl.php:30
 msgid "(v%s required)"
-msgstr ""
+msgstr "(v%s necessários)"
 
 #: ./templates/default/admin/dependencies.tpl.php:8
 msgid ""
@@ -1417,6 +1417,10 @@ msgid ""
 "need help installing any required packages, ask your web host or system "
 "administrator."
 msgstr ""
+"A seguir estão os componentes do sistema que são necessários para que o "
+"Known seja executado completamente. Vale a pena verificar se estão todos "
+"instalados. Se você precisar de ajuda para instalar quaisquer pacotes "
+"necessários, pergunte ao seu host web ou administrador do sistema."
 
 #: ./templates/default/admin/dependencies.tpl.php:17
 msgid "PHP"
@@ -1424,11 +1428,11 @@ msgstr ""
 
 #: ./templates/default/admin/dependencies.tpl.php:19
 msgid "Version %s or greater"
-msgstr ""
+msgstr "Versão %s ou superior"
 
 #: ./templates/default/admin/dependencies.tpl.php:27
 msgid "PHP extensions required"
-msgstr ""
+msgstr "Extensões PHP necessárias"
 
 #: ./templates/default/admin/dependencies.tpl.php:28
 msgid ""
@@ -1436,6 +1440,10 @@ msgid ""
 "database storage, webmentions, etc. Click an extension name to learn more "
 "about it, including installation instructions."
 msgstr ""
+"Estes ampliam a forma como o PHP funciona, e são necessários para "
+"funcionalidades como armazenamento de banco de dados, menções web, etc. "
+"Clique em um nome de extensão para saber mais sobre ele, incluindo "
+"instruções de instalação."
 
 #: ./templates/default/admin/diagnostics.tpl.php:9
 msgid ""
