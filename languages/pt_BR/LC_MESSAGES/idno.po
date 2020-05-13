@@ -1317,24 +1317,28 @@ msgstr ""
 msgid ""
 "Select <em>Tools</em>, then make sure <em>Favorites Bar</em> is checked."
 msgstr ""
+"Selecione <em>Ferramentas</em> e certifique-se de que <em>Barra de "
+"Favoritos</em> seja verificada."
 
 #: ./templates/default/account/settings/tools.tpl.php:65
 msgid "Your API key"
-msgstr ""
+msgstr "Sua chave de API"
 
 #: ./templates/default/account/settings/tools.tpl.php:70
 msgid "Click to show"
-msgstr ""
+msgstr "Clique para mostrar"
 
 #: ./templates/default/account/settings/tools.tpl.php:76
 msgid "Revoke"
-msgstr ""
+msgstr "Revogar"
 
 #: ./templates/default/account/settings/tools.tpl.php:76
 msgid ""
 "Revoking this key will mean you must update any applications that use this "
 "key!"
 msgstr ""
+"Revogar esta chave significará que você deve atualizar todos os aplicativos "
+"que usam esta chave!"
 
 #: ./templates/default/account/settings.tpl.php:9
 #: ./templates/default/settings-shell/toolbar/logged-in.tpl.php:13
