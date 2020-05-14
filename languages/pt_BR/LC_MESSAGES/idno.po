@@ -1577,11 +1577,11 @@ msgstr "Você também pode regenerar uma nova cópia do seu arquivo de dados."
 
 #: ./templates/default/admin/export/download.tpl.php:11
 msgid "Re-archive your data"
-msgstr ""
+msgstr "Rearquivar seus dados"
 
 #: ./templates/default/admin/export/generate.tpl.php:5
 msgid "Create archive"
-msgstr ""
+msgstr "Criar arquivo"
 
 #: ./templates/default/admin/export/generate.tpl.php:18
 msgid ""
@@ -1589,6 +1589,10 @@ msgid ""
 "it's working. Once the export file is complete, this page will update, and "
 "you'll be able to download the archive right here."
 msgstr ""
+"Pode levar um tempo para gerar seu arquivo. Você pode deixar esta página "
+"enquanto ela está funcionando. Uma vez que o arquivo de exportação esteja "
+"concluído, esta página será atualizada, e você poderá baixar o arquivo "
+"aqui mesmo."
 
 #: ./templates/default/admin/export.tpl.php:9
 msgid "Export content"
