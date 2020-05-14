@@ -1565,15 +1565,15 @@ msgstr "Testar configurações"
 
 #: ./templates/default/admin/export/download.tpl.php:2
 msgid "Download your data"
-msgstr ""
+msgstr "Baixe seus dados"
 
 #: ./templates/default/admin/export/download.tpl.php:3
 msgid "Generated"
-msgstr ""
+msgstr "Gerou"
 
 #: ./templates/default/admin/export/download.tpl.php:7
 msgid "You can also regenerate a new copy of your data archive."
-msgstr ""
+msgstr "Você também pode regenerar uma nova cópia do seu arquivo de dados."
 
 #: ./templates/default/admin/export/download.tpl.php:11
 msgid "Re-archive your data"
