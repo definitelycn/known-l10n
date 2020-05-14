@@ -1646,7 +1646,7 @@ msgstr ""
 
 #: ./templates/default/admin/homepage.tpl.php:6
 msgid "Homepage content"
-msgstr ""
+msgstr "Conteúdo da página inicial"
 
 #: ./templates/default/admin/homepage.tpl.php:11
 msgid ""
@@ -1654,22 +1654,28 @@ msgid ""
 "default, all published content appears on the main page. If you want to hide "
 "some content types from the main page, you can turn them off below."
 msgstr ""
+"Aqui você pode escolher o conteúdo que os visitantes veem na página "
+"inicial do seu site. Por padrão, todo o conteúdo publicado aparece na página "
+"principal. Se você quiser ocultar alguns tipos de conteúdo da página "
+"principal, você pode desligá-los abaixo."
 
 #: ./templates/default/admin/homepage.tpl.php:16
 msgid "Turn off content types to hide them from the homepage of your site."
 msgstr ""
+"Desative os tipos de conteúdo para escondê-los da página inicial do seu site."
 
 #: ./templates/default/admin/homepage.tpl.php:45
 msgid "On"
-msgstr ""
+msgstr "Em"
+# ?
 
 #: ./templates/default/admin/homepage.tpl.php:46
 msgid "Off"
-msgstr ""
+msgstr "Desligado"
 
 #: ./templates/default/admin/homepage.tpl.php:109
 msgid "Save"
-msgstr ""
+msgstr "Salvar"
 
 #: ./templates/default/admin/home.tpl.php:15
 msgid "Site Details"
