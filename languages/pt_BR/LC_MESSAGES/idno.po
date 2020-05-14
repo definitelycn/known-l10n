@@ -1596,27 +1596,32 @@ msgstr ""
 
 #: ./templates/default/admin/export.tpl.php:9
 msgid "Export content"
-msgstr ""
+msgstr "Exportar o conteúdo"
 
 #: ./templates/default/admin/export.tpl.php:17
 msgid ""
 "Export your published Known content as an RSS file. You can import this file "
 "into Known or WordPress."
 msgstr ""
+"Exporte seu conteúdo Known publicado como um arquivo RSS. Você pode importar "
+"este arquivo para Known ou WordPress."
 
 #: ./templates/default/admin/export.tpl.php:20
 msgid "Generate RSS file"
-msgstr ""
+msgstr "Gerar arquivo RSS"
 
 #: ./templates/default/admin/export.tpl.php:35
 msgid ""
 "Some platforms may assume that your content should be displayed publicly. To "
 "protect your privacy, you may wish to only download your public content."
 msgstr ""
+"Algumas plataformas podem assumir que seu conteúdo deve ser exibido "
+"publicamente. Para proteger sua privacidade, você pode querer apenas "
+"baixar seu conteúdo público."
 
 #: ./templates/default/admin/export.tpl.php:39
 msgid "Download file"
-msgstr ""
+msgstr "Baixar arquivo"
 
 #: ./templates/default/admin/export/wait.tpl.php:4
 msgid ""
