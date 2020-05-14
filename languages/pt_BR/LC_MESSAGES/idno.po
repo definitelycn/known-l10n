@@ -1464,7 +1464,7 @@ msgstr "Gerando..."
 
 #: ./templates/default/admin/email.tpl.php:5
 msgid "Email settings"
-msgstr ""
+msgstr "Configurações de e-mail"
 
 #: ./templates/default/admin/email.tpl.php:9
 msgid ""
@@ -1473,86 +1473,95 @@ msgid ""
 "email using an external provider - enter the new SMTP settings below. You "
 "can also <a href=\"%s\">change your notification settings</a>."
 msgstr ""
+"Conhecido tenta enviar e-mail usando as configurações de e-mail padrão "
+"do seu servidor. Se você quiser que ele faça outra coisa - por exemplo, "
+"se você quiser enviar e-mail usando um provedor externo - digite as "
+"novas configurações de SMTP abaixo. Você também pode <a href=\"%s\">"
+"alterar suas configurações de notificação</a>."
 
 #: ./templates/default/admin/email.tpl.php:20
 msgid ""
 "Fill in the site email address if you would like your site to send email."
 msgstr ""
+"Preencha o endereço de e-mail do site se quiser que seu site envie e-mail."
 
 #: ./templates/default/admin/email.tpl.php:26
 #: ./templates/default/admin/email.tpl.php:29
 msgid "Site email address"
-msgstr ""
+msgstr "Endereço de e-mail do site"
 
 #: ./templates/default/admin/email.tpl.php:33
 msgid "This is the address that every notification will be sent from."
-msgstr ""
+msgstr "Este é o endereço do qual todas as notificações serão enviadas."
 
 #: ./templates/default/admin/email.tpl.php:40
 msgid ""
 "You can often leave the following settings blank. However, you may wish to "
 "set them if you're using a third-party service to send email."
 msgstr ""
+"Muitas vezes você pode deixar as seguintes configurações em branco. No "
+"entanto, você pode desejar defini-los se estiver usando um serviço de "
+"terceiros para enviar e-mail."
 
 #: ./templates/default/admin/email.tpl.php:48
 #: ./templates/default/admin/email.tpl.php:51
 msgid "SMTP host"
-msgstr ""
+msgstr "Host SMTP"
 
 #: ./templates/default/admin/email.tpl.php:55
 msgid "This is the address of the server that will send email for you."
-msgstr ""
+msgstr "Este é o endereço do servidor que enviará e-mail para você."
 
 #: ./templates/default/admin/email.tpl.php:62
 #: ./templates/default/admin/email.tpl.php:65
 msgid "SMTP username"
-msgstr ""
+msgstr "Nome de usuário SMTP"
 
 #: ./templates/default/admin/email.tpl.php:69
 msgid "If your mail server needs a username, enter it here."
-msgstr ""
+msgstr "Se o servidor de e-mail precisar de um nome de usuário, digite-o aqui."
 
 #: ./templates/default/admin/email.tpl.php:76
 #: ./templates/default/admin/email.tpl.php:79
 msgid "SMTP password"
-msgstr ""
+msgstr "Senha SMTP"
 
 #: ./templates/default/admin/email.tpl.php:84
 msgid "If your mail server needs a password, enter it here."
-msgstr ""
+msgstr "Se o servidor de e-mail precisar de uma senha, digite-o aqui."
 
 #: ./templates/default/admin/email.tpl.php:91
 #: ./templates/default/admin/email.tpl.php:94
 msgid "SMTP port"
-msgstr ""
+msgstr "Porta SMTP"
 
 #: ./templates/default/admin/email.tpl.php:107
 msgid "This is normally 25 or 587."
-msgstr ""
+msgstr "Isso normalmente é 25 ou 587."
 
 #: ./templates/default/admin/email.tpl.php:114
 msgid "Secure connection"
-msgstr ""
+msgstr "Conexão segura"
 
 #: ./templates/default/admin/email.tpl.php:135
 msgid "Select yes if you use secure logins to your mail server."
-msgstr ""
+msgstr "Selecione sim se você usar logins seguros no servidor de e-mail."
 
 #: ./templates/default/admin/email.tpl.php:157
 msgid "Send a test message to"
-msgstr ""
+msgstr "Envie uma mensagem de teste para"
 
 #: ./templates/default/admin/email.tpl.php:160
 msgid "To address"
-msgstr ""
+msgstr "Para abordar"
 
 #: ./templates/default/admin/email.tpl.php:164
 msgid "Check your email settings by sending a test email."
-msgstr ""
+msgstr "Verifique as configurações do seu e-mail enviando um e-mail de teste."
 
 #: ./templates/default/admin/email.tpl.php:170
 msgid "Test settings"
-msgstr ""
+msgstr "Testar configurações"
 
 #: ./templates/default/admin/export/download.tpl.php:2
 msgid "Download your data"
