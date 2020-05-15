@@ -1705,21 +1705,23 @@ msgstr "Sobre o que é o seu site?"
 #: ./templates/default/admin/home.tpl.php:50
 #: ./templates/default/admin/home.tpl.php:53
 msgid "Homepage title"
-msgstr ""
+msgstr "Título da página inicial"
 
 #: ./templates/default/admin/home.tpl.php:57
 msgid ""
 "What should the browser display as the title on your homepage?<br>By default "
 "this is just your site title."
 msgstr ""
+"O que o navegador deve exibir como título em sua página inicial? <br>Por "
+"padrão, este é apenas o título do seu site."
 
 #: ./templates/default/admin/home.tpl.php:65
 msgid "Items per page"
-msgstr ""
+msgstr "Itens por página"
 
 #: ./templates/default/admin/home.tpl.php:71
 msgid "This is the number of content posts displayed on each page."
-msgstr ""
+msgstr "Este é o número de postagens de conteúdo exibidas em cada página."
 
 #: ./templates/default/admin/home.tpl.php:79
 msgid "Single user"
