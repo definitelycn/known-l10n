@@ -1679,28 +1679,28 @@ msgstr "Salvar"
 
 #: ./templates/default/admin/home.tpl.php:15
 msgid "Site Details"
-msgstr ""
+msgstr "Detalhes do site"
 
 #: ./templates/default/admin/home.tpl.php:20
 #: ./templates/default/admin/home.tpl.php:23
 msgid "Site name"
-msgstr ""
+msgstr "Nome do site"
 
 #: ./templates/default/admin/home.tpl.php:27
 msgid "Give your site a name!"
-msgstr ""
+msgstr "Dê um nome ao seu site!"
 
 #: ./templates/default/admin/home.tpl.php:35
 msgid "Site summary"
-msgstr ""
+msgstr "Resumo do site"
 
 #: ./templates/default/admin/home.tpl.php:38
 msgid "Site description"
-msgstr ""
+msgstr "Descrição do site"
 
 #: ./templates/default/admin/home.tpl.php:42
 msgid "What's your site about?"
-msgstr ""
+msgstr "Sobre o que é o seu site?"
 
 #: ./templates/default/admin/home.tpl.php:50
 #: ./templates/default/admin/home.tpl.php:53
