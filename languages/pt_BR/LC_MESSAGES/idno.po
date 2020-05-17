@@ -1725,33 +1725,37 @@ msgstr "Este é o número de postagens de conteúdo exibidas em cada página."
 
 #: ./templates/default/admin/home.tpl.php:79
 msgid "Single user"
-msgstr ""
+msgstr "Único usuário"
 
 #: ./templates/default/admin/home.tpl.php:90
 msgid ""
 "Is this a single-user site? If so, your profile information will be shown at "
 "the top of the homepage."
 msgstr ""
+"Este é um site de um único usuário? Nesse caso, as informações do seu perfil "
+"serão mostradas na parte superior da página inicial."
 
 #: ./templates/default/admin/home.tpl.php:101
 msgid "Permalink Structure"
-msgstr ""
+msgstr "Estrutura de ligação permanente"
 
 #: ./templates/default/admin/home.tpl.php:118
 msgid "How permalinks for individual posts are constructed."
-msgstr ""
+msgstr "Como links permanentes para postagens individuais são construídos."
 
 #: ./templates/default/admin/home.tpl.php:130
 msgid "Registration and privacy"
-msgstr ""
+msgstr "Registro e privacidade"
 
 #: ./templates/default/admin/home.tpl.php:138
 msgid "Allow registration"
-msgstr ""
+msgstr "Permita o registro"
 
 #: ./templates/default/admin/home.tpl.php:148
 msgid "Allow registration if you want others to sign up for your site."
-msgstr ""
+msgstr "Permita o registro se quiser que outros entrem em seu site."
+# "Permita o registro se quiser que outros se inscrevam no seu site."
+# subscribe
 
 #: ./templates/default/admin/home.tpl.php:161
 msgid "Make site private"
