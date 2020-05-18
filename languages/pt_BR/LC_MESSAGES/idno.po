@@ -1759,11 +1759,11 @@ msgstr "Permita o registro se quiser que outros entrem em seu site."
 
 #: ./templates/default/admin/home.tpl.php:161
 msgid "Make site private"
-msgstr ""
+msgstr "Tornar o site privado"
 
 #: ./templates/default/admin/home.tpl.php:170
 msgid "Content on a private site is only visible if you're logged in."
-msgstr ""
+msgstr "O conteúdo em um site privado só é visível se você estiver logado."
 
 #: ./templates/default/admin/home.tpl.php:188
 msgid "Per-post privacy"
