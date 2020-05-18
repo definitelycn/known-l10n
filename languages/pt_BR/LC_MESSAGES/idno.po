@@ -1795,20 +1795,23 @@ msgstr "Saiba mais sobre o PuSH"
 
 #: ./templates/default/admin/home.tpl.php:241
 msgid "Avatar as icon"
-msgstr ""
+msgstr "Avatar como ícone"
 
 #: ./templates/default/admin/home.tpl.php:252
 msgid "This uses members' avatar images as the site favicon."
-msgstr ""
+msgstr "Isso usa as imagens de avatar dos membros como favicon do site."
 
 #: ./templates/default/admin/home.tpl.php:260
 msgid "Include permalinks"
-msgstr ""
+msgstr "Inclua links permanentes"
 
 #: ./templates/default/admin/home.tpl.php:269
 msgid ""
 "Always add a link back to your site when you syndicate to external networks."
 msgstr ""
+"Sempre adicione um link de volta ao seu site quando você se "
+"sindicalizar em redes externas."
+# unionize ?
 
 #: ./templates/default/admin/import.tpl.php:9
 msgid "Import content"
