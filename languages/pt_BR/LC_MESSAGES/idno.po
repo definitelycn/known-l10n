@@ -1767,31 +1767,31 @@ msgstr "O conteúdo em um site privado só é visível se você estiver logado."
 
 #: ./templates/default/admin/home.tpl.php:188
 msgid "Per-post privacy"
-msgstr ""
+msgstr "Privacidade por post"
 
 #: ./templates/default/admin/home.tpl.php:199
 msgid "Show per-post privacy settings."
-msgstr ""
+msgstr "Mostrar configurações de privacidade por post."
 
 #: ./templates/default/admin/home.tpl.php:215
 msgid "Technical Settings"
-msgstr ""
+msgstr "Configurações Técnicas"
 
 #: ./templates/default/admin/home.tpl.php:223
 msgid "PubSubHubbub hub"
-msgstr ""
+msgstr "Hub PubSubHubbub"
 
 #: ./templates/default/admin/home.tpl.php:226
 msgid "PubSubHubbub hub address"
-msgstr ""
+msgstr "Endereço do Hub PubSubHubbub"
 
 #: ./templates/default/admin/home.tpl.php:230
 msgid "You can probably leave this as is."
-msgstr ""
+msgstr "Você provavelmente pode deixar isso como está."
 
 #: ./templates/default/admin/home.tpl.php:231
 msgid "Learn more about PuSH"
-msgstr ""
+msgstr "Saiba mais sobre o PuSH"
 
 #: ./templates/default/admin/home.tpl.php:241
 msgid "Avatar as icon"
