@@ -1887,23 +1887,23 @@ msgstr "Faça login no seu site da WordPress"
 
 #: ./templates/default/admin/import.tpl.php:76
 msgid "Click on Tools"
-msgstr ""
+msgstr "Clique em Ferramentas"
 
 #: ./templates/default/admin/import.tpl.php:78
 msgid "Click to export posts"
-msgstr ""
+msgstr "Clique para exportar posts"
 
 #: ./templates/default/admin/import.tpl.php:79
 msgid "Click"
-msgstr ""
+msgstr "Clique"
 
 #: ./templates/default/admin/import.tpl.php:79
 msgid "Download Export File"
-msgstr ""
+msgstr "Baixar arquivo de exportação"
 
 #: ./templates/default/admin/import.tpl.php:85
 msgid "Select WordPress export file"
-msgstr ""
+msgstr "Selecione o arquivo de exportação WordPress"
 
 #: ./templates/default/admin/import.tpl.php:105
 msgid "Blogger"
