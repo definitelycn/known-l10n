@@ -2025,21 +2025,23 @@ msgstr ""
 msgid ""
 "This page provides you with information and statistics about your Known "
 "site."
-msgstr ""
+msgstr "Esta página fornece informações e estatísticas sobre o seu site Known."
 
 #: ./templates/default/admin/themes/theme.tpl.php:41
 msgid "(Selected)"
-msgstr ""
+msgstr "(Selecionado)"
 
 #: ./templates/default/admin/themes/theme.tpl.php:48
 msgid "by"
-msgstr ""
+msgstr "por"
 
 #: ./templates/default/admin/themes.tpl.php:7
 msgid ""
 "Themes allow you to change the way your site looks. The following themes are "
 "installed."
 msgstr ""
+"Os temas permitem que você mude a aparência do seu site. Os seguintes temas "
+"estão instalados."
 
 #: ./templates/default/admin/users.tpl.php:9
 msgid "View the users registered for your site, and invite new users to join."
