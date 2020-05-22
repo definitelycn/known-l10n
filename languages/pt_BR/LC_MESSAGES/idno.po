@@ -2075,21 +2075,23 @@ msgstr "Seu site tem <strong>%s</strong> usuários"
 
 #: ./templates/default/admin/users.tpl.php:45
 msgid "Invite new users"
-msgstr ""
+msgstr "Convide novos usuários"
 
 #: ./templates/default/admin/users.tpl.php:48
 msgid ""
 "To invite new users to the site, enter one or more email addresses below."
 msgstr ""
+"Para convidar novos usuários para o site, digite um ou mais endereços "
+"de e-mail abaixo."
 
 #: ./templates/default/admin/users.tpl.php:54
 msgid "Send invite"
-msgstr ""
+msgstr "Enviar convite"
 
 #: ./templates/default/admin/users.tpl.php:95
 #: ./templates/default/following/add.tpl.php:5
 msgid "Add"
-msgstr ""
+msgstr "Adicionar"
 
 #: ./templates/default/admin/users.tpl.php:111
 msgid "Invitations"
