@@ -2046,30 +2046,32 @@ msgstr ""
 #: ./templates/default/admin/users.tpl.php:9
 msgid "View the users registered for your site, and invite new users to join."
 msgstr ""
+"Veja os usuários cadastrados em seu site e convide novos usuários a "
+"participar."
 
 #: ./templates/default/admin/users.tpl.php:17
 msgid "Manage site users"
-msgstr ""
+msgstr "Gerenciar usuários do site"
 
 #: ./templates/default/admin/users.tpl.php:20
 msgid "Your site has"
-msgstr ""
+msgstr "Seu site tem"
 
 #: ./templates/default/admin/users.tpl.php:21
 msgid "users"
-msgstr ""
+msgstr "usuários"
 
 #: ./templates/default/admin/users.tpl.php:23
 msgid "user"
-msgstr ""
+msgstr "usuário"
 
 #: ./templates/default/admin/users.tpl.php
 msgid "Your site has <strong>1</strong> user"
-msgstr ""
+msgstr "Seu site tem <strong>1</strong> usuário"
 
 #: ./templates/default/admin/users.tpl.php
 msgid "Your site has <strong>%s</strong> users"
-msgstr ""
+msgstr "Seu site tem <strong>%s</strong> usuários"
 
 #: ./templates/default/admin/users.tpl.php:45
 msgid "Invite new users"
