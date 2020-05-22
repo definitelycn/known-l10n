@@ -1978,36 +1978,36 @@ msgstr "Cerca"
 
 #: ./templates/default/admin/plugins/plugin.tpl.php:35
 msgid "Enabled"
-msgstr ""
+msgstr "Ativado"
 
 #: ./templates/default/admin/plugins/plugin.tpl.php:37
 msgid "Disabled"
-msgstr ""
+msgstr "Desativado"
 
 #: ./templates/default/admin/plugins/plugin.tpl.php:56
 msgid "Known Version"
-msgstr ""
+msgstr "Versão Known"
 
 #: ./templates/default/admin/plugins/plugin.tpl.php:67
 msgid "Known Build"
-msgstr ""
+msgstr "Construção Known"
 
 #: ./templates/default/admin/plugins/plugin.tpl.php:78
 msgid "PHP Version"
-msgstr ""
+msgstr "Versão PHP"
 
 #: ./templates/default/admin/plugins/plugin.tpl.php:91
 msgid "Extensions"
-msgstr ""
+msgstr "Extensões"
 
 #: ./templates/default/admin/plugins/plugin.tpl.php:134
 msgid "Disable"
-msgstr ""
+msgstr "Desativar"
 
 #: ./templates/default/admin/plugins/plugin.tpl.php:147
 #: ./templates/default/admin/themes/theme.tpl.php:43
 msgid "Enable"
-msgstr ""
+msgstr "Ativar"
 
 #: ./templates/default/admin/plugins.tpl.php:9
 msgid ""
@@ -2016,6 +2016,10 @@ msgid ""
 "change the way Known behaves. To enable or disable a plugin, just click its "
 "enable or disable button."
 msgstr ""
+"Os plugins permitem adicionar recursos ao seu site. Isso inclui novos tipos "
+"de conteúdo, opções para sindicalizar conteúdo para diferentes sites e "
+"recursos para mudar a maneira como o Known se comporta. Para ativar ou "
+"desativar um plugin, basta clicar no botão ativar ou desativar."
 
 #: ./templates/default/admin/statistics.tpl.php:9
 msgid ""
