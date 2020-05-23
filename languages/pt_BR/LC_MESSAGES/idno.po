@@ -2095,30 +2095,30 @@ msgstr "Adicionar"
 
 #: ./templates/default/admin/users.tpl.php:111
 msgid "Invitations"
-msgstr ""
+msgstr "Convites"
 
 #: ./templates/default/admin/users.tpl.php:130
 msgid "Sent"
-msgstr ""
+msgstr "Enviado"
 
 #: ./templates/default/admin/users.tpl.php:140
 msgid "Resend"
-msgstr ""
+msgstr "Reenviar"
 
 #: ./templates/default/admin/users.tpl.php:140
 msgid "Are you sure? The user will receive a second email."
-msgstr ""
+msgstr "Tem certeza? O usuário receberá um segundo e-mail."
 
 #: ./templates/default/admin/users.tpl.php:145
 #: ./templates/default/entity/User/edit.tpl.php:81
 #: ./templates/default/entity/User/edit.tpl.php:97
 #: ./templates/default/entity/User/edit.tpl.php:130
 msgid "Remove"
-msgstr ""
+msgstr "Eliminar"
 
 #: ./templates/default/admin/users.tpl.php:145
 msgid "Are you sure? The user won't be able to register."
-msgstr ""
+msgstr "Tem certeza? O usuário não poderá se registrar."
 
 #: ./templates/default/admin/users.tpl.php:171
 #: ./templates/default/admin/users.tpl.php:180
