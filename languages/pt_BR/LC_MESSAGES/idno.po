@@ -2234,19 +2234,19 @@ msgstr "compartilhou"
 
 #: ./templates/default/content/unfurl.tpl.php:11
 msgid "Refresh preview"
-msgstr ""
+msgstr "Pré-visualização de atualização"
 
 #: ./templates/default/content/unfurl.tpl.php:12
 msgid "Remove preview"
-msgstr ""
+msgstr "Eliminar visualização"
 
 #: ./templates/default/entity/annotations/comment/main.tpl.php:16
 msgid "Add a comment ..."
-msgstr ""
+msgstr "Adicione um comentário ..."
 
 #: ./templates/default/entity/annotations/comment/main.tpl.php:21
 msgid "Leave Comment"
-msgstr ""
+msgstr "Deixe Comentário"
 
 #: ./templates/default/entity/annotations/likes.tpl.php:24
 msgid "liked this post"
