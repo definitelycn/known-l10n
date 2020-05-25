@@ -2210,27 +2210,27 @@ msgstr "Também em"
 
 #: ./templates/default/content/notification/like.tpl.php:5
 msgid "liked"
-msgstr ""
+msgstr "gostava"
 
 #: ./templates/default/content/notification/mention.tpl.php:5
 msgid "mentioned"
-msgstr ""
+msgstr "mencionou"
 
 #: ./templates/default/content/notification/reply.tpl.php:5
 msgid "replied to"
-msgstr ""
+msgstr "respondeu"
 
 #: ./templates/default/content/notification/reply.tpl.php:7
 msgid "Reply"
-msgstr ""
+msgstr "Responder"
 
 #: ./templates/default/content/notification/rsvp.tpl.php:5
 msgid "RSVPed to"
-msgstr ""
+msgstr "RSVPed para"
 
 #: ./templates/default/content/notification/share.tpl.php:5
 msgid "shared"
-msgstr ""
+msgstr "compartilhou"
 
 #: ./templates/default/content/unfurl.tpl.php:11
 msgid "Refresh preview"
