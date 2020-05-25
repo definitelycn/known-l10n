@@ -2150,29 +2150,30 @@ msgstr "Tem certeza? O usuário poderá fazer login e postar novamente."
 
 #: ./templates/default/content/access.tpl.php:34
 msgid "Public"
-msgstr ""
+msgstr "Público"
 
 #: ./templates/default/content/access.tpl.php:36
 msgid "Members only"
-msgstr ""
+msgstr "Apenas membros"
 
 #: ./templates/default/content/access.tpl.php:38
 msgid "Private"
-msgstr ""
+msgstr "Confidencial"
 
 #: ./templates/default/content/annotation/edit.tpl.php:5
 #: ./templates/default/content/edit.tpl.php:9
 #: ./templates/default/forms/components/usersearch/user.tpl.php:90
 msgid "Delete"
-msgstr ""
+msgstr "Apagar"
 
 #: ./templates/default/content/edit.tpl.php:8
 msgid "Edit"
-msgstr ""
+msgstr "Editá"
+# Verb
 
 #: ./templates/default/content/edit.tpl.php:9
 msgid "Are you sure you want to permanently delete this entry?"
-msgstr ""
+msgstr "Tem certeza de que deseja excluir permanentemente essa entrada?"
 
 #: ./templates/default/content/end.tpl.php:26
 #: ./templates/default/content/feed/end.tpl.php:13
