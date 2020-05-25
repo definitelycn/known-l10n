@@ -2178,35 +2178,35 @@ msgstr "Tem certeza de que deseja excluir permanentemente essa entrada?"
 #: ./templates/default/content/end.tpl.php:26
 #: ./templates/default/content/feed/end.tpl.php:13
 msgid "published this"
-msgstr ""
+msgstr "publicou isso"
 
 #: ./templates/default/content/end.tpl.php:55
 msgid "Star this!"
-msgstr ""
+msgstr "Estrela isso!"
 
 #: ./templates/default/content/end.tpl.php:61
 #: ./templates/default/content/feed/end.tpl.php:28
 msgid "star"
-msgstr ""
+msgstr "estrela"
 
 #: ./templates/default/content/end.tpl.php:64
 #: ./templates/default/content/feed/end.tpl.php:30
 msgid "stars"
-msgstr ""
+msgstr "estrelas"
 
 #: ./templates/default/content/end.tpl.php:95
 #: ./templates/default/content/feed/end.tpl.php:48
 msgid "comment"
-msgstr ""
+msgstr "comentário"
 
 #: ./templates/default/content/end.tpl.php:97
 #: ./templates/default/content/feed/end.tpl.php:50
 msgid "comments"
-msgstr ""
+msgstr "comentários"
 
 #: ./templates/default/content/feed/end.tpl.php:106
 msgid "Also on"
-msgstr ""
+msgstr "Também em"
 
 #: ./templates/default/content/notification/like.tpl.php:5
 msgid "liked"
