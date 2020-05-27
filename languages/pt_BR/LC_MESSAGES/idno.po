@@ -2286,17 +2286,19 @@ msgstr "Este conteúdo não pode ser compartilhado agora."
 
 #: ./templates/default/entity/User/edit.tpl.php:3
 msgid "Edit your profile"
-msgstr ""
+msgstr "Edite seu perfil"
 
 #: ./templates/default/entity/User/edit.tpl.php:6
 msgid ""
 "Your profile is how other users see you across the site. It's up to you how "
 "much or how little information you choose to provide."
 msgstr ""
+"Seu perfil é como outros usuários o veem em todo o site. Depende de você "
+"quanta ou pouca informação você escolhe fornecer."
 
 #: ./templates/default/entity/User/edit.tpl.php:23
 msgid "Select a user picture"
-msgstr ""
+msgstr "Selecione uma imagem do usuário"
 
 #: ./templates/default/entity/User/edit.tpl.php:49
 msgid "About you"
