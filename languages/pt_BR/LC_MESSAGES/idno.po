@@ -2343,15 +2343,15 @@ msgstr "Clique aqui para preencher suas informações de perfil."
 
 #: ./templates/default/file/picker/image.tpl.php:19
 msgid "Select an image"
-msgstr ""
+msgstr "Selecione uma imagem"
 
 #: ./templates/default/file/picker/image.tpl.php:29
 msgid "Upload this image"
-msgstr ""
+msgstr "Carregue esta imagem"
 
 #: ./templates/default/file/picker/image.tpl.php:49
 msgid "Choose a different image"
-msgstr ""
+msgstr "Escolha uma imagem diferente"
 
 #: ./templates/default/following/add.tpl.php:3
 msgid "Add the address of a site to follow"
