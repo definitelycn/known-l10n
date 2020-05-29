@@ -2375,49 +2375,50 @@ msgstr "Você não está seguindo ninguém ainda."
 
 #: ./templates/default/forms/components/usersearch/user.tpl.php:27
 msgid "Joined"
-msgstr ""
+msgstr "Juntado"
 
 #: ./templates/default/forms/components/usersearch/user.tpl.php:35
 msgid "Last update posted"
-msgstr ""
+msgstr "Última atualização postada"
 
 #: ./templates/default/forms/components/usersearch/user.tpl.php:57
 msgid "Remote member"
-msgstr ""
+msgstr "Membro remoto"
 
 #: ./templates/default/forms/components/usersearch/user.tpl.php:62
 msgid "Administrator"
-msgstr ""
+msgstr "Administrador"
 
 #: ./templates/default/forms/components/usersearch/user.tpl.php:65
 msgid "Remove rights"
-msgstr ""
+msgstr "Remover direitos"
 
 #: ./templates/default/forms/components/usersearch/user.tpl.php:71
 msgid "Standard member"
-msgstr ""
+msgstr "Membro padrão"
 
 #: ./templates/default/forms/components/usersearch/user.tpl.php:72
 msgid "Make admin"
-msgstr ""
+msgstr "Faça administração"
 
 #: ./templates/default/forms/components/usersearch/user.tpl.php:86
 msgid "Clear"
-msgstr ""
+msgstr "Limpar"
 
 #: ./templates/default/forms/components/usersearch/user.tpl.php:88
 msgid "Block"
-msgstr ""
+msgstr "Bloquear"
 
 #: ./templates/default/forms/components/usersearch/user.tpl.php:88
 msgid ""
 "Are you sure? The user will be logged out and will no longer be able to log "
 "in or post."
 msgstr ""
+"Tem certeza? O usuário será logado e não poderá mais fazer login ou postar."
 
 #: ./templates/default/forms/components/usersearch/user.tpl.php:90
 msgid "Are you sure? This will delete this user and all their content."
-msgstr ""
+msgstr "Tem certeza? Isso excluirá este usuário e todo o seu conteúdo."
 
 #: ./templates/default/forms/input/image-file.tpl.php:58
 msgid "Are you sure you want to permanently delete this?"
