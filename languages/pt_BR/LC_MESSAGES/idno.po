@@ -2422,21 +2422,21 @@ msgstr "Tem certeza? Isso excluirá este usuário e todo o seu conteúdo."
 
 #: ./templates/default/forms/input/image-file.tpl.php:58
 msgid "Are you sure you want to permanently delete this?"
-msgstr ""
+msgstr "Tem certeza que quer excluir isso permanentemente?"
 
 #: ./templates/default/forms/input/image-file.tpl.php:75
 #: ./templates/default/forms/input/image-file.tpl.php:81
 #: ./templates/default/onboarding/profile.tpl.php:65
 msgid "Choose different photo"
-msgstr ""
+msgstr "Escolha diferentes foto"
 
 #: ./templates/default/forms/input/image-file.tpl.php:78
 msgid "Select a photo"
-msgstr ""
+msgstr "Selecione uma foto"
 
 #: ./templates/default/forms/input/image-file.tpl.php:83
 msgid "Add photo"
-msgstr ""
+msgstr "Adicionar foto"
 
 #: ./templates/default/forms/input/longtext.tpl.php:21
 #: ./templates/default/forms/input/richtext.tpl.php:21
