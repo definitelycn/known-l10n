@@ -2450,19 +2450,19 @@ msgstr "Por favor, complete este campo."
 
 #: ./templates/default/forms/usersearch.tpl.php:24
 msgid "Search by name, email address, or username"
-msgstr ""
+msgstr "Pesquisar por nome, endereço de e-mail ou nome de usuário"
 
 #: ./templates/default/forms/usersearch.tpl.php:79
 msgid "By creation date"
-msgstr ""
+msgstr "Por data de criação"
 
 #: ./templates/default/forms/usersearch.tpl.php:80
 msgid "By name"
-msgstr ""
+msgstr "Pelo nome"
 
 #: ./templates/default/forms/usersearch.tpl.php:89
 msgid "Ascending"
-msgstr ""
+msgstr "Ascendente"
 
 #: ./templates/default/forms/usersearch.tpl.php:90
 msgid "Descending"
