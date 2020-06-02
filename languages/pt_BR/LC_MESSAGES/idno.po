@@ -2478,27 +2478,27 @@ msgstr "Próximo"
 
 #: ./templates/default/onboarding/begin.tpl.php:8
 msgid "Known is your space for sharing content and discussing ideas."
-msgstr ""
+msgstr "Known é seu espaço para compartilhar conteúdo e discutir ideias."
 
 #: ./templates/default/onboarding/begin.tpl.php:13
 msgid "Take a picture"
-msgstr ""
+msgstr "Tire uma foto"
 
 #: ./templates/default/onboarding/begin.tpl.php:17
 msgid "Share a message"
-msgstr ""
+msgstr "Compartilhe uma mensagem"
 
 #: ./templates/default/onboarding/begin.tpl.php:21
 msgid "Save your location"
-msgstr ""
+msgstr "Salve sua localização"
 
 #: ./templates/default/onboarding/begin.tpl.php:34
 msgid "Get started"
-msgstr ""
+msgstr "Comece"
 
 #: ./templates/default/onboarding/begin.tpl.php:42
 msgid "Already have an account? Sign in."
-msgstr ""
+msgstr "Já tem uma conta? Entrar."
 
 #: ./templates/default/onboarding/connect.tpl.php:3
 msgid "Share to social"
