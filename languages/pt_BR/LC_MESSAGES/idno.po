@@ -2441,11 +2441,12 @@ msgstr "Adicionar foto"
 #: ./templates/default/forms/input/longtext.tpl.php:21
 #: ./templates/default/forms/input/richtext.tpl.php:21
 msgid "Share something brilliant..."
-msgstr ""
+msgstr "Compartilhe algo brilhante..."
 
 #: ./templates/default/forms/input/richtext.tpl.php:49
 msgid "Please complete this field."
-msgstr ""
+msgstr "Por favor, complete este campo."
+# caixa
 
 #: ./templates/default/forms/usersearch.tpl.php:24
 msgid "Search by name, email address, or username"
