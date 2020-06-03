@@ -2502,20 +2502,22 @@ msgstr "Já tem uma conta? Entrar."
 
 #: ./templates/default/onboarding/connect.tpl.php:3
 msgid "Share to social"
-msgstr ""
+msgstr "Compartilhar com o social"
 
 #: ./templates/default/onboarding/connect.tpl.php:6
 msgid ""
 "Connect your accounts to easily share content with people across the web."
 msgstr ""
+"Conecte suas contas para compartilhar conteúdo facilmente com pessoas na web."
 
 #: ./templates/default/onboarding/connect.tpl.php:14
 msgid "Continue"
-msgstr ""
+msgstr "Prosseguir"
+# Continuar
 
 #: ./templates/default/onboarding/connect.tpl.php:19
 msgid "Don't worry, you can always connect these later."
-msgstr ""
+msgstr "Não se preocupe, você sempre pode conectá-los mais tarde."
 
 #: ./templates/default/onboarding/profile.tpl.php:16
 msgid "Add a photo of yourself"
