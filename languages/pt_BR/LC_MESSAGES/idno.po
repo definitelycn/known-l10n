@@ -2550,11 +2550,11 @@ msgstr "Adicione outro site"
 
 #: ./templates/default/onboarding/register.tpl.php:13
 msgid "Choose a username"
-msgstr ""
+msgstr "Escolha um nome de usuário"
 
 #: ./templates/default/onboarding/register.tpl.php:26
 msgid "(at least 7 characters please)"
-msgstr ""
+msgstr "(pelo menos 7 caracteres, por favor)"
 
 #: ./templates/default/pages/403.tpl.php:7
 msgid "Click here to log in."
