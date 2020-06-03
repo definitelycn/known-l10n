@@ -2521,31 +2521,32 @@ msgstr "Não se preocupe, você sempre pode conectá-los mais tarde."
 
 #: ./templates/default/onboarding/profile.tpl.php:16
 msgid "Add a photo of yourself"
-msgstr ""
+msgstr "Adicione uma foto sua"
 
 #: ./templates/default/onboarding/profile.tpl.php:23
 msgid "Ben Franklin"
-msgstr ""
+msgstr "Alberto Santos-Dumont"
 
 #: ./templates/default/onboarding/profile.tpl.php:27
 msgid "Your short bio"
-msgstr ""
+msgstr "Sua biografia curta"
 
 #: ./templates/default/onboarding/profile.tpl.php:29
 msgid "I fly kites..."
-msgstr ""
+msgstr "Eu voo"
+# I fly
 
 #: ./templates/default/onboarding/profile.tpl.php:34
 msgid "Your other websites"
-msgstr ""
+msgstr "Seus outros sites"
 
 #: ./templates/default/onboarding/profile.tpl.php:35
 msgid "(a blog, a portfolio, Twitter, Facebook, etc)"
-msgstr ""
+msgstr "(um blog, um portfólio, Twitter, Facebook, etc)"
 
 #: ./templates/default/onboarding/profile.tpl.php:40
 msgid "Add another website"
-msgstr ""
+msgstr "Adicione outro site"
 
 #: ./templates/default/onboarding/register.tpl.php:13
 msgid "Choose a username"
