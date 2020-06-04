@@ -2601,17 +2601,20 @@ msgstr ""
 
 #: ./templates/default/pages/410.tpl.php:6
 msgid "Sorry, this content isn't here anymore."
-msgstr ""
+msgstr "Desculpe, esse conteúdo não está mais aqui."
 
 #: ./templates/default/pages/410.tpl.php:8
 msgid ""
 "You may be wondering where it went, but we can't tell you. It's a secret."
 msgstr ""
+"Você deve estar se perguntando para onde foi, mas não podemos dizer. É um segredo."
 
 #: ./templates/default/pages/410.tpl.php:10
 msgid ""
 "Maybe you'd like to head back to the <a href=\"%s\">%s homepage</a> instead."
 msgstr ""
+"Talvez você gostaria de voltar para a "
+"<a href=\"%s\">página inicial dos %s</a> em vez disso."
 
 #: ./templates/default/pages/500.tpl.php:15
 msgid ""
