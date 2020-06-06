@@ -2634,11 +2634,11 @@ msgstr "Ah, não! Algo deu errado."
 
 #: ./templates/default/pages/home/nocontent.tpl.php:10
 msgid "We couldn't find anything that matches your search."
-msgstr ""
+msgstr "Não encontramos nada que combine com sua busca."
 
 #: ./templates/default/robot/post.tpl.php:19
 msgid "Power down robots. I can take it from here."
-msgstr ""
+msgstr "Desligue os robôs. Eu posso assumir a partir daqui."
 
 #: ./templates/default/robot/wizard.tpl.php:7
 msgid "Check out my new @withknown site!"
