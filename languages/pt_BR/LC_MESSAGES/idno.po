@@ -2642,7 +2642,7 @@ msgstr "Desligue os robôs. Eu posso assumir a partir daqui."
 
 #: ./templates/default/robot/wizard.tpl.php:7
 msgid "Check out my new @withknown site!"
-msgstr ""
+msgstr "Confira meu novo site de @withknown!"
 
 #: ./templates/default/robot/wizard.tpl.php:9
 msgid ""
@@ -2650,16 +2650,21 @@ msgid ""
 "and <a href=\"%s\">Twitter</a> so your friends know about it?\n\nI bet "
 "you've got some great photos. <%s>Try posting one</a>!"
 msgstr ""
+" Foi uma grande atualização. Por que não <%s>compartilhar seu novo site no "
+"Facebook</a> e <a href=\"%s\">Twitter</a> para que seus amigos saibam sobre "
+"isso?\n\nAposto que você tem ótimas fotos. <%s>Tente postar um</a>!"
 
 #: ./templates/default/robot/wizard.tpl.php:20
 msgid ""
 "Welcome to your new Known site! I'm Aleph, your very own welcome robot. "
 "Let's get started by <%s>adding your first status update</a>!"
 msgstr ""
+"Bem-vindo ao seu novo site conhecido! Sou Aleph, seu robô de boas-vindas."
+"Vamos começar por <%s>adicionando sua primeira atualização de status</a>!"
 
 #: ./templates/default/robot/wizard.tpl.php:28
 msgid "Beep!"
-msgstr ""
+msgstr "Bip!"
 
 #: ./templates/default/robot/wizard.tpl.php:34
 msgid "Zeep!"
