@@ -2674,17 +2674,22 @@ msgstr ""
 msgid "Beep boop!"
 msgstr ""
 
+
 #: ./templates/default/robot/wizard.tpl.php:47
 msgid ""
 "Beepity boop! That was a great picture. Did you see that you can also <a "
 "href=\"{{userurl}}/edit\">update your profile</a>?"
 msgstr ""
+"Beepity boop! Foi uma ótima foto. Você viu que também pode <a "
+"href=\"{{userurl}}/edit\">atualizar seu perfil</a>?"
 
 #: ./templates/default/robot/wizard.tpl.php:52
 msgid ""
 "Boopity beep! Did you see that you can also <a "
 "href=\"{{userurl}}/edit\">update your profile</a>?"
 msgstr ""
+"Boopity beep! Você viu que também pode <a href=\"{{userurl}}/edit\">"
+"atualizar seu perfil</a>?"
 
 #: ./templates/default/robot/wizard.tpl.php:65
 msgid ""
@@ -2695,6 +2700,12 @@ msgid ""
 "href=\"{{baseurl}}account/settings/feedback/\">send a message to my human "
 "creators</a>."
 msgstr ""
+"01011001 01101111 00100000 01111001 01101111 00100000 01111001 01101111 "
+"\n\nÉ assim que você diz olá de onde eu venho. Eu queria lembrá-lo que você "
+"também pode <a href=\"{{baseurl}}}admin/themes/\">alterar o tema do seu site"
+"</a>. Se você tiver feedback, você pode <a "
+"href=\"{{baseurl}}conta/configurações/feedback/\">enviar uma mensagem aos "
+"meus criadores humanos</a>."
 
 #: ./templates/default/settings-shell/nav.tpl.php:6
 #: ./templates/default/shell/toolbar/main.tpl.php:7
