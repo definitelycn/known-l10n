@@ -2710,7 +2710,8 @@ msgstr ""
 #: ./templates/default/settings-shell/nav.tpl.php:6
 #: ./templates/default/shell/toolbar/main.tpl.php:7
 msgid "Toggle navigation"
-msgstr ""
+msgstr "Alternar navegação"
+# Switch navigation
 
 #: ./templates/default/settings-shell/toolbar/logged-in.tpl.php:18
 #: ./templates/default/shell/toolbar/logged-in.tpl.php:21
@@ -2719,11 +2720,12 @@ msgstr "Configuração do site"
 
 #: ./templates/default/shell/pagination.tpl.php:28
 msgid "Newer"
-msgstr ""
+msgstr "Mais recente"
+# Recentes
 
 #: ./templates/default/shell/pagination.tpl.php:29
 msgid "Older"
-msgstr ""
+msgstr "Velho"
 
 #: ./templates/default/shell/toolbar/content/all.tpl.php:4
 msgid "All content"
