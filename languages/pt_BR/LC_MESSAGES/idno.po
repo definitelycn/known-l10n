@@ -2757,11 +2757,12 @@ msgstr "Faça log out"
 
 #: ./templates/default/shell/toolbar/main.tpl.php:1
 msgid "Skip to main content"
-msgstr ""
+msgstr "Saltar para o conteúdo principal"
+# Jump
 
 #: ./templates/default/shell/toolbar/register.tpl.php:1
 msgid "Register"
-msgstr ""
+msgstr "Registrar"
 
 #: ./templates/default/shell/toolbar/search.tpl.php:17
 msgid "Search"
