@@ -2771,11 +2771,11 @@ msgstr "Busca"
 #: ./templates/email/account/invite.tpl.php:2
 #: ./templates/email-text/account/invite.tpl.php:1
 msgid "Join us!"
-msgstr ""
+msgstr "Junte-se a nós!"
 
 #: ./templates/email/account/invite.tpl.php:6
 msgid "Hi there! Your friend <strong>%s</strong> has invited you to join <%s>"
-msgstr ""
+msgstr "Oi! Seu amigo <strong>%s</strong> convidou você para participar de <%s>"
 
 #: ./templates/email/account/invite.tpl.php:8
 #: ./templates/email-text/account/invite.tpl.php:23
@@ -2786,12 +2786,12 @@ msgstr ""
 
 #: ./templates/email/account/invite.tpl.php:10
 msgid "Get started with <strong>%s</strong> by setting up your account"
-msgstr ""
+msgstr "Comece com <strong>%s</strong> configurando sua conta"
 
 #: ./templates/email/account/invite.tpl.php:13
 #: ./templates/email-text/account/invite.tpl.php:28
 msgid "Sign up now"
-msgstr ""
+msgstr "Inscreva-se agora"
 
 #: ./templates/email/account/invite.tpl.php:16
 #: ./templates/email-text/account/invite.tpl.php:31
@@ -2799,6 +2799,8 @@ msgid ""
 "If you have any questions at all, please don't hesitate to contact us by "
 "sending an email to %s"
 msgstr ""
+"Se você tiver alguma dúvida, por favor, não hesite em entrar em contato "
+"conosco enviando um e-mail para %s"
 
 #: ./templates/email/account/password.tpl.php:6
 #: ./templates/email-text/account/password.tpl.php:14
@@ -2864,11 +2866,11 @@ msgstr ""
 
 #: ./templates/email-text/account/invite.tpl.php:21
 msgid "Hi there! Your friend *%s* has invited you to join %s"
-msgstr ""
+msgstr "Oi! Seu amigo *%s* convidou você para participar de %s"
 
 #: ./templates/email-text/account/invite.tpl.php:26
 msgid "Get started with *%s* by setting up your account"
-msgstr ""
+msgstr "Comece com *%s* configurando sua conta"
 
 #: ./templates/email-text/content/notification/like.tpl.php:6
 msgid "Hi! We wanted to let you know that *%s* liked the post *%s*"
