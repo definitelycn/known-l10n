@@ -2827,7 +2827,7 @@ msgstr ""
 #: ./templates/email/content/notification/rsvp.tpl.php:20
 #: ./templates/email/content/notification/share.tpl.php:10
 msgid "View post"
-msgstr ""
+msgstr "Ver post"
 
 #: ./templates/email/content/notification/mention.tpl.php:13
 #: ./templates/email-text/content/notification/mention.tpl.php:6
