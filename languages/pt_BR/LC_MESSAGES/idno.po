@@ -2867,7 +2867,7 @@ msgstr "Eis o que eles disseram:"
 
 #: ./templates/email/shell.tpl.php:72
 msgid "Powered by"
-msgstr ""
+msgstr "Alimentado por"
 
 #: ./templates/email-text/account/invite.tpl.php:21
 msgid "Hi there! Your friend *%s* has invited you to join %s"
@@ -2886,7 +2886,7 @@ msgstr "Oi! Queríamos que você soubesse que *%s* gostou do post *%s*"
 #: ./templates/email-text/content/notification/rsvp.tpl.php:16
 #: ./templates/email-text/content/notification/share.tpl.php:8
 msgid "View post:"
-msgstr ""
+msgstr "Ver post:"
 
 #: ./known.php:110
 msgid "Returns the current Known version as defined in version.known"
