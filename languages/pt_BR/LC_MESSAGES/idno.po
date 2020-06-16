@@ -2845,7 +2845,7 @@ msgstr "%s mencionou você em %s."
 
 #: ./templates/email/content/notification/preheader/reply.tpl.php:6
 msgid "%s replied to %s."
-msgstr ""
+msgstr "%s respondeu a %s."
 
 #: ./templates/email/content/notification/preheader/rsvp.tpl.php:6
 msgid "%s RSVPed %s."
@@ -2853,7 +2853,7 @@ msgstr ""
 
 #: ./templates/email/content/notification/preheader/share.tpl.php:6
 msgid "%s shared %s."
-msgstr ""
+msgstr "%s compartilhado %s."
 
 #: ./templates/email/content/notification/reply.tpl.php:7
 #: ./templates/email-text/content/notification/reply.tpl.php:6
