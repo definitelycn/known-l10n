@@ -14,7 +14,7 @@ msgstr ""
 
 #: ./Idno/Caching/FilesystemCache.php:19
 msgid "No domain specified for cache"
-msgstr ""
+msgstr "Geen domein opgegeven voor cache"
 
 #: ./Idno/Common/Entity.php:692
 msgid "There was a problem syndicating."
@@ -2674,7 +2674,7 @@ msgstr ""
 
 #: ./known.php:110
 msgid "Returns the current Known version as defined in version.known"
-msgstr ""
+msgstr "Retourneert de huidige Known-versie zoals gedefinieerd in version.known"
 
 #: ./known.php:118
 msgid ""
