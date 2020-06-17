@@ -18,15 +18,15 @@ msgstr "Geen domein opgegeven voor cache"
 
 #: ./Idno/Common/Entity.php:692
 msgid "There was a problem syndicating."
-msgstr ""
+msgstr "Er was een probleem syndicating."
 
 #: ./Idno/Common/Entity.php:2346
 msgid "%s replied to your post!"
-msgstr ""
+msgstr "%s gereageerd op uw bericht!"
 
 #: ./Idno/Common/Entity.php:2348
 msgid "%s replied!"
-msgstr ""
+msgstr "%s antwoordde!"
 
 #: ./Idno/Common/Page.php:397
 msgid "Invalid token."
@@ -2051,11 +2051,11 @@ msgstr ""
 
 #: ./templates/default/content/notification/reply.tpl.php:5
 msgid "replied to"
-msgstr ""
+msgstr "antwoordde op"
 
 #: ./templates/default/content/notification/reply.tpl.php:7
 msgid "Reply"
-msgstr ""
+msgstr "Antwoord"
 
 #: ./templates/default/content/notification/rsvp.tpl.php:5
 msgid "RSVPed to"
@@ -2629,7 +2629,7 @@ msgstr ""
 
 #: ./templates/email/content/notification/preheader/reply.tpl.php:6
 msgid "%s replied to %s."
-msgstr ""
+msgstr "%s antwoordde op %s."
 
 #: ./templates/email/content/notification/preheader/rsvp.tpl.php:6
 msgid "%s RSVPed %s."
