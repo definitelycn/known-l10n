@@ -30,38 +30,41 @@ msgstr "%s antwoordde!"
 
 #: ./Idno/Common/Page.php:397
 msgid "Invalid token."
-msgstr ""
+msgstr "Ongeldig token."
 
 #: ./Idno/Common/Page.php:414
 #: ./templates/default/pages/500.tpl.php:6
 msgid "Something went wrong."
-msgstr ""
+msgstr "Er ging iets mis."
 
 #: ./Idno/Common/Page.php:479
 msgid "Attempted to redirect page to a non local URL."
-msgstr ""
+msgstr "Geprobeerd om pagina om te leiden naar een niet-lokale URL."
 
 #: ./Idno/Common/Page.php:569
 #: ./Idno/Common/Page.php:655
 msgid "The page you were on timed out."
-msgstr ""
+msgstr "Er was een time-out op de pagina."
+# There was a timeout on the page.
+# "De pagina waar je een time-out op had."
+# ?
 
 #: ./Idno/Common/Page.php:583
 #: ./Idno/Common/Page.php:669
 msgid "Couldn't say anything about execution, probably something went wrong"
-msgstr ""
+msgstr "Kon niets zeggen over de uitvoering, waarschijnlijk ging er iets mis"
 
 #: ./Idno/Common/Page.php:741
 msgid "This content isn't here."
-msgstr ""
+msgstr "Deze inhoud is er niet."
 
 #: ./Idno/Common/Page.php:757
 msgid "This page can't be found."
-msgstr ""
+msgstr "Deze pagina is niet te vinden."
 
 #: ./Idno/Common/Plugin.php:87
 msgid "Plugin %s doesn't have a version"
-msgstr ""
+msgstr "Plugin %s heeft geen versie"
 
 #: ./Idno/Core/AsynchronousQueue.php:61
 msgid "No event passed"
