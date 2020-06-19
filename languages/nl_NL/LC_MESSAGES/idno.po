@@ -104,31 +104,32 @@ msgstr "Identiteitstoken is niet geldig"
 
 #: ./Idno/Core/Service.php:24
 msgid "Missing X-Known-Service-Signature, service call is not possible."
-msgstr ""
+msgstr "Ontbrekende X-Known-Service-Signature, service call is niet mogelijk."
 
 #: ./Idno/Core/Service.php:27
 msgid "Sorry, signature doesn't match up."
-msgstr ""
+msgstr "Sorry, de handtekening komt niet overeen."
 
 #: ./Idno/Core/Service.php:44
 msgid "Missing site secret"
-msgstr ""
+msgstr "Ontbrekende site geheim"
 
 #: ./Idno/Core/Service.php:53
 msgid "Url not provided to token generation."
-msgstr ""
+msgstr "Url niet verstrekt aan tokengeneratie."
 
 #: ./Idno/Core/Service.php:86
 msgid "Response from service endpoint was not json"
-msgstr ""
+msgstr "Reactie van service endpoint was niet json"
 
 #: ./Idno/Core/Service.php:98
 msgid "No result from endpoint."
-msgstr ""
+msgstr "Geen resultaat van eindpunt."
 
 #: ./Idno/Core/Session.php:136
 msgid "Session funnybusiness: "
-msgstr ""
+msgstr "Sessie grappige zaken: "
+# idiom
 
 #: ./Idno/Core/Session.php:509
 #: ./Idno/Pages/Account/Register.php:64
@@ -137,6 +138,9 @@ msgid ""
 "Warning: Access credentials were sent over a non-secured connection! To "
 "disable this warning set disable_cleartext_warning in your config.ini"
 msgstr ""
+"Waarschuwing: Toegangsgegevens zijn verzonden via een niet-beveiligde "
+"verbinding! Om deze waarschuwingsset uit te schakelen "
+"disable_cleartext_warning in uw config.ini"
 
 #: ./Idno/Core/Time.php:89
 msgid "hour"
