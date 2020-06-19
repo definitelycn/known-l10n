@@ -144,37 +144,39 @@ msgstr ""
 
 #: ./Idno/Core/Time.php:89
 msgid "hour"
-msgstr ""
+msgstr "uur"
 
 #: ./Idno/Core/Time.php:91
 msgid "hours"
-msgstr ""
+msgstr "uur"
 
 #: ./Idno/Core/Time.php:97
 msgid "minute"
-msgstr ""
+msgstr "minuut"
 
 #: ./Idno/Core/Time.php:99
 msgid "minutes"
-msgstr ""
+msgstr "minuten"
 
 #: ./Idno/Core/Time.php:103
 msgid "ahead"
-msgstr ""
+msgstr "vooruit"
 
 #: ./Idno/Core/Time.php:103
 msgid "behind"
-msgstr ""
+msgstr "achter"
 
 #: ./Idno/Core/TokenProvider.php:32
 msgid ""
 "Token was generated using an a cryptographically weak algorithm, this "
 "probably means your version of OpenSSL is broken or very old."
 msgstr ""
+"Token is gegenereerd met behulp van een cryptografisch zwak algoritme, "
+"dit betekent waarschijnlijk dat uw versie van OpenSSL is gebroken of erg oud."
 
 #: ./Idno/Core/Webservice.php:431
 msgid "Your version of PHP doesn't support CURLFile."
-msgstr ""
+msgstr "Uw versie van PHP ondersteunt CURLFile niet."
 
 #: ./Idno/Data/Mongo.php:38
 msgid ""
