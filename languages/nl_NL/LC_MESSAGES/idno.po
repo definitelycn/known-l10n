@@ -235,17 +235,17 @@ msgstr "Een PHP-extensie is gestopt met het uploaden van bestanden."
 #: ./Idno/Files/LocalFileSystem.php:86
 #: ./Idno/Files/LocalFileSystem.php:137
 msgid "There was a problem storing the file data."
-msgstr ""
+msgstr "Er was een probleem met het opslaan van de bestandsgegevens."
 
 #: ./Idno/Files/LocalFileSystem.php:89
 #: ./Idno/Files/LocalFileSystem.php:141
 msgid "There was a problem saving the file's metadata"
-msgstr ""
+msgstr "Er was een probleem met het opslaan van de metagegevens van het bestand"
 
 #: ./Idno/Files/LocalFileSystem.php:98
 #: ./Idno/Files/LocalFileSystem.php:150
 msgid "Something went wrong saving your file."
-msgstr ""
+msgstr "Er is iets misgegaan met het opslaan van uw bestand."
 
 #: ./Idno/Files/LocalFileSystem.php:100
 #: ./Idno/Files/LocalFileSystem.php:152
@@ -253,11 +253,13 @@ msgid ""
 "Check that your upload directory is writeable by the web server and try "
 "again."
 msgstr ""
+"Controleer of uw uploadmap kan worden geschreven door de webserver "
+"en probeer het opnieuw."
 
 #: ./Idno/Pages/Account/Export.php:20
 #: ./templates/default/account/menu.tpl.php:11
 msgid "Export Data"
-msgstr ""
+msgstr "Gegevens exporteren"
 
 #: ./Idno/Pages/Account/Notifications.php:36
 #: ./templates/default/account/notifications.tpl.php:4
@@ -545,7 +547,7 @@ msgstr ""
 
 #: ./Idno/Pages/Admin/Export.php:17
 msgid "Export data"
-msgstr ""
+msgstr "Gegevens exporteren"
 
 #: ./Idno/Pages/Admin/Homepage.php:25
 #: ./templates/default/admin/menu.tpl.php:6
