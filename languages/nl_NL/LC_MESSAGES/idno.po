@@ -384,16 +384,16 @@ msgstr "We konden je niet registreren."
 
 #: ./Idno/Pages/Account/Settings/FeedbackConfirm.php:17
 msgid "Thank you for your feedback!"
-msgstr ""
+msgstr "Bedankt voor uw feedback!"
 
 #: ./Idno/Pages/Account/Settings/Feedback.php:19
 #: ./templates/default/account/settings/feedback.tpl.php:37
 msgid "Send feedback"
-msgstr ""
+msgstr "Feedback verzenden"
 
 #: ./Idno/Pages/Account/Settings/Feedback.php:42
 msgid "Thanks! We received your feedback."
-msgstr ""
+msgstr "Bedankt! We hebben je feedback ontvangen."
 
 #: ./Idno/Pages/Account/Settings/Following/Bookmarklet.php:37
 msgid ""
