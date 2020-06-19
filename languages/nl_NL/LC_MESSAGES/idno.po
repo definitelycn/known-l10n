@@ -304,76 +304,83 @@ msgstr "Uw wachtwoorden komen niet overeen of zijn te zwak"
 
 #: ./Idno/Pages/Account/Register.php:27
 msgid "This site is closed to new users."
-msgstr ""
+msgstr "Deze site is gesloten voor nieuwe gebruikers."
 
 #: ./Idno/Pages/Account/Register.php:31
 #: ./Idno/Pages/Account/Register.php:69
 msgid "Your invitation doesn't seem to be valid, or has expired."
-msgstr ""
+msgstr "Uw uitnodiging lijkt niet geldig te zijn of is verlopen."
 
 #: ./Idno/Pages/Account/Register.php:39
 #: ./Idno/Pages/Account/Register.php:47
 msgid "Create a new account"
-msgstr ""
+msgstr "Een nieuw account maken"
 
 #: ./Idno/Pages/Account/Register.php:80
 #: ./Idno/Pages/Admin/Users.php:143
 msgid "Please enter a username and email address."
-msgstr ""
+msgstr "Voer een gebruikersnaam en e-mailadres in."
 
 #: ./Idno/Pages/Account/Register.php:134
 #: ./Idno/Pages/Admin/Users.php:162
 msgid "Please create a username."
-msgstr ""
+msgstr "Maak een gebruikersnaam aan."
 
 #: ./Idno/Pages/Account/Register.php:137
 #: ./Idno/Pages/Admin/Users.php:165
 msgid "Your username is too long."
-msgstr ""
+msgstr "Je gebruikersnaam is te lang."
 
 #: ./Idno/Pages/Account/Register.php:140
 msgid "Usernames can only have letters, numbers and underscores."
 msgstr ""
+"Gebruikersnamen kunnen alleen letters, cijfers en onderstrepingen hebben."
+# underlines
 
 #: ./Idno/Pages/Account/Register.php:143
 #: ./Idno/Pages/Admin/Users.php:168
 msgid "Usernames can't contain a slash %s character."
-msgstr ""
+msgstr "Gebruikersnamen mogen geen teken van slash %s bevatten."
 
 #: ./Idno/Pages/Account/Register.php:146
 #: ./Idno/Pages/Admin/Users.php:171
 msgid ""
 "Unfortunately, someone is already using that username. Please choose "
 "another."
-msgstr ""
+msgstr "Helaas gebruikt iemand die gebruikersnaam al. Kies een ander."
 
 #: ./Idno/Pages/Account/Register.php:149
 #: ./Idno/Pages/Admin/Users.php:174
 msgid ""
 "Hey, it looks like there's already an account with that email address. Did "
 "you forget your login?"
-msgstr ""
+msgstr "Het lijkt erop dat er al een account is met dat e-mailadres. Ben "
+"je je login vergeten?"
 
 #: ./Idno/Pages/Account/Register.php:152
 msgid ""
 "Please check that your passwords match and that your password is at least 7 "
 "characters long."
 msgstr ""
+"Controleer of uw wachtwoorden overeenkomen en of uw wachtwoord ten minste 7 "
+"tekens lang is."
 
 #: ./Idno/Pages/Account/Register.php:156
 #: ./Idno/Pages/Admin/Users.php:178
 msgid "That doesn't seem like it's a valid email address."
-msgstr ""
+msgstr "Dat lijkt niet alsof het een geldig e-mailadres."
 
 #: ./Idno/Pages/Account/Register.php:160
 msgid ""
 "You've registered! You're ready to get started. Why not add a post to say "
 "hello?"
 msgstr ""
+"Je hebt je geregistreerd! Je bent klaar om te beginnen. Waarom niet een "
+"bericht toevoegen om hallo te zeggen?"
 
 #: ./Idno/Pages/Account/Register.php:164
 msgid "We couldn't register you."
-msgstr ""
+msgstr "We konden je niet registreren."
 
 #: ./Idno/Pages/Account/Settings/FeedbackConfirm.php:17
 msgid "Thank you for your feedback!"
@@ -967,7 +974,7 @@ msgstr ""
 
 #: ./templates/default/account/password/reset.tpl.php:23
 msgid "New password (7 characters or more)"
-msgstr ""
+msgstr "Nieuw wachtwoord (7 tekens of meer)"
 
 #: ./templates/default/account/password/reset.tpl.php:29
 msgid "Retype password"
@@ -1055,7 +1062,7 @@ msgstr ""
 
 #: ./templates/default/account/register.tpl.php:34
 msgid "At least 7 characters please."
-msgstr ""
+msgstr "Ten minste 7 tekens alstublieft."
 
 #: ./templates/default/account/register.tpl.php:37
 #: ./templates/default/account/register.tpl.php:44
@@ -2399,7 +2406,7 @@ msgstr ""
 
 #: ./templates/default/onboarding/register.tpl.php:26
 msgid "(at least 7 characters please)"
-msgstr ""
+msgstr "(ten minste 7 tekens alstublieft)"
 
 #: ./templates/default/pages/403.tpl.php:7
 msgid "Click here to log in."
