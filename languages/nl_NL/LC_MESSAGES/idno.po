@@ -188,45 +188,49 @@ msgstr ""
 
 #: ./Idno/Entities/GenericDataItem.php:43
 msgid "GenericDataItem classes must have a datatype label set."
-msgstr ""
+msgstr "GenericDataItem-klassen moeten een gegevenstypelabelset hebben."
 
 #: ./Idno/Entities/Invitation.php:110
 msgid "You've been invited to join %s"
-msgstr ""
+msgstr "Je bent uitgenodigd om deel te nemen aan %s"
 
 #: ./Idno/Files/FileSystem.php:63
 msgid "There is no error, the file uploaded with success"
-msgstr ""
+msgstr "Er is geen fout, het bestand geüpload met succes"
 
 #: ./Idno/Files/FileSystem.php:64
 msgid "The uploaded file exceeds the upload_max_filesize directive in php.ini"
 msgstr ""
+"Het geüploade bestand overschrijdt de upload_max_filesize richtlijn in php.ini"
 
 #: ./Idno/Files/FileSystem.php:65
 msgid ""
 "The uploaded file exceeds the MAX_FILE_SIZE directive that was specified in "
 "the HTML form"
 msgstr ""
+"Het geüploade bestand overschrijdt de MAX_FILE_SIZE richtlijn die is "
+"opgegeven in het HTML-formulier"
 
 #: ./Idno/Files/FileSystem.php:66
 msgid "The uploaded file was only partially uploaded"
-msgstr ""
+msgstr "Het geüploade bestand is slechts gedeeltelijk geüpload"
 
 #: ./Idno/Files/FileSystem.php:67
 msgid "No file was uploaded"
-msgstr ""
+msgstr "Er is geen bestand geüpload"
 
 #: ./Idno/Files/FileSystem.php:68
 msgid "Missing a temporary folder"
-msgstr ""
+msgstr "Er is geen tijdelijke map"
 
 #: ./Idno/Files/FileSystem.php:69
 msgid "Failed to write file to disk."
-msgstr ""
+msgstr "Kan het bestand niet naar schijf schrijven."
 
 #: ./Idno/Files/FileSystem.php:70
 msgid "A PHP extension stopped the file upload."
-msgstr ""
+msgstr "Een PHP-extensie is gestopt met het uploaden van bestanden."
+# ?
 
 #: ./Idno/Files/LocalFileSystem.php:86
 #: ./Idno/Files/LocalFileSystem.php:137
