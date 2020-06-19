@@ -266,19 +266,20 @@ msgstr "Gegevens exporteren"
 #: ./templates/default/settings-shell/toolbar/logged-in.tpl.php:4
 #: ./templates/default/shell/toolbar/logged-in.tpl.php:17
 msgid "Notifications"
-msgstr ""
+msgstr "Meldingen"
 
 #: ./Idno/Pages/Account/Password.php:26
 msgid "Password recovery email sent"
-msgstr ""
+msgstr "E-mail voor wachtwoordherstel verzonden"
 
 #: ./Idno/Pages/Account/Password.php:29
 msgid "Recover password"
-msgstr ""
+msgstr "Wachtwoord herstellen"
 
 #: ./Idno/Pages/Account/Password.php:63
 msgid "Oh no! We couldn't find an account associated with that email address."
 msgstr ""
+"Oh nee! We konden geen account vinden dat aan dat e-mailadres is gekoppeld."
 
 #: ./Idno/Pages/Account/Password/Reset.php:27
 #: ./templates/default/account/password/reset.tpl.php:37
