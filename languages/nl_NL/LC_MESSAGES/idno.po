@@ -185,6 +185,11 @@ msgid ""
 "sure you have it installed and configured, e.g. by running \"pecl install "
 "mongodb;\""
 msgstr ""
+"Het lijkt erop dat je de nieuwe mongodb driver niet hebt geïnstalleerd (<a "
+"href=\"https://secure.php.net/manual/en/set.mongodb.php\">https://secure.php.net/manual/en/set.mongodb.php</a>)\n"
+"\n"
+"Zorg ervoor dat u het hebt geïnstalleerd en geconfigureerd, bijvoorbeeld "
+"door het uitvoeren van \"pecl install mongodb;\""
 
 #: ./Idno/Entities/GenericDataItem.php:43
 msgid "GenericDataItem classes must have a datatype label set."
