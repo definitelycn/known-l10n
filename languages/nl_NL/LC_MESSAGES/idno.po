@@ -404,8 +404,11 @@ msgstr "Bedankt! We hebben je feedback ontvangen."
 msgid ""
 "Sorry, could not find any users on that page, perhaps they need to mark up "
 "their profile in <a "
-"href=\"http://microformats.org/wiki/microformats-2\">Microformats</a>?"
+"href=\"http://microformats.org/wiki/microformats-2\">Microformaten</a>?"
 msgstr ""
+"Sorry, kon geen gebruikers vinden op die pagina, misschien moeten ze hun "
+"profiel markeren in <a href=\"http://microformats.org/wiki/microformats-2\">"
+"Microformats</a>?"
 
 #: ./Idno/Pages/Account/Settings/Following/Bookmarklet.php:51
 msgid ""
@@ -413,18 +416,23 @@ msgid ""
 "href=\"http://microformats.org/wiki/microformats-2\">Microformats</a> "
 "markup... doing my best with what I have!"
 msgstr ""
+"Pagina bevatte geen <a "
+"href=\"http://microformats.org/wiki/microformats-2\">Microformaten</a> "
+"markup... doet mijn best met wat ik heb!"
 
 #: ./Idno/Pages/Account/Settings/Following/Bookmarklet.php:60
 msgid "Found users"
-msgstr ""
+msgstr "Gevonden gebruikers"
 
 #: ./Idno/Pages/Account/Settings/Following/Bookmarklet.php:64
 msgid "Sorry, there was a problem parsing the page!"
-msgstr ""
+msgstr "Sorry, er was een probleem ontleden van de pagina!"
+# dissecting
 
 #: ./Idno/Pages/Account/Settings/Following/Bookmarklet.php:66
 msgid "Sorry, %s could not be retrieved!"
-msgstr ""
+msgstr "Sorry, %s kan niet worden opgehaald!"
+# Sorry, %s can't be picked up!
 
 #: ./Idno/Pages/Account/Settings/Following/Bookmarklet.php:149
 msgid "There was a problem saving the new remote user."
