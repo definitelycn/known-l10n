@@ -567,15 +567,15 @@ msgstr "E-mail"
 
 #: ./Idno/Pages/Admin/EmailTest.php:21
 msgid "Test email from %s!"
-msgstr ""
+msgstr "Test e-mail van %s!"
 
 #: ./Idno/Pages/Admin/EmailTest.php:26
 msgid "Test email sent to %s"
-msgstr ""
+msgstr "E-mail testen die naar %s is verzonden"
 
 #: ./Idno/Pages/Admin/EmailTest.php:28
 msgid "There was a problem sending a test message to %s."
-msgstr ""
+msgstr "Er was een probleem met het verzenden van een testbericht naar %s."
 
 #: ./Idno/Pages/Admin/Export.php:17
 msgid "Export data"
@@ -584,11 +584,11 @@ msgstr "Gegevens exporteren"
 #: ./Idno/Pages/Admin/Homepage.php:25
 #: ./templates/default/admin/menu.tpl.php:6
 msgid "Homepage"
-msgstr ""
+msgstr "Startpagina"
 
 #: ./Idno/Pages/Admin/Homepage.php:42
 msgid "The default homepage content types were saved."
-msgstr ""
+msgstr "De standaardpagina-inhoudstypen zijn opgeslagen."
 
 #: ./Idno/Pages/Admin/Home.php:21
 msgid "Administration"
