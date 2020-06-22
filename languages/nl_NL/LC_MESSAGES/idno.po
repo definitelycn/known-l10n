@@ -496,12 +496,12 @@ msgstr "Uw gegevens zijn opgeslagen."
 #: ./templates/default/account/menu.tpl.php:8
 #: ./templates/default/account/settings/tools.tpl.php:9
 msgid "Tools and Apps"
-msgstr ""
+msgstr "Hulpprogramma's en apps"
 
 #: ./Idno/Pages/Admin/About.php:20
 #: ./templates/default/admin/about.tpl.php:5
 msgid "About Known"
-msgstr ""
+msgstr "Over Known"
 
 #: ./Idno/Pages/Admin/Dependencies.php:20
 #: ./templates/default/admin/dependencies.tpl.php:4
