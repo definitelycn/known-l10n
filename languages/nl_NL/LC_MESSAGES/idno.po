@@ -436,27 +436,28 @@ msgstr "Sorry, %s kan niet worden opgehaald!"
 
 #: ./Idno/Pages/Account/Settings/Following/Bookmarklet.php:149
 msgid "There was a problem saving the new remote user."
-msgstr ""
+msgstr "Er was een probleem met het opslaan van de nieuwe externe gebruiker."
 
 #: ./Idno/Pages/Account/Settings/Following/Bookmarklet.php:170
 msgid "You are now following %s, would you like to subscribe to their feed?"
-msgstr ""
+msgstr "U volgt nu %s, wilt u zich abonneren op hun feed?"
 
 #: ./Idno/Pages/Account/Settings/Following/Bookmarklet.php:175
 msgid "You are now following %s"
-msgstr ""
+msgstr "U volgt nu %s"
 
 #: ./Idno/Pages/Account/Settings/Following/Bookmarklet.php:180
 msgid "You're already following %s"
-msgstr ""
+msgstr "Je volgt %s al"
+# You follow &s already
 
 #: ./Idno/Pages/Account/Settings/Following/Bookmarklet.php:183
 msgid "Sorry, that user doesn't exist!"
-msgstr ""
+msgstr "Sorry, die gebruiker bestaat niet!"
 
 #: ./Idno/Pages/Account/Settings/Following/Bookmarklet.php:185
 msgid "No UUID, please try that again!"
-msgstr ""
+msgstr "Geen UUID, probeer dat nog eens!"
 
 #: ./Idno/Pages/Account/Settings/Following.php:20
 msgid "Following settings"
