@@ -506,12 +506,12 @@ msgstr "Over Known"
 #: ./Idno/Pages/Admin/Dependencies.php:20
 #: ./templates/default/admin/dependencies.tpl.php:4
 msgid "Dependencies"
-msgstr ""
+msgstr "Afhankelijkheden"
 
 #: ./Idno/Pages/Admin/Diagnostics.php:36
 #: ./templates/default/admin/diagnostics.tpl.php:45
 msgid "Basic checks on installation discovered no problems."
-msgstr ""
+msgstr "Basistests op de installatie ontdekten geen problemen."
 
 #: ./Idno/Pages/Admin/Diagnostics.php:56
 #: ./templates/default/admin/diagnostics.tpl.php:4
@@ -536,27 +536,34 @@ msgid ""
 "You appear to be running directly from a git checkout. While this is fine, "
 "you might find a pre-packaged version of Known more stable."
 msgstr ""
+"Je lijkt direct te werken vanaf een git checkout. Hoewel dit prima is, "
+"vindt u misschien een voorverpakte versie van Known stabieler."
+# You seem to be working right from a git checkout. While this is fine,
+# you may find a prepackaged version of Known more stable.
 
 #: ./Idno/Pages/Admin/Diagnostics.php:160
 msgid "We can't read data from %s - please check permissions and try again."
-msgstr ""
+msgstr "We kunnen geen gegevens van %s lezen - controleer machtigingen en "
+"probeer het opnieuw."
 
 #: ./Idno/Pages/Admin/Diagnostics.php:165
 msgid ""
 "We can't write data to %s - please check it is writable by your web server "
 "user."
 msgstr ""
+"We kunnen geen gegevens schrijven naar %s - controleer of deze kan worden "
+"geschreven door uw webservergebruiker."
 
 #: ./Idno/Pages/Admin/Diagnostics.php:170
 #: ./Idno/Pages/Admin/Diagnostics.php:175
 msgid "The upload path %s either doesn't exist or isn't a directory."
-msgstr ""
+msgstr "Het uploadpad %s bestaat niet of is geen map."
 
 #: ./Idno/Pages/Admin/Email.php:17
 #: ./templates/default/account/settings/following/mf2user.tpl.php:73
 #: ./templates/default/admin/menu.tpl.php:7
 msgid "Email"
-msgstr ""
+msgstr "E-mail"
 
 #: ./Idno/Pages/Admin/EmailTest.php:21
 msgid "Test email from %s!"
