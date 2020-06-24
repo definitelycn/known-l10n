@@ -638,11 +638,14 @@ msgid ""
 "Something went wrong, either no statistics were returned or it wasn't in the "
 "correct format."
 msgstr ""
+""
+"Er ging iets mis, ofwel geen statistieken werden geretourneerd of het was "
+"niet in het juiste formaat."
 
 #: ./Idno/Pages/Admin/Statistics.php:27
 #: ./templates/default/admin/statistics.tpl.php:4
 msgid "Statistics"
-msgstr ""
+msgstr "Statistieken"
 
 #: ./Idno/Pages/Admin/Themes.php:22
 #: ./templates/default/admin/menu.tpl.php:4
