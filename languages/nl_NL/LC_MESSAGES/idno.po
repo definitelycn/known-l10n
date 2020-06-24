@@ -651,11 +651,11 @@ msgstr "Statistieken"
 #: ./templates/default/admin/menu.tpl.php:4
 #: ./templates/default/admin/themes.tpl.php:4
 msgid "Themes"
-msgstr ""
+msgstr "Thema's"
 
 #: ./Idno/Pages/Admin/Themes.php:52
 msgid "The theme was enabled."
-msgstr ""
+msgstr "Het thema is ingeschakeld."
 
 #: ./Idno/Pages/Admin/Users.php:32
 msgid "User Management"
