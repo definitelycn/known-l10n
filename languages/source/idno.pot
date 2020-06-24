@@ -695,6 +695,22 @@ msgstr ""
 msgid "We removed copies on all the syndicated sites."
 msgstr ""
 
+#: ./Idno/Pages/File/Mint.php:24
+msgid "\"name\" (name of file) field needs to be supplied"
+msgstr ""
+
+#: ./Idno/Pages/File/Mint.php:28
+msgid "\"type\" (mime type) field needs to be supplied"
+msgstr ""
+
+#: ./Idno/Pages/File/Mint.php:32
+msgid "\"size\" (size in bytes) field needs to be supplied"
+msgstr ""
+
+#: ./Idno/Pages/File/Mint.php:46
+msgid "There was a problem getting an upload URL for the newly minted file"
+msgstr ""
+
 #: ./Idno/Pages/File/Picker.php:57
 msgid "You can only upload images."
 msgstr ""
