@@ -63,23 +63,24 @@ msgstr "Tuto stránku nelze najít."
 
 #: ./Idno/Common/Plugin.php:87
 msgid "Plugin %s doesn't have a version"
-msgstr ""
+msgstr "Plugin %s nemá verzi"
 
 #: ./Idno/Core/AsynchronousQueue.php:61
 msgid "No event passed"
-msgstr ""
+msgstr "Žádná událost nebyla předána."
 
 #: ./Idno/Core/AsynchronousQueue.php:64
 msgid "Event passed is not a queued event, and so can't be dispatched"
-msgstr ""
+msgstr "Předané události není událost ve frontě, a proto nemůže být odeslána"
 
 #: ./Idno/Core/AsynchronousQueue.php:67
 msgid "Sorry, this event has already been dispatched (but not yet cleaned up)"
 msgstr ""
+"Je nám líto, tato událost již byla odeslána (ale ještě nebyla vyčištěna)"
 
 #: ./Idno/Core/AsynchronousQueue.php:76
 msgid "Invalid user (%s) given for runAsContext, aborting"
-msgstr ""
+msgstr "Neplatný uživatel (%s) daný pro runAsContext, zastavení"
 
 #: ./Idno/Core/Config.php:268
 msgid "A social website powered by Known"
