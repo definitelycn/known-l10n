@@ -84,11 +84,12 @@ msgstr "Neplatný uživatel (%s) daný pro runAsContext, zastavení"
 
 #: ./Idno/Core/Config.php:268
 msgid "A social website powered by Known"
-msgstr ""
+msgstr "Sociální webové stránky poháněné Known"
 
 #: ./Idno/Core/Email.php:16
 msgid "Something went wrong and we couldn't create the email message to send."
 msgstr ""
+"Něco se pokazilo a my jsme nemohli vytvořit e-mailovou zprávu k odeslání."
 
 #: ./Idno/Core/JWT.php:82
 msgid "Identity token expired"
