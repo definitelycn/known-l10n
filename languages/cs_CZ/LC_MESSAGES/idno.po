@@ -30,34 +30,36 @@ msgstr "%s odpovědělo!"
 
 #: ./Idno/Common/Page.php:397
 msgid "Invalid token."
-msgstr ""
+msgstr "Neplatný token."
 
 #: ./Idno/Common/Page.php:414
 #: ./templates/default/pages/500.tpl.php:6
 msgid "Something went wrong."
-msgstr ""
+msgstr "Něco se pokazilo."
 
 #: ./Idno/Common/Page.php:479
 msgid "Attempted to redirect page to a non local URL."
 msgstr ""
+"Došlo k pokusu o přesměrování stránky na adresu URL, která není místní."
 
 #: ./Idno/Common/Page.php:569
 #: ./Idno/Common/Page.php:655
 msgid "The page you were on timed out."
-msgstr ""
+msgstr "Platnost stránky, na které jste byli, vypršela."
+# … expired.
 
 #: ./Idno/Common/Page.php:583
 #: ./Idno/Common/Page.php:669
 msgid "Couldn't say anything about execution, probably something went wrong"
-msgstr ""
+msgstr "Nemohl jsem říct nic o popravě, pravděpodobně se něco pokazilo"
 
 #: ./Idno/Common/Page.php:741
 msgid "This content isn't here."
-msgstr ""
+msgstr "Tento obsah tu není."
 
 #: ./Idno/Common/Page.php:757
 msgid "This page can't be found."
-msgstr ""
+msgstr "Tuto stránku nelze najít."
 
 #: ./Idno/Common/Plugin.php:87
 msgid "Plugin %s doesn't have a version"
