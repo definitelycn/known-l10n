@@ -705,15 +705,16 @@ msgstr "De uitnodiging is opnieuw verstuurd."
 
 #: ./Idno/Pages/Admin/Users.php:128
 msgid "You can't add any more users to your site."
-msgstr ""
+msgstr "U geen gebruikers meer toevoegen aan uw site."
 
 #: ./Idno/Pages/Admin/Users.php:141
 msgid "Please make sure your passwords match and aren't empty."
-msgstr ""
+msgstr "Zorg ervoor dat uw wachtwoorden overeenkomen en niet leeg zijn."
 
 #: ./Idno/Pages/Admin/Users.php:182
 msgid "User %s was created. You may wish to email them to let them know."
 msgstr ""
+"Gebruiker %s is gemaakt. U ze een e-mail sturen om het hen te laten weten."
 
 #: ./Idno/Pages/Admin/Users.php:205
 msgid "%d emails were blocked."
