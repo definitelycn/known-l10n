@@ -93,11 +93,11 @@ msgstr ""
 
 #: ./Idno/Core/JWT.php:82
 msgid "Identity token expired"
-msgstr ""
+msgstr "Platnost tokenu identity vypršela."
 
 #: ./Idno/Core/JWT.php:86
 msgid "Identity token is not valid"
-msgstr ""
+msgstr "Token identity není platný."
 
 #: ./Idno/Core/Service.php:24
 msgid "Missing X-Known-Service-Signature, service call is not possible."
