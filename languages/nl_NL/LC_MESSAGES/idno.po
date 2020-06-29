@@ -718,24 +718,24 @@ msgstr ""
 
 #: ./Idno/Pages/Admin/Users.php:205
 msgid "%d emails were blocked."
-msgstr ""
+msgstr "%d e-mailadressen werden geblokkeerd."
 
 #: ./Idno/Pages/Admin/Users.php:207
 msgid "The email address was blocked."
-msgstr ""
+msgstr "Het e-mailadres is geblokkeerd."
 
 #: ./Idno/Pages/Admin/Users.php:209
 #: ./Idno/Pages/Admin/Users.php:234
 msgid "No email addresses were found."
-msgstr ""
+msgstr "Er zijn geen e-mailadressen gevonden."
 
 #: ./Idno/Pages/Admin/Users.php:230
 msgid "%d emails were unblocked."
-msgstr ""
+msgstr "%d e-mailadressen werden gedeblokkeerd."
 
 #: ./Idno/Pages/Admin/Users.php:232
 msgid "The email address was unblocked."
-msgstr ""
+msgstr "Het e-mailadres is gedeblokkeerd."
 
 #: ./Idno/Pages/Annotation/Delete.php:42
 msgid "The annotation was deleted."
