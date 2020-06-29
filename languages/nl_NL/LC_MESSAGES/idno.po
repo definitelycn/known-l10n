@@ -659,45 +659,49 @@ msgstr "Het thema is ingeschakeld."
 
 #: ./Idno/Pages/Admin/Users.php:32
 msgid "User Management"
-msgstr ""
+msgstr "Gebruikersbeheer"
 
 #: ./Idno/Pages/Admin/Users.php:50
 msgid "%s was given administration rights."
-msgstr ""
+msgstr "%s kreeg bestuursrechten."
+# %s kreeg administratieve rechten.
 
 #: ./Idno/Pages/Admin/Users.php:58
 msgid "%s was stripped of their administration rights."
-msgstr ""
+msgstr "%s werd ontdaan van hun administratierechten."
 
 #: ./Idno/Pages/Admin/Users.php:65
 msgid "%s was removed from your site."
-msgstr ""
+msgstr "%s is van uw site verwijderd."
 
 #: ./Idno/Pages/Admin/Users.php:91
 msgid "%d invitations were sent."
-msgstr ""
+msgstr "Er werden %d uitnodigingen verstuurd."
 
 #: ./Idno/Pages/Admin/Users.php:93
 msgid "Your invitation was sent."
-msgstr ""
+msgstr "Je uitnodiging is verstuurd."
 
 #: ./Idno/Pages/Admin/Users.php:95
 msgid "Something went wrong and we couldn't send emails to your recipients."
-msgstr ""
+msgstr "Er ging iets mis en we konden geen e-mails naar uw ontvangers sturen."
 
 #: ./Idno/Pages/Admin/Users.php:97
 msgid ""
 "No email addresses were found or all the people you invited are already "
 "members of this site."
 msgstr ""
+"Er zijn geen e-mailadressen gevonden of alle mensen die u hebt uitgenodigd, "
+"zijn al lid van deze site."
 
 #: ./Idno/Pages/Admin/Users.php:105
 msgid "The invitation was removed."
-msgstr ""
+msgstr "De uitnodiging werd verwijderd."
 
 #: ./Idno/Pages/Admin/Users.php:119
 msgid "The invitation was resent."
-msgstr ""
+msgstr "De uitnodiging is opnieuw verstuurd."
+# The invitation was sent again.
 
 #: ./Idno/Pages/Admin/Users.php:128
 msgid "You can't add any more users to your site."
