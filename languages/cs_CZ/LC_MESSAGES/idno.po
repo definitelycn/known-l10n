@@ -101,31 +101,32 @@ msgstr "Token identity není platný."
 
 #: ./Idno/Core/Service.php:24
 msgid "Missing X-Known-Service-Signature, service call is not possible."
-msgstr ""
+msgstr "Chybějící X-Known-Service-Signature, servisní volání není možné."
 
 #: ./Idno/Core/Service.php:27
 msgid "Sorry, signature doesn't match up."
-msgstr ""
+msgstr "Promiňte, podpis se neshoduje."
 
 #: ./Idno/Core/Service.php:44
 msgid "Missing site secret"
-msgstr ""
+msgstr "Chybějící tajný klíč webu"
 
 #: ./Idno/Core/Service.php:53
 msgid "Url not provided to token generation."
-msgstr ""
+msgstr "Adresa URL, která není poskytnuta generátoru tokenů"
+# URL not provided to the token generator
 
 #: ./Idno/Core/Service.php:86
 msgid "Response from service endpoint was not json"
-msgstr ""
+msgstr "Odpověď z koncového bodu služby nebyla json"
 
 #: ./Idno/Core/Service.php:98
 msgid "No result from endpoint."
-msgstr ""
+msgstr "Žádný výsledek z koncového bodu."
 
 #: ./Idno/Core/Session.php:136
 msgid "Session funnybusiness: "
-msgstr ""
+msgstr "Zasedání legrační podnikání: "
 
 #: ./Idno/Core/Session.php:509
 #: ./Idno/Pages/Account/Register.php:64
@@ -134,6 +135,9 @@ msgid ""
 "Warning: Access credentials were sent over a non-secured connection! To "
 "disable this warning set disable_cleartext_warning in your config.ini"
 msgstr ""
+"Upozornění: Přístupová pověření byla odeslána přes nezabezpečená připojení! "
+"Zakázání této sady disable_cleartext_warning v souboru config.ini"
+# ?
 
 #: ./Idno/Core/Time.php:89
 msgid "hour"
