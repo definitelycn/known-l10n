@@ -182,10 +182,13 @@ msgid ""
 "sure you have it installed and configured, e.g. by running \"pecl install "
 "mongodb;\""
 msgstr ""
+"Vypadá to, že nemáte nainstalovaný nový ovladač mongodb (<a "
+"href=\"https://secure.php.net/manual/en/set.mongodb.php\">https://secure.php.net/manual/en/set.mongodb.php</a>)\n"
+"Ujistěte se, že máte nainstalovaný a nakonfigurovaný, například spuštěním \"pecl install mongodb;\""
 
 #: ./Idno/Entities/GenericDataItem.php:43
 msgid "GenericDataItem classes must have a datatype label set."
-msgstr ""
+msgstr "Třídy GenericDataItem musí mít nastavený popisek datového typu."
 
 #: ./Idno/Entities/Invitation.php:110
 msgid "You've been invited to join %s"
