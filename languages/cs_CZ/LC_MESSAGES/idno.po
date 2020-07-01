@@ -192,7 +192,7 @@ msgstr "Třídy GenericDataItem musí mít nastavený popisek datového typu."
 
 #: ./Idno/Entities/Invitation.php:110
 msgid "You've been invited to join %s"
-msgstr ""
+msgstr "Byli jste pozváni, abyste se připojili k %s"
 
 #: ./Idno/Files/FileSystem.php:63
 msgid "There is no error, the file uploaded with success"
