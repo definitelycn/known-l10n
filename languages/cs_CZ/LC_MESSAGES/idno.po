@@ -196,21 +196,23 @@ msgstr "Byli jste pozváni, abyste se připojili k %s"
 
 #: ./Idno/Files/FileSystem.php:63
 msgid "There is no error, the file uploaded with success"
-msgstr ""
+msgstr "Neexistuje žádná chyba, soubor nahraný s úspěchem"
 
 #: ./Idno/Files/FileSystem.php:64
 msgid "The uploaded file exceeds the upload_max_filesize directive in php.ini"
-msgstr ""
+msgstr "Nahraný soubor překračuje upload_max_filesize směrnice v php.ini"
 
 #: ./Idno/Files/FileSystem.php:65
 msgid ""
 "The uploaded file exceeds the MAX_FILE_SIZE directive that was specified in "
 "the HTML form"
 msgstr ""
+"Nahraný soubor překračuje MAX_FILE_SIZE direktivu, která byla zadána ve "
+"formuláři HTML."
 
 #: ./Idno/Files/FileSystem.php:66
 msgid "The uploaded file was only partially uploaded"
-msgstr ""
+msgstr "Nahraný soubor byl nahrán pouze částečně."
 
 #: ./Idno/Files/FileSystem.php:67
 msgid "No file was uploaded"
