@@ -216,19 +216,20 @@ msgstr "Nahraný soubor byl nahrán pouze částečně."
 
 #: ./Idno/Files/FileSystem.php:67
 msgid "No file was uploaded"
-msgstr ""
+msgstr "Nebyl odeslán žádný soubor"
 
 #: ./Idno/Files/FileSystem.php:68
 msgid "Missing a temporary folder"
-msgstr ""
+msgstr "Chybí dočasná složka"
 
 #: ./Idno/Files/FileSystem.php:69
 msgid "Failed to write file to disk."
-msgstr ""
+msgstr "Zápis souboru na disk se nezdařil."
 
 #: ./Idno/Files/FileSystem.php:70
 msgid "A PHP extension stopped the file upload."
-msgstr ""
+msgstr "Přípona PHP zastavila nahrávání souboru."
+# The PHP extension stopped uploading the file.
 
 #: ./Idno/Files/LocalFileSystem.php:86
 #: ./Idno/Files/LocalFileSystem.php:137
