@@ -758,27 +758,29 @@ msgstr "%s is geschrapt."
 
 #: ./Idno/Pages/Entity/Withdraw.php:48
 msgid "We removed copies on all the syndicated sites."
-msgstr ""
+msgstr "We hebben kopieën verwijderd op alle syndicated sites."
 
 #: ./Idno/Pages/File/Mint.php:24
 msgid "\"name\" (name of file) field needs to be supplied"
-msgstr ""
+msgstr "\"name\" (naam van het bestand) veld moet worden geleverd"
 
 #: ./Idno/Pages/File/Mint.php:28
 msgid "\"type\" (mime type) field needs to be supplied"
-msgstr ""
+msgstr "\"type\" (mimetype) veld moet worden geleverd"
 
 #: ./Idno/Pages/File/Mint.php:32
 msgid "\"size\" (size in bytes) field needs to be supplied"
-msgstr ""
+msgstr "\"size\" (grootte in bytes) veld moet worden geleverd"
 
 #: ./Idno/Pages/File/Mint.php:46
 msgid "There was a problem getting an upload URL for the newly minted file"
 msgstr ""
+"Er was een probleem met het krijgen van een upload-URL voor het nieuw "
+"geslagen bestand"
 
 #: ./Idno/Pages/File/Picker.php:57
 msgid "You can only upload images."
-msgstr ""
+msgstr "Je alleen afbeeldingen uploaden."
 
 #: ./Idno/Pages/Following/Add.php:23
 msgid "We couldn't find a feed at that site."
