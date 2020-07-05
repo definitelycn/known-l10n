@@ -234,17 +234,17 @@ msgstr "Přípona PHP zastavila nahrávání souboru."
 #: ./Idno/Files/LocalFileSystem.php:86
 #: ./Idno/Files/LocalFileSystem.php:137
 msgid "There was a problem storing the file data."
-msgstr ""
+msgstr "Při ukládání dat souboru došlo k potížím."
 
 #: ./Idno/Files/LocalFileSystem.php:89
 #: ./Idno/Files/LocalFileSystem.php:141
 msgid "There was a problem saving the file's metadata"
-msgstr ""
+msgstr "Při ukládání metadat souboru došlo k potížím."
 
 #: ./Idno/Files/LocalFileSystem.php:98
 #: ./Idno/Files/LocalFileSystem.php:150
 msgid "Something went wrong saving your file."
-msgstr ""
+msgstr "Při ukládání souboru se něco pokazilo."
 
 #: ./Idno/Files/LocalFileSystem.php:100
 #: ./Idno/Files/LocalFileSystem.php:152
@@ -252,6 +252,8 @@ msgid ""
 "Check that your upload directory is writeable by the web server and try "
 "again."
 msgstr ""
+"Zkontrolujte, zda je adresář pro nahrávání zapisovatelný webovým serverem, "
+"a akci opakujte."
 
 #: ./Idno/Pages/Account/Export.php:20
 #: ./templates/default/account/menu.tpl.php:11
