@@ -258,14 +258,14 @@ msgstr ""
 #: ./Idno/Pages/Account/Export.php:20
 #: ./templates/default/account/menu.tpl.php:11
 msgid "Export Data"
-msgstr ""
+msgstr "Exportovat data"
 
 #: ./Idno/Pages/Account/Notifications.php:36
 #: ./templates/default/account/notifications.tpl.php:4
 #: ./templates/default/settings-shell/toolbar/logged-in.tpl.php:4
 #: ./templates/default/shell/toolbar/logged-in.tpl.php:17
 msgid "Notifications"
-msgstr ""
+msgstr "Oznámení"
 
 #: ./Idno/Pages/Account/Password.php:26
 msgid "Password recovery email sent"
@@ -542,7 +542,7 @@ msgstr ""
 
 #: ./Idno/Pages/Admin/Export.php:17
 msgid "Export data"
-msgstr ""
+msgstr "Exportovat data"
 
 #: ./Idno/Pages/Admin/Homepage.php:25
 #: ./templates/default/admin/menu.tpl.php:6
