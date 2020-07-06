@@ -283,21 +283,23 @@ msgstr ""
 #: ./Idno/Pages/Account/Password/Reset.php:27
 #: ./templates/default/account/password/reset.tpl.php:37
 msgid "Reset password"
-msgstr ""
+msgstr "Resetování hesla"
 
 #: ./Idno/Pages/Account/Password/Reset.php:35
 msgid ""
 "The password reset code wasn't valid. They expire after three hours, so you "
 "might need to try again."
 msgstr ""
+"Kód pro obnovení hesla nebyl platný. Jejich platnost vyprší po třech "
+"hodinách, takže to možná budete muset zkusit znovu."
 
 #: ./Idno/Pages/Account/Password/Reset.php:58
 msgid "Your password was reset!"
-msgstr ""
+msgstr "Vaše heslo bylo resetováno!"
 
 #: ./Idno/Pages/Account/Password/Reset.php:64
 msgid "Sorry, your passwords either don't match, or are too weak"
-msgstr ""
+msgstr "Omlouváme se, ale vaše hesla se buď neshodují, nebo jsou příliš slabá"
 
 #: ./Idno/Pages/Account/Register.php:27
 msgid "This site is closed to new users."
