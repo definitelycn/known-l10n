@@ -303,22 +303,22 @@ msgstr "Omlouváme se, ale vaše hesla se buď neshodují, nebo jsou příliš s
 
 #: ./Idno/Pages/Account/Register.php:27
 msgid "This site is closed to new users."
-msgstr ""
+msgstr "Tento web je uzavřen pro nové uživatele."
 
 #: ./Idno/Pages/Account/Register.php:31
 #: ./Idno/Pages/Account/Register.php:69
 msgid "Your invitation doesn't seem to be valid, or has expired."
-msgstr ""
+msgstr "Vaše pozvánka se nezdá být platná nebo vypršela její platnost."
 
 #: ./Idno/Pages/Account/Register.php:39
 #: ./Idno/Pages/Account/Register.php:47
 msgid "Create a new account"
-msgstr ""
+msgstr "Vytvoření nového účtu"
 
 #: ./Idno/Pages/Account/Register.php:80
 #: ./Idno/Pages/Admin/Users.php:143
 msgid "Please enter a username and email address."
-msgstr ""
+msgstr "Zadejte uživatelské jméno a e-mailovou adresu."
 
 #: ./Idno/Pages/Account/Register.php:134
 #: ./Idno/Pages/Admin/Users.php:162
