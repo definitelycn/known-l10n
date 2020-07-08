@@ -347,6 +347,7 @@ msgid ""
 "Unfortunately, someone is already using that username. Please choose "
 "another."
 msgstr ""
+"Bohužel, někdo je již pomocí tohoto uživatelského jména. Zvolte prosím jinou."
 
 #: ./Idno/Pages/Account/Register.php:149
 #: ./Idno/Pages/Admin/Users.php:174
@@ -354,12 +355,15 @@ msgid ""
 "Hey, it looks like there's already an account with that email address. Did "
 "you forget your login?"
 msgstr ""
+"Hej, vypadá to, že už je tu účet s tou e-mailovou adresou. Zapomněl jsi "
+"své přihlašovací údaje?"
 
 #: ./Idno/Pages/Account/Register.php:152
 msgid ""
 "Please check that your passwords match and that your password is at least 7 "
 "characters long."
 msgstr ""
+"Zkontrolujte, zda se vaše hesla shodují a zda je heslo dlouhé alespoň 7 znaků."
 
 #: ./Idno/Pages/Account/Register.php:156
 #: ./Idno/Pages/Admin/Users.php:178
@@ -1052,7 +1056,7 @@ msgstr ""
 
 #: ./templates/default/account/register.tpl.php:34
 msgid "At least 7 characters please."
-msgstr ""
+msgstr "Alespoň 7 znaků, prosím."
 
 #: ./templates/default/account/register.tpl.php:37
 #: ./templates/default/account/register.tpl.php:44
@@ -2396,7 +2400,7 @@ msgstr ""
 
 #: ./templates/default/onboarding/register.tpl.php:26
 msgid "(at least 7 characters please)"
-msgstr ""
+msgstr "(alespoň 7 znaků, prosím)"
 
 #: ./templates/default/pages/403.tpl.php:7
 msgid "Click here to log in."
