@@ -368,17 +368,19 @@ msgstr ""
 #: ./Idno/Pages/Account/Register.php:156
 #: ./Idno/Pages/Admin/Users.php:178
 msgid "That doesn't seem like it's a valid email address."
-msgstr ""
+msgstr "To nevypadá, že je to platná e-mailová adresa."
 
 #: ./Idno/Pages/Account/Register.php:160
 msgid ""
 "You've registered! You're ready to get started. Why not add a post to say "
 "hello?"
 msgstr ""
+"Zaregistrovali jste se! Jste připraveni začít. Proč nepřidat příspěvek, "
+"abyste pozdravili?"
 
 #: ./Idno/Pages/Account/Register.php:164
 msgid "We couldn't register you."
-msgstr ""
+msgstr "Nemohli jsme vás zaregistrovat."
 
 #: ./Idno/Pages/Account/Settings/FeedbackConfirm.php:17
 msgid "Thank you for your feedback!"
