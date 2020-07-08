@@ -323,21 +323,23 @@ msgstr "Zadejte uživatelské jméno a e-mailovou adresu."
 #: ./Idno/Pages/Account/Register.php:134
 #: ./Idno/Pages/Admin/Users.php:162
 msgid "Please create a username."
-msgstr ""
+msgstr "Vytvořte uživatelské jméno."
 
 #: ./Idno/Pages/Account/Register.php:137
 #: ./Idno/Pages/Admin/Users.php:165
 msgid "Your username is too long."
-msgstr ""
+msgstr "Vaše uživatelské jméno je příliš dlouhé."
 
 #: ./Idno/Pages/Account/Register.php:140
 msgid "Usernames can only have letters, numbers and underscores."
-msgstr ""
+msgstr "Uživatelská jména mohou mít pouze písmena, čísla a podtržítka."
+# Only letters, numbers, and underscores can have user names.
+# ?
 
 #: ./Idno/Pages/Account/Register.php:143
 #: ./Idno/Pages/Admin/Users.php:168
 msgid "Usernames can't contain a slash %s character."
-msgstr ""
+msgstr "Uživatelská jména nemohou obsahovat znak lomítka %s."
 
 #: ./Idno/Pages/Account/Register.php:146
 #: ./Idno/Pages/Admin/Users.php:171
