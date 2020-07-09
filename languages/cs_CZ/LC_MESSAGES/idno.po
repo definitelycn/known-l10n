@@ -384,16 +384,16 @@ msgstr "Nemohli jsme vás zaregistrovat."
 
 #: ./Idno/Pages/Account/Settings/FeedbackConfirm.php:17
 msgid "Thank you for your feedback!"
-msgstr ""
+msgstr "Děkujeme vám za vaši zpětnou vazbu!"
 
 #: ./Idno/Pages/Account/Settings/Feedback.php:19
 #: ./templates/default/account/settings/feedback.tpl.php:37
 msgid "Send feedback"
-msgstr ""
+msgstr "Odeslat zpětnou vazbu"
 
 #: ./Idno/Pages/Account/Settings/Feedback.php:42
 msgid "Thanks! We received your feedback."
-msgstr ""
+msgstr "Dík! Obdrželi jsme vaši zpětnou vazbu."
 
 #: ./Idno/Pages/Account/Settings/Following/Bookmarklet.php:37
 msgid ""
