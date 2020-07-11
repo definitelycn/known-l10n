@@ -433,23 +433,23 @@ msgstr "Při ukládání nového vzdáleného uživatele došlo k potížím."
 
 #: ./Idno/Pages/Account/Settings/Following/Bookmarklet.php:170
 msgid "You are now following %s, would you like to subscribe to their feed?"
-msgstr ""
+msgstr "Nyní sledujete %s, chcete se přihlásit k odběru jejich zdroje?"
 
 #: ./Idno/Pages/Account/Settings/Following/Bookmarklet.php:175
 msgid "You are now following %s"
-msgstr ""
+msgstr "Nyní sledujete %s."
 
 #: ./Idno/Pages/Account/Settings/Following/Bookmarklet.php:180
 msgid "You're already following %s"
-msgstr ""
+msgstr "Již sledujete %s."
 
 #: ./Idno/Pages/Account/Settings/Following/Bookmarklet.php:183
 msgid "Sorry, that user doesn't exist!"
-msgstr ""
+msgstr "Je nám líto, tento uživatel neexistuje!"
 
 #: ./Idno/Pages/Account/Settings/Following/Bookmarklet.php:185
 msgid "No UUID, please try that again!"
-msgstr ""
+msgstr "Žádné UUID, zkuste to prosím znovu!"
 
 #: ./Idno/Pages/Account/Settings/Following.php:20
 msgid "Following settings"
