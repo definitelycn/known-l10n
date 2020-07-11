@@ -401,6 +401,9 @@ msgid ""
 "their profile in <a "
 "href=\"http://microformats.org/wiki/microformats-2\">Microformats</a>?"
 msgstr ""
+"Omlouváme se, nemohl najít žádné uživatele na této stránce, možná je třeba "
+"označit svůj profil v <a "
+"href=\"http://microformats.org/wiki/microformats-2\">Mikroformáty</a>?"
 
 #: ./Idno/Pages/Account/Settings/Following/Bookmarklet.php:51
 msgid ""
@@ -408,22 +411,25 @@ msgid ""
 "href=\"http://microformats.org/wiki/microformats-2\">Microformats</a> "
 "markup... doing my best with what I have!"
 msgstr ""
+"Stránka neobsahovala žádné <a "
+"href=\"http://microformats.org/wiki/microformats-2\">Mikroformáty</a> "
+"značky... dělám to nejlepší s tím, co mám!"
 
 #: ./Idno/Pages/Account/Settings/Following/Bookmarklet.php:60
 msgid "Found users"
-msgstr ""
+msgstr "Nalezené uživatele"
 
 #: ./Idno/Pages/Account/Settings/Following/Bookmarklet.php:64
 msgid "Sorry, there was a problem parsing the page!"
-msgstr ""
+msgstr "Omlouváme se, ale došlo k potížím s analýzou stránky!"
 
 #: ./Idno/Pages/Account/Settings/Following/Bookmarklet.php:66
 msgid "Sorry, %s could not be retrieved!"
-msgstr ""
+msgstr "Je nám líto, %s nelze načíst!"
 
 #: ./Idno/Pages/Account/Settings/Following/Bookmarklet.php:149
 msgid "There was a problem saving the new remote user."
-msgstr ""
+msgstr "Při ukládání nového vzdáleného uživatele došlo k potížím."
 
 #: ./Idno/Pages/Account/Settings/Following/Bookmarklet.php:170
 msgid "You are now following %s, would you like to subscribe to their feed?"
