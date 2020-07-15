@@ -469,25 +469,25 @@ msgstr "Nastavení účtu"
 
 #: ./Idno/Pages/Account/Settings.php:50
 msgid "Someone is already using %s as their email address."
-msgstr ""
+msgstr "Někdo již používá %s jako svou e-mailovou adresu."
 
 #: ./Idno/Pages/Account/Settings.php:56
 msgid "Your password has been updated."
-msgstr ""
+msgstr "Heslo bylo aktualizováno."
 
 #: ./Idno/Pages/Account/Settings.php:59
 msgid "Sorry, your password is too weak"
-msgstr ""
+msgstr "Je nám líto, vaše heslo je příliš slabé"
 
 #: ./Idno/Pages/Account/Settings.php:66
 msgid "Your details were saved."
-msgstr ""
+msgstr "Vaše údaje byly uloženy."
 
 #: ./Idno/Pages/Account/Settings/Tools.php:26
 #: ./templates/default/account/menu.tpl.php:8
 #: ./templates/default/account/settings/tools.tpl.php:9
 msgid "Tools and Apps"
-msgstr ""
+msgstr "Nástroje a aplikace"
 
 #: ./Idno/Pages/Admin/About.php:20
 #: ./templates/default/admin/about.tpl.php:5
