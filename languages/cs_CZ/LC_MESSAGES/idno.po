@@ -492,23 +492,23 @@ msgstr "Nástroje a aplikace"
 #: ./Idno/Pages/Admin/About.php:20
 #: ./templates/default/admin/about.tpl.php:5
 msgid "About Known"
-msgstr ""
+msgstr "O Known"
 
 #: ./Idno/Pages/Admin/Dependencies.php:20
 #: ./templates/default/admin/dependencies.tpl.php:4
 msgid "Dependencies"
-msgstr ""
+msgstr "Závislosti"
 
 #: ./Idno/Pages/Admin/Diagnostics.php:36
 #: ./templates/default/admin/diagnostics.tpl.php:45
 msgid "Basic checks on installation discovered no problems."
-msgstr ""
+msgstr "Základní kontroly instalace nezjistily žádné problémy."
 
 #: ./Idno/Pages/Admin/Diagnostics.php:56
 #: ./templates/default/admin/diagnostics.tpl.php:4
 #: ./templates/default/admin/menu.tpl.php:11
 msgid "Diagnostics"
-msgstr ""
+msgstr "Diagnostika"
 
 #: ./Idno/Pages/Admin/Diagnostics.php:78
 msgid ""
