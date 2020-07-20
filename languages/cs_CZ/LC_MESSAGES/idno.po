@@ -517,6 +517,10 @@ msgid ""
 "version!<br /> <a href=\"https://github.com/idno/Known\" "
 "target=\"_blank\">Update now.</a>"
 msgstr ""
+"Sestavení Known je za nejnovější verzi z Githubu (%s - %s). Pokud máte "
+"problémy, můžete zkusit aktualizovat na nejnovější verzi!<br /> "
+"<a href=\"https://github.com/idno/Known\" target=\"_blank\">"
+"Aktualizovat nyní.</a>"
 
 #: ./Idno/Pages/Admin/Diagnostics.php:97
 msgid ""
@@ -2705,7 +2709,7 @@ msgstr ""
 
 #: ./known.php:110
 msgid "Returns the current Known version as defined in version.known"
-msgstr ""
+msgstr "Vrátí aktuální verzi Known podle definice ve version.known."
 
 #: ./known.php:118
 msgid ""
@@ -2713,3 +2717,6 @@ msgid ""
 "%s). If you're having problems, you may want to try updating to the latest "
 "version.\nUpdate now: https://github.com/idno/Known\n"
 msgstr ""
+"Upozornění: Sestavení Known je za nejnovější verzi z Githubu (%s - %s). "
+"Pokud máte problémy, můžete zkusit aktualizovat na nejnovější verzi.\n"
+"Aktualizovat nyní: https://github.com/idno/Known\n"
