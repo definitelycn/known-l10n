@@ -530,18 +530,22 @@ msgstr ""
 
 #: ./Idno/Pages/Admin/Diagnostics.php:160
 msgid "We can't read data from %s - please check permissions and try again."
-msgstr ""
+msgstr "Nemůžeme číst data z %s - zkontrolujte oprávnění a akci opakujte."
 
 #: ./Idno/Pages/Admin/Diagnostics.php:165
 msgid ""
 "We can't write data to %s - please check it is writable by your web server "
 "user."
 msgstr ""
+"Nemůžeme zapisovat data do %s - ujistěte se, že uživatel webového serveru "
+"může zapisovat data."
+# We cannot write data to %s -
+# make sure that the web server user can write data.
 
 #: ./Idno/Pages/Admin/Diagnostics.php:170
 #: ./Idno/Pages/Admin/Diagnostics.php:175
 msgid "The upload path %s either doesn't exist or isn't a directory."
-msgstr ""
+msgstr "Cesta k nahrání %s buď neexistuje, nebo není adresářem."
 
 #: ./Idno/Pages/Admin/Email.php:17
 #: ./templates/default/account/settings/following/mf2user.tpl.php:73
