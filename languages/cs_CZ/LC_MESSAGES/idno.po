@@ -572,15 +572,15 @@ msgstr "Exportovat data"
 #: ./Idno/Pages/Admin/Homepage.php:25
 #: ./templates/default/admin/menu.tpl.php:6
 msgid "Homepage"
-msgstr ""
+msgstr "Domovskou stránku"
 
 #: ./Idno/Pages/Admin/Homepage.php:42
 msgid "The default homepage content types were saved."
-msgstr ""
+msgstr "Výchozí typy obsahu domovské stránky byly uloženy."
 
 #: ./Idno/Pages/Admin/Home.php:21
 msgid "Administration"
-msgstr ""
+msgstr "Správu"
 
 #: ./Idno/Pages/Admin/Import.php:18
 msgid "Import data"
