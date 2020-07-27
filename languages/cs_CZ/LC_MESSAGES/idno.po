@@ -626,21 +626,24 @@ msgid ""
 "Something went wrong, either no statistics were returned or it wasn't in the "
 "correct format."
 msgstr ""
+"Něco se pokazilo, buď nebyly vráceny žádné statistiky, nebo to nebylo "
+"ve správném formátu."
 
 #: ./Idno/Pages/Admin/Statistics.php:27
 #: ./templates/default/admin/statistics.tpl.php:4
 msgid "Statistics"
-msgstr ""
+msgstr "Statistiky"
 
 #: ./Idno/Pages/Admin/Themes.php:22
 #: ./templates/default/admin/menu.tpl.php:4
 #: ./templates/default/admin/themes.tpl.php:4
 msgid "Themes"
-msgstr ""
+msgstr "Témata"
 
 #: ./Idno/Pages/Admin/Themes.php:52
 msgid "The theme was enabled."
-msgstr ""
+msgstr "Téma byl povolen."
+# ?
 
 #: ./Idno/Pages/Admin/Users.php:32
 msgid "User Management"
