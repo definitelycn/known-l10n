@@ -584,24 +584,25 @@ msgstr "Správu"
 
 #: ./Idno/Pages/Admin/Import.php:18
 msgid "Import data"
-msgstr ""
+msgstr "Import dat"
 
 #: ./Idno/Pages/Admin/Import.php:33
 msgid "You need to upload an import file to continue."
-msgstr ""
+msgstr "Chcete-li pokračovat, musíte nahrát importovaný soubor."
+# ?
 
 #: ./Idno/Pages/Admin/Import.php:35
 msgid "We couldn't open the file you uploaded. Please try again."
-msgstr ""
+msgstr "Soubor, který jste nahráli, se nám nepodařilo otevřít. Opakovat"
 
 #: ./Idno/Pages/Admin/Import.php:37
 msgid "Your import has started. We'll email you when it's done."
-msgstr ""
+msgstr "Import byl zahájen. Až to bude hotové, pošleme ti e-mail."
 
 #: ./Idno/Pages/Admin/Logs.php:19
 #: ./templates/default/admin/logs.tpl.php:4
 msgid "Log capture"
-msgstr ""
+msgstr "Zachycení protokolu"
 
 #: ./Idno/Pages/Admin/Plugins.php:23
 #: ./templates/default/admin/menu.tpl.php:3
