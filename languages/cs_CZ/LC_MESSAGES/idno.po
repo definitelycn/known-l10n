@@ -609,17 +609,17 @@ msgstr "Zachycení protokolu"
 #: ./templates/default/admin/plugins/plugin.tpl.php:106
 #: ./templates/default/admin/plugins.tpl.php:5
 msgid "Plugins"
-msgstr ""
+msgstr "Pluginy"
 
 #: ./Idno/Pages/Admin/Plugins.php:44
 #: ./Idno/Pages/Admin/Plugins.php:49
 msgid "The plugin was enabled."
-msgstr ""
+msgstr "Plugin byl povolen."
 
 #: ./Idno/Pages/Admin/Plugins.php:58
 #: ./Idno/Pages/Admin/Plugins.php:63
 msgid "The plugin was disabled."
-msgstr ""
+msgstr "Plugin byl zakázán."
 
 #: ./Idno/Pages/Admin/Statistics.php:16
 msgid ""
