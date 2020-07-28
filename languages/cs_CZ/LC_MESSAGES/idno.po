@@ -647,19 +647,19 @@ msgstr "Téma byl povolen."
 
 #: ./Idno/Pages/Admin/Users.php:32
 msgid "User Management"
-msgstr ""
+msgstr "Správa uživatelů"
 
 #: ./Idno/Pages/Admin/Users.php:50
 msgid "%s was given administration rights."
-msgstr ""
+msgstr "Uživateli %s byla udělena práva správy."
 
 #: ./Idno/Pages/Admin/Users.php:58
 msgid "%s was stripped of their administration rights."
-msgstr ""
+msgstr "%s byla zbavena svých správních práv."
 
 #: ./Idno/Pages/Admin/Users.php:65
 msgid "%s was removed from your site."
-msgstr ""
+msgstr "%s bylo odebráno z vašeho webu."
 
 #: ./Idno/Pages/Admin/Users.php:91
 msgid "%d invitations were sent."
