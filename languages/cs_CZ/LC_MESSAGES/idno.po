@@ -663,29 +663,31 @@ msgstr "%s bylo odebráno z vašeho webu."
 
 #: ./Idno/Pages/Admin/Users.php:91
 msgid "%d invitations were sent."
-msgstr ""
+msgstr "Bylo odesláno %d pozvánek."
 
 #: ./Idno/Pages/Admin/Users.php:93
 msgid "Your invitation was sent."
-msgstr ""
+msgstr "Vaše pozvánka byla odeslána."
 
 #: ./Idno/Pages/Admin/Users.php:95
 msgid "Something went wrong and we couldn't send emails to your recipients."
-msgstr ""
+msgstr "Něco se pokazilo a nemohli jsme odeslat e-maily příjemcům."
 
 #: ./Idno/Pages/Admin/Users.php:97
 msgid ""
 "No email addresses were found or all the people you invited are already "
 "members of this site."
 msgstr ""
+"Nebyly nalezeny žádné e-mailové adresy nebo jsou všichni pozvaní "
+"uživatelé již členy tohoto webu."
 
 #: ./Idno/Pages/Admin/Users.php:105
 msgid "The invitation was removed."
-msgstr ""
+msgstr "Pozvánka byla odebrána."
 
 #: ./Idno/Pages/Admin/Users.php:119
 msgid "The invitation was resent."
-msgstr ""
+msgstr "Pozvánka byla odeslána znovu."
 
 #: ./Idno/Pages/Admin/Users.php:128
 msgid "You can't add any more users to your site."
