@@ -691,15 +691,16 @@ msgstr "Pozvánka byla odeslána znovu."
 
 #: ./Idno/Pages/Admin/Users.php:128
 msgid "You can't add any more users to your site."
-msgstr ""
+msgstr "Na svůj web nelze přidávat žádné další uživatele."
 
 #: ./Idno/Pages/Admin/Users.php:141
 msgid "Please make sure your passwords match and aren't empty."
-msgstr ""
+msgstr "Ujistěte se, že se vaše hesla shodují a nejsou prázdná."
 
 #: ./Idno/Pages/Admin/Users.php:182
 msgid "User %s was created. You may wish to email them to let them know."
 msgstr ""
+"Uživatel %s byl vytvořen. Možná budete chtít e-mailem jim, aby jim vědět."
 
 #: ./Idno/Pages/Admin/Users.php:205
 msgid "%d emails were blocked."
