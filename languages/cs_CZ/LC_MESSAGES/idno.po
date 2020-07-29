@@ -730,21 +730,23 @@ msgstr "Poznámka byla odstraněna."
 
 #: ./Idno/Pages/Entity/Attachment/Delete.php:21
 msgid "We couldn't find the post."
-msgstr ""
+msgstr "Nemohli jsme najít místo."
+# ?
 
 #: ./Idno/Pages/Entity/Delete.php:45
 msgid "We couldn't find the post to delete."
-msgstr ""
+msgstr "Nepodařilo se nám najít příspěvek, který bychom měli odstranit."
+# Nemohli jsme najít místo, které bychom měli odstranit.
 
 #: ./Idno/Pages/Entity/Delete.php:52
 #: ./Idno/Pages/Entity/View.php:125
 #: ./Idno/Pages/User/View.php:103
 msgid "%s was deleted."
-msgstr ""
+msgstr "%s bylo odstraněno."
 
 #: ./Idno/Pages/Entity/Withdraw.php:48
 msgid "We removed copies on all the syndicated sites."
-msgstr ""
+msgstr "Odstranili jsme kopie na všech syndikovaných stránkách."
 
 #: ./Idno/Pages/File/Mint.php:24
 msgid "\"name\" (name of file) field needs to be supplied"
