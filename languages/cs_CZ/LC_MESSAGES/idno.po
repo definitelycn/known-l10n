@@ -704,28 +704,29 @@ msgstr ""
 
 #: ./Idno/Pages/Admin/Users.php:205
 msgid "%d emails were blocked."
-msgstr ""
+msgstr "%d e-mailové adresy byly zablokovány."
 
 #: ./Idno/Pages/Admin/Users.php:207
 msgid "The email address was blocked."
-msgstr ""
+msgstr "E-mailová adresa byla zablokována."
 
 #: ./Idno/Pages/Admin/Users.php:209
 #: ./Idno/Pages/Admin/Users.php:234
 msgid "No email addresses were found."
-msgstr ""
+msgstr "Nebyly nalezeny žádné e-mailové adresy."
 
 #: ./Idno/Pages/Admin/Users.php:230
 msgid "%d emails were unblocked."
-msgstr ""
+msgstr "Byly odblokovány %d e-mailové adresy."
 
 #: ./Idno/Pages/Admin/Users.php:232
 msgid "The email address was unblocked."
-msgstr ""
+msgstr "E-mailová adresa byla odblokována."
 
 #: ./Idno/Pages/Annotation/Delete.php:42
 msgid "The annotation was deleted."
-msgstr ""
+msgstr "Poznámka byla odstraněna."
+# The note has been deleted.
 
 #: ./Idno/Pages/Entity/Attachment/Delete.php:21
 msgid "We couldn't find the post."
