@@ -750,23 +750,25 @@ msgstr "Odstranili jsme kopie na všech syndikovaných stránkách."
 
 #: ./Idno/Pages/File/Mint.php:24
 msgid "\"name\" (name of file) field needs to be supplied"
-msgstr ""
+msgstr "\"name\" (název souboru) by měl být dodán"
 
 #: ./Idno/Pages/File/Mint.php:28
 msgid "\"type\" (mime type) field needs to be supplied"
-msgstr ""
+msgstr "\"type\" (typ mime) by měl být dodán"
 
 #: ./Idno/Pages/File/Mint.php:32
 msgid "\"size\" (size in bytes) field needs to be supplied"
-msgstr ""
+msgstr "\"size\" (velikost v bytech) by měl být dodán"
 
 #: ./Idno/Pages/File/Mint.php:46
 msgid "There was a problem getting an upload URL for the newly minted file"
 msgstr ""
+"Došlo k potížím se získáním adresy URL pro nahrání nově raženého souboru."
+# There was a problem getting the URL to upload the newly minted file.
 
 #: ./Idno/Pages/File/Picker.php:57
 msgid "You can only upload images."
-msgstr ""
+msgstr "Můžete nahrávat pouze obrázky."
 
 #: ./Idno/Pages/Following/Add.php:23
 msgid "We couldn't find a feed at that site."
