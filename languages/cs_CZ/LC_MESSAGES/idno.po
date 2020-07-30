@@ -772,20 +772,22 @@ msgstr "Můžete nahrávat pouze obrázky."
 
 #: ./Idno/Pages/Following/Add.php:23
 msgid "We couldn't find a feed at that site."
-msgstr ""
+msgstr "Na tom místě jsme nenašli zdroj."
+# We didn't find the source at that location.
 
 #: ./Idno/Pages/Following/Confirm.php:24
 msgid "Subscribe to %s"
-msgstr ""
+msgstr "Přihlásit se k odběru %s"
 
 #: ./Idno/Pages/Following/Confirm.php:50
 msgid "You're following %s!"
-msgstr ""
+msgstr "Sledujete %s!"
+# You are watching &s!
 
 #: ./Idno/Pages/Following/Home.php:17
 #: ./templates/default/following/home.tpl.php:3
 msgid "Following"
-msgstr ""
+msgstr "Následující"
 
 #: ./Idno/Pages/Onboarding/Begin.php:23
 msgid "Welcome to Known"
