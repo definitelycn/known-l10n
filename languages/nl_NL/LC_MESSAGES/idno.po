@@ -827,20 +827,20 @@ msgstr "URL ontbreekt"
 #: ./Idno/Pages/Service/Web/ImageProxy.php:77
 #: ./Idno/Pages/Service/Web/ImageProxy.php:267
 msgid "There was a problem decoding the url"
-msgstr ""
+msgstr "Er was een probleem met het decoderen van de URL."
 
 #: ./Idno/Pages/Service/Web/ImageProxy.php:81
 #: ./Idno/Pages/Service/Web/ImageProxy.php:271
 msgid "No url specified"
-msgstr ""
+msgstr "Geen URL opgegeven."
 
 #: ./Idno/Pages/Service/Web/ImageProxy.php:222
 msgid "Could not save temporary file"
-msgstr ""
+msgstr "Kan geen tijdelijk bestand opslaan"
 
 #: ./Idno/Pages/Service/Web/ImageProxy.php:253
 msgid "Looks like something went wrong, image was zero bytes big!"
-msgstr ""
+msgstr "Het lijkt erop dat er iets mis ging, het beeld was nul bytes groot!"
 
 #: ./Idno/Pages/Service/Web/UrlUnfurl.php:20
 #: ./Idno/Pages/Service/Web/UrlUnfurl.php:47

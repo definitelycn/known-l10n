@@ -819,20 +819,20 @@ msgstr "Chybí adresa URL"
 #: ./Idno/Pages/Service/Web/ImageProxy.php:77
 #: ./Idno/Pages/Service/Web/ImageProxy.php:267
 msgid "There was a problem decoding the url"
-msgstr ""
+msgstr "Došlo k potížím s dekódováním adresy URL."
 
 #: ./Idno/Pages/Service/Web/ImageProxy.php:81
 #: ./Idno/Pages/Service/Web/ImageProxy.php:271
 msgid "No url specified"
-msgstr ""
+msgstr "Nebyla zadána žádná adresa URL."
 
 #: ./Idno/Pages/Service/Web/ImageProxy.php:222
 msgid "Could not save temporary file"
-msgstr ""
+msgstr "Dočasný soubor nelze uložit."
 
 #: ./Idno/Pages/Service/Web/ImageProxy.php:253
 msgid "Looks like something went wrong, image was zero bytes big!"
-msgstr ""
+msgstr "Vypadá to, že se něco pokazilo, obraz byl nula bajtů velký!"
 
 #: ./Idno/Pages/Service/Web/UrlUnfurl.php:20
 #: ./Idno/Pages/Service/Web/UrlUnfurl.php:47
