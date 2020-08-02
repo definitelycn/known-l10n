@@ -837,11 +837,11 @@ msgstr "Vypadá to, že se něco pokazilo, obraz byl nula bajtů velký!"
 #: ./Idno/Pages/Service/Web/UrlUnfurl.php:20
 #: ./Idno/Pages/Service/Web/UrlUnfurl.php:47
 msgid "You need to specify a working URL"
-msgstr ""
+msgstr "Musíte zadat platnou adresu URL."
 
 #: ./Idno/Pages/Service/Web/UrlUnfurl.php:69
 msgid "Url %s could not be unfurled"
-msgstr ""
+msgstr "Adresu URL %s nelze rozbalit."
 
 #: ./Idno/Pages/Session/CurrentUser.php:36
 #: ./Idno/Pages/User/View.php:72

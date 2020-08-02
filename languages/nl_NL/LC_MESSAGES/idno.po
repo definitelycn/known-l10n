@@ -845,11 +845,12 @@ msgstr "Het lijkt erop dat er iets mis ging, het beeld was nul bytes groot!"
 #: ./Idno/Pages/Service/Web/UrlUnfurl.php:20
 #: ./Idno/Pages/Service/Web/UrlUnfurl.php:47
 msgid "You need to specify a working URL"
-msgstr ""
+msgstr "U moet een werkende URL opgeven"
 
 #: ./Idno/Pages/Service/Web/UrlUnfurl.php:69
 msgid "Url %s could not be unfurled"
-msgstr ""
+msgstr "Url %s kan niet worden uitgegraven"
+# Url %s cannot be excavated
 
 #: ./Idno/Pages/Session/CurrentUser.php:36
 #: ./Idno/Pages/User/View.php:72
