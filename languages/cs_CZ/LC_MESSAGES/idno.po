@@ -873,11 +873,11 @@ msgstr "Odhlásili jste se. Zatím!"
 
 #: ./Idno/Pages/User/Edit.php:30
 msgid "Edit profile: %s"
-msgstr ""
+msgstr "Upravit profil: %s"
 
 #: ./Idno/Pages/Webmentions/Endpoint.php:19
 msgid "Webmention endpoint"
-msgstr ""
+msgstr "Webové zmínky Koncový bod"
 
 #: ./Idno/Stats/Timer.php:39
 #: ./Idno/Stats/TotalTimer.php:44
