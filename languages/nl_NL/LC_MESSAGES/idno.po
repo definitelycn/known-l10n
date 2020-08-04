@@ -883,11 +883,11 @@ msgstr "Je hebt je afgemeld. Tot gauw!"
 
 #: ./Idno/Pages/User/Edit.php:30
 msgid "Edit profile: %s"
-msgstr ""
+msgstr "Profiel bewerken: %s"
 
 #: ./Idno/Pages/Webmentions/Endpoint.php:19
 msgid "Webmention endpoint"
-msgstr ""
+msgstr "Webmentie eindpunt"
 
 #: ./Idno/Stats/Timer.php:39
 #: ./Idno/Stats/TotalTimer.php:44
