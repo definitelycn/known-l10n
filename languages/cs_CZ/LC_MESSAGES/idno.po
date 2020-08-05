@@ -945,26 +945,26 @@ msgstr "Stažení informačního kanálu RSS"
 
 #: ./templates/default/account/login.tpl.php:4
 msgid "Welcome back!"
-msgstr ""
+msgstr "Vítej zpět!"
 
 #: ./templates/default/account/login.tpl.php:14
 msgid "Your email address or username"
-msgstr ""
+msgstr "Vaše e-mailová adresa nebo uživatelské jméno"
 
 #: ./templates/default/account/login.tpl.php:17
 #: ./templates/default/account/settings.tpl.php:55
 msgid "Password"
-msgstr ""
+msgstr "Heslo"
 
 #: ./templates/default/account/login.tpl.php:36
 msgid "New here? Register for an account."
-msgstr ""
+msgstr "Nový? Zaregistrujte se k účtu."
 
 #: ./templates/default/account/login.tpl.php:40
 #: ./templates/email/account/password.tpl.php:2
 #: ./templates/email-text/account/password.tpl.php:1
 msgid "Forgot your password?"
-msgstr ""
+msgstr "Zapomněli jste heslo?"
 
 #: ./templates/default/account/menu.tpl.php:3
 msgid "Settings"
