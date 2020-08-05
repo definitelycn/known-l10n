@@ -979,12 +979,12 @@ msgstr "Bent u uw wachtwoord vergeten?"
 
 #: ./templates/default/account/menu.tpl.php:3
 msgid "Settings"
-msgstr ""
+msgstr "Instellingen"
 
 #: ./templates/default/account/menu.tpl.php:6
 #: ./templates/default/account/settings/notifications.tpl.php:12
 msgid "Email notifications"
-msgstr ""
+msgstr "E-mailmeldingen"
 
 #: ./templates/default/account/notifications.tpl.php:6
 msgid ""
