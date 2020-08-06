@@ -990,10 +990,11 @@ msgstr "E-mailmeldingen"
 msgid ""
 "The notifications screen shows you who has interacted with your content."
 msgstr ""
+"Het meldingsscherm laat zien wie er interactie heeft gehad met je inhoud."
 
 #: ./templates/default/account/notifications.tpl.php:25
 msgid "You don't have any notifications yet. But we love you anyway!"
-msgstr ""
+msgstr "Je hebt nog geen meldingen. Maar we houden toch van je!"
 
 #: ./templates/default/account/password/reset.tpl.php:5
 #: ./templates/default/account/password.tpl.php:6
