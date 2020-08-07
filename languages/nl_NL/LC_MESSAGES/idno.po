@@ -1034,19 +1034,23 @@ msgstr ""
 
 #: ./templates/default/account/password/sent.tpl.php:5
 msgid "Your password reset email has been sent"
-msgstr ""
+msgstr "Uw e-mail voor het opnieuw instellen van uw wachtwoord is verzonden"
 
 #: ./templates/default/account/password/sent.tpl.php:15
 msgid ""
 "Check your inbox! You'll find an email containing a special link that will "
 "help you reset your password."
 msgstr ""
+"Check je inbox! U vindt een e-mail met een speciale link waarmee u uw "
+"wachtwoord opnieuw instellen."
 
 #: ./templates/default/account/password/sent.tpl.php:18
 msgid ""
 "Did you remember your password? That's okay too. You can <a "
 "href=\"%s\">click here to sign in.</a>"
 msgstr ""
+"Weet je je wachtwoord nog? Dat is ook niet erg. U <a "
+"href=\"%s\">klik hier om in te loggen.</a>"
 
 #: ./templates/default/account/password.tpl.php:9
 msgid "Forgot your password? Don't worry! It happens to the best of us."
