@@ -988,11 +988,11 @@ msgstr "Zatím nemáte žádná oznámení. Ale my tě milujeme tak jako tak!"
 #: ./templates/default/account/password/reset.tpl.php:5
 #: ./templates/default/account/password.tpl.php:6
 msgid "Reset your password"
-msgstr ""
+msgstr "Resetování hesla"
 
 #: ./templates/default/account/password/reset.tpl.php:7
 msgid "To change your password, enter your new password below:"
-msgstr ""
+msgstr "Chcete-li změnit heslo, zadejte nové heslo níže:"
 
 #: ./templates/default/account/password/reset.tpl.php:16
 #: ./templates/default/account/password.tpl.php:18
@@ -1001,23 +1001,24 @@ msgstr ""
 #: ./templates/default/account/settings.tpl.php:42
 #: ./templates/default/onboarding/register.tpl.php:19
 msgid "Your email address"
-msgstr ""
+msgstr "Vaše e-mailová adresa"
 
 #: ./templates/default/account/password/reset.tpl.php:17
 msgid "The address associated with your %s account."
-msgstr ""
+msgstr "Adresa přidružená k vašemu účtu %s."
 
 #: ./templates/default/account/password/reset.tpl.php:23
 msgid "New password (7 characters or more)"
-msgstr ""
+msgstr "Nové heslo (7 a více znaků)"
 
 #: ./templates/default/account/password/reset.tpl.php:29
 msgid "Retype password"
-msgstr ""
+msgstr "Znovu zadejte heslo"
 
 #: ./templates/default/account/password/reset.tpl.php:30
 msgid "We ask you to enter the password twice to protect against typos."
 msgstr ""
+"Žádáme vás, abyste heslo zadali dvakrát, abyste se ochránili před překlepy."
 
 #: ./templates/default/account/password/sent.tpl.php:5
 msgid "Your password reset email has been sent"
