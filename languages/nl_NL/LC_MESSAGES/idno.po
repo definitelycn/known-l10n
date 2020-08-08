@@ -1055,6 +1055,8 @@ msgstr ""
 #: ./templates/default/account/password.tpl.php:9
 msgid "Forgot your password? Don't worry! It happens to the best of us."
 msgstr ""
+"Bent u uw wachtwoord vergeten? Maak je niet druk! Het overkomt de "
+"besten van ons."
 
 #: ./templates/default/account/password.tpl.php:10
 msgid ""
@@ -1062,14 +1064,17 @@ msgid ""
 "we'll send you a top secret link to your email account so that you can "
 "create a new password."
 msgstr ""
+"Voer hieronder het e-mailadres in dat is gekoppeld aan uw %s-account en "
+"we sturen u een topgeheime link naar uw e-mailaccount, zodat u een nieuw "
+"wachtwoord maken."
 
 #: ./templates/default/account/password.tpl.php:20
 msgid "me@awesome.com"
-msgstr ""
+msgstr "mij@geweldig.nl"
 
 #: ./templates/default/account/password.tpl.php:27
 msgid "Send password reset email"
-msgstr ""
+msgstr "E-mail voor het opnieuw instellen van wachtwoorden verzenden"
 
 #: ./templates/default/account/register.tpl.php:5
 #: ./templates/default/onboarding/register.tpl.php:3
