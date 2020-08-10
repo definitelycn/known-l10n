@@ -1112,16 +1112,16 @@ msgstr "Alespoň 7 znaků, prosím."
 #: ./templates/default/account/register.tpl.php:37
 #: ./templates/default/account/register.tpl.php:44
 msgid "secret-password"
-msgstr ""
+msgstr "tajné heslo"
 
 #: ./templates/default/account/register.tpl.php:42
 #: ./templates/default/onboarding/register.tpl.php:33
 msgid "Your password again"
-msgstr ""
+msgstr "Vaše heslo znovu"
 
 #: ./templates/default/account/register.tpl.php:49
 msgid "Create Account"
-msgstr ""
+msgstr "Vytvořit účet"
 
 #: ./templates/default/account/settings/feedback/confirm.tpl.php:5
 msgid "Message received!"
