@@ -1042,7 +1042,7 @@ msgstr ""
 
 #: ./templates/default/account/password.tpl.php:9
 msgid "Forgot your password? Don't worry! It happens to the best of us."
-msgstr ""
+msgstr "Zapomněli jste heslo? Neboj! Stává se to i nejlepším z nás."
 
 #: ./templates/default/account/password.tpl.php:10
 msgid ""
@@ -1050,14 +1050,17 @@ msgid ""
 "we'll send you a top secret link to your email account so that you can "
 "create a new password."
 msgstr ""
+"Stačí zadat e-mailovou adresu přidruženou k vašemu účtu %s a my vám "
+"pošleme přísně tajný odkaz na váš e-mailový účet, abyste si mohli "
+"vytvořit nové heslo."
 
 #: ./templates/default/account/password.tpl.php:20
 msgid "me@awesome.com"
-msgstr ""
+msgstr "mě@úžasné.cz"
 
 #: ./templates/default/account/password.tpl.php:27
 msgid "Send password reset email"
-msgstr ""
+msgstr "Odeslat e-mail pro obnovení hesla"
 
 #: ./templates/default/account/register.tpl.php:5
 #: ./templates/default/onboarding/register.tpl.php:3
