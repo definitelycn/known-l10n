@@ -1086,13 +1086,15 @@ msgstr "František Bílek"
 
 #: ./templates/default/account/register.tpl.php:20
 msgid "Choose a handle"
-msgstr ""
+msgstr "Výběr úchytu"
 
 #: ./templates/default/account/register.tpl.php:21
 msgid ""
 "Handles identify you throughout the site. Something simple is best: for "
 "example, <em>janedoe</em>."
 msgstr ""
+"Úchyty vás identifikují na celém webu. Něco jednoduchého je nejlepší: "
+"například <em>karel</em>."
 
 #: ./templates/default/account/register.tpl.php:23
 msgid "username"
@@ -1101,7 +1103,7 @@ msgstr ""
 #: ./templates/default/account/register.tpl.php:33
 #: ./templates/default/onboarding/register.tpl.php:25
 msgid "Create a password"
-msgstr ""
+msgstr "Vytvoření hesla"
 
 #: ./templates/default/account/register.tpl.php:34
 msgid "At least 7 characters please."

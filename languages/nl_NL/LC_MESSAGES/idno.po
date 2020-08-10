@@ -1100,22 +1100,25 @@ msgstr "Vincent Van Gogh"
 
 #: ./templates/default/account/register.tpl.php:20
 msgid "Choose a handle"
-msgstr ""
+msgstr "Kies een bijnaam"
+# Choose a nickname
 
 #: ./templates/default/account/register.tpl.php:21
 msgid ""
 "Handles identify you throughout the site. Something simple is best: for "
 "example, <em>janedoe</em>."
 msgstr ""
+"Bijnamen identificeren u op de hele site. Iets simpels is het beste: "
+"bijvoorbeeld <em>jan</em>."
 
 #: ./templates/default/account/register.tpl.php:23
 msgid "username"
-msgstr ""
+msgstr "gebruikersnaam"
 
 #: ./templates/default/account/register.tpl.php:33
 #: ./templates/default/onboarding/register.tpl.php:25
 msgid "Create a password"
-msgstr ""
+msgstr "Een wachtwoord maken"
 
 #: ./templates/default/account/register.tpl.php:34
 msgid "At least 7 characters please."
