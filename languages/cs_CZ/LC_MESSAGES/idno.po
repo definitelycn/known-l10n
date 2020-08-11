@@ -1125,17 +1125,20 @@ msgstr "Vytvořit účet"
 
 #: ./templates/default/account/settings/feedback/confirm.tpl.php:5
 msgid "Message received!"
-msgstr ""
+msgstr "Zpráva přijata!"
 
 #: ./templates/default/account/settings/feedback/confirm.tpl.php:9
 msgid "Thanks for sending along your thoughts. We'll read them right away."
-msgstr ""
+msgstr "Díky za zaslání spolu své myšlenky. Hned si je přečteme."
 
 #: ./templates/default/account/settings/feedback/confirm.tpl.php:22
 msgid ""
 "Feedback is a gift. For more information about Known, <a "
 "href=\"https://withknown.com/\">please visit our homepage</a>"
 msgstr ""
+"Zpětná vazba je dar. Další informace o Klownu naleznete na adrese <a "
+"href=\"https://withknown.com/\">navštivte naši domovskou stránku</a>"
+# ? repetition of visit
 
 #: ./templates/default/account/settings/feedback.tpl.php:5
 msgid "Share your feedback"
