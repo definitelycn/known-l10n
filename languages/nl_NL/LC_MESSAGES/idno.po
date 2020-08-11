@@ -1156,7 +1156,7 @@ msgstr ""
 
 #: ./templates/default/account/settings/feedback.tpl.php:5
 msgid "Share your feedback"
-msgstr ""
+msgstr "Deel uw feedback"
 
 #: ./templates/default/account/settings/feedback.tpl.php:9
 msgid ""
@@ -1164,26 +1164,28 @@ msgid ""
 "thoughts, suggestions, or ideas. We will personally read all of your "
 "feedback."
 msgstr ""
+"Wil je iets delen met het Known team? We lezen graag uw gedachten, "
+"suggesties of ideeën. We zullen persoonlijk al uw feedback lezen."
 
 #: ./templates/default/account/settings/feedback.tpl.php:21
 msgid "From"
-msgstr ""
+msgstr "Van"
 
 #: ./templates/default/account/settings/feedback.tpl.php:26
 msgid "To"
-msgstr ""
+msgstr "Aan"
 
 #: ./templates/default/account/settings/feedback.tpl.php:29
 msgid "Subject"
-msgstr ""
+msgstr "Onderwerp"
 
 #: ./templates/default/account/settings/feedback.tpl.php:29
 msgid "Feedback for the Known team"
-msgstr ""
+msgstr "Feedback voor het Known team"
 
 #: ./templates/default/account/settings/feedback.tpl.php:32
 msgid "Let us know what you think."
-msgstr ""
+msgstr "Laat ons weten wat je ervan vindt."
 
 #: ./templates/default/account/settings/following/bookmarklet.tpl.php:3
 #: ./templates/default/account/settings/following/mf2user.tpl.php:105
