@@ -1211,17 +1211,21 @@ msgstr "Profiel-URL"
 
 #: ./templates/default/account/settings/following.tpl.php:5
 msgid "Following..."
-msgstr ""
+msgstr "Volgende..."
 
 #: ./templates/default/account/settings/following.tpl.php:11
 msgid ""
 "Manage your subscriptions here. These users can also be given access to "
 "private content you produce on your site."
 msgstr ""
+"Beheer hier uw abonnementen. Deze gebruikers kunnen ook toegang krijgen "
+"tot privé-inhoud die u op uw site produceert."
 
 #: ./templates/default/account/settings/following.tpl.php:16
 msgid "Use this bookmarklet to make it easy to add new friends."
 msgstr ""
+"Gebruik deze bladwijzer om het eenvoudig te maken om nieuwe "
+"vrienden toe te voegen."
 
 #: ./templates/default/account/settings/notifications.tpl.php:17
 msgid ""
