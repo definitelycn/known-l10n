@@ -1175,23 +1175,23 @@ msgstr "Dejte nám vědět, co si myslíte."
 #: ./templates/default/account/settings/following/bookmarklet.tpl.php:3
 #: ./templates/default/account/settings/following/mf2user.tpl.php:105
 msgid "Add as friend..."
-msgstr ""
+msgstr "Přidat jako přítele..."
 
 #: ./templates/default/account/settings/following/mf2user.tpl.php:55
 msgid "Name"
-msgstr ""
+msgstr "Jméno"
 
 #: ./templates/default/account/settings/following/mf2user.tpl.php:64
 msgid "Nickname"
-msgstr ""
+msgstr "Přezdívka"
 
 #: ./templates/default/account/settings/following/mf2user.tpl.php:67
 msgid "Handle (for your reference)"
-msgstr ""
+msgstr "Rukojeť (pro referenci)"
 
 #: ./templates/default/account/settings/following/mf2user.tpl.php:82
 msgid "Profile URL"
-msgstr ""
+msgstr "Adresa URL profilu"
 
 #: ./templates/default/account/settings/following.tpl.php:5
 msgid "Following..."
