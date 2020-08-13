@@ -1190,23 +1190,24 @@ msgstr "Laat ons weten wat je ervan vindt."
 #: ./templates/default/account/settings/following/bookmarklet.tpl.php:3
 #: ./templates/default/account/settings/following/mf2user.tpl.php:105
 msgid "Add as friend..."
-msgstr ""
+msgstr "Toevoegen als vriend..."
 
 #: ./templates/default/account/settings/following/mf2user.tpl.php:55
 msgid "Name"
-msgstr ""
+msgstr "Naam"
 
 #: ./templates/default/account/settings/following/mf2user.tpl.php:64
 msgid "Nickname"
-msgstr ""
+msgstr "Nicknaam"
 
 #: ./templates/default/account/settings/following/mf2user.tpl.php:67
 msgid "Handle (for your reference)"
-msgstr ""
+msgstr "Handle (voor uw referentie)"
+# Bijnaam
 
 #: ./templates/default/account/settings/following/mf2user.tpl.php:82
 msgid "Profile URL"
-msgstr ""
+msgstr "Profiel-URL"
 
 #: ./templates/default/account/settings/following.tpl.php:5
 msgid "Following..."
