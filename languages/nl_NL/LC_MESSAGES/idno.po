@@ -1232,38 +1232,43 @@ msgid ""
 "Set how you'd like to be notified when someone stars or comments on your "
 "content."
 msgstr ""
+"Stel in hoe je op de hoogte wilt worden gesteld wanneer iemand een ster "
+"of commentaar geeft op je inhoud."
+# ?
 
 #: ./templates/default/account/settings/notifications.tpl.php:26
 msgid "Send email notifications"
-msgstr ""
+msgstr "E-mailmeldingen verzenden"
 
 #: ./templates/default/account/settings/notifications.tpl.php:34
 msgid "Whenever someone interacts with my content"
-msgstr ""
+msgstr "Wanneer iemand interactie heeft met mijn inhoud"
 
 #: ./templates/default/account/settings/notifications.tpl.php:44
 msgid "Only when someone comments on my content"
-msgstr ""
+msgstr "Alleen als iemand commentaar geeft op mijn inhoud"
 
 #: ./templates/default/account/settings/notifications.tpl.php:54
 #: ./templates/default/forms/components/usersearch/user.tpl.php:45
 msgid "Never"
-msgstr ""
+msgstr "Nooit"
 
 #: ./templates/default/account/settings/notifications.tpl.php:63
 msgid "Ignored Domains"
-msgstr ""
+msgstr "Genegeerde domeinen"
 
 #: ./templates/default/account/settings/notifications.tpl.php:64
 msgid ""
 "Do not send notifications for interactions originating from these domains "
 "(one domain per line)"
 msgstr ""
+"Stuur geen meldingen voor interacties die afkomstig zijn van deze domeinen "
+"(één domein per regel)"
 
 #: ./templates/default/account/settings/notifications.tpl.php:75
 #: ./templates/default/admin/email.tpl.php:142
 msgid "Save settings"
-msgstr ""
+msgstr "Instellingen opslaan"
 
 #: ./templates/default/account/settings/tools.tpl.php:13
 msgid "Bookmarklet"
