@@ -1274,13 +1274,15 @@ msgstr ""
 
 #: ./templates/default/account/settings/tools.tpl.php:42
 msgid "Don't see a bookmarks bar?"
-msgstr ""
+msgstr "Nevidíte panel záložek?"
 
 #: ./templates/default/account/settings/tools.tpl.php:45
 msgid ""
 "Sometimes web browsers have their bookmarked links bar hidden by default. "
 "Here's how to reveal it:"
 msgstr ""
+"Někdy mají webové prohlížeče ve výchozím nastavení skrytý pruh odkazů se "
+"záložkami. Zde je návod, jak to odhalit:"
 
 #: ./templates/default/account/settings/tools.tpl.php:47
 msgid "Chrome"
