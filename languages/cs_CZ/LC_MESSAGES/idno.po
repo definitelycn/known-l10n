@@ -1302,11 +1302,11 @@ msgstr ""
 # This separation does not work for the Czech language
 #: ./templates/default/account/settings/tools.tpl.php:48
 msgid "Select <em>View</em>, then <em>Toolbars</em>, and make sure"
-msgstr "Vyberte <em>Zobrazit</em>, pak <em>Obsady</em> a ujistěte se, že"
+msgstr "Vyberte <em>Zobrazit</em>, pak <em>Nástrojové lišty</em> a ujistěte se, že"
 
 #: ./templates/default/account/settings/tools.tpl.php:49
 msgid "Bookmarks Toolbar"
-msgstr ""
+msgstr "Lišta záložek"
 
 #: ./templates/default/account/settings/tools.tpl.php:49
 msgid "is checked."
@@ -1316,8 +1316,8 @@ msgid ""
 "Select <em>View</em>, then <em>Toolbars</em>, and make sure "
 "<em>Bookmarks Toolbar</em> is checked."
 msgstr ""
-"Vyberte <em>Zobrazit</em>, pak <em>Obtěžky</em> a ujistěte se, že je "
-"zaškrtnuto <em>Zobrazení panelu nástrojů</em>."
+"Vyberte <em>Zobrazit</em>, pak <em>Nástrojové lišty</em> a ujistěte se, že je "
+"zaškrtnuto <em>Lišta záložek</em>."
 # ?
 
 #: ./templates/default/account/settings/tools.tpl.php:50
