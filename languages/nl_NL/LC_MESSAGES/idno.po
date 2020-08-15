@@ -1334,24 +1334,28 @@ msgstr ""
 msgid ""
 "Select <em>Tools</em>, then make sure <em>Favorites Bar</em> is checked."
 msgstr ""
+"Selecteer <em>Tools</em> en controleer of <em>Favorieten Bar</em> "
+"is ingeschakeld."
 
 #: ./templates/default/account/settings/tools.tpl.php:65
 msgid "Your API key"
-msgstr ""
+msgstr "Uw API-sleutel"
 
 #: ./templates/default/account/settings/tools.tpl.php:70
 msgid "Click to show"
-msgstr ""
+msgstr "Klik hier om weer te geven"
 
 #: ./templates/default/account/settings/tools.tpl.php:76
 msgid "Revoke"
-msgstr ""
+msgstr "Intrekken"
 
 #: ./templates/default/account/settings/tools.tpl.php:76
 msgid ""
 "Revoking this key will mean you must update any applications that use this "
 "key!"
 msgstr ""
+"Het intrekken van deze sleutel betekent dat u alle toepassingen die deze "
+"sleutel gebruiken moet bijwerken!"
 
 #: ./templates/default/account/settings.tpl.php:9
 #: ./templates/default/settings-shell/toolbar/logged-in.tpl.php:13

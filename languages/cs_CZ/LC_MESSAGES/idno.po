@@ -1328,24 +1328,29 @@ msgstr ""
 msgid ""
 "Select <em>Tools</em>, then make sure <em>Favorites Bar</em> is checked."
 msgstr ""
+"Vyberte <em>Nástavy</em> a pak zkontrolujte, zda je zaškrtnuto "
+"<em>Panel oblíbené položky</em>."
 
 #: ./templates/default/account/settings/tools.tpl.php:65
 msgid "Your API key"
-msgstr ""
+msgstr "Váš klíč rozhraní API"
 
 #: ./templates/default/account/settings/tools.tpl.php:70
 msgid "Click to show"
-msgstr ""
+msgstr "Klikněte pro zobrazení"
 
 #: ./templates/default/account/settings/tools.tpl.php:76
 msgid "Revoke"
-msgstr ""
+msgstr "Odejmout"
+# Odvolat
 
 #: ./templates/default/account/settings/tools.tpl.php:76
 msgid ""
 "Revoking this key will mean you must update any applications that use this "
 "key!"
 msgstr ""
+"Odvolání tohoto klíče bude znamenat, že musíte aktualizovat všechny "
+"aplikace, které používají tento klíč!"
 
 #: ./templates/default/account/settings.tpl.php:9
 #: ./templates/default/settings-shell/toolbar/logged-in.tpl.php:13
