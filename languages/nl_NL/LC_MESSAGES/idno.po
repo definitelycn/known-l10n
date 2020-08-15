@@ -1279,11 +1279,14 @@ msgid ""
 "The Known bookmarklet is the best way to save links, reply to posts, and "
 "share articles."
 msgstr ""
+"De Known bookmarklet is de beste manier om links op te slaan, berichten "
+"te beantwoorden en artikelen te delen."
 
 #: ./templates/default/account/settings/tools.tpl.php:23
 msgid ""
 "Just drag the bookmarklet button below into your browser's Bookmark Bar."
 msgstr ""
+"Sleep de bladwijzerknop hieronder naar de bladwijzerbalk van uw browser."
 
 #: ./templates/default/account/settings/tools.tpl.php:42
 msgid "Don't see a bookmarks bar?"

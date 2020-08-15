@@ -1262,11 +1262,15 @@ msgid ""
 "The Known bookmarklet is the best way to save links, reply to posts, and "
 "share articles."
 msgstr ""
+"Known bookmarklet je nejlepší způsob, jak ukládat odkazy, odpovídat na "
+"příspěvky a sdílet články."
+# ?
 
 #: ./templates/default/account/settings/tools.tpl.php:23
 msgid ""
 "Just drag the bookmarklet button below into your browser's Bookmark Bar."
 msgstr ""
+"Stačí přetáhnout tlačítko záložky níže do záložky bar vašeho prohlížeče."
 
 #: ./templates/default/account/settings/tools.tpl.php:42
 msgid "Don't see a bookmarks bar?"
