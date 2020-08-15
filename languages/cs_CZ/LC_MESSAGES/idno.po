@@ -1291,14 +1291,18 @@ msgstr ""
 #: ./templates/default/account/settings/tools.tpl.php:47
 msgid "Select <em>Always Show Bookmarks Bar</em> from the <em>View</em> menu."
 msgstr ""
+"V nabídce <em> Zobrazit</em> vyberte <em>Kadýlce zobrazit panel </em> "
+"záložky."
+# ?
 
 #: ./templates/default/account/settings/tools.tpl.php:48
 msgid "Firefox"
 msgstr ""
 
+# This separation does not work for the Czech language
 #: ./templates/default/account/settings/tools.tpl.php:48
 msgid "Select <em>View</em>, then <em>Toolbars</em>, and make sure"
-msgstr ""
+msgstr "Vyberte <em>Zobrazit</em>, pak <em>Obsady</em> a ujistěte se, že"
 
 #: ./templates/default/account/settings/tools.tpl.php:49
 msgid "Bookmarks Toolbar"
@@ -1307,6 +1311,14 @@ msgstr ""
 #: ./templates/default/account/settings/tools.tpl.php:49
 msgid "is checked."
 msgstr ""
+
+msgid ""
+"Select <em>View</em>, then <em>Toolbars</em>, and make sure "
+"<em>Bookmarks Toolbar</em> is checked."
+msgstr ""
+"Vyberte <em>Zobrazit</em>, pak <em>Obtěžky</em> a ujistěte se, že je "
+"zaškrtnuto <em>Zobrazení panelu nástrojů</em>."
+# ?
 
 #: ./templates/default/account/settings/tools.tpl.php:50
 msgid "Internet Explorer"
