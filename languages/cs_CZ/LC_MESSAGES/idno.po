@@ -1356,17 +1356,19 @@ msgstr ""
 #: ./templates/default/settings-shell/toolbar/logged-in.tpl.php:13
 #: ./templates/default/shell/toolbar/logged-in.tpl.php:19
 msgid "Account Settings"
-msgstr ""
+msgstr "Nastavení účtu"
 
 #: ./templates/default/account/settings.tpl.php:14
 msgid ""
 "Change your user account settings here. You may also want to <a "
 "href=\"%s\">edit your profile</a>."
 msgstr ""
+"Zde změňte nastavení uživatelského účtu. Můžete také <a "
+"href=\"%s\">upravit profil</a>."
 
 #: ./templates/default/account/settings.tpl.php:45
 msgid "Site notifications will be sent here."
-msgstr ""
+msgstr "Oznámení na webu budou odeslána zde."
 
 #: ./templates/default/account/settings.tpl.php:51
 msgid "Your password"
