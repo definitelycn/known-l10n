@@ -1403,15 +1403,15 @@ msgstr ""
 
 #: ./templates/default/admin/about.tpl.php:15
 msgid "is a social publishing platform for groups and individuals."
-msgstr ""
+msgstr "je sociální publikační platforma pro skupiny a jednotlivce."
 
 #: ./templates/default/admin/about.tpl.php:17
 msgid "Open source project details"
-msgstr ""
+msgstr "Podrobnosti o projektu s otevřeným zdrojovým kódem"
 
 #: ./templates/default/admin/about.tpl.php:20
 msgid "Version: %s+%s"
-msgstr ""
+msgstr "Verze: %s+%s"
 
 #: ./templates/default/admin/dependencies/build.tpl.php:2
 #: ./templates/default/admin/dependencies/idno.tpl.php:2
