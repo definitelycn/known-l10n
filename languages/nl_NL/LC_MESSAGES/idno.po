@@ -1368,10 +1368,13 @@ msgid ""
 "Change your user account settings here. You may also want to <a "
 "href=\"%s\">edit your profile</a>."
 msgstr ""
+"Wijzig hier de instellingen van uw gebruikersaccount. U ook <a "
+"href=\"%s\">uw profiel bewerken</a>."
+# ?
 
 #: ./templates/default/account/settings.tpl.php:45
 msgid "Site notifications will be sent here."
-msgstr ""
+msgstr "Site meldingen worden hier verzonden."
 
 #: ./templates/default/account/settings.tpl.php:51
 msgid "Your password"
