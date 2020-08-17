@@ -1372,28 +1372,29 @@ msgstr "Oznámení na webu budou odeslána zde."
 
 #: ./templates/default/account/settings.tpl.php:51
 msgid "Your password"
-msgstr ""
+msgstr "Vaše heslo"
 
 #: ./templates/default/account/settings.tpl.php:58
 msgid "Leave this blank if you don't want to change it."
-msgstr ""
+msgstr "Pokud to nechcete změnit, ponechte toto pole prázdné."
+# If you do not want to change this, leave this field blank.
 
 #: ./templates/default/account/settings.tpl.php:64
 msgid "Your timezone"
-msgstr ""
+msgstr "Vaše časové pásmo."
 
 #: ./templates/default/account/settings.tpl.php:73
 msgid "Timezone"
-msgstr ""
+msgstr "Časové pásmo."
 
 #: ./templates/default/account/settings.tpl.php:78
 msgid "Specify your timezone."
-msgstr ""
+msgstr "Zadejte časové pásmo."
 
 #: ./templates/default/account/settings.tpl.php:83
 #: ./templates/default/admin/home.tpl.php:281
 msgid "Save updates"
-msgstr ""
+msgstr "Uložit aktualizace"
 
 #: ./templates/default/admin/about.tpl.php:15
 #: ./templates/default/admin/import.tpl.php:24
