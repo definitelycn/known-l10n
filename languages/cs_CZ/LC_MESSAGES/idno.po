@@ -1417,11 +1417,11 @@ msgstr "Verze: %s+%s"
 #: ./templates/default/admin/dependencies/idno.tpl.php:2
 #: ./templates/default/admin/dependencies/php.tpl.php:2
 msgid "%s installed"
-msgstr ""
+msgstr "%s nainstalováno"
 
 #: ./templates/default/admin/dependencies/plugin.tpl.php:30
 msgid "(v%s required)"
-msgstr ""
+msgstr "(v%s povinné)"
 
 #: ./templates/default/admin/dependencies.tpl.php:8
 msgid ""
