@@ -1430,6 +1430,10 @@ msgid ""
 "need help installing any required packages, ask your web host or system "
 "administrator."
 msgstr ""
+"Níže jsou uvedeny následující součásti systému, které jsou požadovány pro "
+"Known plně spustit. Stojí za to zkontrolovat, zda jsou všechny nainstalovány. "
+"Pokud potřebujete pomoc s instalací požadovaných balíčků, zeptejte se svého "
+"webového hostitele nebo správce systému."
 
 #: ./templates/default/admin/dependencies.tpl.php:17
 msgid "PHP"
@@ -1437,11 +1441,11 @@ msgstr ""
 
 #: ./templates/default/admin/dependencies.tpl.php:19
 msgid "Version %s or greater"
-msgstr ""
+msgstr "Verze %s nebo vyšší"
 
 #: ./templates/default/admin/dependencies.tpl.php:27
 msgid "PHP extensions required"
-msgstr ""
+msgstr "Nutná rozšíření PHP"
 
 #: ./templates/default/admin/dependencies.tpl.php:28
 msgid ""
@@ -1449,6 +1453,9 @@ msgid ""
 "database storage, webmentions, etc. Click an extension name to learn more "
 "about it, including installation instructions."
 msgstr ""
+"Ty rozšiřují způsob, jakým PHP funguje, a jsou vyžadovány pro funkce, "
+"jako je úložiště databáze, webmentions, atd. Kliknutím na název rozšíření "
+"získáte další informace, včetně pokynů k instalaci."
 
 #: ./templates/default/admin/diagnostics.tpl.php:9
 msgid ""
