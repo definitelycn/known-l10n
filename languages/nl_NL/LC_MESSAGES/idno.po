@@ -1482,7 +1482,7 @@ msgstr "Genereren..."
 
 #: ./templates/default/admin/email.tpl.php:5
 msgid "Email settings"
-msgstr ""
+msgstr "E-mailinstellingen"
 
 #: ./templates/default/admin/email.tpl.php:9
 msgid ""
@@ -1491,6 +1491,11 @@ msgid ""
 "email using an external provider - enter the new SMTP settings below. You "
 "can also <a href=\"%s\">change your notification settings</a>."
 msgstr ""
+"Known probeert e-mail te verzenden via de standaard e-mailinstellingen van "
+"uw server. Als u wilt dat het iets anders doet - bijvoorbeeld als u e-mail "
+"wilt verzenden via een externe provider - voert u de nieuwe "
+"SMTP-instellingen hieronder in. U ook <a href=\"%s\">uw "
+"meldingsinstellingen wijzigen</a>."
 
 #: ./templates/default/admin/email.tpl.php:20
 msgid ""
