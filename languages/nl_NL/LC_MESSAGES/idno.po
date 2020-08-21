@@ -1436,6 +1436,10 @@ msgid ""
 "need help installing any required packages, ask your web host or system "
 "administrator."
 msgstr ""
+"De volgende zijn systeemcomponenten die nodig zijn om Known volledig te "
+"laten draaien. Het is de moeite waard om te controleren of ze allemaal "
+"zijn geïnstalleerd. Als u hulp nodig hebt bij het installeren van de "
+"vereiste pakketten, vraagt u dit aan uw webhost of systeembeheerder."
 
 #: ./templates/default/admin/dependencies.tpl.php:17
 msgid "PHP"
@@ -1443,11 +1447,11 @@ msgstr ""
 
 #: ./templates/default/admin/dependencies.tpl.php:19
 msgid "Version %s or greater"
-msgstr ""
+msgstr "Versie %s of hoger"
 
 #: ./templates/default/admin/dependencies.tpl.php:27
 msgid "PHP extensions required"
-msgstr ""
+msgstr "PHP-extensies vereist"
 
 #: ./templates/default/admin/dependencies.tpl.php:28
 msgid ""
@@ -1455,6 +1459,9 @@ msgid ""
 "database storage, webmentions, etc. Click an extension name to learn more "
 "about it, including installation instructions."
 msgstr ""
+"Deze breiden de manier waarop PHP werkt, en zijn vereist voor "
+"functionaliteit zoals database-opslag, webmentions, enz. Klik op een "
+"extensienaam voor meer informatie, inclusief installatie-instructies."
 
 #: ./templates/default/admin/diagnostics.tpl.php:9
 msgid ""
