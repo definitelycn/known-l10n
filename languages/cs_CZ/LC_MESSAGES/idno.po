@@ -1476,7 +1476,7 @@ msgstr "Generování..."
 
 #: ./templates/default/admin/email.tpl.php:5
 msgid "Email settings"
-msgstr ""
+msgstr "Nastavení e-mailu"
 
 #: ./templates/default/admin/email.tpl.php:9
 msgid ""
@@ -1485,6 +1485,10 @@ msgid ""
 "email using an external provider - enter the new SMTP settings below. You "
 "can also <a href=\"%s\">change your notification settings</a>."
 msgstr ""
+"Known se pokusí odeslat e-mail pomocí výchozího nastavení e-mailu vašeho "
+"serveru. Pokud chcete, aby to udělalo něco jiného - například pokud chcete "
+"odeslat e-mail pomocí externího poskytovatele - zadejte nové nastavení SMTP "
+"níže. Můžete také <a href=\"%s\">změnit nastavení oznámení</a>."
 
 #: ./templates/default/admin/email.tpl.php:20
 msgid ""
