@@ -1501,15 +1501,17 @@ msgstr ""
 msgid ""
 "Fill in the site email address if you would like your site to send email."
 msgstr ""
+"Vul het e-mailadres van de site in als u wilt dat uw site e-mail verzendt."
+# If you want your site to send email, enter the site's email address.
 
 #: ./templates/default/admin/email.tpl.php:26
 #: ./templates/default/admin/email.tpl.php:29
 msgid "Site email address"
-msgstr ""
+msgstr "E-mailadres van de site"
 
 #: ./templates/default/admin/email.tpl.php:33
 msgid "This is the address that every notification will be sent from."
-msgstr ""
+msgstr "Dit is het adres dat elke melding zal worden verzonden van."
 
 #: ./templates/default/admin/email.tpl.php:40
 msgid ""
