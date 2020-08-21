@@ -1494,15 +1494,16 @@ msgstr ""
 msgid ""
 "Fill in the site email address if you would like your site to send email."
 msgstr ""
+"Vyplňte e-mailovou adresu webu, pokud chcete, aby vaše stránky odeslat e-mail."
 
 #: ./templates/default/admin/email.tpl.php:26
 #: ./templates/default/admin/email.tpl.php:29
 msgid "Site email address"
-msgstr ""
+msgstr "E-mailová adresa webu"
 
 #: ./templates/default/admin/email.tpl.php:33
 msgid "This is the address that every notification will be sent from."
-msgstr ""
+msgstr "Toto je adresa, ze které bude odesláno každé oznámení."
 
 #: ./templates/default/admin/email.tpl.php:40
 msgid ""
