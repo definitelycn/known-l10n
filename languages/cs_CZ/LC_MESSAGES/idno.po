@@ -1510,15 +1510,16 @@ msgid ""
 "You can often leave the following settings blank. However, you may wish to "
 "set them if you're using a third-party service to send email."
 msgstr ""
+"Často můžete ponechat následující nastavení prázdné. Můžete je však nastavit, pokud k odesílání e-mailů používáte službu třetí strany."
 
 #: ./templates/default/admin/email.tpl.php:48
 #: ./templates/default/admin/email.tpl.php:51
 msgid "SMTP host"
-msgstr ""
+msgstr "Hostitel SMTP"
 
 #: ./templates/default/admin/email.tpl.php:55
 msgid "This is the address of the server that will send email for you."
-msgstr ""
+msgstr "Toto je adresa serveru, který vám pošle e-mail."
 
 #: ./templates/default/admin/email.tpl.php:62
 #: ./templates/default/admin/email.tpl.php:65
