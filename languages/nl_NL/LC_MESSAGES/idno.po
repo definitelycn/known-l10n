@@ -1533,20 +1533,21 @@ msgstr "Dit is het adres van de server die e-mail voor u zal verzenden."
 #: ./templates/default/admin/email.tpl.php:62
 #: ./templates/default/admin/email.tpl.php:65
 msgid "SMTP username"
-msgstr ""
+msgstr "SMTP-gebruikersnaam"
 
 #: ./templates/default/admin/email.tpl.php:69
 msgid "If your mail server needs a username, enter it here."
 msgstr ""
+"Als uw e-mailserver een gebruikersnaam nodig heeft, voert u deze hier in."
 
 #: ./templates/default/admin/email.tpl.php:76
 #: ./templates/default/admin/email.tpl.php:79
 msgid "SMTP password"
-msgstr ""
+msgstr "SMTP-wachtwoord"
 
 #: ./templates/default/admin/email.tpl.php:84
 msgid "If your mail server needs a password, enter it here."
-msgstr ""
+msgstr "Als uw e-mailserver een wachtwoord nodig heeft, voert u deze hier in."
 
 #: ./templates/default/admin/email.tpl.php:91
 #: ./templates/default/admin/email.tpl.php:94

@@ -1524,20 +1524,20 @@ msgstr "Toto je adresa serveru, který vám pošle e-mail."
 #: ./templates/default/admin/email.tpl.php:62
 #: ./templates/default/admin/email.tpl.php:65
 msgid "SMTP username"
-msgstr ""
+msgstr "Uživatelské jméno SMTP"
 
 #: ./templates/default/admin/email.tpl.php:69
 msgid "If your mail server needs a username, enter it here."
-msgstr ""
+msgstr "Pokud váš poštovní server potřebuje uživatelské jméno, zadejte ho sem."
 
 #: ./templates/default/admin/email.tpl.php:76
 #: ./templates/default/admin/email.tpl.php:79
 msgid "SMTP password"
-msgstr ""
+msgstr "Heslo SMTP"
 
 #: ./templates/default/admin/email.tpl.php:84
 msgid "If your mail server needs a password, enter it here."
-msgstr ""
+msgstr "Pokud váš poštovní server potřebuje heslo, zadejte ho sem."
 
 #: ./templates/default/admin/email.tpl.php:91
 #: ./templates/default/admin/email.tpl.php:94
