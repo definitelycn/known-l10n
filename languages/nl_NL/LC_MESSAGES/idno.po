@@ -1552,11 +1552,11 @@ msgstr "Als uw e-mailserver een wachtwoord nodig heeft, voert u deze hier in."
 #: ./templates/default/admin/email.tpl.php:91
 #: ./templates/default/admin/email.tpl.php:94
 msgid "SMTP port"
-msgstr ""
+msgstr "SMTP-poort"
 
 #: ./templates/default/admin/email.tpl.php:107
 msgid "This is normally 25 or 587."
-msgstr ""
+msgstr "Dit is normaal 25 of 587."
 
 #: ./templates/default/admin/email.tpl.php:114
 msgid "Secure connection"

@@ -1542,11 +1542,11 @@ msgstr "Pokud váš poštovní server potřebuje heslo, zadejte ho sem."
 #: ./templates/default/admin/email.tpl.php:91
 #: ./templates/default/admin/email.tpl.php:94
 msgid "SMTP port"
-msgstr ""
+msgstr "Port SMTP"
 
 #: ./templates/default/admin/email.tpl.php:107
 msgid "This is normally 25 or 587."
-msgstr ""
+msgstr "To je obvykle 25 nebo 587."
 
 #: ./templates/default/admin/email.tpl.php:114
 msgid "Secure connection"
