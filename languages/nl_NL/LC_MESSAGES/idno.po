@@ -1602,7 +1602,7 @@ msgstr "Uw gegevens opnieuw archiveren"
 
 #: ./templates/default/admin/export/generate.tpl.php:5
 msgid "Create archive"
-msgstr ""
+msgstr "Archief maken"
 
 #: ./templates/default/admin/export/generate.tpl.php:18
 msgid ""
@@ -1610,6 +1610,9 @@ msgid ""
 "it's working. Once the export file is complete, this page will update, and "
 "you'll be able to download the archive right here."
 msgstr ""
+"Het kan even duren voordat uw archief is gegenereerd. U deze pagina "
+"verlaten terwijl deze werkt. Zodra het exportbestand is voltooid, wordt "
+"deze pagina bijgewerkt en u het archief hier downloaden."
 
 #: ./templates/default/admin/export.tpl.php:9
 msgid "Export content"
