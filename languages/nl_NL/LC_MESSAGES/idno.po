@@ -1560,11 +1560,12 @@ msgstr "Dit is normaal 25 of 587."
 
 #: ./templates/default/admin/email.tpl.php:114
 msgid "Secure connection"
-msgstr ""
+msgstr "Beveiligde verbinding"
 
 #: ./templates/default/admin/email.tpl.php:135
 msgid "Select yes if you use secure logins to your mail server."
-msgstr ""
+msgstr "Selecteer ja als u veilige aanmeldingen op uw e-mailserver gebruikt."
+# ?
 
 #: ./templates/default/admin/email.tpl.php:157
 msgid "Send a test message to"
