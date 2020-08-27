@@ -1560,19 +1560,21 @@ msgstr ""
 
 #: ./templates/default/admin/email.tpl.php:157
 msgid "Send a test message to"
-msgstr ""
+msgstr "Odeslání zkušební zprávu"
+# Conjugation issue(s) probable
 
 #: ./templates/default/admin/email.tpl.php:160
 msgid "To address"
-msgstr ""
+msgstr "Chcete-li adresu"
 
 #: ./templates/default/admin/email.tpl.php:164
 msgid "Check your email settings by sending a test email."
-msgstr ""
+msgstr "Zkontrolujte nastavení e-mailu odesláním testovacího e-mailu."
 
 #: ./templates/default/admin/email.tpl.php:170
 msgid "Test settings"
-msgstr ""
+msgstr "Nastavení testu"
+# Set up a test
 
 #: ./templates/default/admin/export/download.tpl.php:2
 msgid "Download your data"
