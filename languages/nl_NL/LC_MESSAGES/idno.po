@@ -1585,19 +1585,20 @@ msgstr "Testinstellingen"
 
 #: ./templates/default/admin/export/download.tpl.php:2
 msgid "Download your data"
-msgstr ""
+msgstr "Gegevens downloaden"
 
 #: ./templates/default/admin/export/download.tpl.php:3
 msgid "Generated"
-msgstr ""
+msgstr "Gegenereerd"
 
 #: ./templates/default/admin/export/download.tpl.php:7
 msgid "You can also regenerate a new copy of your data archive."
-msgstr ""
+msgstr "U ook een nieuwe kopie van uw gegevensarchief regenereren."
 
 #: ./templates/default/admin/export/download.tpl.php:11
 msgid "Re-archive your data"
-msgstr ""
+msgstr "Uw gegevens opnieuw archiveren"
+# Re archiving your data
 
 #: ./templates/default/admin/export/generate.tpl.php:5
 msgid "Create archive"

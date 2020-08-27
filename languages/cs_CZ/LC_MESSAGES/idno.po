@@ -1578,19 +1578,19 @@ msgstr "Nastavení testu"
 
 #: ./templates/default/admin/export/download.tpl.php:2
 msgid "Download your data"
-msgstr ""
+msgstr "Stažení dat"
 
 #: ./templates/default/admin/export/download.tpl.php:3
 msgid "Generated"
-msgstr ""
+msgstr "Generované"
 
 #: ./templates/default/admin/export/download.tpl.php:7
 msgid "You can also regenerate a new copy of your data archive."
-msgstr ""
+msgstr "Můžete také znovu vygenerovat novou kopii datového archivu."
 
 #: ./templates/default/admin/export/download.tpl.php:11
 msgid "Re-archive your data"
-msgstr ""
+msgstr "Opětovná archivace dat"
 
 #: ./templates/default/admin/export/generate.tpl.php:5
 msgid "Create archive"
