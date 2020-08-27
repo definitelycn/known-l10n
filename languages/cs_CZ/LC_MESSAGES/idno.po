@@ -1594,7 +1594,7 @@ msgstr "Opětovná archivace dat"
 
 #: ./templates/default/admin/export/generate.tpl.php:5
 msgid "Create archive"
-msgstr ""
+msgstr "Vytvořit archiv"
 
 #: ./templates/default/admin/export/generate.tpl.php:18
 msgid ""
@@ -1602,6 +1602,9 @@ msgid ""
 "it's working. Once the export file is complete, this page will update, and "
 "you'll be able to download the archive right here."
 msgstr ""
+"Generování archivu může chvíli trvat. Tuto stránku můžete opustit, když "
+"funguje. Po dokončení exportního souboru se tato stránka aktualizuje a "
+"archiv si budete moci stáhnout přímo zde."
 
 #: ./templates/default/admin/export.tpl.php:9
 msgid "Export content"
