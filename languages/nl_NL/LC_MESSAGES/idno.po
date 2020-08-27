@@ -1569,19 +1569,19 @@ msgstr "Selecteer ja als u veilige aanmeldingen op uw e-mailserver gebruikt."
 
 #: ./templates/default/admin/email.tpl.php:157
 msgid "Send a test message to"
-msgstr ""
+msgstr "Een testbericht verzenden naar"
 
 #: ./templates/default/admin/email.tpl.php:160
 msgid "To address"
-msgstr ""
+msgstr "Adress"
 
 #: ./templates/default/admin/email.tpl.php:164
 msgid "Check your email settings by sending a test email."
-msgstr ""
+msgstr "Controleer uw e-mailinstellingen door een teste-mail te verzenden."
 
 #: ./templates/default/admin/email.tpl.php:170
 msgid "Test settings"
-msgstr ""
+msgstr "Testinstellingen"
 
 #: ./templates/default/admin/export/download.tpl.php:2
 msgid "Download your data"
