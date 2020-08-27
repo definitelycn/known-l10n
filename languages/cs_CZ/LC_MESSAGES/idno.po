@@ -1550,11 +1550,13 @@ msgstr "To je obvykle 25 nebo 587."
 
 #: ./templates/default/admin/email.tpl.php:114
 msgid "Secure connection"
-msgstr ""
+msgstr "Zabezpečené připojení"
 
 #: ./templates/default/admin/email.tpl.php:135
 msgid "Select yes if you use secure logins to your mail server."
 msgstr ""
+"Pokud používáte zabezpečená přihlášení k poštovnímu serveru, vyberte ano."
+# If you're using secure mail server logins, select yes.
 
 #: ./templates/default/admin/email.tpl.php:157
 msgid "Send a test message to"
