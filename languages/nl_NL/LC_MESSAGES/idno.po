@@ -1648,6 +1648,9 @@ msgid ""
 "An archive of your data is being created. Please check again in a few "
 "minutes."
 msgstr ""
+"Er wordt een archief van uw gegevens gemaakt. Controleer het over een "
+"paar minuten opnieuw."
+# An archive of your data is created. …
 
 #: ./templates/default/admin/home/description.tpl.php:2
 #: ./templates/default/admin/menu.tpl.php:2

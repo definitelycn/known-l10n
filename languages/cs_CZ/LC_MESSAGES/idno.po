@@ -1639,7 +1639,7 @@ msgstr "Stáhnout soubor"
 msgid ""
 "An archive of your data is being created. Please check again in a few "
 "minutes."
-msgstr ""
+msgstr "Vytváří se archiv dat. Zkontrolujte prosím znovu za pár minut."
 
 #: ./templates/default/admin/home/description.tpl.php:2
 #: ./templates/default/admin/menu.tpl.php:2
