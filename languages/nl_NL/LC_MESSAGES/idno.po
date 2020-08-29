@@ -1683,18 +1683,19 @@ msgstr ""
 #: ./templates/default/admin/homepage.tpl.php:16
 msgid "Turn off content types to hide them from the homepage of your site."
 msgstr ""
+"Schakel inhoudstypen uit om ze te verbergen voor de startpagina van uw site."
 
 #: ./templates/default/admin/homepage.tpl.php:45
 msgid "On"
-msgstr ""
+msgstr "Op"
 
 #: ./templates/default/admin/homepage.tpl.php:46
 msgid "Off"
-msgstr ""
+msgstr "Af"
 
 #: ./templates/default/admin/homepage.tpl.php:109
 msgid "Save"
-msgstr ""
+msgstr "Opslaan"
 
 #: ./templates/default/admin/home.tpl.php:15
 msgid "Site Details"
