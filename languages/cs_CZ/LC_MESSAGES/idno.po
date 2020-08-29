@@ -1671,19 +1671,19 @@ msgstr ""
 
 #: ./templates/default/admin/homepage.tpl.php:16
 msgid "Turn off content types to hide them from the homepage of your site."
-msgstr ""
+msgstr "Vypněte typy obsahu a skryjte je z domovské stránky webu."
 
 #: ./templates/default/admin/homepage.tpl.php:45
 msgid "On"
-msgstr ""
+msgstr "Na"
 
 #: ./templates/default/admin/homepage.tpl.php:46
 msgid "Off"
-msgstr ""
+msgstr "Vypnuto"
 
 #: ./templates/default/admin/homepage.tpl.php:109
 msgid "Save"
-msgstr ""
+msgstr "Uložit"
 
 #: ./templates/default/admin/home.tpl.php:15
 msgid "Site Details"
