@@ -1687,16 +1687,16 @@ msgstr "Uložit"
 
 #: ./templates/default/admin/home.tpl.php:15
 msgid "Site Details"
-msgstr ""
+msgstr "Podrobnosti o webu"
 
 #: ./templates/default/admin/home.tpl.php:20
 #: ./templates/default/admin/home.tpl.php:23
 msgid "Site name"
-msgstr ""
+msgstr "Název webu"
 
 #: ./templates/default/admin/home.tpl.php:27
 msgid "Give your site a name!"
-msgstr ""
+msgstr "Dejte své stránky jméno!"
 
 #: ./templates/default/admin/home.tpl.php:35
 msgid "Site summary"
