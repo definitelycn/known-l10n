@@ -1699,16 +1699,16 @@ msgstr "Opslaan"
 
 #: ./templates/default/admin/home.tpl.php:15
 msgid "Site Details"
-msgstr ""
+msgstr "Sitegegevens"
 
 #: ./templates/default/admin/home.tpl.php:20
 #: ./templates/default/admin/home.tpl.php:23
 msgid "Site name"
-msgstr ""
+msgstr "Sitenaam"
 
 #: ./templates/default/admin/home.tpl.php:27
 msgid "Give your site a name!"
-msgstr ""
+msgstr "Geef uw site een naam!"
 
 #: ./templates/default/admin/home.tpl.php:35
 msgid "Site summary"
