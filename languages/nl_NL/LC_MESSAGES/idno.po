@@ -1667,7 +1667,7 @@ msgstr ""
 
 #: ./templates/default/admin/homepage.tpl.php:6
 msgid "Homepage content"
-msgstr ""
+msgstr "Inhoud van startpagina"
 
 #: ./templates/default/admin/homepage.tpl.php:11
 msgid ""
@@ -1675,6 +1675,10 @@ msgid ""
 "default, all published content appears on the main page. If you want to hide "
 "some content types from the main page, you can turn them off below."
 msgstr ""
+"Hier u kiezen welke inhoud bezoekers zien op de startpagina van uw site. "
+"Standaard wordt alle gepubliceerde inhoud op de hoofdpagina weergegeven. "
+"Als u bepaalde inhoudstypen van de hoofdpagina wilt verbergen, u deze "
+"hieronder uitschakelen."
 
 #: ./templates/default/admin/homepage.tpl.php:16
 msgid "Turn off content types to hide them from the homepage of your site."

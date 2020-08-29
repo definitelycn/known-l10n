@@ -1656,7 +1656,7 @@ msgstr ""
 
 #: ./templates/default/admin/homepage.tpl.php:6
 msgid "Homepage content"
-msgstr ""
+msgstr "Obsah domovské stránky"
 
 #: ./templates/default/admin/homepage.tpl.php:11
 msgid ""
@@ -1664,6 +1664,10 @@ msgid ""
 "default, all published content appears on the main page. If you want to hide "
 "some content types from the main page, you can turn them off below."
 msgstr ""
+"Zde si můžete vybrat, jaký obsah návštěvníci uvidí na domovské stránce "
+"vašeho webu. Ve výchozím nastavení se veškerý publikovaný obsah zobrazí "
+"na hlavní stránce. Pokud chcete skrýt některé typy obsahu z hlavní stránky, "
+"můžete je vypnout níže."
 
 #: ./templates/default/admin/homepage.tpl.php:16
 msgid "Turn off content types to hide them from the homepage of your site."
