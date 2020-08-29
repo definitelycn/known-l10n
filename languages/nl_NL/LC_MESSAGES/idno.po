@@ -1655,13 +1655,15 @@ msgstr ""
 #: ./templates/default/admin/home/description.tpl.php:2
 #: ./templates/default/admin/menu.tpl.php:2
 msgid "Site configuration"
-msgstr ""
+msgstr "Siteconfiguratie"
 
 #: ./templates/default/admin/home/description.tpl.php:6
 msgid ""
 "On this page you can change the basic settings for your site, like the site "
 "name and the number of posts visible on each page."
 msgstr ""
+"Op deze pagina u de basisinstellingen voor uw site wijzigen, zoals de "
+"sitenaam en het aantal berichten dat op elke pagina zichtbaar is."
 
 #: ./templates/default/admin/homepage.tpl.php:6
 msgid "Homepage content"
