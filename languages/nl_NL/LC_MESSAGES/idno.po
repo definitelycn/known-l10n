@@ -1725,13 +1725,16 @@ msgstr "Waar gaat uw site over?"
 #: ./templates/default/admin/home.tpl.php:50
 #: ./templates/default/admin/home.tpl.php:53
 msgid "Homepage title"
-msgstr ""
+msgstr "Titel van startpagina"
+# Home page title
 
 #: ./templates/default/admin/home.tpl.php:57
 msgid ""
 "What should the browser display as the title on your homepage?<br>By default "
 "this is just your site title."
 msgstr ""
+"Wat moet de browser weergeven als de titel op uw startpagina? <br>Standaard "
+"is dit alleen uw sitetitel."
 
 #: ./templates/default/admin/home.tpl.php:65
 msgid "Items per page"
