@@ -1713,13 +1713,18 @@ msgstr "O čem je vaše stránka?"
 #: ./templates/default/admin/home.tpl.php:50
 #: ./templates/default/admin/home.tpl.php:53
 msgid "Homepage title"
-msgstr ""
+msgstr "Název domovské stránky"
+# Home page name
 
 #: ./templates/default/admin/home.tpl.php:57
 msgid ""
 "What should the browser display as the title on your homepage?<br>By default "
 "this is just your site title."
 msgstr ""
+"Co by měl prohlížeč zobrazit jako název na domovské stránce? <br> Výchozím "
+"nastavením je to jen název vašeho webu."
+# What should the browser display as the name on the home page? <br> Default
+# setting is just the name of your site.
 
 #: ./templates/default/admin/home.tpl.php:65
 msgid "Items per page"
