@@ -1761,15 +1761,16 @@ msgstr "Jak se vytvářejí trvalé odkazy na jednotlivé příspěvky."
 
 #: ./templates/default/admin/home.tpl.php:130
 msgid "Registration and privacy"
-msgstr ""
+msgstr "Registrace a ochrana osobních údajů"
 
 #: ./templates/default/admin/home.tpl.php:138
 msgid "Allow registration"
-msgstr ""
+msgstr "Povolit registraci"
 
 #: ./templates/default/admin/home.tpl.php:148
 msgid "Allow registration if you want others to sign up for your site."
 msgstr ""
+"Povolit registraci, pokud chcete, aby ostatní se zaregistrovat na vašem webu."
 
 #: ./templates/default/admin/home.tpl.php:161
 msgid "Make site private"
