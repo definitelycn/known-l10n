@@ -1748,11 +1748,16 @@ msgstr ""
 
 #: ./templates/default/admin/home.tpl.php:101
 msgid "Permalink Structure"
-msgstr ""
+msgstr "Stálá spojovací struktura"
+
+#: templates/default/admin/home.tpl.php:105
+msgid "<strong>(default)</strong>"
+msgstr "<strong>(výchozí)</strong>"
 
 #: ./templates/default/admin/home.tpl.php:118
 msgid "How permalinks for individual posts are constructed."
-msgstr ""
+msgstr "Jak se vytvářejí trvalé odkazy na jednotlivé příspěvky."
+# How to create persistent links to individual posts.
 
 #: ./templates/default/admin/home.tpl.php:130
 msgid "Registration and privacy"
