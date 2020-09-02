@@ -1736,13 +1736,15 @@ msgstr "Jedná se o počet příspěvků obsahu zobrazených na každé stránce
 
 #: ./templates/default/admin/home.tpl.php:79
 msgid "Single user"
-msgstr ""
+msgstr "Jeden uživatel"
 
 #: ./templates/default/admin/home.tpl.php:90
 msgid ""
 "Is this a single-user site? If so, your profile information will be shown at "
 "the top of the homepage."
 msgstr ""
+"Jedná se o web pro jednoho uživatele? Pokud ano, informace o vašem profilu "
+"se zobrazí v horní části domovské stránky."
 
 #: ./templates/default/admin/home.tpl.php:101
 msgid "Permalink Structure"
