@@ -1783,11 +1783,11 @@ msgstr "Sta registratie toe als u wilt dat anderen zich aanmelden voor uw site."
 
 #: ./templates/default/admin/home.tpl.php:161
 msgid "Make site private"
-msgstr ""
+msgstr "Site privé maken"
 
 #: ./templates/default/admin/home.tpl.php:170
 msgid "Content on a private site is only visible if you're logged in."
-msgstr ""
+msgstr "Inhoud op een privésite is alleen zichtbaar als u bent ingelogd."
 
 #: ./templates/default/admin/home.tpl.php:188
 msgid "Per-post privacy"
