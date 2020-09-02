@@ -1771,15 +1771,15 @@ msgstr "Hoe permanente links voor afzonderlijke posten worden geconstrueerd."
 
 #: ./templates/default/admin/home.tpl.php:130
 msgid "Registration and privacy"
-msgstr ""
+msgstr "Registratie en privacy"
 
 #: ./templates/default/admin/home.tpl.php:138
 msgid "Allow registration"
-msgstr ""
+msgstr "Registratie toestaan"
 
 #: ./templates/default/admin/home.tpl.php:148
 msgid "Allow registration if you want others to sign up for your site."
-msgstr ""
+msgstr "Sta registratie toe als u wilt dat anderen zich aanmelden voor uw site."
 
 #: ./templates/default/admin/home.tpl.php:161
 msgid "Make site private"
