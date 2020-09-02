@@ -1759,11 +1759,15 @@ msgstr ""
 
 #: ./templates/default/admin/home.tpl.php:101
 msgid "Permalink Structure"
-msgstr ""
+msgstr "Permanente koppelingsstructuur"
+
+#: templates/default/admin/home.tpl.php:105
+msgid "<strong>(default)</strong>"
+msgstr "<strong>(standaard)</strong>"
 
 #: ./templates/default/admin/home.tpl.php:118
 msgid "How permalinks for individual posts are constructed."
-msgstr ""
+msgstr "Hoe permanente links voor afzonderlijke posten worden geconstrueerd."
 
 #: ./templates/default/admin/home.tpl.php:130
 msgid "Registration and privacy"
