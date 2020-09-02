@@ -1728,11 +1728,11 @@ msgstr ""
 
 #: ./templates/default/admin/home.tpl.php:65
 msgid "Items per page"
-msgstr ""
+msgstr "Položky na stránku"
 
 #: ./templates/default/admin/home.tpl.php:71
 msgid "This is the number of content posts displayed on each page."
-msgstr ""
+msgstr "Jedná se o počet příspěvků obsahu zobrazených na každé stránce."
 
 #: ./templates/default/admin/home.tpl.php:79
 msgid "Single user"
