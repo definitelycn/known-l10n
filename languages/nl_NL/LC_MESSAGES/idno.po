@@ -1738,11 +1738,12 @@ msgstr ""
 
 #: ./templates/default/admin/home.tpl.php:65
 msgid "Items per page"
-msgstr ""
+msgstr "Objecten per pagina"
 
 #: ./templates/default/admin/home.tpl.php:71
 msgid "This is the number of content posts displayed on each page."
 msgstr ""
+"Dit is het aantal inhoudsberichten dat op elke pagina wordt weergegeven."
 
 #: ./templates/default/admin/home.tpl.php:79
 msgid "Single user"
