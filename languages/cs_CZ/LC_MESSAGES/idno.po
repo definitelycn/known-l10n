@@ -1783,11 +1783,11 @@ msgstr ""
 
 #: ./templates/default/admin/home.tpl.php:188
 msgid "Per-post privacy"
-msgstr ""
+msgstr "Soukromí na příspěvek"
 
 #: ./templates/default/admin/home.tpl.php:199
 msgid "Show per-post privacy settings."
-msgstr ""
+msgstr "Zobrazit nastavení ochrany osobních údajů pro všechny příspěvky."
 
 #: ./templates/default/admin/home.tpl.php:215
 msgid "Technical Settings"
