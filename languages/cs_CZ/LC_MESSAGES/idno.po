@@ -1819,12 +1819,13 @@ msgstr "To používá avatar členů 'obrázky jako stránky favicon."
 
 #: ./templates/default/admin/home.tpl.php:260
 msgid "Include permalinks"
-msgstr ""
+msgstr "Zahrnout trvalé odkazy"
 
 #: ./templates/default/admin/home.tpl.php:269
 msgid ""
 "Always add a link back to your site when you syndicate to external networks."
 msgstr ""
+"Vždy přidejte odkaz zpět na vaše stránky, když syndikátu na externí sítě."
 
 #: ./templates/default/admin/import.tpl.php:9
 msgid "Import content"
