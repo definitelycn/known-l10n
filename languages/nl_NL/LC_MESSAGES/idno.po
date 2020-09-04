@@ -1801,7 +1801,7 @@ msgstr "Privacy-instellingen per post weergeven."
 
 #: ./templates/default/admin/home.tpl.php:215
 msgid "Technical Settings"
-msgstr ""
+msgstr "Technische instellingen"
 
 #: ./templates/default/admin/home.tpl.php:223
 msgid "PubSubHubbub hub"
@@ -1809,15 +1809,15 @@ msgstr ""
 
 #: ./templates/default/admin/home.tpl.php:226
 msgid "PubSubHubbub hub address"
-msgstr ""
+msgstr "Adres van de Hub van PubSubHubbub"
 
 #: ./templates/default/admin/home.tpl.php:230
 msgid "You can probably leave this as is."
-msgstr ""
+msgstr "Je dit waarschijnlijk laten zoals het is."
 
 #: ./templates/default/admin/home.tpl.php:231
 msgid "Learn more about PuSH"
-msgstr ""
+msgstr "Meer informatie over PuSH"
 
 #: ./templates/default/admin/home.tpl.php:241
 msgid "Avatar as icon"
