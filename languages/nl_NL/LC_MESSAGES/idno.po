@@ -1821,11 +1821,11 @@ msgstr "Meer informatie over PuSH"
 
 #: ./templates/default/admin/home.tpl.php:241
 msgid "Avatar as icon"
-msgstr ""
+msgstr "Avatar als pictogram"
 
 #: ./templates/default/admin/home.tpl.php:252
 msgid "This uses members' avatar images as the site favicon."
-msgstr ""
+msgstr "Dit maakt gebruik van leden avatar beelden als de site favicon."
 
 #: ./templates/default/admin/home.tpl.php:260
 msgid "Include permalinks"
