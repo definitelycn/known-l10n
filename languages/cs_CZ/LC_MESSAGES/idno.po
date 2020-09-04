@@ -1791,23 +1791,23 @@ msgstr "Zobrazit nastavení ochrany osobních údajů pro všechny příspěvky.
 
 #: ./templates/default/admin/home.tpl.php:215
 msgid "Technical Settings"
-msgstr ""
+msgstr "Technická nastavení"
 
 #: ./templates/default/admin/home.tpl.php:223
 msgid "PubSubHubbub hub"
-msgstr ""
+msgstr "Rozbočovač PubSubHubbub"
 
 #: ./templates/default/admin/home.tpl.php:226
 msgid "PubSubHubbub hub address"
-msgstr ""
+msgstr "Adresa rozbočovače PubSubHubbub"
 
 #: ./templates/default/admin/home.tpl.php:230
 msgid "You can probably leave this as is."
-msgstr ""
+msgstr "Asi to můžeš nechat tak, jak je."
 
 #: ./templates/default/admin/home.tpl.php:231
 msgid "Learn more about PuSH"
-msgstr ""
+msgstr "Další informace o PuSH"
 
 #: ./templates/default/admin/home.tpl.php:241
 msgid "Avatar as icon"
