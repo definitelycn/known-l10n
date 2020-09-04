@@ -1840,13 +1840,15 @@ msgstr ""
 
 #: ./templates/default/admin/import.tpl.php:9
 msgid "Import content"
-msgstr ""
+msgstr "Inhoud importeren"
 
 #: ./templates/default/admin/import.tpl.php:12
 msgid ""
 "Import your content from other sites into Known. All imported content will "
 "be treated as a post, with a title and body content."
 msgstr ""
+"Importeer uw inhoud van andere sites in Known. Alle geïmporteerde inhoud "
+"wordt behandeld als een bericht, met een titel en inhoud van de hoofdtekst."
 
 #: ./templates/default/admin/import.tpl.php:27
 msgid "Upload a Known RSS export file and turn it into Known posts."
