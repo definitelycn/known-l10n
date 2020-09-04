@@ -1829,12 +1829,14 @@ msgstr "Dit maakt gebruik van leden avatar beelden als de site favicon."
 
 #: ./templates/default/admin/home.tpl.php:260
 msgid "Include permalinks"
-msgstr ""
+msgstr "Permanente koppelingen opnemen"
 
 #: ./templates/default/admin/home.tpl.php:269
 msgid ""
 "Always add a link back to your site when you syndicate to external networks."
 msgstr ""
+"Voeg altijd een link terug naar uw site wanneer u syndicaat aan "
+"externe netwerken."
 
 #: ./templates/default/admin/import.tpl.php:9
 msgid "Import content"
