@@ -1852,7 +1852,7 @@ msgstr ""
 
 #: ./templates/default/admin/import.tpl.php:27
 msgid "Upload a Known RSS export file and turn it into Known posts."
-msgstr ""
+msgstr "Upload een Klown RSS export bestand en zet het om in Klown-berichten."
 
 #: ./templates/default/admin/import.tpl.php:28
 msgid "How do I get my Known RSS file?"
@@ -1895,7 +1895,7 @@ msgstr ""
 
 #: ./templates/default/admin/import.tpl.php:67
 msgid "Upload a WordPress XML file and turn it into Known posts."
-msgstr ""
+msgstr "Upload een WordPress XML-bestand en zet het om in Known-berichten."
 
 #: ./templates/default/admin/import.tpl.php:68
 msgid "How do I get my WordPress XML file?"
@@ -1935,7 +1935,7 @@ msgstr ""
 
 #: ./templates/default/admin/import.tpl.php:108
 msgid "Upload a Blogger XML file and turn it into Known posts."
-msgstr ""
+msgstr "Upload een Blogger XML-bestand en zet het om in Known-berichten."
 
 #: ./templates/default/admin/import.tpl.php:108
 msgid "How do I get my Blogger XML file?"
