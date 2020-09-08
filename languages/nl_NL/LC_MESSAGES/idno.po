@@ -1860,7 +1860,7 @@ msgstr "Hoe krijg ik mijn Knwon RSS-bestand?"
 
 #: ./templates/default/admin/import.tpl.php:32
 msgid "To get your Known RSS file"
-msgstr ""
+msgstr "Om uw Known RSS-bestand te krijgen"
 
 #: ./templates/default/admin/import.tpl.php:35
 msgid "Log into your Known site"
@@ -1903,7 +1903,7 @@ msgstr "Hoe krijg ik mijn WordPress XML-bestand?"
 
 #: ./templates/default/admin/import.tpl.php:72
 msgid "To get your WordPress XML file"
-msgstr ""
+msgstr "Uw WordPress XML-bestand ophalen"
 
 #: ./templates/default/admin/import.tpl.php:75
 msgid "Log into your WordPress site"
@@ -1943,7 +1943,7 @@ msgstr "Hoe krijg ik mijn Blogger XML-bestand?"
 
 #: ./templates/default/admin/import.tpl.php:112
 msgid "To get your Blogger XML file"
-msgstr ""
+msgstr "Uw Blogger XML-bestand ophalen"
 
 #: ./templates/default/admin/import.tpl.php:115
 msgid "Log into Blogger, and click on your blog title"
