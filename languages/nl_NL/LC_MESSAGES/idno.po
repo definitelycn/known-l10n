@@ -1623,7 +1623,7 @@ msgid ""
 "Export your published Known content as an RSS file. You can import this file "
 "into Known or WordPress."
 msgstr ""
-"Export gepubliceerde Klown-inhoud als RSS-bestand. U dit bestand importeren "
+"Export gepubliceerde Known-inhoud als RSS-bestand. U dit bestand importeren "
 "in Known of WordPress."
 
 #: ./templates/default/admin/export.tpl.php:20
@@ -1852,7 +1852,7 @@ msgstr ""
 
 #: ./templates/default/admin/import.tpl.php:27
 msgid "Upload a Known RSS export file and turn it into Known posts."
-msgstr "Upload een Klown RSS export bestand en zet het om in Klown-berichten."
+msgstr "Upload een Known RSS export bestand en zet het om in Known-berichten."
 
 #: ./templates/default/admin/import.tpl.php:28
 msgid "How do I get my Known RSS file?"
@@ -1864,7 +1864,8 @@ msgstr "Om uw Known RSS-bestand te krijgen"
 
 #: ./templates/default/admin/import.tpl.php:35
 msgid "Log into your Known site"
-msgstr ""
+msgstr "Inloggen op uw Known-site"
+# Log in op uw Klown-site
 
 #: ./templates/default/admin/import.tpl.php:36
 msgid "Click on Site Configuration"
@@ -1907,7 +1908,7 @@ msgstr "Uw WordPress XML-bestand ophalen"
 
 #: ./templates/default/admin/import.tpl.php:75
 msgid "Log into your WordPress site"
-msgstr ""
+msgstr "Log in op uw WordPress-site"
 
 #: ./templates/default/admin/import.tpl.php:76
 msgid "Click on Tools"
@@ -1947,7 +1948,7 @@ msgstr "Uw Blogger XML-bestand ophalen"
 
 #: ./templates/default/admin/import.tpl.php:115
 msgid "Log into Blogger, and click on your blog title"
-msgstr ""
+msgstr "Log in op Blogger en klik op je blogtitel"
 
 #: ./templates/default/admin/import.tpl.php:116
 msgid "Click on Settings"
