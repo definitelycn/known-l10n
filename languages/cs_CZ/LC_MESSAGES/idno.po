@@ -1849,7 +1849,7 @@ msgstr "Jak získám svůj soubor RSS Known?"
 
 #: ./templates/default/admin/import.tpl.php:32
 msgid "To get your Known RSS file"
-msgstr ""
+msgstr "Získat soubor RSS Known"
 
 #: ./templates/default/admin/import.tpl.php:35
 msgid "Log into your Known site"
@@ -1892,7 +1892,7 @@ msgstr "Jak získám svůj soubor WordPress XML?"
 
 #: ./templates/default/admin/import.tpl.php:72
 msgid "To get your WordPress XML file"
-msgstr ""
+msgstr "Získání souboru XML služby WordPress"
 
 #: ./templates/default/admin/import.tpl.php:75
 msgid "Log into your WordPress site"
@@ -1932,7 +1932,7 @@ msgstr "Jak získám svůj soubor XML služby Blogger?"
 
 #: ./templates/default/admin/import.tpl.php:112
 msgid "To get your Blogger XML file"
-msgstr ""
+msgstr "Získání souboru XML služby Blogger"
 
 #: ./templates/default/admin/import.tpl.php:115
 msgid "Log into Blogger, and click on your blog title"
