@@ -1882,7 +1882,7 @@ msgstr ""
 
 #: ./templates/default/admin/import.tpl.php:44
 msgid "Select Known export file"
-msgstr ""
+msgstr "Known-exportbestand selecteren"
 
 #: ./templates/default/admin/import.tpl.php:50
 #: ./templates/default/admin/import.tpl.php:91
@@ -1928,7 +1928,7 @@ msgstr ""
 
 #: ./templates/default/admin/import.tpl.php:85
 msgid "Select WordPress export file"
-msgstr ""
+msgstr "WordPress-exportbestand selecteren"
 
 #: ./templates/default/admin/import.tpl.php:105
 msgid "Blogger"
