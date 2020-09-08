@@ -1887,7 +1887,7 @@ msgstr ""
 #: ./templates/default/admin/import.tpl.php:91
 #: ./templates/default/admin/import.tpl.php:133
 msgid "Import your data"
-msgstr ""
+msgstr "Uw gegevens importeren"
 
 #: ./templates/default/admin/import.tpl.php:64
 msgid "WordPress"
