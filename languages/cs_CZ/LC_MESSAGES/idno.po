@@ -1863,11 +1863,11 @@ msgstr "Klikněte na Konfigurace webu"
 #: ./templates/default/admin/import.tpl.php:37
 #: ./templates/default/admin/import.tpl.php:77
 msgid "Click on Export"
-msgstr ""
+msgstr "Klikněte na Export"
 
 #: ./templates/default/admin/import.tpl.php:38
 msgid "Download your RSS file"
-msgstr ""
+msgstr "Stažení souboru RSS"
 
 #: ./templates/default/admin/import.tpl.php:44
 msgid "Select Known export file"

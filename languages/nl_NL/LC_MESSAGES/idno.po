@@ -1874,11 +1874,11 @@ msgstr "Klik op Siteconfiguratie"
 #: ./templates/default/admin/import.tpl.php:37
 #: ./templates/default/admin/import.tpl.php:77
 msgid "Click on Export"
-msgstr ""
+msgstr "Klik op Exporteren"
 
 #: ./templates/default/admin/import.tpl.php:38
 msgid "Download your RSS file"
-msgstr ""
+msgstr "Uw RSS-bestand downloaden"
 
 #: ./templates/default/admin/import.tpl.php:44
 msgid "Select Known export file"
