@@ -1962,10 +1962,12 @@ msgid ""
 "information, so be very careful how you disclose the information and to "
 "whom."
 msgstr ""
+"Tato stránka vám poskytuje zachycené protokoly PHP. Ty obsahují citlivé "
+"informace, proto buďte velmi opatrní, jak informace sdělujete a komu."
 
 #: ./templates/default/admin/logs.tpl.php:19
 msgid "Refresh..."
-msgstr ""
+msgstr "Aktualizovat..."
 
 #: ./templates/default/admin/menu.tpl.php:8
 #: ./templates/default/admin/users.tpl.php:4
