@@ -1905,11 +1905,12 @@ msgstr "Klikněte na Nástroje"
 
 #: ./templates/default/admin/import.tpl.php:78
 msgid "Click to export posts"
-msgstr ""
+msgstr "Klikněte pro export příspěvků"
 
 #: ./templates/default/admin/import.tpl.php:79
 msgid "Click"
-msgstr ""
+msgstr "Klikněte"
+# conjugation?
 
 #: ./templates/default/admin/import.tpl.php:79
 msgid "Download Export File"
