@@ -1909,12 +1909,12 @@ msgstr "Klikněte pro export příspěvků"
 
 #: ./templates/default/admin/import.tpl.php:79
 msgid "Click"
-msgstr "Klikněte"
-# conjugation?
+msgstr "Klikněte na"
+# conjugation
 
 #: ./templates/default/admin/import.tpl.php:79
 msgid "Download Export File"
-msgstr "Stáhnout exportní soubor"
+msgstr "Stáhnout soubor exportu"
 
 #: ./templates/default/admin/import.tpl.php:85
 msgid "Select WordPress export file"
