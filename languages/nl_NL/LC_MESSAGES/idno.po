@@ -1960,11 +1960,11 @@ msgstr "Klik op Overige"
 
 #: ./templates/default/admin/import.tpl.php:118
 msgid "Click on Export Posts at the top of your page"
-msgstr ""
+msgstr "Klik boven aan je pagina op Berichten exporteren"
 
 #: ./templates/default/admin/import.tpl.php:119
 msgid "Click on Export Blog"
-msgstr ""
+msgstr "Klik op Blog exporteren"
 
 #: ./templates/default/admin/logs.tpl.php:9
 msgid ""
