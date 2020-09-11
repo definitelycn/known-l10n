@@ -1972,23 +1972,23 @@ msgstr "Aktualizovat..."
 #: ./templates/default/admin/menu.tpl.php:8
 #: ./templates/default/admin/users.tpl.php:4
 msgid "Users"
-msgstr ""
+msgstr "Uživatelé"
 
 #: ./templates/default/admin/menu.tpl.php:9
 msgid "Export"
-msgstr ""
+msgstr "Vývozní"
 
 #: ./templates/default/admin/menu.tpl.php:10
 msgid "Import"
-msgstr ""
+msgstr "Dovozní"
 
 #: ./templates/default/admin/menu.tpl.php:13
 msgid "Captured Logs"
-msgstr ""
+msgstr "Zachycené protokoly"
 
 #: ./templates/default/admin/menu.tpl.php:15
 msgid "About"
-msgstr ""
+msgstr "O"
 
 #: ./templates/default/admin/plugins/plugin.tpl.php:35
 msgid "Enabled"
@@ -2065,11 +2065,11 @@ msgstr ""
 
 #: ./templates/default/admin/users.tpl.php:21
 msgid "users"
-msgstr ""
+msgstr "uživatelé"
 
 #: ./templates/default/admin/users.tpl.php:23
 msgid "user"
-msgstr ""
+msgstr "uživatel"
 
 #: ./templates/default/admin/users.tpl.php
 msgid "Your site has <strong>1</strong> user"
