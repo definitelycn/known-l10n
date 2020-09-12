@@ -2004,15 +2004,15 @@ msgstr "Known verze"
 
 #: ./templates/default/admin/plugins/plugin.tpl.php:67
 msgid "Known Build"
-msgstr ""
+msgstr "Known stavět"
 
 #: ./templates/default/admin/plugins/plugin.tpl.php:78
 msgid "PHP Version"
-msgstr ""
+msgstr "PHP verze"
 
 #: ./templates/default/admin/plugins/plugin.tpl.php:91
 msgid "Extensions"
-msgstr ""
+msgstr "Rozšíření"
 
 #: ./templates/default/admin/plugins/plugin.tpl.php:134
 msgid "Disable"
