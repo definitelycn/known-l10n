@@ -2015,15 +2015,15 @@ msgstr "Known-versie"
 
 #: ./templates/default/admin/plugins/plugin.tpl.php:67
 msgid "Known Build"
-msgstr ""
+msgstr "Known bouwen"
 
 #: ./templates/default/admin/plugins/plugin.tpl.php:78
 msgid "PHP Version"
-msgstr ""
+msgstr "PHP-versie"
 
 #: ./templates/default/admin/plugins/plugin.tpl.php:91
 msgid "Extensions"
-msgstr ""
+msgstr "Extensies"
 
 #: ./templates/default/admin/plugins/plugin.tpl.php:134
 msgid "Disable"
