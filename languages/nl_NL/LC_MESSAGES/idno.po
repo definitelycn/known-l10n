@@ -2027,12 +2027,12 @@ msgstr "Extensies"
 
 #: ./templates/default/admin/plugins/plugin.tpl.php:134
 msgid "Disable"
-msgstr ""
+msgstr "Uitschakelen"
 
 #: ./templates/default/admin/plugins/plugin.tpl.php:147
 #: ./templates/default/admin/themes/theme.tpl.php:43
 msgid "Enable"
-msgstr ""
+msgstr "Inschakelen"
 
 #: ./templates/default/admin/plugins.tpl.php:9
 msgid ""
