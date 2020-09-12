@@ -2030,12 +2030,16 @@ msgid ""
 "change the way Known behaves. To enable or disable a plugin, just click its "
 "enable or disable button."
 msgstr ""
+"Pluginy umožňují přidávat funkce na vaše stránky. Patří mezi ně nové druhy "
+"obsahu, možnosti syndikátu obsahu na různých stránkách a funkce pro změnu "
+"způsobu, jakým se Known chová. Chcete-li povolit nebo zakázat plugin, stačí "
+"kliknout na jeho tlačítko povolit nebo zakázat."
 
 #: ./templates/default/admin/statistics.tpl.php:9
 msgid ""
 "This page provides you with information and statistics about your Known "
 "site."
-msgstr ""
+msgstr "Tato stránka vám poskytuje informace a statistiky o vašem webu Known."
 
 #: ./templates/default/admin/themes/theme.tpl.php:41
 msgid "(Selected)"
