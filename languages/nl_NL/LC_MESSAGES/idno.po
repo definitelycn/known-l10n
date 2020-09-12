@@ -2041,12 +2041,16 @@ msgid ""
 "change the way Known behaves. To enable or disable a plugin, just click its "
 "enable or disable button."
 msgstr ""
+"Met plug-ins u functies toevoegen aan uw site. Deze omvatten nieuwe soorten "
+"inhoud, opties om inhoud te syndiceren naar verschillende sites en functies "
+"om de manier waarop Known zich gedraagt te veranderen. Als u een plug-in "
+"wilt in- of uitschakelen, klikt u op de knop In- of uitschakelen."
 
 #: ./templates/default/admin/statistics.tpl.php:9
 msgid ""
 "This page provides you with information and statistics about your Known "
 "site."
-msgstr ""
+msgstr "Op deze pagina vindt u informatie en statistieken over uw Known-site."
 
 #: ./templates/default/admin/themes/theme.tpl.php:41
 msgid "(Selected)"
