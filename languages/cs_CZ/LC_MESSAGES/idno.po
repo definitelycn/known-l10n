@@ -2016,12 +2016,12 @@ msgstr "Rozšíření"
 
 #: ./templates/default/admin/plugins/plugin.tpl.php:134
 msgid "Disable"
-msgstr ""
+msgstr "Deaktivovat"
 
 #: ./templates/default/admin/plugins/plugin.tpl.php:147
 #: ./templates/default/admin/themes/theme.tpl.php:43
 msgid "Enable"
-msgstr ""
+msgstr "Zapnout"
 
 #: ./templates/default/admin/plugins.tpl.php:9
 msgid ""
