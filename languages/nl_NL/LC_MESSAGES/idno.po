@@ -2003,15 +2003,15 @@ msgstr "Over"
 
 #: ./templates/default/admin/plugins/plugin.tpl.php:35
 msgid "Enabled"
-msgstr ""
+msgstr "Geactiveerd"
 
 #: ./templates/default/admin/plugins/plugin.tpl.php:37
 msgid "Disabled"
-msgstr ""
+msgstr "Uitgeschakeld"
 
 #: ./templates/default/admin/plugins/plugin.tpl.php:56
 msgid "Known Version"
-msgstr ""
+msgstr "Known-versie"
 
 #: ./templates/default/admin/plugins/plugin.tpl.php:67
 msgid "Known Build"
