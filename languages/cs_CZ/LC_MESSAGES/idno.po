@@ -2043,11 +2043,11 @@ msgstr "Tato stránka vám poskytuje informace a statistiky o vašem webu Known.
 
 #: ./templates/default/admin/themes/theme.tpl.php:41
 msgid "(Selected)"
-msgstr ""
+msgstr "(Vybráno)"
 
 #: ./templates/default/admin/themes/theme.tpl.php:48
 msgid "by"
-msgstr ""
+msgstr "od"
 
 #: ./templates/default/admin/themes.tpl.php:7
 msgid ""

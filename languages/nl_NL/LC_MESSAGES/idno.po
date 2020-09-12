@@ -2054,11 +2054,11 @@ msgstr "Op deze pagina vindt u informatie en statistieken over uw Known-site."
 
 #: ./templates/default/admin/themes/theme.tpl.php:41
 msgid "(Selected)"
-msgstr ""
+msgstr "(Geselecteerd)"
 
 #: ./templates/default/admin/themes/theme.tpl.php:48
 msgid "by"
-msgstr ""
+msgstr "door"
 
 #: ./templates/default/admin/themes.tpl.php:7
 msgid ""
