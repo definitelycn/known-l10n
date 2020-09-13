@@ -2065,18 +2065,22 @@ msgid ""
 "Themes allow you to change the way your site looks. The following themes are "
 "installed."
 msgstr ""
+"Met thema's kunt u het uiterlijk van uw site wijzigen. De volgende thema's "
+"zijn geïnstalleerd."
 
 #: ./templates/default/admin/users.tpl.php:9
 msgid "View the users registered for your site, and invite new users to join."
 msgstr ""
+"Bekijk de gebruikers die voor uw site zijn geregistreerd en nodig nieuwe "
+"gebruikers uit om lid te worden."
 
 #: ./templates/default/admin/users.tpl.php:17
 msgid "Manage site users"
-msgstr ""
+msgstr "Beheer sitegebruikers"
 
 #: ./templates/default/admin/users.tpl.php:20
 msgid "Your site has"
-msgstr ""
+msgstr "Uw site heeft"
 
 #: ./templates/default/admin/users.tpl.php:21
 msgid "users"
