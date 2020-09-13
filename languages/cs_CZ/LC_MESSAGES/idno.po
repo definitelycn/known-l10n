@@ -2054,34 +2054,39 @@ msgid ""
 "Themes allow you to change the way your site looks. The following themes are "
 "installed."
 msgstr ""
+"Motivy vám umožňují změnit vzhled vašeho webu. Jsou nainstalována "
+"následující témata."
 
 #: ./templates/default/admin/users.tpl.php:9
 msgid "View the users registered for your site, and invite new users to join."
 msgstr ""
+"Zobrazte uživatele registrované pro váš web a pozvěte nové uživatele, aby "
+"se připojili."
 
 #: ./templates/default/admin/users.tpl.php:17
 msgid "Manage site users"
-msgstr ""
+msgstr "Správa uživatelů webu"
 
 #: ./templates/default/admin/users.tpl.php:20
 msgid "Your site has"
-msgstr ""
+msgstr "Váš web má"
 
 #: ./templates/default/admin/users.tpl.php:21
 msgid "users"
-msgstr "uživatelé"
+msgstr "uživatelů"
+# uživatele
 
 #: ./templates/default/admin/users.tpl.php:23
 msgid "user"
-msgstr "uživatel"
+msgstr "uživatele"
 
 #: ./templates/default/admin/users.tpl.php
 msgid "Your site has <strong>1</strong> user"
-msgstr ""
+msgstr "Váš web má <strong>1</strong> uživatele"
 
 #: ./templates/default/admin/users.tpl.php
 msgid "Your site has <strong>%s</strong> users"
-msgstr ""
+msgstr "Váš web má <strong>%s</strong> uživatelů"
 
 #: ./templates/default/admin/users.tpl.php:45
 msgid "Invite new users"
