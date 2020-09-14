@@ -2128,11 +2128,11 @@ msgstr "Verzonden"
 
 #: ./templates/default/admin/users.tpl.php:140
 msgid "Resend"
-msgstr ""
+msgstr "Verzenden"
 
 #: ./templates/default/admin/users.tpl.php:140
 msgid "Are you sure? The user will receive a second email."
-msgstr ""
+msgstr "Weet je het zeker? De gebruiker ontvangt een tweede e-mail."
 
 #: ./templates/default/admin/users.tpl.php:145
 #: ./templates/default/entity/User/edit.tpl.php:81
