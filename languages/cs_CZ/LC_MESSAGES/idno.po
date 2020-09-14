@@ -2106,15 +2106,15 @@ msgstr "Odeslání pozvánky"
 #: ./templates/default/admin/users.tpl.php:95
 #: ./templates/default/following/add.tpl.php:5
 msgid "Add"
-msgstr ""
+msgstr "Pøidat"
 
 #: ./templates/default/admin/users.tpl.php:111
 msgid "Invitations"
-msgstr ""
+msgstr "Pozvánky"
 
 #: ./templates/default/admin/users.tpl.php:130
 msgid "Sent"
-msgstr ""
+msgstr "Odeslána"
 
 #: ./templates/default/admin/users.tpl.php:140
 msgid "Resend"
