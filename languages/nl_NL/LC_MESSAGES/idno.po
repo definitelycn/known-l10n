@@ -2116,15 +2116,15 @@ msgstr "Uitnodiging verzenden"
 #: ./templates/default/admin/users.tpl.php:95
 #: ./templates/default/following/add.tpl.php:5
 msgid "Add"
-msgstr ""
+msgstr "Toevoegen"
 
 #: ./templates/default/admin/users.tpl.php:111
 msgid "Invitations"
-msgstr ""
+msgstr "Uitnodigingen"
 
 #: ./templates/default/admin/users.tpl.php:130
 msgid "Sent"
-msgstr ""
+msgstr "Verzonden"
 
 #: ./templates/default/admin/users.tpl.php:140
 msgid "Resend"
