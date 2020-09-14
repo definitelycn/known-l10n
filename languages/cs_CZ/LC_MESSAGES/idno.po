@@ -2130,11 +2130,11 @@ msgstr "Opravdu? Uživatel obdrží druhý e-mail."
 #: ./templates/default/entity/User/edit.tpl.php:97
 #: ./templates/default/entity/User/edit.tpl.php:130
 msgid "Remove"
-msgstr ""
+msgstr "Odebrat"
 
 #: ./templates/default/admin/users.tpl.php:145
 msgid "Are you sure? The user won't be able to register."
-msgstr ""
+msgstr "Opravdu? Uživatel se nebude moci zaregistrovat."
 
 #: ./templates/default/admin/users.tpl.php:171
 #: ./templates/default/admin/users.tpl.php:180
