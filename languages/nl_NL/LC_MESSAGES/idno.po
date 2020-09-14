@@ -2148,7 +2148,7 @@ msgstr "Weet je het zeker? De gebruiker kan zich niet registreren."
 #: ./templates/default/admin/users.tpl.php:171
 #: ./templates/default/admin/users.tpl.php:180
 msgid "Block email addresses"
-msgstr ""
+msgstr "E-mailadressen blokkeren"
 
 #: ./templates/default/admin/users.tpl.php:174
 msgid ""
@@ -2156,10 +2156,13 @@ msgid ""
 "from registering on your site. Enter the email addresses you want to block "
 "below."
 msgstr ""
+"Door e-mailadressen te blokkeren, voorkomt u dat mensen die deze "
+"e-mailadressen gebruiken zich registreren op uw site. Voer hieronder de "
+"e-mailadressen in die u wilt blokkeren."
 
 #: ./templates/default/admin/users.tpl.php:196
 msgid "Blocked email addresses"
-msgstr ""
+msgstr "Geblokkeerde e-mailadressen"
 
 #: ./templates/default/admin/users.tpl.php:218
 msgid "Remove block"

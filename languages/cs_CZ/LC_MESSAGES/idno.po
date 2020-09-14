@@ -2139,7 +2139,7 @@ msgstr "Opravdu? Uživatel se nebude moci zaregistrovat."
 #: ./templates/default/admin/users.tpl.php:171
 #: ./templates/default/admin/users.tpl.php:180
 msgid "Block email addresses"
-msgstr ""
+msgstr "Blokování e-mailových adres"
 
 #: ./templates/default/admin/users.tpl.php:174
 msgid ""
@@ -2147,10 +2147,13 @@ msgid ""
 "from registering on your site. Enter the email addresses you want to block "
 "below."
 msgstr ""
+"Blokováním e-mailových adres zabráníte lidem, kteří používají tyto e-mailové "
+"adresy, aby se na vašem webu zaregistrovali. Níže zadejte e-mailové adresy, "
+"které chcete zablokovat."
 
 #: ./templates/default/admin/users.tpl.php:196
 msgid "Blocked email addresses"
-msgstr ""
+msgstr "Blokované e-mailové adresy"
 
 #: ./templates/default/admin/users.tpl.php:218
 msgid "Remove block"
