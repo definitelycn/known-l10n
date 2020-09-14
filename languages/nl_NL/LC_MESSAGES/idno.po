@@ -2092,24 +2092,26 @@ msgstr "gebruiker"
 
 #: ./templates/default/admin/users.tpl.php
 msgid "Your site has <strong>1</strong> user"
-msgstr ""
+msgstr "Uw site heeft <strong>1</strong> gebruiker"
 
 #: ./templates/default/admin/users.tpl.php
 msgid "Your site has <strong>%s</strong> users"
-msgstr ""
+msgstr "Uw site heeft <strong>%s</strong> gebruikers"
 
 #: ./templates/default/admin/users.tpl.php:45
 msgid "Invite new users"
-msgstr ""
+msgstr "Nieuwe gebruikers uitnodigen"
 
 #: ./templates/default/admin/users.tpl.php:48
 msgid ""
 "To invite new users to the site, enter one or more email addresses below."
 msgstr ""
+"Als u nieuwe gebruikers wilt uitnodigen voor de site, voert u hieronder "
+"een of meer e-mailadressen in."
 
 #: ./templates/default/admin/users.tpl.php:54
 msgid "Send invite"
-msgstr ""
+msgstr "Uitnodiging verzenden"
 
 #: ./templates/default/admin/users.tpl.php:95
 #: ./templates/default/following/add.tpl.php:5
