@@ -2166,12 +2166,12 @@ msgstr "Geblokkeerde e-mailadressen"
 
 #: ./templates/default/admin/users.tpl.php:218
 msgid "Remove block"
-msgstr ""
+msgstr "Blok verwijderen"
 
 #: ./templates/default/admin/users.tpl.php:218
 #: ./templates/default/forms/components/usersearch/user.tpl.php:86
 msgid "Are you sure? The user will be able to log in and post again."
-msgstr ""
+msgstr "Weet je het zeker? De gebruiker kan inloggen en opnieuw posten."
 
 #: ./templates/default/content/access.tpl.php:34
 msgid "Public"
