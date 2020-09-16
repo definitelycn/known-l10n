@@ -2157,12 +2157,12 @@ msgstr "Blokované e-mailové adresy"
 
 #: ./templates/default/admin/users.tpl.php:218
 msgid "Remove block"
-msgstr ""
+msgstr "Odebrat blok"
 
 #: ./templates/default/admin/users.tpl.php:218
 #: ./templates/default/forms/components/usersearch/user.tpl.php:86
 msgid "Are you sure? The user will be able to log in and post again."
-msgstr ""
+msgstr "Opravdu? Uživatel se bude moci přihlásit a znovu odeslat."
 
 #: ./templates/default/content/access.tpl.php:34
 msgid "Public"
