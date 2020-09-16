@@ -2175,15 +2175,15 @@ msgstr "Weet je het zeker? De gebruiker kan inloggen en opnieuw posten."
 
 #: ./templates/default/content/access.tpl.php:34
 msgid "Public"
-msgstr ""
+msgstr "Openbare"
 
 #: ./templates/default/content/access.tpl.php:36
 msgid "Members only"
-msgstr ""
+msgstr "Alleen leden"
 
 #: ./templates/default/content/access.tpl.php:38
 msgid "Private"
-msgstr ""
+msgstr "Privé"
 
 #: ./templates/default/content/annotation/edit.tpl.php:5
 #: ./templates/default/content/edit.tpl.php:9
