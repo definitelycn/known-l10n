@@ -2197,12 +2197,12 @@ msgstr "Bewerken"
 
 #: ./templates/default/content/edit.tpl.php:9
 msgid "Are you sure you want to permanently delete this entry?"
-msgstr ""
+msgstr "Weet u zeker dat u dit item permanent wilt verwijderen?"
 
 #: ./templates/default/content/end.tpl.php:26
 #: ./templates/default/content/feed/end.tpl.php:13
 msgid "published this"
-msgstr ""
+msgstr "publiceerde dit"
 
 #: ./templates/default/content/end.tpl.php:55
 msgid "Star this!"
