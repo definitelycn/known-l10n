@@ -2166,15 +2166,15 @@ msgstr "Opravdu? Uživatel se bude moci přihlásit a znovu odeslat."
 
 #: ./templates/default/content/access.tpl.php:34
 msgid "Public"
-msgstr ""
+msgstr "Veřejné"
 
 #: ./templates/default/content/access.tpl.php:36
 msgid "Members only"
-msgstr ""
+msgstr "Pouze členové"
 
 #: ./templates/default/content/access.tpl.php:38
 msgid "Private"
-msgstr ""
+msgstr "Soukromé"
 
 #: ./templates/default/content/annotation/edit.tpl.php:5
 #: ./templates/default/content/edit.tpl.php:9
