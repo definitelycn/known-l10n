@@ -2188,12 +2188,12 @@ msgstr "Upravit"
 
 #: ./templates/default/content/edit.tpl.php:9
 msgid "Are you sure you want to permanently delete this entry?"
-msgstr ""
+msgstr "Opravdu chcete trvale odstranit tuto položku?"
 
 #: ./templates/default/content/end.tpl.php:26
 #: ./templates/default/content/feed/end.tpl.php:13
 msgid "published this"
-msgstr ""
+msgstr "zveřejnil toto"
 
 #: ./templates/default/content/end.tpl.php:55
 msgid "Star this!"
