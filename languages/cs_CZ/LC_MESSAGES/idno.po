@@ -2197,17 +2197,17 @@ msgstr "zveřejnil toto"
 
 #: ./templates/default/content/end.tpl.php:55
 msgid "Star this!"
-msgstr ""
+msgstr "Hvězdou tohle!"
 
 #: ./templates/default/content/end.tpl.php:61
 #: ./templates/default/content/feed/end.tpl.php:28
 msgid "star"
-msgstr ""
+msgstr "hvězdička"
 
 #: ./templates/default/content/end.tpl.php:64
 #: ./templates/default/content/feed/end.tpl.php:30
 msgid "stars"
-msgstr ""
+msgstr "hvězdičky"
 
 #: ./templates/default/content/end.tpl.php:95
 #: ./templates/default/content/feed/end.tpl.php:48
