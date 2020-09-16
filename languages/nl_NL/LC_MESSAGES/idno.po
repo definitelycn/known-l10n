@@ -2189,11 +2189,11 @@ msgstr "Privé"
 #: ./templates/default/content/edit.tpl.php:9
 #: ./templates/default/forms/components/usersearch/user.tpl.php:90
 msgid "Delete"
-msgstr ""
+msgstr "Verwijderen"
 
 #: ./templates/default/content/edit.tpl.php:8
 msgid "Edit"
-msgstr ""
+msgstr "Bewerken"
 
 #: ./templates/default/content/edit.tpl.php:9
 msgid "Are you sure you want to permanently delete this entry?"
