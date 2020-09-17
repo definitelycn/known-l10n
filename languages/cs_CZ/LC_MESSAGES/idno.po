@@ -2212,16 +2212,16 @@ msgstr "hvězdičky"
 #: ./templates/default/content/end.tpl.php:95
 #: ./templates/default/content/feed/end.tpl.php:48
 msgid "comment"
-msgstr ""
+msgstr "komentář"
 
 #: ./templates/default/content/end.tpl.php:97
 #: ./templates/default/content/feed/end.tpl.php:50
 msgid "comments"
-msgstr ""
+msgstr "komentářů"
 
 #: ./templates/default/content/feed/end.tpl.php:106
 msgid "Also on"
-msgstr ""
+msgstr "Také na"
 
 #: ./templates/default/content/notification/like.tpl.php:5
 msgid "liked"
