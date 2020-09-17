@@ -2221,16 +2221,16 @@ msgstr "sterren"
 #: ./templates/default/content/end.tpl.php:95
 #: ./templates/default/content/feed/end.tpl.php:48
 msgid "comment"
-msgstr ""
+msgstr "opmerking"
 
 #: ./templates/default/content/end.tpl.php:97
 #: ./templates/default/content/feed/end.tpl.php:50
 msgid "comments"
-msgstr ""
+msgstr "opmerkingen"
 
 #: ./templates/default/content/feed/end.tpl.php:106
 msgid "Also on"
-msgstr ""
+msgstr "Ook op"
 
 #: ./templates/default/content/notification/like.tpl.php:5
 msgid "liked"
