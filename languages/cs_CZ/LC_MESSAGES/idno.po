@@ -2225,11 +2225,11 @@ msgstr "Také na"
 
 #: ./templates/default/content/notification/like.tpl.php:5
 msgid "liked"
-msgstr ""
+msgstr "se líbila"
 
 #: ./templates/default/content/notification/mention.tpl.php:5
 msgid "mentioned"
-msgstr ""
+msgstr "zmínila"
 
 #: ./templates/default/content/notification/reply.tpl.php:5
 msgid "replied to"
