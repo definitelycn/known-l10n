@@ -2241,11 +2241,12 @@ msgstr "Namítat"
 
 #: ./templates/default/content/notification/rsvp.tpl.php:5
 msgid "RSVPed to"
-msgstr ""
+msgstr "RSVPed na"
+# ?
 
 #: ./templates/default/content/notification/share.tpl.php:5
 msgid "shared"
-msgstr ""
+msgstr "sdílel(a)"
 
 #: ./templates/default/content/unfurl.tpl.php:11
 msgid "Refresh preview"
