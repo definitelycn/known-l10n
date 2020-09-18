@@ -2258,11 +2258,11 @@ msgstr "Odebrat náhled"
 
 #: ./templates/default/entity/annotations/comment/main.tpl.php:16
 msgid "Add a comment ..."
-msgstr ""
+msgstr "Přidat komentář ..."
 
 #: ./templates/default/entity/annotations/comment/main.tpl.php:21
 msgid "Leave Comment"
-msgstr ""
+msgstr "Zanechat komentář"
 
 #: ./templates/default/entity/annotations/likes.tpl.php:24
 msgid "liked this post"
