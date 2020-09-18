@@ -2250,11 +2250,12 @@ msgstr "Antwoord"
 
 #: ./templates/default/content/notification/rsvp.tpl.php:5
 msgid "RSVPed to"
-msgstr ""
+msgstr "RSVPed naar"
+# ?
 
 #: ./templates/default/content/notification/share.tpl.php:5
 msgid "shared"
-msgstr ""
+msgstr "heeft gedeeld"
 
 #: ./templates/default/content/unfurl.tpl.php:11
 msgid "Refresh preview"
