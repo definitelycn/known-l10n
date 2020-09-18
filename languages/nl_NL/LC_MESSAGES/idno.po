@@ -2234,11 +2234,11 @@ msgstr "Ook op"
 
 #: ./templates/default/content/notification/like.tpl.php:5
 msgid "liked"
-msgstr ""
+msgstr "vond het leuk"
 
 #: ./templates/default/content/notification/mention.tpl.php:5
 msgid "mentioned"
-msgstr ""
+msgstr "noemde"
 
 #: ./templates/default/content/notification/reply.tpl.php:5
 msgid "replied to"
