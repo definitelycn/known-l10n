@@ -2267,11 +2267,11 @@ msgstr "Voorbeeld verwijderen"
 
 #: ./templates/default/entity/annotations/comment/main.tpl.php:16
 msgid "Add a comment ..."
-msgstr ""
+msgstr "Voeg een opmerking toe ..."
 
 #: ./templates/default/entity/annotations/comment/main.tpl.php:21
 msgid "Leave Comment"
-msgstr ""
+msgstr "Commentaar achterlaten"
 
 #: ./templates/default/entity/annotations/likes.tpl.php:24
 msgid "liked this post"
