@@ -2275,7 +2275,7 @@ msgstr "Commentaar achterlaten"
 
 #: ./templates/default/entity/annotations/likes.tpl.php:24
 msgid "liked this post"
-msgstr ""
+msgstr "vond dit bericht leuk"
 
 #: ./templates/default/entity/annotations/mentions.tpl.php:18
 msgid "Mentioned in"

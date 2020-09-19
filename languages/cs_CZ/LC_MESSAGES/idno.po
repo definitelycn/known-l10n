@@ -2266,7 +2266,7 @@ msgstr "Zanechat komentář"
 
 #: ./templates/default/entity/annotations/likes.tpl.php:24
 msgid "liked this post"
-msgstr ""
+msgstr "se mi líbil tento příspěvek"
 
 #: ./templates/default/entity/annotations/mentions.tpl.php:18
 msgid "Mentioned in"
