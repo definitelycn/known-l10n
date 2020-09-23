@@ -2279,11 +2279,11 @@ msgstr "vond dit bericht leuk"
 
 #: ./templates/default/entity/annotations/mentions.tpl.php:18
 msgid "Mentioned in"
-msgstr ""
+msgstr "Vermeld in"
 
 #: ./templates/default/entity/annotations/rsvps.tpl.php:38
 msgid "Attending"
-msgstr ""
+msgstr "Bijwonen"
 
 #: ./templates/default/entity/annotations/rsvps.tpl.php:41
 msgid "Maybe attending"
