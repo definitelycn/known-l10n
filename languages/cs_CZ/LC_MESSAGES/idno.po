@@ -2278,15 +2278,15 @@ msgstr "Účast"
 
 #: ./templates/default/entity/annotations/rsvps.tpl.php:41
 msgid "Maybe attending"
-msgstr ""
+msgstr "Možná, že se účastní"
 
 #: ./templates/default/entity/annotations/rsvps.tpl.php:44
 msgid "Not attending"
-msgstr ""
+msgstr "Neúčastní"
 
 #: ./templates/default/entity/annotations/rsvps.tpl.php:47
 msgid "Other responses"
-msgstr ""
+msgstr "Další odpovědi"
 
 #: ./templates/default/entity/annotations/shares.tpl.php:21
 msgid "reshared this post"
