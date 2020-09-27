@@ -2287,15 +2287,15 @@ msgstr "Bijwonen"
 
 #: ./templates/default/entity/annotations/rsvps.tpl.php:41
 msgid "Maybe attending"
-msgstr ""
+msgstr "Misschien bijwonen"
 
 #: ./templates/default/entity/annotations/rsvps.tpl.php:44
 msgid "Not attending"
-msgstr ""
+msgstr "Niet aanwezig"
 
 #: ./templates/default/entity/annotations/rsvps.tpl.php:47
 msgid "Other responses"
-msgstr ""
+msgstr "Andere reacties"
 
 #: ./templates/default/entity/annotations/shares.tpl.php:21
 msgid "reshared this post"
