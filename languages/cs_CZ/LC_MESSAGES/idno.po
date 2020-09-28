@@ -2290,11 +2290,12 @@ msgstr "Další odpovědi"
 
 #: ./templates/default/entity/annotations/shares.tpl.php:21
 msgid "reshared this post"
-msgstr ""
+msgstr "sdílel(a) tento příspěvek"
+# shared this post
 
 #: ./templates/default/entity/search.tpl.php:18
 msgid "Nothing found."
-msgstr ""
+msgstr "Nic se nenašlo."
 
 #: ./templates/default/entity/share.tpl.php:9
 msgid "This content can't be shared right now."
