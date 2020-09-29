@@ -2308,7 +2308,7 @@ msgstr "Niets gevonden."
 
 #: ./templates/default/entity/share.tpl.php:9
 msgid "This content can't be shared right now."
-msgstr ""
+msgstr "Deze inhoud kan op dit moment niet worden gedeeld."
 
 #: ./templates/default/entity/User/edit.tpl.php:3
 msgid "Edit your profile"
