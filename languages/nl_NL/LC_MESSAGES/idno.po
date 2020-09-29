@@ -2299,11 +2299,12 @@ msgstr "Andere reacties"
 
 #: ./templates/default/entity/annotations/shares.tpl.php:21
 msgid "reshared this post"
-msgstr ""
+msgstr "opnieuw gedeeld dit bericht"
+# dit bericht opnieuw gedeeld
 
 #: ./templates/default/entity/search.tpl.php:18
 msgid "Nothing found."
-msgstr ""
+msgstr "Niets gevonden."
 
 #: ./templates/default/entity/share.tpl.php:9
 msgid "This content can't be shared right now."
