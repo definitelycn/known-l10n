@@ -2312,13 +2312,15 @@ msgstr "Deze inhoud kan op dit moment niet worden gedeeld."
 
 #: ./templates/default/entity/User/edit.tpl.php:3
 msgid "Edit your profile"
-msgstr ""
+msgstr "Je profiel bewerken"
 
 #: ./templates/default/entity/User/edit.tpl.php:6
 msgid ""
 "Your profile is how other users see you across the site. It's up to you how "
 "much or how little information you choose to provide."
 msgstr ""
+"Uw profiel is hoe andere gebruikers u op de site zien. Het is aan jou "
+"hoeveel of hoeveel informatie u kiest om te verstrekken."
 
 #: ./templates/default/entity/User/edit.tpl.php:23
 msgid "Select a user picture"
