@@ -2303,13 +2303,15 @@ msgstr "Tento obsah nelze nyní sdílet."
 
 #: ./templates/default/entity/User/edit.tpl.php:3
 msgid "Edit your profile"
-msgstr ""
+msgstr "Úprava profilu"
 
 #: ./templates/default/entity/User/edit.tpl.php:6
 msgid ""
 "Your profile is how other users see you across the site. It's up to you how "
 "much or how little information you choose to provide."
 msgstr ""
+"Váš profil je způsob, jakým vás ostatní uživatelé vidí na celém webu. "
+"Je jen na vás, kolik nebo jak málo informací se rozhodnete poskytnout."
 
 #: ./templates/default/entity/User/edit.tpl.php:23
 msgid "Select a user picture"
