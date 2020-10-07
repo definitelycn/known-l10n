@@ -2331,15 +2331,15 @@ msgstr "Další místa na webu, kde vás lidé mohou najít."
 
 #: ./templates/default/entity/User/edit.tpl.php:105
 msgid "Add more"
-msgstr ""
+msgstr "Přidat další"
 
 #: ./templates/default/entity/User/edit.tpl.php:112
 msgid "Cancel"
-msgstr ""
+msgstr "Zrušit"
 
 #: ./templates/default/entity/User/edit.tpl.php:113
 msgid "Save Changes"
-msgstr ""
+msgstr "Uložit změny"
 
 #: ./templates/default/entity/User.tpl.php:35
 msgid "Edit profile"
