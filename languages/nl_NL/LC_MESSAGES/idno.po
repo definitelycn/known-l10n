@@ -2332,11 +2332,11 @@ msgstr "Over jou"
 
 #: ./templates/default/entity/User/edit.tpl.php:59
 msgid "Your websites"
-msgstr ""
+msgstr "Uw websites"
 
 #: ./templates/default/entity/User/edit.tpl.php:60
 msgid "Other places on the web where people can find you."
-msgstr ""
+msgstr "Andere plaatsen op het web waar mensen je kunnen vinden."
 
 #: ./templates/default/entity/User/edit.tpl.php:105
 msgid "Add more"
