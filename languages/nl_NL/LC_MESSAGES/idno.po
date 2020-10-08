@@ -2340,15 +2340,15 @@ msgstr "Andere plaatsen op het web waar mensen je kunnen vinden."
 
 #: ./templates/default/entity/User/edit.tpl.php:105
 msgid "Add more"
-msgstr ""
+msgstr "Meer toevoegen"
 
 #: ./templates/default/entity/User/edit.tpl.php:112
 msgid "Cancel"
-msgstr ""
+msgstr "Annuleren"
 
 #: ./templates/default/entity/User/edit.tpl.php:113
 msgid "Save Changes"
-msgstr ""
+msgstr "Wijzigingen opslaan"
 
 #: ./templates/default/entity/User.tpl.php:35
 msgid "Edit profile"
