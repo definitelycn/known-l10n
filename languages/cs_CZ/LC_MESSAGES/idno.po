@@ -2343,17 +2343,19 @@ msgstr "Uložit změny"
 
 #: ./templates/default/entity/User.tpl.php:35
 msgid "Edit profile"
-msgstr ""
+msgstr "Upravit profil"
 
 #: ./templates/default/entity/User.tpl.php:61
 msgid ""
 "A profile helps you describe yourself to other people on the site and on the "
 "web. You haven't described yourself yet."
 msgstr ""
+"Profil vám pomůže popsat se ostatním lidem na webu a na webu. "
+"Ještě jsi se nepopsaly."
 
 #: ./templates/default/entity/User.tpl.php:62
 msgid "Click here to fill in your profile information."
-msgstr ""
+msgstr "Klikněte zde pro vyplnění informací o vašem profilu."
 
 #: ./templates/default/file/picker/image.tpl.php:19
 msgid "Select an image"
