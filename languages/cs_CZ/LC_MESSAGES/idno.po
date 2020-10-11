@@ -2359,15 +2359,15 @@ msgstr "Klikněte zde pro vyplnění informací o vašem profilu."
 
 #: ./templates/default/file/picker/image.tpl.php:19
 msgid "Select an image"
-msgstr ""
+msgstr "Výběr obrázku"
 
 #: ./templates/default/file/picker/image.tpl.php:29
 msgid "Upload this image"
-msgstr ""
+msgstr "Nahrát tento obrázek"
 
 #: ./templates/default/file/picker/image.tpl.php:49
 msgid "Choose a different image"
-msgstr ""
+msgstr "Výběr jiného obrázku"
 
 #: ./templates/default/following/add.tpl.php:3
 msgid "Add the address of a site to follow"
