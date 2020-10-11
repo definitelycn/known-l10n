@@ -2368,15 +2368,15 @@ msgstr "Klik hier om je profielgegevens in te vullen."
 
 #: ./templates/default/file/picker/image.tpl.php:19
 msgid "Select an image"
-msgstr ""
+msgstr "Een afbeelding selecteren"
 
 #: ./templates/default/file/picker/image.tpl.php:29
 msgid "Upload this image"
-msgstr ""
+msgstr "Deze afbeelding uploaden"
 
 #: ./templates/default/file/picker/image.tpl.php:49
 msgid "Choose a different image"
-msgstr ""
+msgstr "Een andere afbeelding kiezen"
 
 #: ./templates/default/following/add.tpl.php:3
 msgid "Add the address of a site to follow"
