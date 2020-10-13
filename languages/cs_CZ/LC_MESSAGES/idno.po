@@ -2371,15 +2371,15 @@ msgstr "Výběr jiného obrázku"
 
 #: ./templates/default/following/add.tpl.php:3
 msgid "Add the address of a site to follow"
-msgstr ""
+msgstr "Přidání adresy webu, který chcete sledovat"
 
 #: ./templates/default/following/confirm.tpl.php:7
 msgid "Follow"
-msgstr ""
+msgstr "Sledovat"
 
 #: ./templates/default/following/confirm.tpl.php:12
 msgid "Here's the latest content."
-msgstr ""
+msgstr "Zde je nejnovější obsah."
 
 #: ./templates/default/following/home.tpl.php:13
 msgid "Follow another site"
