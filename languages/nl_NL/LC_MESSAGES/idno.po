@@ -2380,15 +2380,15 @@ msgstr "Een andere afbeelding kiezen"
 
 #: ./templates/default/following/add.tpl.php:3
 msgid "Add the address of a site to follow"
-msgstr ""
+msgstr "Het adres van een gevolgde site toevoegen"
 
 #: ./templates/default/following/confirm.tpl.php:7
 msgid "Follow"
-msgstr ""
+msgstr "Volgen"
 
 #: ./templates/default/following/confirm.tpl.php:12
 msgid "Here's the latest content."
-msgstr ""
+msgstr "Hier is de nieuwste inhoud."
 
 #: ./templates/default/following/home.tpl.php:13
 msgid "Follow another site"
