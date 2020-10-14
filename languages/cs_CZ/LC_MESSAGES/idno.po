@@ -2383,11 +2383,11 @@ msgstr "Zde je nejnovější obsah."
 
 #: ./templates/default/following/home.tpl.php:13
 msgid "Follow another site"
-msgstr ""
+msgstr "Sledování jiného webu"
 
 #: ./templates/default/following/home.tpl.php:31
 msgid "You're not following anyone yet."
-msgstr ""
+msgstr "Ještě nikoho neslleduješ."
 
 #: ./templates/default/forms/components/usersearch/user.tpl.php:27
 msgid "Joined"
