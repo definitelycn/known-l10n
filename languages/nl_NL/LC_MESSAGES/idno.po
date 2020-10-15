@@ -2392,11 +2392,11 @@ msgstr "Hier is de nieuwste inhoud."
 
 #: ./templates/default/following/home.tpl.php:13
 msgid "Follow another site"
-msgstr ""
+msgstr "Een andere site volgen"
 
 #: ./templates/default/following/home.tpl.php:31
 msgid "You're not following anyone yet."
-msgstr ""
+msgstr "Je volgt nog niemand."
 
 #: ./templates/default/forms/components/usersearch/user.tpl.php:27
 msgid "Joined"
