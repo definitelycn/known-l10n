@@ -2391,15 +2391,15 @@ msgstr "Ještě nikoho neslleduješ."
 
 #: ./templates/default/forms/components/usersearch/user.tpl.php:27
 msgid "Joined"
-msgstr ""
+msgstr "Připojil"
 
 #: ./templates/default/forms/components/usersearch/user.tpl.php:35
 msgid "Last update posted"
-msgstr ""
+msgstr "Poslední zaúčtovaná aktualizace"
 
 #: ./templates/default/forms/components/usersearch/user.tpl.php:57
 msgid "Remote member"
-msgstr ""
+msgstr "Vzdálený člen"
 
 #: ./templates/default/forms/components/usersearch/user.tpl.php:62
 msgid "Administrator"
