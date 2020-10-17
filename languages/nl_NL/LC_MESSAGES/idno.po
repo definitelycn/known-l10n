@@ -2400,15 +2400,15 @@ msgstr "Je volgt nog niemand."
 
 #: ./templates/default/forms/components/usersearch/user.tpl.php:27
 msgid "Joined"
-msgstr ""
+msgstr "Toegetreden"
 
 #: ./templates/default/forms/components/usersearch/user.tpl.php:35
 msgid "Last update posted"
-msgstr ""
+msgstr "Laatste update geplaatst"
 
 #: ./templates/default/forms/components/usersearch/user.tpl.php:57
 msgid "Remote member"
-msgstr ""
+msgstr "Extern lid"
 
 #: ./templates/default/forms/components/usersearch/user.tpl.php:62
 msgid "Administrator"
