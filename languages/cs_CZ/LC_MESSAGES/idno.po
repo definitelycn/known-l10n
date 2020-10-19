@@ -2411,11 +2411,11 @@ msgstr "Odebrání práv"
 
 #: ./templates/default/forms/components/usersearch/user.tpl.php:71
 msgid "Standard member"
-msgstr ""
+msgstr "Standardní člen"
 
 #: ./templates/default/forms/components/usersearch/user.tpl.php:72
 msgid "Make admin"
-msgstr ""
+msgstr "Vytvořit správce"
 
 #: ./templates/default/forms/components/usersearch/user.tpl.php:86
 msgid "Clear"
