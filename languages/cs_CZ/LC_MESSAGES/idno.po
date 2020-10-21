@@ -2419,11 +2419,11 @@ msgstr "Vytvořit správce"
 
 #: ./templates/default/forms/components/usersearch/user.tpl.php:86
 msgid "Clear"
-msgstr ""
+msgstr "Vymazat"
 
 #: ./templates/default/forms/components/usersearch/user.tpl.php:88
 msgid "Block"
-msgstr ""
+msgstr "Blokovat"
 
 #: ./templates/default/forms/components/usersearch/user.tpl.php:88
 msgid ""
