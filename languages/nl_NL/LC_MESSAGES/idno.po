@@ -2428,11 +2428,11 @@ msgstr "Beheerder maken"
 
 #: ./templates/default/forms/components/usersearch/user.tpl.php:86
 msgid "Clear"
-msgstr ""
+msgstr "Wissen"
 
 #: ./templates/default/forms/components/usersearch/user.tpl.php:88
 msgid "Block"
-msgstr ""
+msgstr "Blokkeren"
 
 #: ./templates/default/forms/components/usersearch/user.tpl.php:88
 msgid ""
