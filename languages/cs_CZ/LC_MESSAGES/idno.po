@@ -2430,10 +2430,11 @@ msgid ""
 "Are you sure? The user will be logged out and will no longer be able to log "
 "in or post."
 msgstr ""
+"Opravdu? Uživatel bude odhlášen a již se nebude moci přihlásit ani odeslat."
 
 #: ./templates/default/forms/components/usersearch/user.tpl.php:90
 msgid "Are you sure? This will delete this user and all their content."
-msgstr ""
+msgstr "Opravdu? Tím odstraníte tohoto uživatele a veškerý jeho obsah."
 
 #: ./templates/default/forms/input/image-file.tpl.php:58
 msgid "Are you sure you want to permanently delete this?"
