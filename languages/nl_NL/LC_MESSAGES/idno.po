@@ -2439,10 +2439,12 @@ msgid ""
 "Are you sure? The user will be logged out and will no longer be able to log "
 "in or post."
 msgstr ""
+"Weet je het zeker? De gebruiker wordt uitgelogd en kan niet meer "
+"inloggen of posten."
 
 #: ./templates/default/forms/components/usersearch/user.tpl.php:90
 msgid "Are you sure? This will delete this user and all their content."
-msgstr ""
+msgstr "Weet je het zeker? Dit zal deze gebruiker en al hun inhoud verwijderen."
 
 #: ./templates/default/forms/input/image-file.tpl.php:58
 msgid "Are you sure you want to permanently delete this?"
