@@ -2438,13 +2438,13 @@ msgstr "Opravdu? Tím odstraníte tohoto uživatele a veškerý jeho obsah."
 
 #: ./templates/default/forms/input/image-file.tpl.php:58
 msgid "Are you sure you want to permanently delete this?"
-msgstr ""
+msgstr "Opravdu chcete tuto možnost trvale odstranit?"
 
 #: ./templates/default/forms/input/image-file.tpl.php:75
 #: ./templates/default/forms/input/image-file.tpl.php:81
 #: ./templates/default/onboarding/profile.tpl.php:65
 msgid "Choose different photo"
-msgstr ""
+msgstr "Výběr jiné fotografie"
 
 #: ./templates/default/forms/input/image-file.tpl.php:78
 msgid "Select a photo"
