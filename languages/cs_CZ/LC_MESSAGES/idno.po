@@ -2448,11 +2448,11 @@ msgstr "Výběr jiné fotografie"
 
 #: ./templates/default/forms/input/image-file.tpl.php:78
 msgid "Select a photo"
-msgstr ""
+msgstr "Výběr fotografie"
 
 #: ./templates/default/forms/input/image-file.tpl.php:83
 msgid "Add photo"
-msgstr ""
+msgstr "Přidat fotku"
 
 #: ./templates/default/forms/input/longtext.tpl.php:21
 #: ./templates/default/forms/input/richtext.tpl.php:21
