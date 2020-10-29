@@ -2458,11 +2458,11 @@ msgstr "Kies een andere foto"
 
 #: ./templates/default/forms/input/image-file.tpl.php:78
 msgid "Select a photo"
-msgstr ""
+msgstr "Een foto selecteren"
 
 #: ./templates/default/forms/input/image-file.tpl.php:83
 msgid "Add photo"
-msgstr ""
+msgstr "Foto toevoegen"
 
 #: ./templates/default/forms/input/longtext.tpl.php:21
 #: ./templates/default/forms/input/richtext.tpl.php:21
