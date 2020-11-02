@@ -2475,7 +2475,7 @@ msgstr "Vul dit veld in."
 
 #: ./templates/default/forms/usersearch.tpl.php:24
 msgid "Search by name, email address, or username"
-msgstr ""
+msgstr "Zoeken op naam, e-mailadres of gebruikersnaam"
 
 #: ./templates/default/forms/usersearch.tpl.php:79
 msgid "By creation date"
