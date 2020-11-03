@@ -2469,11 +2469,11 @@ msgstr "Hledání podle jména, e-mailové adresy nebo uživatelského jména"
 
 #: ./templates/default/forms/usersearch.tpl.php:79
 msgid "By creation date"
-msgstr ""
+msgstr "Podle data vytvoření"
 
 #: ./templates/default/forms/usersearch.tpl.php:80
 msgid "By name"
-msgstr ""
+msgstr "Podle názvu"
 
 #: ./templates/default/forms/usersearch.tpl.php:89
 msgid "Ascending"
