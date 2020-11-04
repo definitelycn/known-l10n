@@ -2477,11 +2477,11 @@ msgstr "Podle názvu"
 
 #: ./templates/default/forms/usersearch.tpl.php:89
 msgid "Ascending"
-msgstr ""
+msgstr "Vzestupně"
 
 #: ./templates/default/forms/usersearch.tpl.php:90
 msgid "Descending"
-msgstr ""
+msgstr "Sestupném"
 
 #: ./templates/default/forms/usersearch.tpl.php:102
 msgid "Prev"
