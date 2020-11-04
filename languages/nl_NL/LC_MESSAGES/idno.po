@@ -2479,11 +2479,11 @@ msgstr "Zoeken op naam, e-mailadres of gebruikersnaam"
 
 #: ./templates/default/forms/usersearch.tpl.php:79
 msgid "By creation date"
-msgstr ""
+msgstr "Op aanmaakdatum"
 
 #: ./templates/default/forms/usersearch.tpl.php:80
 msgid "By name"
-msgstr ""
+msgstr "Op naam"
 
 #: ./templates/default/forms/usersearch.tpl.php:89
 msgid "Ascending"
