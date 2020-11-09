@@ -2495,11 +2495,11 @@ msgstr "Aflopende"
 
 #: ./templates/default/forms/usersearch.tpl.php:102
 msgid "Prev"
-msgstr ""
+msgstr "Vorige"
 
 #: ./templates/default/forms/usersearch.tpl.php:103
 msgid "Next"
-msgstr ""
+msgstr "Volgende"
 
 #: ./templates/default/onboarding/begin.tpl.php:8
 msgid "Known is your space for sharing content and discussing ideas."
