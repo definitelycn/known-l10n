@@ -2504,10 +2504,11 @@ msgstr "Volgende"
 #: ./templates/default/onboarding/begin.tpl.php:8
 msgid "Known is your space for sharing content and discussing ideas."
 msgstr ""
+"Known is uw ruimte voor het delen van inhoud en het bespreken van ideeën."
 
 #: ./templates/default/onboarding/begin.tpl.php:13
 msgid "Take a picture"
-msgstr ""
+msgstr "Maak een foto"
 
 #: ./templates/default/onboarding/begin.tpl.php:17
 msgid "Share a message"
