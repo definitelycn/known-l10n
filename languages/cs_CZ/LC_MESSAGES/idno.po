@@ -2493,11 +2493,11 @@ msgstr "Další"
 
 #: ./templates/default/onboarding/begin.tpl.php:8
 msgid "Known is your space for sharing content and discussing ideas."
-msgstr ""
+msgstr "Known je váš prostor pro sdílení obsahu a diskusi o nápadech."
 
 #: ./templates/default/onboarding/begin.tpl.php:13
 msgid "Take a picture"
-msgstr ""
+msgstr "Pořízení snímku"
 
 #: ./templates/default/onboarding/begin.tpl.php:17
 msgid "Share a message"
