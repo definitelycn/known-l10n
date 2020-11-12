@@ -2501,11 +2501,11 @@ msgstr "Pořízení snímku"
 
 #: ./templates/default/onboarding/begin.tpl.php:17
 msgid "Share a message"
-msgstr ""
+msgstr "Sdílení zprávy"
 
 #: ./templates/default/onboarding/begin.tpl.php:21
 msgid "Save your location"
-msgstr ""
+msgstr "Uložení polohy"
 
 #: ./templates/default/onboarding/begin.tpl.php:34
 msgid "Get started"
