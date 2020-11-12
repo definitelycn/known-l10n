@@ -2512,11 +2512,11 @@ msgstr "Maak een foto"
 
 #: ./templates/default/onboarding/begin.tpl.php:17
 msgid "Share a message"
-msgstr ""
+msgstr "Een bericht delen"
 
 #: ./templates/default/onboarding/begin.tpl.php:21
 msgid "Save your location"
-msgstr ""
+msgstr "Uw locatie opslaan"
 
 #: ./templates/default/onboarding/begin.tpl.php:34
 msgid "Get started"
