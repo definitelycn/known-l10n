@@ -2520,11 +2520,11 @@ msgstr "Uw locatie opslaan"
 
 #: ./templates/default/onboarding/begin.tpl.php:34
 msgid "Get started"
-msgstr ""
+msgstr "Introductie"
 
 #: ./templates/default/onboarding/begin.tpl.php:42
 msgid "Already have an account? Sign in."
-msgstr ""
+msgstr "Heb je al een account? Aanmelden."
 
 #: ./templates/default/onboarding/connect.tpl.php:3
 msgid "Share to social"
