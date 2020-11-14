@@ -2509,11 +2509,11 @@ msgstr "Uložení polohy"
 
 #: ./templates/default/onboarding/begin.tpl.php:34
 msgid "Get started"
-msgstr ""
+msgstr "Začínáme"
 
 #: ./templates/default/onboarding/begin.tpl.php:42
 msgid "Already have an account? Sign in."
-msgstr ""
+msgstr "Už máte účet? Přihlásit se."
 
 #: ./templates/default/onboarding/connect.tpl.php:3
 msgid "Share to social"
