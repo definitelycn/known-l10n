@@ -2528,12 +2528,13 @@ msgstr "Heb je al een account? Aanmelden."
 
 #: ./templates/default/onboarding/connect.tpl.php:3
 msgid "Share to social"
-msgstr ""
+msgstr "Delen met sociale"
 
 #: ./templates/default/onboarding/connect.tpl.php:6
 msgid ""
 "Connect your accounts to easily share content with people across the web."
 msgstr ""
+"Verbind uw accounts om eenvoudig inhoud te delen met mensen op het web."
 
 #: ./templates/default/onboarding/connect.tpl.php:14
 msgid "Continue"
