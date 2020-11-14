@@ -2517,12 +2517,12 @@ msgstr "Už máte účet? Přihlásit se."
 
 #: ./templates/default/onboarding/connect.tpl.php:3
 msgid "Share to social"
-msgstr ""
+msgstr "Podíl na sociální"
 
 #: ./templates/default/onboarding/connect.tpl.php:6
 msgid ""
 "Connect your accounts to easily share content with people across the web."
-msgstr ""
+msgstr "Propojte své účty a snadno sdílejte obsah s lidmi na webu."
 
 #: ./templates/default/onboarding/connect.tpl.php:14
 msgid "Continue"
