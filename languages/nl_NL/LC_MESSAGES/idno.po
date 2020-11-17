@@ -2538,11 +2538,11 @@ msgstr ""
 
 #: ./templates/default/onboarding/connect.tpl.php:14
 msgid "Continue"
-msgstr ""
+msgstr "Doorgaan"
 
 #: ./templates/default/onboarding/connect.tpl.php:19
 msgid "Don't worry, you can always connect these later."
-msgstr ""
+msgstr "Maak je geen zorgen, je deze altijd later aansluiten."
 
 #: ./templates/default/onboarding/profile.tpl.php:16
 msgid "Add a photo of yourself"
