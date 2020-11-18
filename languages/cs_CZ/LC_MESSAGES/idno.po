@@ -2534,11 +2534,11 @@ msgstr "Nebojte se, můžete je připojit později."
 
 #: ./templates/default/onboarding/profile.tpl.php:16
 msgid "Add a photo of yourself"
-msgstr ""
+msgstr "Přidání své fotky"
 
 #: ./templates/default/onboarding/profile.tpl.php:23
 msgid "Ben Franklin"
-msgstr ""
+msgstr "Karel Čapek"
 
 #: ./templates/default/onboarding/profile.tpl.php:27
 msgid "Your short bio"
