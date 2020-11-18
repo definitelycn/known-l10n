@@ -2546,11 +2546,11 @@ msgstr "Maak je geen zorgen, je deze altijd later aansluiten."
 
 #: ./templates/default/onboarding/profile.tpl.php:16
 msgid "Add a photo of yourself"
-msgstr ""
+msgstr "Voeg een foto van jezelf toe"
 
 #: ./templates/default/onboarding/profile.tpl.php:23
 msgid "Ben Franklin"
-msgstr ""
+msgstr "Antonie van Leeuwenhoek"
 
 #: ./templates/default/onboarding/profile.tpl.php:27
 msgid "Your short bio"
