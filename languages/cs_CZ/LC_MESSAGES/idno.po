@@ -2551,11 +2551,11 @@ msgstr "Vynalezl jsem roboty"
 
 #: ./templates/default/onboarding/profile.tpl.php:34
 msgid "Your other websites"
-msgstr ""
+msgstr "Vaše další webové stránky"
 
 #: ./templates/default/onboarding/profile.tpl.php:35
 msgid "(a blog, a portfolio, Twitter, Facebook, etc)"
-msgstr ""
+msgstr "(blog, portfolio, Twitter, Facebook, atd.)"
 
 #: ./templates/default/onboarding/profile.tpl.php:40
 msgid "Add another website"
