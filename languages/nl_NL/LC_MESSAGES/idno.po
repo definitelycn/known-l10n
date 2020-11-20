@@ -2554,11 +2554,12 @@ msgstr "Antonie van Leeuwenhoek"
 
 #: ./templates/default/onboarding/profile.tpl.php:27
 msgid "Your short bio"
-msgstr ""
+msgstr "Uw korte bio"
 
 #: ./templates/default/onboarding/profile.tpl.php:29
 msgid "I fly kites..."
-msgstr ""
+msgstr "Ik maak lenzen ..."
+// I make lenses…
 
 #: ./templates/default/onboarding/profile.tpl.php:34
 msgid "Your other websites"
