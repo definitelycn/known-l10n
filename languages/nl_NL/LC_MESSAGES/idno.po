@@ -2563,11 +2563,11 @@ msgstr "Ik maak lenzen ..."
 
 #: ./templates/default/onboarding/profile.tpl.php:34
 msgid "Your other websites"
-msgstr ""
+msgstr "Uw andere websites"
 
 #: ./templates/default/onboarding/profile.tpl.php:35
 msgid "(a blog, a portfolio, Twitter, Facebook, etc)"
-msgstr ""
+msgstr "(een blog, een portfolio, Twitter, Facebook, etc)"
 
 #: ./templates/default/onboarding/profile.tpl.php:40
 msgid "Add another website"
