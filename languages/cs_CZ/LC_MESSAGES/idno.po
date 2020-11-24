@@ -2559,11 +2559,11 @@ msgstr "(blog, portfolio, Twitter, Facebook, atd.)"
 
 #: ./templates/default/onboarding/profile.tpl.php:40
 msgid "Add another website"
-msgstr ""
+msgstr "Přidání dalšího webu"
 
 #: ./templates/default/onboarding/register.tpl.php:13
 msgid "Choose a username"
-msgstr ""
+msgstr "Zvolte uživatelské jméno"
 
 #: ./templates/default/onboarding/register.tpl.php:26
 msgid "(at least 7 characters please)"
