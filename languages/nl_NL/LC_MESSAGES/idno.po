@@ -2571,11 +2571,11 @@ msgstr "(een blog, een portfolio, Twitter, Facebook, etc)"
 
 #: ./templates/default/onboarding/profile.tpl.php:40
 msgid "Add another website"
-msgstr ""
+msgstr "Een andere website toevoegen"
 
 #: ./templates/default/onboarding/register.tpl.php:13
 msgid "Choose a username"
-msgstr ""
+msgstr "Een gebruikersnaam kiezen"
 
 #: ./templates/default/onboarding/register.tpl.php:26
 msgid "(at least 7 characters please)"
