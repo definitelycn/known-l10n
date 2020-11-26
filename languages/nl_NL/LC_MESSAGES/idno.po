@@ -2583,11 +2583,11 @@ msgstr "(ten minste 7 tekens alstublieft)"
 
 #: ./templates/default/pages/403.tpl.php:7
 msgid "Click here to log in."
-msgstr ""
+msgstr "Klik hier om in te loggen."
 
 #: ./templates/default/pages/403.tpl.php:18
 msgid "Hold on. You don't have access to this content."
-msgstr ""
+msgstr "Wacht even. Je hebt geen toegang tot deze inhoud."
 
 #: ./templates/default/pages/403.tpl.php:20
 msgid ""
