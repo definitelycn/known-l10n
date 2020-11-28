@@ -2594,10 +2594,13 @@ msgid ""
 "It's nothing personal. You just don't have the right permissions to see "
 "what's here."
 msgstr ""
+"Het is niets persoonlijks. Je hebt gewoon niet de juiste machtigingen om "
+"te zien wat hier is."
 
 #: ./templates/default/pages/403.tpl.php:22
 msgid "Find something else to view on the <a href=\"%s\">%s homepage</a>."
 msgstr ""
+"Zoek iets anders om te bekijken op de <a href=\"%s\">startpagina van %s</a>."
 
 #: ./templates/default/pages/404.tpl.php:5
 msgid "Oops! We couldn't find it."
