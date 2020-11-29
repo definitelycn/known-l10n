@@ -18,7 +18,7 @@ msgstr "bIHvaD QaghtaHvIS DaH 'e' Qaw'be'chugh"
 
 #: Idno/Core/Session.php:136
 msgid "Session funnybusiness: "
-msgstr ""
+msgstr "jatlh qabDaj jatlh. "
 
 #: Idno/Core/Session.php:509
 msgid ""
