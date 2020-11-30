@@ -2606,10 +2606,12 @@ msgid ""
 "Maybe you'll find something interesting if you head back to the <a "
 "href=\"%s\">%s homepage</a>."
 msgstr ""
+"Možná najdete něco zajímavého, pokud se vrátíte na <a "
+"href=\"%s\">domovskou stránku %s</a>."
 
 #: ./templates/default/pages/410.tpl.php:6
 msgid "Sorry, this content isn't here anymore."
-msgstr ""
+msgstr "Je nám líto, ale tento obsah už tu není."
 
 #: ./templates/default/pages/410.tpl.php:8
 msgid ""
