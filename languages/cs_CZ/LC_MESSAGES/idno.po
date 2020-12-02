@@ -2617,11 +2617,14 @@ msgstr "Je nám líto, ale tento obsah už tu není."
 msgid ""
 "You may be wondering where it went, but we can't tell you. It's a secret."
 msgstr ""
+"Možná se divíte, kam se poděla, ale nemůžeme vám to říct. Je to tajemství."
 
 #: ./templates/default/pages/410.tpl.php:10
 msgid ""
 "Maybe you'd like to head back to the <a href=\"%s\">%s homepage</a> instead."
 msgstr ""
+"Možná byste se chtěli vrátit na <a href=\"%s\">domovskou stránku %s</a> "
+"místo toho."
 
 #: ./templates/default/pages/500.tpl.php:15
 msgid ""
