@@ -2632,11 +2632,14 @@ msgstr "Deze inhoud is er niet meer."
 msgid ""
 "You may be wondering where it went, but we can't tell you. It's a secret."
 msgstr ""
+"Je vraagt je misschien af waar het heen ging, maar we kunnen het je niet "
+"vertellen. Het is een geheim."
 
 #: ./templates/default/pages/410.tpl.php:10
 msgid ""
 "Maybe you'd like to head back to the <a href=\"%s\">%s homepage</a> instead."
 msgstr ""
+"Misschien wilt u terug naar de <a href=\"%s\">%s homepage</a> plaats."
 
 #: ./templates/default/pages/500.tpl.php:15
 msgid ""
