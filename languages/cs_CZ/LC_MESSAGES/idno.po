@@ -2631,18 +2631,21 @@ msgid ""
 "<a href=\"#\" onclick=\"window.history.back();\">Click here to try again</a> "
 "or <a href=\"%s\">click here to go back to the homepage</a>."
 msgstr ""
+"<a href=\"#\" onclick=\"window.history.back();\">Chcete-li akci zopakovat, "
+"klepněte sem</a> nebo <a href=\"%s\">klikněte zde pro návrat na domovskou "
+"stránku</a>."
 
 #: ./templates/default/pages/500.tpl.php:19
 msgid "Click here to see the technical details."
-msgstr ""
+msgstr "Klikněte zde pro zobrazení technických podrobností."
 
 #: ./templates/default/pages/500.tpl.php:32
 msgid "Oh no! Something went wrong."
-msgstr ""
+msgstr "Ale ne! Něco se pokazilo."
 
 #: ./templates/default/pages/home/nocontent.tpl.php:10
 msgid "We couldn't find anything that matches your search."
-msgstr ""
+msgstr "Nenašli jsme nic, co by odpovídalo vašemu hledání."
 
 #: ./templates/default/robot/post.tpl.php:19
 msgid "Power down robots. I can take it from here."
