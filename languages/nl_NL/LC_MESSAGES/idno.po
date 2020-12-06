@@ -2646,18 +2646,21 @@ msgid ""
 "<a href=\"#\" onclick=\"window.history.back();\">Click here to try again</a> "
 "or <a href=\"%s\">click here to go back to the homepage</a>."
 msgstr ""
+"<a href=\"#\" onclick=\"window.history.back();\">Klik hier om het opnieuw "
+"te proberen</a> of <a href=\"%s\">klik hier om terug te gaan naar de "
+"homepage</a>."
 
 #: ./templates/default/pages/500.tpl.php:19
 msgid "Click here to see the technical details."
-msgstr ""
+msgstr "Klik hier om de technische details te bekijken."
 
 #: ./templates/default/pages/500.tpl.php:32
 msgid "Oh no! Something went wrong."
-msgstr ""
+msgstr "Oh nee! Er ging iets mis."
 
 #: ./templates/default/pages/home/nocontent.tpl.php:10
 msgid "We couldn't find anything that matches your search."
-msgstr ""
+msgstr "We konden niets vinden dat overeenkomt met uw zoekopdracht."
 
 #: ./templates/default/robot/post.tpl.php:19
 msgid "Power down robots. I can take it from here."
