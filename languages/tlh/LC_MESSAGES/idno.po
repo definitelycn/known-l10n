@@ -25,6 +25,8 @@ msgid ""
 "Warning: Access credentials were sent over a non-secured connection! To "
 "disable this warning set disable_cleartext_warning in your config.ini"
 msgstr ""
+"ghob: Qu'vatlh, ghu'vammo' ghu' jay'! disable_cleartext_warning wanI'vam "
+"dajatlhmoHmeH bIghoSnISmoH."
 
 #: Idno/Core/Email.php:16
 msgid "Something went wrong and we couldn't create the email message to send."
