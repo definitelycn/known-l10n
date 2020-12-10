@@ -2649,11 +2649,11 @@ msgstr "Nenašli jsme nic, co by odpovídalo vašemu hledání."
 
 #: ./templates/default/robot/post.tpl.php:19
 msgid "Power down robots. I can take it from here."
-msgstr ""
+msgstr "Vypněte roboty. Už to zvládnu."
 
 #: ./templates/default/robot/wizard.tpl.php:7
 msgid "Check out my new @withknown site!"
-msgstr ""
+msgstr "Podívejte se na můj nový @withknown stránky!"
 
 #: ./templates/default/robot/wizard.tpl.php:9
 msgid ""
