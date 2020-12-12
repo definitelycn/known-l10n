@@ -2664,11 +2664,11 @@ msgstr "We konden niets vinden dat overeenkomt met uw zoekopdracht."
 
 #: ./templates/default/robot/post.tpl.php:19
 msgid "Power down robots. I can take it from here."
-msgstr ""
+msgstr "Zet robots uit. Ik kan het vanaf hier wel aan."
 
 #: ./templates/default/robot/wizard.tpl.php:7
 msgid "Check out my new @withknown site!"
-msgstr ""
+msgstr "Bekijk mijn nieuwe @withknown site!"
 
 #: ./templates/default/robot/wizard.tpl.php:9
 msgid ""
